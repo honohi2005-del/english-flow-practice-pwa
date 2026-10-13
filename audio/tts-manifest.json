@@ -1,0 +1,1810 @@
+{
+  "version": 1,
+  "voice": "Google Translate English (en-US)",
+  "language": "en-US",
+  "rate": "default",
+  "pitch": "default",
+  "generatedAt": "2026-10-13T23:17:13.836Z",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "I teach Japanese.",
+      "file": "./audio/tts/google-en-US/001.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 2,
+      "text": "I work as a Japanese teacher.",
+      "file": "./audio/tts/google-en-US/002.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 3,
+      "text": "I teach adult learners.",
+      "file": "./audio/tts/google-en-US/003.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 4,
+      "text": "I have been teaching Japanese for many years.",
+      "file": "./audio/tts/google-en-US/004.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 5,
+      "text": "I work with learners from different backgrounds.",
+      "file": "./audio/tts/google-en-US/005.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 6,
+      "text": "I enjoy helping people communicate in Japanese.",
+      "file": "./audio/tts/google-en-US/006.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 7,
+      "text": "I’m interested in how languages shape the way we think.",
+      "file": "./audio/tts/google-en-US/007.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 8,
+      "text": "I often compare Japanese and English.",
+      "file": "./audio/tts/google-en-US/008.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 9,
+      "text": "I want my students to feel comfortable using Japanese.",
+      "file": "./audio/tts/google-en-US/009.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 10,
+      "text": "I try to explain difficult ideas in simple Japanese.",
+      "file": "./audio/tts/google-en-US/010.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 11,
+      "text": "I’m learning English to communicate more clearly.",
+      "file": "./audio/tts/google-en-US/011.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 12,
+      "text": "I use English for conversation practice.",
+      "file": "./audio/tts/google-en-US/012.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 13,
+      "text": "I take online English lessons regularly.",
+      "file": "./audio/tts/google-en-US/013.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 14,
+      "text": "I want to become more confident when I speak English.",
+      "file": "./audio/tts/google-en-US/014.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 15,
+      "text": "I sometimes need more time to organize my thoughts.",
+      "file": "./audio/tts/google-en-US/015.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 16,
+      "text": "I understand more than I can say quickly.",
+      "file": "./audio/tts/google-en-US/016.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 17,
+      "text": "I’m practicing how to explain my opinions.",
+      "file": "./audio/tts/google-en-US/017.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 18,
+      "text": "I want to speak in longer, clearer answers.",
+      "file": "./audio/tts/google-en-US/018.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 19,
+      "text": "I’m trying to use more natural expressions.",
+      "file": "./audio/tts/google-en-US/019.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 20,
+      "text": "I want to communicate without translating every sentence.",
+      "file": "./audio/tts/google-en-US/020.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 21,
+      "text": "I like lessons that include real conversation.",
+      "file": "./audio/tts/google-en-US/021.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 22,
+      "text": "I learn a lot from follow-up questions.",
+      "file": "./audio/tts/google-en-US/022.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 23,
+      "text": "I prefer examples that I can use immediately.",
+      "file": "./audio/tts/google-en-US/023.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 24,
+      "text": "I want to know how native speakers usually say something.",
+      "file": "./audio/tts/google-en-US/024.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 25,
+      "text": "I’m interested in the difference between correct and natural English.",
+      "file": "./audio/tts/google-en-US/025.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 26,
+      "text": "I try to notice useful phrases during a lesson.",
+      "file": "./audio/tts/google-en-US/026.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 27,
+      "text": "I often write down expressions that I want to remember.",
+      "file": "./audio/tts/google-en-US/027.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 28,
+      "text": "I want to improve my listening as well as my speaking.",
+      "file": "./audio/tts/google-en-US/028.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 29,
+      "text": "I sometimes recognize a word but miss its meaning in context.",
+      "file": "./audio/tts/google-en-US/029.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 30,
+      "text": "I need to hear a new expression several times.",
+      "file": "./audio/tts/google-en-US/030.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 31,
+      "text": "I like asking about the reason behind a correction.",
+      "file": "./audio/tts/google-en-US/031.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 32,
+      "text": "I want to understand the feeling of an expression.",
+      "file": "./audio/tts/google-en-US/032.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 33,
+      "text": "I try to use a new phrase in my own sentence.",
+      "file": "./audio/tts/google-en-US/033.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 34,
+      "text": "I learn best when I can compare several examples.",
+      "file": "./audio/tts/google-en-US/034.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 35,
+      "text": "I want feedback that I can apply in the next conversation.",
+      "file": "./audio/tts/google-en-US/035.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 36,
+      "text": "I sometimes repeat the same mistake without noticing it.",
+      "file": "./audio/tts/google-en-US/036.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 37,
+      "text": "I’m trying to pay attention to word stress.",
+      "file": "./audio/tts/google-en-US/037.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 38,
+      "text": "I want to connect words more smoothly.",
+      "file": "./audio/tts/google-en-US/038.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 39,
+      "text": "I’m practicing how to pause in natural places.",
+      "file": "./audio/tts/google-en-US/039.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 40,
+      "text": "I want my pronunciation to sound less influenced by Japanese.",
+      "file": "./audio/tts/google-en-US/040.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 41,
+      "text": "I usually start my day with a cup of coffee.",
+      "file": "./audio/tts/google-en-US/041.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 42,
+      "text": "I like taking a short walk when I need a break.",
+      "file": "./audio/tts/google-en-US/042.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 43,
+      "text": "I often listen to English while I’m doing housework.",
+      "file": "./audio/tts/google-en-US/043.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 44,
+      "text": "I try to make time for reading every day.",
+      "file": "./audio/tts/google-en-US/044.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 45,
+      "text": "I enjoy quiet mornings.",
+      "file": "./audio/tts/google-en-US/045.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 46,
+      "text": "I sometimes work late when I have a lot to finish.",
+      "file": "./audio/tts/google-en-US/046.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 47,
+      "text": "I like planning my schedule in advance.",
+      "file": "./audio/tts/google-en-US/047.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 48,
+      "text": "I try not to overload my calendar.",
+      "file": "./audio/tts/google-en-US/048.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 49,
+      "text": "I need some time alone after a busy day.",
+      "file": "./audio/tts/google-en-US/049.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 50,
+      "text": "I often reflect on what I learned that day.",
+      "file": "./audio/tts/google-en-US/050.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 51,
+      "text": "I like visiting places that are new to me.",
+      "file": "./audio/tts/google-en-US/051.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 52,
+      "text": "I enjoy talking with people from different countries.",
+      "file": "./audio/tts/google-en-US/052.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 53,
+      "text": "I’m curious about how people live in other cultures.",
+      "file": "./audio/tts/google-en-US/053.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 54,
+      "text": "I like trying local food when I travel.",
+      "file": "./audio/tts/google-en-US/054.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 55,
+      "text": "I prefer a flexible plan to a very detailed itinerary.",
+      "file": "./audio/tts/google-en-US/055.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 56,
+      "text": "I sometimes change my plans at the last minute.",
+      "file": "./audio/tts/google-en-US/056.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 57,
+      "text": "I enjoy museums because they help me see history differently.",
+      "file": "./audio/tts/google-en-US/057.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 58,
+      "text": "I like walking around a city without a fixed destination.",
+      "file": "./audio/tts/google-en-US/058.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 59,
+      "text": "I take photos when something catches my attention.",
+      "file": "./audio/tts/google-en-US/059.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 60,
+      "text": "Travel gives me opportunities to use English.",
+      "file": "./audio/tts/google-en-US/060.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 61,
+      "text": "I’m interested in how people learn languages.",
+      "file": "./audio/tts/google-en-US/061.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 62,
+      "text": "I enjoy reading about education.",
+      "file": "./audio/tts/google-en-US/062.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 63,
+      "text": "I like discussing the advantages and disadvantages of technology.",
+      "file": "./audio/tts/google-en-US/063.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 64,
+      "text": "I’m curious about how artificial intelligence will change education.",
+      "file": "./audio/tts/google-en-US/064.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 65,
+      "text": "I want to understand both the benefits and the risks.",
+      "file": "./audio/tts/google-en-US/065.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 66,
+      "text": "I enjoy listening to thoughtful discussions.",
+      "file": "./audio/tts/google-en-US/066.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 67,
+      "text": "I like ideas that make me reconsider my assumptions.",
+      "file": "./audio/tts/google-en-US/067.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 68,
+      "text": "I sometimes change my opinion after hearing a good explanation.",
+      "file": "./audio/tts/google-en-US/068.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 69,
+      "text": "I want to look at an issue from several perspectives.",
+      "file": "./audio/tts/google-en-US/069.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 70,
+      "text": "I try to separate facts from impressions.",
+      "file": "./audio/tts/google-en-US/070.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 71,
+      "text": "I’m interested in the relationship between language and culture.",
+      "file": "./audio/tts/google-en-US/071.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 72,
+      "text": "I like noticing differences in conversational style.",
+      "file": "./audio/tts/google-en-US/072.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 73,
+      "text": "Some cultures value directness more than others.",
+      "file": "./audio/tts/google-en-US/073.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 74,
+      "text": "The same behavior can be interpreted differently.",
+      "file": "./audio/tts/google-en-US/074.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 75,
+      "text": "Context is often more important than a single word.",
+      "file": "./audio/tts/google-en-US/075.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 76,
+      "text": "I think communication requires more than correct grammar.",
+      "file": "./audio/tts/google-en-US/076.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 77,
+      "text": "A good conversation depends on both speakers.",
+      "file": "./audio/tts/google-en-US/077.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 78,
+      "text": "I try to listen for the speaker’s real intention.",
+      "file": "./audio/tts/google-en-US/078.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 79,
+      "text": "I’m interested in what people leave unsaid.",
+      "file": "./audio/tts/google-en-US/079.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 80,
+      "text": "Small changes in wording can affect the whole impression.",
+      "file": "./audio/tts/google-en-US/080.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 81,
+      "text": "I think learning should connect to real life.",
+      "file": "./audio/tts/google-en-US/081.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 82,
+      "text": "A clear goal helps me stay motivated.",
+      "file": "./audio/tts/google-en-US/082.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 83,
+      "text": "I make progress when I practice consistently.",
+      "file": "./audio/tts/google-en-US/083.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 84,
+      "text": "Short practice sessions are easier to continue.",
+      "file": "./audio/tts/google-en-US/084.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 85,
+      "text": "I sometimes focus too much on my mistakes.",
+      "file": "./audio/tts/google-en-US/085.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 86,
+      "text": "I’m learning to notice what I can already do.",
+      "file": "./audio/tts/google-en-US/086.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 87,
+      "text": "Confidence grows when I use a skill repeatedly.",
+      "file": "./audio/tts/google-en-US/087.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 88,
+      "text": "I want to make steady progress rather than rush.",
+      "file": "./audio/tts/google-en-US/088.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 89,
+      "text": "I try to review important points regularly.",
+      "file": "./audio/tts/google-en-US/089.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 90,
+      "text": "I remember things better when I use them in context.",
+      "file": "./audio/tts/google-en-US/090.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 91,
+      "text": "I believe mistakes can show me what to practice next.",
+      "file": "./audio/tts/google-en-US/091.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 92,
+      "text": "I want to become more comfortable with uncertainty.",
+      "file": "./audio/tts/google-en-US/092.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 93,
+      "text": "I sometimes worry about sounding unnatural.",
+      "file": "./audio/tts/google-en-US/093.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 94,
+      "text": "I’m trying to speak even when my sentence is not perfect.",
+      "file": "./audio/tts/google-en-US/094.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 95,
+      "text": "I want to ask for clarification more naturally.",
+      "file": "./audio/tts/google-en-US/095.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 96,
+      "text": "It is helpful to check whether the other person understood me.",
+      "file": "./audio/tts/google-en-US/096.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 97,
+      "text": "I try to give a specific example when I make a point.",
+      "file": "./audio/tts/google-en-US/097.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 98,
+      "text": "A personal experience can make an explanation more memorable.",
+      "file": "./audio/tts/google-en-US/098.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 99,
+      "text": "I want to make my answers easier to follow.",
+      "file": "./audio/tts/google-en-US/099.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 100,
+      "text": "I’m practicing how to finish an answer clearly.",
+      "file": "./audio/tts/google-en-US/100.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 101,
+      "text": "People’s priorities change as their lives change.",
+      "file": "./audio/tts/google-en-US/101.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 102,
+      "text": "Work is not the only source of meaning.",
+      "file": "./audio/tts/google-en-US/102.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 103,
+      "text": "A comfortable life does not guarantee happiness.",
+      "file": "./audio/tts/google-en-US/103.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 104,
+      "text": "Convenience can sometimes reduce our independence.",
+      "file": "./audio/tts/google-en-US/104.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 105,
+      "text": "Technology saves time, but it can also create new problems.",
+      "file": "./audio/tts/google-en-US/105.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 106,
+      "text": "Older people and younger people may value different things.",
+      "file": "./audio/tts/google-en-US/106.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 107,
+      "text": "Social expectations can influence personal choices.",
+      "file": "./audio/tts/google-en-US/107.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 108,
+      "text": "Family relationships are shaped by many factors.",
+      "file": "./audio/tts/google-en-US/108.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 109,
+      "text": "It is difficult to define a successful life.",
+      "file": "./audio/tts/google-en-US/109.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 110,
+      "text": "People need both stability and freedom.",
+      "file": "./audio/tts/google-en-US/110.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 111,
+      "text": "Education can change a person’s opportunities.",
+      "file": "./audio/tts/google-en-US/111.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 112,
+      "text": "Access to information is not equal for everyone.",
+      "file": "./audio/tts/google-en-US/112.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 113,
+      "text": "A small policy change can affect many people.",
+      "file": "./audio/tts/google-en-US/113.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 114,
+      "text": "Public discussions should include different voices.",
+      "file": "./audio/tts/google-en-US/114.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 115,
+      "text": "We need to consider the people who are not represented.",
+      "file": "./audio/tts/google-en-US/115.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 116,
+      "text": "Statistics do not always show individual realities.",
+      "file": "./audio/tts/google-en-US/116.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 117,
+      "text": "A general trend can hide important differences.",
+      "file": "./audio/tts/google-en-US/117.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 118,
+      "text": "Personal stories can add meaning to numerical data.",
+      "file": "./audio/tts/google-en-US/118.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 119,
+      "text": "We should be careful when making broad conclusions.",
+      "file": "./audio/tts/google-en-US/119.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 120,
+      "text": "Good decisions require reliable information.",
+      "file": "./audio/tts/google-en-US/120.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 121,
+      "text": "I recently had a conversation that made me think.",
+      "file": "./audio/tts/google-en-US/121.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 122,
+      "text": "I noticed a difference between what I expected and what happened.",
+      "file": "./audio/tts/google-en-US/122.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 123,
+      "text": "At first, I did not know how to respond.",
+      "file": "./audio/tts/google-en-US/123.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 124,
+      "text": "After a while, I began to understand the situation.",
+      "file": "./audio/tts/google-en-US/124.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 125,
+      "text": "I realized that I had made an assumption.",
+      "file": "./audio/tts/google-en-US/125.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 126,
+      "text": "The experience taught me to ask more questions.",
+      "file": "./audio/tts/google-en-US/126.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 127,
+      "text": "I could have explained my point more clearly.",
+      "file": "./audio/tts/google-en-US/127.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 128,
+      "text": "The other person helped me see another side.",
+      "file": "./audio/tts/google-en-US/128.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 129,
+      "text": "We did not completely agree, but the conversation was useful.",
+      "file": "./audio/tts/google-en-US/129.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 130,
+      "text": "I remember the main idea more than the exact words.",
+      "file": "./audio/tts/google-en-US/130.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 131,
+      "text": "I often learn from small everyday experiences.",
+      "file": "./audio/tts/google-en-US/131.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 132,
+      "text": "A difficult situation can reveal what really matters.",
+      "file": "./audio/tts/google-en-US/132.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 133,
+      "text": "I try to describe what happened before I evaluate it.",
+      "file": "./audio/tts/google-en-US/133.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 134,
+      "text": "It is easier to understand a problem when I know its background.",
+      "file": "./audio/tts/google-en-US/134.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 135,
+      "text": "I want to explain not only what happened but also why.",
+      "file": "./audio/tts/google-en-US/135.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 136,
+      "text": "The result was different from what I had predicted.",
+      "file": "./audio/tts/google-en-US/136.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 137,
+      "text": "I needed to change my approach.",
+      "file": "./audio/tts/google-en-US/137.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 138,
+      "text": "Looking back, I can see several possible causes.",
+      "file": "./audio/tts/google-en-US/138.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 139,
+      "text": "One event can affect people in very different ways.",
+      "file": "./audio/tts/google-en-US/139.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 140,
+      "text": "I want to remember what I learned from the experience.",
+      "file": "./audio/tts/google-en-US/140.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 141,
+      "text": "The teacher asked me a question about my experience.",
+      "file": "./audio/tts/google-en-US/141.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 142,
+      "text": "I understood the question, but I could not answer immediately.",
+      "file": "./audio/tts/google-en-US/142.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 143,
+      "text": "I needed a moment to find the right words.",
+      "file": "./audio/tts/google-en-US/143.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 144,
+      "text": "I gave a short answer and then added an explanation.",
+      "file": "./audio/tts/google-en-US/144.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 145,
+      "text": "The follow-up question helped me develop my idea.",
+      "file": "./audio/tts/google-en-US/145.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 146,
+      "text": "I noticed that my first answer was too general.",
+      "file": "./audio/tts/google-en-US/146.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 147,
+      "text": "I tried to make my answer more specific.",
+      "file": "./audio/tts/google-en-US/147.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 148,
+      "text": "I gave an example from my own life.",
+      "file": "./audio/tts/google-en-US/148.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 149,
+      "text": "I wanted to connect the example to the main point.",
+      "file": "./audio/tts/google-en-US/149.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 150,
+      "text": "I sometimes lose track of my sentence halfway through.",
+      "file": "./audio/tts/google-en-US/150.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 151,
+      "text": "I want to use a clearer structure when I speak.",
+      "file": "./audio/tts/google-en-US/151.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 152,
+      "text": "I’m practicing how to state my opinion first.",
+      "file": "./audio/tts/google-en-US/152.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 153,
+      "text": "Then I can give a reason and an example.",
+      "file": "./audio/tts/google-en-US/153.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 154,
+      "text": "I want to avoid jumping between unrelated ideas.",
+      "file": "./audio/tts/google-en-US/154.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 155,
+      "text": "A short pause can help me organize the next sentence.",
+      "file": "./audio/tts/google-en-US/155.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 156,
+      "text": "I try to listen carefully before I answer.",
+      "file": "./audio/tts/google-en-US/156.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 157,
+      "text": "I want to respond directly to the question.",
+      "file": "./audio/tts/google-en-US/157.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 158,
+      "text": "If I do not understand, I should ask for clarification.",
+      "file": "./audio/tts/google-en-US/158.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 159,
+      "text": "I can ask the speaker to rephrase the question.",
+      "file": "./audio/tts/google-en-US/159.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 160,
+      "text": "I want to keep my answer connected to the topic.",
+      "file": "./audio/tts/google-en-US/160.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 161,
+      "text": "I’m not sure how to express this idea in English.",
+      "file": "./audio/tts/google-en-US/161.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 162,
+      "text": "I know the word, but I’m not sure how to use it.",
+      "file": "./audio/tts/google-en-US/162.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 163,
+      "text": "This expression sounds a little too formal for conversation.",
+      "file": "./audio/tts/google-en-US/163.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 164,
+      "text": "Is there a more natural way to say this?",
+      "file": "./audio/tts/google-en-US/164.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 165,
+      "text": "What is the difference between these two expressions?",
+      "file": "./audio/tts/google-en-US/165.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 166,
+      "text": "Does this phrase sound polite in this situation?",
+      "file": "./audio/tts/google-en-US/166.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 167,
+      "text": "I want to check the meaning in context.",
+      "file": "./audio/tts/google-en-US/167.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 168,
+      "text": "I sometimes translate Japanese expressions too directly.",
+      "file": "./audio/tts/google-en-US/168.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 169,
+      "text": "This word has a slightly different feeling in English.",
+      "file": "./audio/tts/google-en-US/169.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 170,
+      "text": "I need an expression that sounds less strong.",
+      "file": "./audio/tts/google-en-US/170.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 171,
+      "text": "I want to make my question more precise.",
+      "file": "./audio/tts/google-en-US/171.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 172,
+      "text": "I sometimes use a word that is too broad.",
+      "file": "./audio/tts/google-en-US/172.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 173,
+      "text": "I’m trying to choose a verb that fits the situation.",
+      "file": "./audio/tts/google-en-US/173.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 174,
+      "text": "The literal translation does not sound natural.",
+      "file": "./audio/tts/google-en-US/174.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 175,
+      "text": "I want to know which preposition usually follows this verb.",
+      "file": "./audio/tts/google-en-US/175.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 176,
+      "text": "I’m learning common combinations of words.",
+      "file": "./audio/tts/google-en-US/176.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 177,
+      "text": "It helps to memorize a phrase as a whole.",
+      "file": "./audio/tts/google-en-US/177.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 178,
+      "text": "I want to use this expression in another context.",
+      "file": "./audio/tts/google-en-US/178.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 179,
+      "text": "I need a simpler way to explain the same thing.",
+      "file": "./audio/tts/google-en-US/179.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 180,
+      "text": "I want my English to sound natural without sounding advanced.",
+      "file": "./audio/tts/google-en-US/180.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 181,
+      "text": "I’m interested in how native speakers organize an answer.",
+      "file": "./audio/tts/google-en-US/181.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 182,
+      "text": "The order of ideas can change how a message is understood.",
+      "file": "./audio/tts/google-en-US/182.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 183,
+      "text": "I want to make the connection between my sentences clearer.",
+      "file": "./audio/tts/google-en-US/183.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 184,
+      "text": "Sometimes my answer is correct but feels incomplete.",
+      "file": "./audio/tts/google-en-US/184.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 185,
+      "text": "I need to give more background before my conclusion.",
+      "file": "./audio/tts/google-en-US/185.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 186,
+      "text": "I want to explain the reason before giving the result.",
+      "file": "./audio/tts/google-en-US/186.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 187,
+      "text": "A concrete example can make an abstract idea easier to understand.",
+      "file": "./audio/tts/google-en-US/187.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 188,
+      "text": "I sometimes give too many details at the beginning.",
+      "file": "./audio/tts/google-en-US/188.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 189,
+      "text": "I want to save the most important point for the right moment.",
+      "file": "./audio/tts/google-en-US/189.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 190,
+      "text": "I’m practicing how to compare two different cases.",
+      "file": "./audio/tts/google-en-US/190.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 191,
+      "text": "I want to explain a cause without oversimplifying it.",
+      "file": "./audio/tts/google-en-US/191.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 192,
+      "text": "A balanced answer should mention both strengths and weaknesses.",
+      "file": "./audio/tts/google-en-US/192.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 193,
+      "text": "I try to distinguish my personal opinion from a fact.",
+      "file": "./audio/tts/google-en-US/193.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 194,
+      "text": "I want to show when I am making a suggestion.",
+      "file": "./audio/tts/google-en-US/194.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 195,
+      "text": "I’m learning how to disagree politely.",
+      "file": "./audio/tts/google-en-US/195.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 196,
+      "text": "I want to acknowledge the other person’s point first.",
+      "file": "./audio/tts/google-en-US/196.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 197,
+      "text": "A good question can make a conversation more meaningful.",
+      "file": "./audio/tts/google-en-US/197.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 198,
+      "text": "I want to ask follow-up questions that deepen the discussion.",
+      "file": "./audio/tts/google-en-US/198.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 199,
+      "text": "I’m trying to make my conclusions more precise.",
+      "file": "./audio/tts/google-en-US/199.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 200,
+      "text": "I enjoy improving through conversation.",
+      "file": "./audio/tts/google-en-US/200.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 201,
+      "text": "I try to explain my ideas step by step.",
+      "file": "./audio/tts/google-en-US/201.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 202,
+      "text": "I sometimes start speaking before I know how to finish.",
+      "file": "./audio/tts/google-en-US/202.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 203,
+      "text": "I want to make my answers more organized.",
+      "file": "./audio/tts/google-en-US/203.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 204,
+      "text": "I need a moment to arrange my thoughts.",
+      "file": "./audio/tts/google-en-US/204.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 205,
+      "text": "I often have a clear idea in Japanese.",
+      "file": "./audio/tts/google-en-US/205.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 206,
+      "text": "Finding the simplest English expression can be difficult.",
+      "file": "./audio/tts/google-en-US/206.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 207,
+      "text": "I want to express the same idea in several ways.",
+      "file": "./audio/tts/google-en-US/207.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 208,
+      "text": "I’m learning when to be direct and when to be indirect.",
+      "file": "./audio/tts/google-en-US/208.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 209,
+      "text": "I want my explanations to sound less repetitive.",
+      "file": "./audio/tts/google-en-US/209.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 210,
+      "text": "I’m trying to avoid long sentences with too many ideas.",
+      "file": "./audio/tts/google-en-US/210.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 211,
+      "text": "A clear example can make a general point stronger.",
+      "file": "./audio/tts/google-en-US/211.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 212,
+      "text": "I usually understand an idea better after discussing it.",
+      "file": "./audio/tts/google-en-US/212.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 213,
+      "text": "I like questions that make me think.",
+      "file": "./audio/tts/google-en-US/213.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 214,
+      "text": "I sometimes need a more specific question.",
+      "file": "./audio/tts/google-en-US/214.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 215,
+      "text": "Broad questions can be difficult to answer quickly.",
+      "file": "./audio/tts/google-en-US/215.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 216,
+      "text": "I can give a better answer when I know the purpose.",
+      "file": "./audio/tts/google-en-US/216.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 217,
+      "text": "I want to connect my answer to the question.",
+      "file": "./audio/tts/google-en-US/217.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 218,
+      "text": "I’m practicing how to respond to follow-up questions.",
+      "file": "./audio/tts/google-en-US/218.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 219,
+      "text": "I want to keep the conversation moving.",
+      "file": "./audio/tts/google-en-US/219.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 220,
+      "text": "I try to notice when the listener needs more explanation.",
+      "file": "./audio/tts/google-en-US/220.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 221,
+      "text": "I don’t want to stop after giving only one sentence.",
+      "file": "./audio/tts/google-en-US/221.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 222,
+      "text": "I’m learning how much detail is enough.",
+      "file": "./audio/tts/google-en-US/222.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 223,
+      "text": "I want to add a reason after stating my opinion.",
+      "file": "./audio/tts/google-en-US/223.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 224,
+      "text": "I can add an example when the idea is too abstract.",
+      "file": "./audio/tts/google-en-US/224.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 225,
+      "text": "I want to compare two possibilities clearly.",
+      "file": "./audio/tts/google-en-US/225.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 226,
+      "text": "I’m practicing how to explain a change in my opinion.",
+      "file": "./audio/tts/google-en-US/226.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 227,
+      "text": "I want to show the relationship between two ideas.",
+      "file": "./audio/tts/google-en-US/227.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 228,
+      "text": "Cause and effect are not always simple.",
+      "file": "./audio/tts/google-en-US/228.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 229,
+      "text": "I sometimes need to explain the background first.",
+      "file": "./audio/tts/google-en-US/229.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 230,
+      "text": "A good conclusion should not introduce a completely new idea.",
+      "file": "./audio/tts/google-en-US/230.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 231,
+      "text": "I want to make my main point clear at the beginning.",
+      "file": "./audio/tts/google-en-US/231.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 232,
+      "text": "I’m trying to use transitions more naturally.",
+      "file": "./audio/tts/google-en-US/232.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 233,
+      "text": "I often use “for example” when I need more time.",
+      "file": "./audio/tts/google-en-US/233.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 234,
+      "text": "I want to use connectors without sounding mechanical.",
+      "file": "./audio/tts/google-en-US/234.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 235,
+      "text": "I’m practicing how to summarize a long answer.",
+      "file": "./audio/tts/google-en-US/235.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 236,
+      "text": "I want my stories to have a clear beginning and ending.",
+      "file": "./audio/tts/google-en-US/236.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 237,
+      "text": "I try to explain what happened before I give my opinion.",
+      "file": "./audio/tts/google-en-US/237.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 238,
+      "text": "I want to make the important part stand out.",
+      "file": "./audio/tts/google-en-US/238.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 239,
+      "text": "I sometimes include details that are not necessary.",
+      "file": "./audio/tts/google-en-US/239.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 240,
+      "text": "I’m learning to choose the most relevant details.",
+      "file": "./audio/tts/google-en-US/240.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 241,
+      "text": "I like explaining why a word is used in a certain context.",
+      "file": "./audio/tts/google-en-US/241.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 242,
+      "text": "A dictionary definition is not always enough.",
+      "file": "./audio/tts/google-en-US/242.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 243,
+      "text": "Learners need to know how an expression sounds.",
+      "file": "./audio/tts/google-en-US/243.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 244,
+      "text": "Some expressions are correct but not very common.",
+      "file": "./audio/tts/google-en-US/244.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 245,
+      "text": "I want to know which phrases are useful in real conversations.",
+      "file": "./audio/tts/google-en-US/245.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 246,
+      "text": "Native speakers often use shorter expressions.",
+      "file": "./audio/tts/google-en-US/246.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 247,
+      "text": "Spoken English does not always follow textbook patterns.",
+      "file": "./audio/tts/google-en-US/247.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 248,
+      "text": "The same sentence can sound different in different situations.",
+      "file": "./audio/tts/google-en-US/248.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 249,
+      "text": "Politeness depends on the relationship between the speakers.",
+      "file": "./audio/tts/google-en-US/249.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 250,
+      "text": "Tone can change the meaning of a sentence.",
+      "file": "./audio/tts/google-en-US/250.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 251,
+      "text": "I want to understand implied meaning.",
+      "file": "./audio/tts/google-en-US/251.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 252,
+      "text": "I’m interested in how people soften their opinions.",
+      "file": "./audio/tts/google-en-US/252.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 253,
+      "text": "It is useful to learn common sentence patterns.",
+      "file": "./audio/tts/google-en-US/253.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 254,
+      "text": "I try to remember phrases rather than isolated words.",
+      "file": "./audio/tts/google-en-US/254.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 255,
+      "text": "Pronunciation and vocabulary are connected to listening.",
+      "file": "./audio/tts/google-en-US/255.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 256,
+      "text": "Learners need to hear the expression several times.",
+      "file": "./audio/tts/google-en-US/256.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 257,
+      "text": "I want to notice how a speaker begins an answer.",
+      "file": "./audio/tts/google-en-US/257.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 258,
+      "text": "I’m paying attention to how people change topics.",
+      "file": "./audio/tts/google-en-US/258.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 259,
+      "text": "A natural response does not always need to be long.",
+      "file": "./audio/tts/google-en-US/259.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 260,
+      "text": "The best expression depends on the situation.",
+      "file": "./audio/tts/google-en-US/260.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 261,
+      "text": "I try to create a comfortable atmosphere for my students.",
+      "file": "./audio/tts/google-en-US/261.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 262,
+      "text": "Students speak more freely when they feel safe.",
+      "file": "./audio/tts/google-en-US/262.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 263,
+      "text": "Mistakes can be useful learning opportunities.",
+      "file": "./audio/tts/google-en-US/263.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 264,
+      "text": "Feedback should be specific and encouraging.",
+      "file": "./audio/tts/google-en-US/264.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 265,
+      "text": "I want students to understand why something is wrong.",
+      "file": "./audio/tts/google-en-US/265.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 266,
+      "text": "I also want them to know how to improve it.",
+      "file": "./audio/tts/google-en-US/266.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 267,
+      "text": "Correction should not interrupt communication too much.",
+      "file": "./audio/tts/google-en-US/267.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 268,
+      "text": "Students need time to produce their own sentences.",
+      "file": "./audio/tts/google-en-US/268.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 269,
+      "text": "I try to balance accuracy and confidence.",
+      "file": "./audio/tts/google-en-US/269.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 270,
+      "text": "A lesson should give students chances to think.",
+      "file": "./audio/tts/google-en-US/270.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 271,
+      "text": "I like using questions to guide students.",
+      "file": "./audio/tts/google-en-US/271.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 272,
+      "text": "Students often understand more than they can say.",
+      "file": "./audio/tts/google-en-US/272.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 273,
+      "text": "Speaking ability develops through repeated use.",
+      "file": "./audio/tts/google-en-US/273.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 274,
+      "text": "Learners need realistic goals.",
+      "file": "./audio/tts/google-en-US/274.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 275,
+      "text": "Small improvements can build confidence.",
+      "file": "./audio/tts/google-en-US/275.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 276,
+      "text": "I want students to notice their own progress.",
+      "file": "./audio/tts/google-en-US/276.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 277,
+      "text": "I try to adapt my explanation to each learner.",
+      "file": "./audio/tts/google-en-US/277.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 278,
+      "text": "Some students need more examples.",
+      "file": "./audio/tts/google-en-US/278.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 279,
+      "text": "Other students need more opportunities to speak.",
+      "file": "./audio/tts/google-en-US/279.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 280,
+      "text": "Teaching requires careful observation.",
+      "file": "./audio/tts/google-en-US/280.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 281,
+      "text": "I’m interested in how people explain their experiences.",
+      "file": "./audio/tts/google-en-US/281.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 282,
+      "text": "Personal stories can reveal cultural differences.",
+      "file": "./audio/tts/google-en-US/282.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 283,
+      "text": "People do not always organize stories in the same way.",
+      "file": "./audio/tts/google-en-US/283.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 284,
+      "text": "A listener may need more background information.",
+      "file": "./audio/tts/google-en-US/284.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 285,
+      "text": "An idea can be true but still feel incomplete.",
+      "file": "./audio/tts/google-en-US/285.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 286,
+      "text": "Details can make an explanation more convincing.",
+      "file": "./audio/tts/google-en-US/286.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 287,
+      "text": "The order of information affects the listener’s impression.",
+      "file": "./audio/tts/google-en-US/287.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 288,
+      "text": "A comparison can make an unfamiliar idea clearer.",
+      "file": "./audio/tts/google-en-US/288.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 289,
+      "text": "We should distinguish facts from personal opinions.",
+      "file": "./audio/tts/google-en-US/289.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 290,
+      "text": "We should also explain the reason for an opinion.",
+      "file": "./audio/tts/google-en-US/290.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 291,
+      "text": "A conversation becomes deeper when people ask follow-up questions.",
+      "file": "./audio/tts/google-en-US/291.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 292,
+      "text": "I like discussing the advantages and disadvantages of an issue.",
+      "file": "./audio/tts/google-en-US/292.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 293,
+      "text": "Every solution has possible limitations.",
+      "file": "./audio/tts/google-en-US/293.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 294,
+      "text": "New technology should be discussed from several perspectives.",
+      "file": "./audio/tts/google-en-US/294.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 295,
+      "text": "Convenience and safety do not always point in the same direction.",
+      "file": "./audio/tts/google-en-US/295.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 296,
+      "text": "Social problems usually have more than one cause.",
+      "file": "./audio/tts/google-en-US/296.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 297,
+      "text": "Individual experiences can be different from general trends.",
+      "file": "./audio/tts/google-en-US/297.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 298,
+      "text": "We need to consider both short-term and long-term effects.",
+      "file": "./audio/tts/google-en-US/298.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 299,
+      "text": "A balanced discussion should include concrete examples.",
+      "file": "./audio/tts/google-en-US/299.mp3",
+      "source": "Google Translate English (en-US)"
+    },
+    {
+      "id": 300,
+      "text": "I want to express thoughtful ideas in clear, natural English.",
+      "file": "./audio/tts/google-en-US/300.mp3",
+      "source": "Google Translate English (en-US)"
+    }
+  ]
+}

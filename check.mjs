@@ -5,6 +5,9 @@ const source = await readFile(new URL("./sentences.js", import.meta.url), "utf8"
 const tipsSource = await readFile(new URL("./pronunciation-tips.js", import.meta.url), "utf8");
 const tipPolishSource = await readFile(new URL("./pronunciation-tips-polish.js", import.meta.url), "utf8");
 const swSource = await readFile(new URL("./sw.js", import.meta.url), "utf8");
+const appSource = await readFile(new URL("./app.js", import.meta.url), "utf8");
+const ttsManifestSource = await readFile(new URL("./audio/tts-manifest.json", import.meta.url), "utf8");
+const ttsManifest = JSON.parse(ttsManifestSource);
 const tipFragmentNames = (await readdir(new URL("./", import.meta.url)))
   .filter((name) => /^pronunciation-tips-\d{3}\.js$/.test(name))
   .sort();
@@ -177,6 +180,40 @@ for (const required of [
   }
 }
 
+if (!appSource.includes('./audio/tts/google-en-US')) {
+  throw new Error("Missing pre-generated narration path in app.js");
+}
+
+if (!swSource.includes('./audio/tts-manifest.json')) {
+  throw new Error("Missing TTS manifest in Service Worker cache list");
+}
+
+if (
+      ttsManifest.voice !== "Google Translate English (en-US)" ||
+  ttsManifest.language !== "en-US" ||
+  !Array.isArray(ttsManifest.sentences) ||
+        ttsManifest.sentences.length !== sentences.length
+) {
+  throw new Error("TTS manifest metadata or sentence count is invalid");
+}
+
+      for (let index = 0; index < sentences.length; index += 1) {
+        const sourceSentence = sentences[index];
+  const audioEntry = ttsManifest.sentences[index];
+  if (
+    !audioEntry ||
+    audioEntry.id !== sourceSentence.id ||
+    audioEntry.text !== sourceSentence.text ||
+    typeof audioEntry.file !== "string"
+  ) {
+    throw new Error("TTS manifest does not match sentence " + sourceSentence.id);
+  }
+  const audioStats = await stat(new URL(audioEntry.file, import.meta.url));
+  if (audioStats.size < 1000) {
+    throw new Error("TTS audio file is unexpectedly small: " + audioEntry.file);
+  }
+}
+
 if (
   !html.includes('rel="apple-touch-icon"') ||
   !html.includes('name="apple-mobile-web-app-capable"')
@@ -213,4 +250,4 @@ if (
   throw new Error("Missing practice controls");
 }
 
-console.log("check passed: 300 sentences, authored pronunciation tips, PWA shell, speech controls, and per-sentence recording controls are present");
+console.log("check passed: 300 sentences, authored pronunciation tips, embedded pre-recorded narration, PWA shell, speech controls, and per-sentence recording controls are present");

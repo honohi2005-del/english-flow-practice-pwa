@@ -4,6 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "check": "node check.mjs"
-  }
+    "check": "node check.mjs",
+    "generate:tts": "node tools/generate-tts.mjs"
+  },
+  "devDependencies": {}
 }

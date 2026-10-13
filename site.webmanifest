@@ -5,8 +5,8 @@
   "start_url": "/english-flow-practice-pwa/",
   "scope": "/english-flow-practice-pwa/",
   "display": "standalone",
-  "background_color": "#f5f1ea",
-  "theme_color": "#f5f1ea",
+  "background_color": "#0e1830",
+  "theme_color": "#0e1830",
   "lang": "ja",
   "icons": [
     {

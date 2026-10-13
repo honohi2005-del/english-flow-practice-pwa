@@ -540,3 +540,241 @@ h1 {
     padding-bottom: 10px;
   }
 }
+
+/* City-pop album cover treatment: cool midnight tones, neon accents, and a
+   warm paper surface keep the learning content readable while giving the app
+   a distinct Japanese city-pop atmosphere. */
+:root {
+  --ink: #11182d;
+  --muted: #697087;
+  --paper: #fffaf2;
+  --cream: #0e1830;
+  --line: #18213a;
+  --blue: #69d4d5;
+  --blue-soft: #e0f8f4;
+  --yellow: #f1d36b;
+  --yellow-soft: #fff3bd;
+  --coral: #f07e72;
+  --pink: #d98dbb;
+  --violet: #9b91e1;
+  --shadow: 10px 10px 0 rgba(5, 11, 29, 0.22);
+}
+
+html {
+  background: var(--cream);
+}
+
+body {
+  position: relative;
+  overflow-x: hidden;
+  background:
+    linear-gradient(118deg, transparent 0 47%, rgba(123, 220, 223, 0.08) 47.1% 47.4%, transparent 47.5% 100%),
+    radial-gradient(circle at 8% 8%, rgba(240, 126, 114, 0.2), transparent 18rem),
+    radial-gradient(circle at 94% 14%, rgba(105, 212, 213, 0.19), transparent 23rem),
+    #0e1830;
+}
+
+body::before {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  content: "";
+  opacity: 0.3;
+  background: repeating-linear-gradient(90deg, transparent 0 78px, rgba(255, 255, 255, 0.045) 79px 80px);
+}
+
+body::after {
+  position: fixed;
+  right: -9rem;
+  bottom: -11rem;
+  z-index: 0;
+  width: 31rem;
+  height: 31rem;
+  pointer-events: none;
+  content: "";
+  border: 1px solid rgba(241, 211, 107, 0.16);
+  border-radius: 50%;
+  box-shadow: 0 0 0 22px rgba(241, 211, 107, 0.035), 0 0 0 44px rgba(241, 211, 107, 0.025);
+}
+
+.app-shell {
+  position: relative;
+  z-index: 1;
+  padding-top: 28px;
+}
+
+.topbar {
+  position: relative;
+  overflow: hidden;
+  padding: clamp(28px, 5vw, 52px) clamp(24px, 5vw, 58px) 42px;
+  border: 1px solid rgba(255, 250, 242, 0.38);
+  border-radius: 5px;
+  color: #fffaf2;
+  background:
+    radial-gradient(circle at 86% 8%, rgba(241, 211, 107, 0.58), transparent 3px),
+    radial-gradient(circle at 86% 8%, rgba(241, 211, 107, 0.14), transparent 9rem),
+    linear-gradient(116deg, #111b3a 0%, #203e67 53%, #8d527c 100%);
+  box-shadow: 12px 12px 0 rgba(5, 11, 29, 0.25);
+}
+
+.topbar::before {
+  position: absolute;
+  top: -75%;
+  right: 8%;
+  width: 30%;
+  height: 220%;
+  content: "";
+  transform: rotate(18deg);
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.12), transparent);
+}
+
+.topbar::after {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 7px;
+  content: "";
+  background: linear-gradient(90deg, var(--coral) 0 25%, var(--yellow) 25% 50%, var(--blue) 50% 75%, var(--pink) 75% 100%);
+}
+
+.topbar > * {
+  position: relative;
+  z-index: 1;
+}
+
+.eyebrow {
+  color: #86e4df;
+}
+
+.topbar h1 {
+  color: #fffaf2;
+  text-shadow: 3px 3px 0 rgba(5, 11, 29, 0.28);
+}
+
+.topbar .lede {
+  color: rgba(255, 250, 242, 0.77);
+}
+
+.icon-button {
+  color: var(--ink);
+  border-color: var(--ink);
+  background: var(--yellow);
+  box-shadow: 4px 4px 0 rgba(5, 11, 29, 0.25);
+}
+
+.practice-card,
+.info-card,
+.routine-card {
+  position: relative;
+  overflow: hidden;
+  border-width: 1px;
+  border-radius: 18px;
+  background: var(--paper);
+  box-shadow: var(--shadow);
+}
+
+.practice-card::before,
+.info-card::before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 5px;
+  content: "";
+  background: linear-gradient(90deg, var(--coral), var(--yellow), var(--blue), var(--violet));
+}
+
+.practice-card {
+  padding-top: clamp(30px, 5vw, 58px);
+}
+
+.badge {
+  background: var(--blue-soft);
+}
+
+.sentence-number {
+  color: var(--coral);
+}
+
+.primary-button {
+  background: var(--ink);
+  box-shadow: 0 5px 0 #070c1d;
+}
+
+.primary-button.is-speaking {
+  background: var(--yellow);
+  box-shadow: 0 5px 0 #b79b3e;
+}
+
+.secondary-button {
+  background: var(--yellow);
+  box-shadow: 0 5px 0 #b79b3e;
+}
+
+.recording-panel {
+  border-color: var(--line);
+  background: #e4f6ef;
+}
+
+.record-button {
+  background: #d9f1e8;
+  box-shadow: 0 4px 0 #83bda5;
+}
+
+.record-button.is-recording {
+  background: var(--coral);
+  box-shadow: 0 4px 0 #b3564b;
+}
+
+.section-mark {
+  border-radius: 7px;
+  background: var(--blue);
+  box-shadow: 4px 4px 0 rgba(24, 33, 58, 0.12);
+}
+
+.section-mark.warm {
+  background: var(--yellow);
+}
+
+.flow-card {
+  background: linear-gradient(145deg, #e0f8f4 0%, #fffaf2 86%);
+}
+
+.flow-example {
+  border-left-color: var(--coral);
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.flow-example span {
+  color: #278998;
+}
+
+.routine-card {
+  border-color: rgba(255, 250, 242, 0.4);
+  background: linear-gradient(112deg, #111b3a, #203e67 60%, #4b3c67);
+  box-shadow: 10px 10px 0 rgba(5, 11, 29, 0.27);
+}
+
+.footer-note {
+  color: #b7c0d6;
+}
+
+@media (max-width: 760px) {
+  .app-shell {
+    width: min(100% - 20px, 620px);
+    padding-top: 16px;
+  }
+
+  .topbar {
+    padding: 26px 22px 34px;
+    border-radius: 4px;
+  }
+
+  .practice-card,
+  .info-card,
+  .routine-card {
+    border-radius: 15px;
+  }
+}
