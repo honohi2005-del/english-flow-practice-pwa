@@ -1,4 +1,4 @@
-const CACHE_NAME = "english-flow-practice-v1";
+const CACHE_NAME = "english-flow-practice-v2";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -7,7 +7,9 @@ const APP_SHELL = [
   "./speech-voice.js",
   "./app.js",
   "./site.webmanifest",
-  "./icons/icon.svg"
+  "./icons/icon.svg",
+  "./icons/icon-192.png",
+  "./icons/icon-512.png"
 ];
 
 self.addEventListener("install", (event) => {

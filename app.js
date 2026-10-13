@@ -250,21 +250,46 @@
     window.speechSynthesis.speak(utterance);
   }
 
+  function isIos() {
+    return /iphone|ipad|ipod/i.test(navigator.userAgent)
+      || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  }
+
+  function isStandalone() {
+    return window.matchMedia("(display-mode: standalone)").matches
+      || window.navigator.standalone === true;
+  }
+
   function setupInstallPrompt() {
     window.addEventListener("beforeinstallprompt", (event) => {
       event.preventDefault();
       state.deferredInstall = event;
       installButton.hidden = false;
+      installButton.textContent = "ホーム画面に追加";
     });
 
-    installButton.addEventListener("click", async () => {
-      if (!state.deferredInstall) {
-        return;
-      }
-      state.deferredInstall.prompt();
-      await state.deferredInstall.userChoice;
+    if (isIos() && !isStandalone()) {
+      installButton.hidden = false;
+      installButton.textContent = "追加方法";
+      installButton.addEventListener("click", () => {
+        updateVoiceStatus("Safariの共有ボタンから「ホーム画面に追加」を選んでください。");
+      });
+    } else {
+      installButton.addEventListener("click", async () => {
+        if (!state.deferredInstall) {
+          return;
+        }
+        state.deferredInstall.prompt();
+        await state.deferredInstall.userChoice;
+        state.deferredInstall = null;
+        installButton.hidden = true;
+      });
+    }
+
+    window.addEventListener("appinstalled", () => {
       state.deferredInstall = null;
       installButton.hidden = true;
+      updateVoiceStatus("ホーム画面に追加しました。");
     });
   }
 
@@ -280,7 +305,7 @@
 
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
-      navigator.serviceWorker.register("./sw.js").catch(() => {
+      navigator.serviceWorker.register("./sw.js", { scope: "./" }).catch(() => {
         updateVoiceStatus("オフライン登録は利用できませんが、ページはそのまま使えます。");
       });
     });
