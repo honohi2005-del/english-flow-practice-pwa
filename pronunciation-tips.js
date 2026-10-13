@@ -1,0 +1,1 @@
+window.PRONUNCIATION_TIPS = window.PRONUNCIATION_TIPS || {};

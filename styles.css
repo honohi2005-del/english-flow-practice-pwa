@@ -208,6 +208,101 @@ h1 {
   font-size: 0.84rem;
 }
 
+.recording-panel {
+  margin-top: 28px;
+  padding: 18px;
+  border: 2px solid var(--line);
+  border-radius: 22px;
+  background: #eef8f3;
+}
+
+.recording-heading-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.recording-label {
+  margin: 0;
+  font-weight: 800;
+}
+
+.recording-help {
+  margin: 5px 0 0;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.recording-badge {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  min-height: 30px;
+  padding: 4px 10px;
+  border: 2px solid var(--line);
+  border-radius: 999px;
+  color: var(--ink);
+  background: var(--yellow);
+  font-size: 0.75rem;
+  font-weight: 800;
+}
+
+.recording-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.record-button,
+.delete-recording-button {
+  min-height: 44px;
+  padding: 10px 16px;
+  border: 2px solid var(--line);
+  border-radius: 999px;
+  font: inherit;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.record-button {
+  color: var(--ink);
+  background: #dff1e6;
+  box-shadow: 0 4px 0 #9bbdaa;
+}
+
+.record-button.is-recording {
+  color: #fffdf8;
+  background: var(--coral);
+  box-shadow: 0 4px 0 #ac5a4d;
+}
+
+.delete-recording-button {
+  color: var(--ink);
+  background: #fffdf8;
+}
+
+.record-button:disabled,
+.delete-recording-button:disabled {
+  cursor: wait;
+  opacity: 0.65;
+  transform: none;
+}
+
+.recording-audio {
+  display: block;
+  width: 100%;
+  margin-top: 15px;
+}
+
+.recording-status {
+  min-height: 1.5em;
+  margin: 12px 0 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
 .content-grid {
   display: grid;
   grid-template-columns: 1.12fr 0.88fr;
@@ -397,6 +492,19 @@ h1 {
 
   .sentence-number {
     margin-top: 42px;
+  }
+
+  .recording-heading-row {
+    display: block;
+  }
+
+  .recording-badge:not([hidden]) {
+    margin-top: 10px;
+  }
+
+  .record-button,
+  .delete-recording-button {
+    width: 100%;
   }
 
   #sentence-heading {
