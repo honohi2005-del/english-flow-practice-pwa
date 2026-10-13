@@ -261,28 +261,42 @@
   }
 
   function setupInstallPrompt() {
+    if (isStandalone()) {
+      installButton.hidden = true;
+      return;
+    }
+
+    installButton.hidden = false;
+
     window.addEventListener("beforeinstallprompt", (event) => {
       event.preventDefault();
       state.deferredInstall = event;
-      installButton.hidden = false;
-      installButton.textContent = "ホーム画面に追加";
     });
 
-    if (isIos() && !isStandalone()) {
+    if (isIos()) {
       installButton.hidden = false;
       installButton.textContent = "追加方法";
       installButton.addEventListener("click", () => {
         updateVoiceStatus("Safariの共有ボタンから「ホーム画面に追加」を選んでください。");
       });
     } else {
+      installButton.textContent = "ホーム画面に追加";
       installButton.addEventListener("click", async () => {
         if (!state.deferredInstall) {
+          updateVoiceStatus("ブラウザのメニューから「ホーム画面に追加」または「アプリをインストール」を選んでください。");
           return;
         }
-        state.deferredInstall.prompt();
-        await state.deferredInstall.userChoice;
-        state.deferredInstall = null;
-        installButton.hidden = true;
+        try {
+          state.deferredInstall.prompt();
+          const { outcome } = await state.deferredInstall.userChoice;
+          state.deferredInstall = null;
+          if (outcome === "accepted") {
+            installButton.hidden = true;
+          }
+        } catch {
+          state.deferredInstall = null;
+          updateVoiceStatus("ブラウザのメニューから「ホーム画面に追加」または「アプリをインストール」を選んでください。");
+        }
       });
     }
 
