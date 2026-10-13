@@ -1,4 +1,4 @@
-const CACHE_NAME = "english-flow-practice-v3";
+const CACHE_NAME = "english-flow-practice-v4";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -6,7 +6,7 @@ const APP_SHELL = [
   "./sentences.js",
   "./speech-voice.js",
   "./app.js",
-  "./site.webmanifest?v=2",
+  "./site.webmanifest?v=3",
   "./icons/icon.svg",
   "./icons/icon-192.png",
   "./icons/icon-512.png"

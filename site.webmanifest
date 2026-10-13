@@ -1,9 +1,9 @@
 {
   "name": "英語の発音練習",
   "short_name": "発音練習",
-  "id": "./",
-  "start_url": "./",
-  "scope": "./",
+  "id": "/english-flow-practice-pwa/",
+  "start_url": "/english-flow-practice-pwa/",
+  "scope": "/english-flow-practice-pwa/",
   "display": "standalone",
   "background_color": "#f5f1ea",
   "theme_color": "#f5f1ea",
