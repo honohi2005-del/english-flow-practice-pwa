@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">発音練習</title>
+  <desc id="desc">英語の音声練習を表すアイコン</desc>
+  <rect width="512" height="512" rx="128" fill="#f5f1ea"/>
+  <circle cx="256" cy="256" r="154" fill="#77b9c8" stroke="#202536" stroke-width="18"/>
+  <path d="M218 174v164l126-82z" fill="#f5f1ea" stroke="#202536" stroke-width="16" stroke-linejoin="round"/>
+  <path d="M378 204c22 29 22 75 0 104M410 174c38 46 38 114 0 160" fill="none" stroke="#d8c46d" stroke-width="18" stroke-linecap="round"/>
+</svg>
