@@ -384,6 +384,12 @@ button:focus-visible {
   font-size: 1.02rem;
 }
 
+.tips-list li > strong,
+.tips-list li > span {
+  grid-column: 2;
+  min-width: 0;
+}
+
 .tips-list li > span {
   display: block;
   color: var(--muted);

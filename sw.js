@@ -1,8 +1,8 @@
-const CACHE_NAME = "english-flow-practice-v15";
+const CACHE_NAME = "english-flow-practice-v16";
 const APP_SHELL = [
   "./",
   "./index.html",
-  "./styles.css?v=15",
+  "./styles.css?v=16",
   "./sentences.js",
   "./speech-voice.js",
   "./pronunciation-tips.js",
