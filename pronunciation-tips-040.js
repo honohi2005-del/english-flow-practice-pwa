@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "196": [
     {
       "label": "重点語の口の形",
-      "text": "「acknowledge / person’s / first」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nacknowledge：l は舌先を上の歯ぐきに軽く触れます。\nperson’s：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nfirst：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「acknowledge / person’s / first」を、単語ごとの口の形と音の止め方に合わせて読みます。\nacknowledge：acknowledge の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 acknowledge の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nperson’s：person’s の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 person’s の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nfirst：first の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 first の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "197": [
     {
       "label": "重点語の口の形",
-      "text": "「question / conversation / meaningful」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nquestion：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。\nconversation：-tion は「ション」と一拍で軽く収めます。\nmeaningful：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「question / conversation / meaningful」を、単語ごとの口の形と音の止め方に合わせて読みます。\nquestion：question の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。 question の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nconversation：conversation は /ˌkɑːnvərˈseɪʃən/。一番強くするのは -say-、/kɑːn-vər/ は弱くつなぎ、最後の /ʃən/ を「ション」と2拍にしません。\nmeaningful：meaningful の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 meaningful の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "198": [
     {
       "label": "重点語の口の形",
-      "text": "「follow / questions / discussion」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nfollow：l は舌先を上の歯ぐきに軽く触れます。\nquestions：-tion は「ション」と一拍で軽く収めます。\ndiscussion：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「follow / questions / discussion」を、単語ごとの口の形と音の止め方に合わせて読みます。\nfollow：follow の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 follow の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nquestions：questions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 questions の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\ndiscussion：discussion は /dɪˈskʌʃən/。/sk/ を「ス・ク」と分けず -cuss- を強く、最後の /ʃən/ は短く一まとまりにします。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "199": [
     {
       "label": "重点語の口の形",
-      "text": "「trying / conclusions / precise」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntrying：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nconclusions：l は舌先を上の歯ぐきに軽く触れます。\nprecise：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「trying / conclusions / precise」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntrying：trying の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 trying の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\nconclusions：conclusions の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 conclusions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nprecise：precise の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 precise の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "200": [
     {
       "label": "重点語の口の形",
-      "text": "「I / improving / conversation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nI：アクセントのある音を少し長く、ほかは軽く流します。\nimproving：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nconversation：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「I / improving / conversation」を、単語ごとの口の形と音の止め方に合わせて読みます。\nI：I は /aɪ/ を「ア」と「イ」の2拍に分けず、口を開いてそのまま一滑り。単独の「アイ」と切らず、次の語へすぐつなぎます。\nimproving：improving の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 improving の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nconversation：conversation は /ˌkɑːnvərˈseɪʃən/。一番強くするのは -say-、/kɑːn-vər/ は弱くつなぎ、最後の /ʃən/ を「ション」と2拍にしません。"
     },
     {
       "label": "日本語訛りになりやすい音",

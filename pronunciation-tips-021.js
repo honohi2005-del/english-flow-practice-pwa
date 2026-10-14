@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "101": [
     {
       "label": "重点語の口の形",
-      "text": "「People’s / priorities / change」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nPeople’s：l は舌先を上の歯ぐきに軽く触れます。\npriorities：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nchange：ng は舌の奥で止め、最後の /g/ を強く出しません。"
+      "text": "この文では「People’s / priorities / change」を、単語ごとの口の形と音の止め方に合わせて読みます。\nPeople’s：People’s の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 People’s の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\npriorities：priorities の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 priorities の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nchange：change の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 change の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "102": [
     {
       "label": "重点語の口の形",
-      "text": "「Work / source / meaning」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nWork：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nsource：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nmeaning：ng は舌の奥で止め、最後の /g/ を強く出しません。"
+      "text": "この文では「Work / source / meaning」を、単語ごとの口の形と音の止め方に合わせて読みます。\nWork：Work の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 Work の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nsource：source の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 source の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nmeaning：meaning の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 meaning の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "103": [
     {
       "label": "重点語の口の形",
-      "text": "「comfortable / guarantee / happiness」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncomfortable：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nguarantee：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nhappiness：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「comfortable / guarantee / happiness」を、単語ごとの口の形と音の止め方に合わせて読みます。\ncomfortable：comfortable の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 comfortable の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nguarantee：guarantee の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 guarantee の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nhappiness：happiness の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 happiness の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "104": [
     {
       "label": "重点語の口の形",
-      "text": "「Convenience / sometimes / independence」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nConvenience：f / v は下唇を上の歯に軽く触れ、母音を足しません。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\nindependence：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「Convenience / sometimes / independence」を、単語ごとの口の形と音の止め方に合わせて読みます。\nConvenience：Convenience の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 Convenience の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nsometimes：sometimes の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nindependence：independence の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "105": [
     {
       "label": "重点語の口の形",
-      "text": "「Technology / create / problems」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nTechnology：アクセントのある音を少し長く、ほかは軽く流します。\ncreate：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nproblems：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「Technology / create / problems」を、単語ごとの口の形と音の止め方に合わせて読みます。\nTechnology：Technology の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 Technology の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。\ncreate：create の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 create の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nproblems：problems の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 problems の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",

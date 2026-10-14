@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "171": [
     {
       "label": "重点語の口の形",
-      "text": "「want / question / precise」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nquestion：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。\nprecise：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「want / question / precise」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nquestion：question の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。 question の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nprecise：precise の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 precise の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "172": [
     {
       "label": "重点語の口の形",
-      "text": "「sometimes / word / broad」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\nword：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nbroad：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「sometimes / word / broad」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsometimes：sometimes の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nword：word の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 word の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nbroad：broad の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 broad の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "173": [
     {
       "label": "重点語の口の形",
-      "text": "「trying / choose / situation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntrying：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nchoose：アクセントのある音を少し長く、ほかは軽く流します。\nsituation：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「trying / choose / situation」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntrying：trying の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 trying の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\nchoose：choose の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。 choose の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nsituation：situation の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "174": [
     {
       "label": "重点語の口の形",
-      "text": "「literal / translation / natural」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nliteral：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ntranslation：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nnatural：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。"
+      "text": "この文では「literal / translation / natural」を、単語ごとの口の形と音の止め方に合わせて読みます。\nliteral：literal の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 literal の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\ntranslation：translation の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 translation の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nnatural：natural は /ˈnætʃərəl/。最初の /næ/ を強く、-tural- は「チュラル」と3拍にせず、/tʃr/ を続けて最後を軽くします。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "175": [
     {
       "label": "重点語の口の形",
-      "text": "「want / which / usually」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nwhich：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nusually：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「want / which / usually」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nwhich：which の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 which の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。\nusually：usually の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 usually の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",

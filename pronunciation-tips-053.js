@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "261": [
     {
       "label": "重点語の口の形",
-      "text": "「create / comfortable / students」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncreate：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ncomfortable：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nstudents：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「create / comfortable / students」を、単語ごとの口の形と音の止め方に合わせて読みます。\ncreate：create の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 create の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ncomfortable：comfortable の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 comfortable の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nstudents：students の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 students の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "262": [
     {
       "label": "重点語の口の形",
-      "text": "「Students / freely / feel」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nStudents：アクセントのある音を少し長く、ほかは軽く流します。\nfreely：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nfeel：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「Students / freely / feel」を、単語ごとの口の形と音の止め方に合わせて読みます。\nStudents：Students の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 Students の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nfreely：freely の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 freely の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nfeel：feel の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 feel の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "263": [
     {
       "label": "重点語の口の形",
-      "text": "「Mistakes / learning / opportunities」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nMistakes：アクセントのある音を少し長く、ほかは軽く流します。\nlearning：ng は舌の奥で止め、最後の /g/ を強く出しません。\nopportunities：この語は語尾に母音を足さず、最後の子音で短く閉じます。"
+      "text": "この文では「Mistakes / learning / opportunities」を、単語ごとの口の形と音の止め方に合わせて読みます。\nMistakes：Mistakes の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 Mistakes の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nlearning：learning の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 learning の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nopportunities：opportunities の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 opportunities の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "264": [
     {
       "label": "重点語の口の形",
-      "text": "「Feedback / specific / encouraging」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nFeedback：アクセントのある音を少し長く、ほかは軽く流します。\nspecific：アクセントのある音を少し長く、ほかは軽く流します。\nencouraging：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「Feedback / specific / encouraging」を、単語ごとの口の形と音の止め方に合わせて読みます。\nFeedback：feedback は /ˈfiːdbæk/。/fiːd/ の /iː/ を保ち、/d/ から /b/ を切らず、最後の /k/ は「ク」と母音を添えず止めます。\nspecific：specific は /spəˈsɪfɪk/。真ん中の /sɪf/ を強く、最初の /spə/ は弱くつなぎ、最後の /k/ は「ク」と開きません。\nencouraging：encouraging の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 encouraging の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "265": [
     {
       "label": "重点語の口の形",
-      "text": "「students / understand / something」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nstudents：アクセントのある音を少し長く、ほかは軽く流します。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。\nsomething：th は舌先を歯の間に少し出し、息（または声）を添えます。"
+      "text": "この文では「students / understand / something」を、単語ごとの口の形と音の止め方に合わせて読みます。\nstudents：students の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 students の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nunderstand：understand の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 understand の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nsomething：something の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。 something の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",

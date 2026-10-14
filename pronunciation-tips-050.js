@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "246": [
     {
       "label": "重点語の口の形",
-      "text": "「speakers / use / expressions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nspeakers：語尾の /z/ は母音を足さず、声を残して短く閉じます。\nuse：アクセントのある音を少し長く、ほかは軽く流します。\nexpressions：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「speakers / use / expressions」を、単語ごとの口の形と音の止め方に合わせて読みます。\nspeakers：speakers の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 speakers の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nuse：use は最初の /u/ をはっきり出し、最後の /e/ で音を閉じます。「use」を日本語の拍に分けず、一息でつなげます。\nexpressions：expressions の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 expressions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "247": [
     {
       "label": "重点語の口の形",
-      "text": "「English / always / textbook」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nEnglish：l は舌先を上の歯ぐきに軽く触れます。\nalways：l は舌先を上の歯ぐきに軽く触れます。\ntextbook：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「English / always / textbook」を、単語ごとの口の形と音の止め方に合わせて読みます。\nEnglish：English は /ˈɪŋɡlɪʃ/。最初の /ɪŋ/ を強く、/ŋ/ のあとに「グ」を独立させず、最後の /ʃ/ は「シ」と母音を足さず息で終えます。\nalways：always の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 always の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\ntextbook：textbook の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "248": [
     {
       "label": "重点語の口の形",
-      "text": "「sentence / different / different」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsentence：アクセントのある音を少し長く、ほかは軽く流します。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。"
+      "text": "この文では「sentence / different / different」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsentence：sentence は /ˈsentəns/。最初の /sent/ を強く、真ん中の /tə/ を弱くし、最後の /s/ は「ス」と母音を足さず止めます。\ndifferent：different は /ˈdɪfrənt/。「ディ・ファ・レント」と3拍にせず、/dɪf/ を強くして /frənt/ へ一息でつなぎ、最後の /t/ は破裂させません。\ndifferent：different は /ˈdɪfrənt/。「ディ・ファ・レント」と3拍にせず、/dɪf/ を強くして /frənt/ へ一息でつなぎ、最後の /t/ は破裂させません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "249": [
     {
       "label": "重点語の口の形",
-      "text": "「Politeness / relationship / speakers」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nPoliteness：l は舌先を上の歯ぐきに軽く触れます。\nrelationship：-tion は「ション」と一拍で軽く収めます。\nspeakers：語尾の /z/ は母音を足さず、声を残して短く閉じます。"
+      "text": "この文では「Politeness / relationship / speakers」を、単語ごとの口の形と音の止め方に合わせて読みます。\nPoliteness：Politeness の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 Politeness の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nrelationship：relationship の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 relationship の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nspeakers：speakers の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 speakers の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "250": [
     {
       "label": "重点語の口の形",
-      "text": "「change / meaning / sentence」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nchange：ng は舌の奥で止め、最後の /g/ を強く出しません。\nmeaning：ng は舌の奥で止め、最後の /g/ を強く出しません。\nsentence：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「change / meaning / sentence」を、単語ごとの口の形と音の止め方に合わせて読みます。\nchange：change の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 change の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。\nmeaning：meaning の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 meaning の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。\nsentence：sentence は /ˈsentəns/。最初の /sent/ を強く、真ん中の /tə/ を弱くし、最後の /s/ は「ス」と母音を足さず止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",

@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "61": [
     {
       "label": "重点語の口の形",
-      "text": "「interested / people / languages」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ninterested：r は舌先を歯ぐきに付けず、口の奥で響かせます。\npeople：l は舌先を上の歯ぐきに軽く触れます。\nlanguages：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「interested / people / languages」を、単語ごとの口の形と音の止め方に合わせて読みます。\ninterested：interested の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 interested の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。\npeople：people の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 people の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nlanguages：languages の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 languages の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "62": [
     {
       "label": "重点語の口の形",
-      "text": "「I / reading / education」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nI：アクセントのある音を少し長く、ほかは軽く流します。\nreading：r は舌先を歯ぐきに付けず、口の奥で響かせます。\neducation：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「I / reading / education」を、単語ごとの口の形と音の止め方に合わせて読みます。\nI：I は /aɪ/ を「ア」と「イ」の2拍に分けず、口を開いてそのまま一滑り。単独の「アイ」と切らず、次の語へすぐつなぎます。\nreading：reading の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 reading の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\neducation：education の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "63": [
     {
       "label": "重点語の口の形",
-      "text": "「advantages / disadvantages / technology」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nadvantages：f / v は下唇を上の歯に軽く触れ、母音を足しません。\ndisadvantages：アクセントのある音を少し長く、ほかは軽く流します。\ntechnology：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「advantages / disadvantages / technology」を、単語ごとの口の形と音の止め方に合わせて読みます。\nadvantages：advantages の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 advantages の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ndisadvantages：disadvantages の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 disadvantages の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ntechnology：technology の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 technology の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "64": [
     {
       "label": "重点語の口の形",
-      "text": "「curious / intelligence / education」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncurious：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nintelligence：アクセントのある音を少し長く、ほかは軽く流します。\neducation：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「curious / intelligence / education」を、単語ごとの口の形と音の止め方に合わせて読みます。\ncurious：curious の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 curious の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nintelligence：intelligence の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 intelligence の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\neducation：education の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "65": [
     {
       "label": "重点語の口の形",
-      "text": "「understand / benefits / risks」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。\nbenefits：アクセントのある音を少し長く、ほかは軽く流します。\nrisks：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「understand / benefits / risks」を、単語ごとの口の形と音の止め方に合わせて読みます。\nunderstand：understand の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 understand の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nbenefits：benefits の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 benefits の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nrisks：risks の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 risks の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",

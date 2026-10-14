@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "156": [
     {
       "label": "重点語の口の形",
-      "text": "「try / carefully / answer」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntry：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ncarefully：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nanswer：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「try / carefully / answer」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntry：try の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 try の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ncarefully：carefully の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 carefully の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nanswer：answer の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 answer の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "157": [
     {
       "label": "重点語の口の形",
-      "text": "「want / directly / question」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\ndirectly：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nquestion：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。"
+      "text": "この文では「want / directly / question」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ndirectly：directly の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 directly の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nquestion：question の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。 question の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "158": [
     {
       "label": "重点語の口の形",
-      "text": "「understand / ask / clarification」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。\nask：アクセントのある音を少し長く、ほかは軽く流します。\nclarification：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「understand / ask / clarification」を、単語ごとの口の形と音の止め方に合わせて読みます。\nunderstand：understand の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 understand の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nask：ask の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nclarification：clarification の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 clarification の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "159": [
     {
       "label": "重点語の口の形",
-      "text": "「speaker / rephrase / question」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nspeaker：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nrephrase：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nquestion：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。"
+      "text": "この文では「speaker / rephrase / question」を、単語ごとの口の形と音の止め方に合わせて読みます。\nspeaker：speaker の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 speaker の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nrephrase：rephrase の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 rephrase の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nquestion：question の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。 question の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "160": [
     {
       "label": "重点語の口の形",
-      "text": "「want / connected / topic」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nconnected：語尾の /t/ は強く破裂させず、舌先で止めます。\ntopic：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「want / connected / topic」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nconnected：connected の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。 connected の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ntopic：topic は最初の /t/ をはっきり出し、最後の /c/ で音を閉じます。「topic」を日本語の拍に分けず、一息でつなげます。"
     },
     {
       "label": "日本語訛りになりやすい音",

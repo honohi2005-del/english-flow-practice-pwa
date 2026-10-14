@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "286": [
     {
       "label": "重点語の口の形",
-      "text": "「Details / explanation / convincing」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nDetails：アクセントのある音を少し長く、ほかは軽く流します。\nexplanation：-tion は「ション」と一拍で軽く収めます。\nconvincing：f / v は下唇を上の歯に軽く触れ、母音を足しません。"
+      "text": "この文では「Details / explanation / convincing」を、単語ごとの口の形と音の止め方に合わせて読みます。\nDetails：Details の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 Details の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nexplanation：explanation の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explanation の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。\nconvincing：convincing の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 convincing の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "287": [
     {
       "label": "重点語の口の形",
-      "text": "「order / information / impression」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\norder：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ninformation：-tion は「ション」と一拍で軽く収めます。\nimpression：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「order / information / impression」を、単語ごとの口の形と音の止め方に合わせて読みます。\norder：order の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 order の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ninformation：information の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 information の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nimpression：impression の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 impression の -sion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "288": [
     {
       "label": "重点語の口の形",
-      "text": "「comparison / unfamiliar / clearer」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncomparison：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nunfamiliar：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nclearer：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「comparison / unfamiliar / clearer」を、単語ごとの口の形と音の止め方に合わせて読みます。\ncomparison：comparison の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 comparison の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nunfamiliar：unfamiliar の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 unfamiliar の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nclearer：clearer の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 clearer の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "289": [
     {
       "label": "重点語の口の形",
-      "text": "「distinguish / facts / personal」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ndistinguish：ng は舌の奥で止め、最後の /g/ を強く出しません。\nfacts：この語は語尾に母音を足さず、最後の子音で短く閉じます。\npersonal：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「distinguish / facts / personal」を、単語ごとの口の形と音の止め方に合わせて読みます。\ndistinguish：distinguish の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 distinguish の sh は「シ」と声を足さず、唇を少し丸めた /ʃ/ の息で閉じます。\nfacts：facts の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 facts の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\npersonal：personal の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 personal の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "290": [
     {
       "label": "重点語の口の形",
-      "text": "「explain / reason / opinion」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nreason：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nopinion：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「explain / reason / opinion」を、単語ごとの口の形と音の止め方に合わせて読みます。\nexplain：explain の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explain の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nreason：reason の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。\nopinion：opinion は最初の /o/ をはっきり出し、最後の /n/ で音を閉じます。「opinion」を日本語の拍に分けず、一息でつなげます。"
     },
     {
       "label": "日本語訛りになりやすい音",

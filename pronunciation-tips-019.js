@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "91": [
     {
       "label": "重点語の口の形",
-      "text": "「mistakes / show / practice」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nmistakes：アクセントのある音を少し長く、ほかは軽く流します。\nshow：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\npractice：子音が続くところは、間に母音を足さず一息でつなぎます。"
+      "text": "この文では「mistakes / show / practice」を、単語ごとの口の形と音の止め方に合わせて読みます。\nmistakes：mistakes の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 mistakes の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nshow：show の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 show の sh は「シ」と声を足さず、唇を少し丸めた /ʃ/ の息で閉じます。\npractice：practice の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 practice の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "92": [
     {
       "label": "重点語の口の形",
-      "text": "「want / comfortable / uncertainty」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\ncomfortable：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nuncertainty：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「want / comfortable / uncertainty」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ncomfortable：comfortable の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 comfortable の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nuncertainty：uncertainty の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 uncertainty の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "93": [
     {
       "label": "重点語の口の形",
-      "text": "「sometimes / worry / unnatural」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\nworry：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nunnatural：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「sometimes / worry / unnatural」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsometimes：sometimes の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nworry：worry の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 worry の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nunnatural：unnatural の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 unnatural の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "94": [
     {
       "label": "重点語の口の形",
-      "text": "「trying / sentence / perfect」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntrying：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nsentence：アクセントのある音を少し長く、ほかは軽く流します。\nperfect：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「trying / sentence / perfect」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntrying：trying の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 trying の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\nsentence：sentence は /ˈsentəns/。最初の /sent/ を強く、真ん中の /tə/ を弱くし、最後の /s/ は「ス」と母音を足さず止めます。\nperfect：perfect の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 perfect の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "95": [
     {
       "label": "重点語の口の形",
-      "text": "「want / clarification / naturally」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nclarification：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nnaturally：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「want / clarification / naturally」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nclarification：clarification の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 clarification の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nnaturally：naturally の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 naturally の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",

@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "126": [
     {
       "label": "重点語の口の形",
-      "text": "「experience / ask / questions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexperience：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nask：アクセントのある音を少し長く、ほかは軽く流します。\nquestions：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「experience / ask / questions」を、単語ごとの口の形と音の止め方に合わせて読みます。\nexperience：experience の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 experience の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nask：ask の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nquestions：questions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 questions の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "127": [
     {
       "label": "重点語の口の形",
-      "text": "「explained / point / clearly」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexplained：l は舌先を上の歯ぐきに軽く触れます。\npoint：アクセントのある音を少し長く、ほかは軽く流します。\nclearly：この語は語尾に母音を足さず、最後の子音で短く閉じます。"
+      "text": "この文では「explained / point / clearly」を、単語ごとの口の形と音の止め方に合わせて読みます。\nexplained：explained の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explained の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。\npoint：point の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 point の語尾 /t/ は強く破裂させず、舌先で止めます。\nclearly：clearly の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 clearly の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "128": [
     {
       "label": "重点語の口の形",
-      "text": "「other / helped / another」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nother：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nhelped：l は舌先を上の歯ぐきに軽く触れます。\nanother：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「other / helped / another」を、単語ごとの口の形と音の止め方に合わせて読みます。\nother：other の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 other の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。\nhelped：helped の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 helped の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。\nanother：another の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 another の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "129": [
     {
       "label": "重点語の口の形",
-      "text": "「completely / conversation / useful」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncompletely：l は舌先を上の歯ぐきに軽く触れます。\nconversation：-tion は「ション」と一拍で軽く収めます。\nuseful：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「completely / conversation / useful」を、単語ごとの口の形と音の止め方に合わせて読みます。\ncompletely：completely の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 completely の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nconversation：conversation は /ˌkɑːnvərˈseɪʃən/。一番強くするのは -say-、/kɑːn-vər/ は弱くつなぎ、最後の /ʃən/ を「ション」と2拍にしません。\nuseful：useful の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 useful の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "130": [
     {
       "label": "重点語の口の形",
-      "text": "「remember / than / exact」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nremember：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nthan：th は舌先を歯の間に少し出し、息（または声）を添えます。\nexact：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「remember / than / exact」を、単語ごとの口の形と音の止め方に合わせて読みます。\nremember：remember の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 remember の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nthan：than の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。 than の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nexact：exact の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 exact の語尾 /t/ は強く破裂させず、舌先で止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",

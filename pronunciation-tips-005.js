@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "21": [
     {
       "label": "重点語の口の形",
-      "text": "「lessons / include / conversation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlessons：l は舌先を上の歯ぐきに軽く触れます。\ninclude：l は舌先を上の歯ぐきに軽く触れます。\nconversation：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「lessons / include / conversation」を、単語ごとの口の形と音の止め方に合わせて読みます。\nlessons：lessons の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 lessons の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ninclude：include の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 include の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nconversation：conversation は /ˌkɑːnvərˈseɪʃən/。一番強くするのは -say-、/kɑːn-vər/ は弱くつなぎ、最後の /ʃən/ を「ション」と2拍にしません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "22": [
     {
       "label": "重点語の口の形",
-      "text": "「learn / follow / questions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlearn：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nfollow：l は舌先を上の歯ぐきに軽く触れます。\nquestions：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「learn / follow / questions」を、単語ごとの口の形と音の止め方に合わせて読みます。\nlearn：learn の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 learn の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nfollow：follow の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 follow の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nquestions：questions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 questions の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "23": [
     {
       "label": "重点語の口の形",
-      "text": "「I / examples / immediately」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nI：アクセントのある音を少し長く、ほかは軽く流します。\nexamples：l は舌先を上の歯ぐきに軽く触れます。\nimmediately：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「I / examples / immediately」を、単語ごとの口の形と音の止め方に合わせて読みます。\nI：I は /aɪ/ を「ア」と「イ」の2拍に分けず、口を開いてそのまま一滑り。単独の「アイ」と切らず、次の語へすぐつなぎます。\nexamples：examples の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 examples の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nimmediately：immediately の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 immediately の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "24": [
     {
       "label": "重点語の口の形",
-      "text": "「want / speakers / something」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nspeakers：語尾の /z/ は母音を足さず、声を残して短く閉じます。\nsomething：th は舌先を歯の間に少し出し、息（または声）を添えます。"
+      "text": "この文では「want / speakers / something」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nspeakers：speakers の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 speakers の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nsomething：something の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。 something の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "25": [
     {
       "label": "重点語の口の形",
-      "text": "「interested / difference / natural」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ninterested：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndifference：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nnatural：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。"
+      "text": "この文では「interested / difference / natural」を、単語ごとの口の形と音の止め方に合わせて読みます。\ninterested：interested の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 interested の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。\ndifference：difference の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 difference の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nnatural：natural は /ˈnætʃərəl/。最初の /næ/ を強く、-tural- は「チュラル」と3拍にせず、/tʃr/ を続けて最後を軽くします。"
     },
     {
       "label": "日本語訛りになりやすい音",

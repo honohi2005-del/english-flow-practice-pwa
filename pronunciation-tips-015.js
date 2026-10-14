@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "71": [
     {
       "label": "重点語の口の形",
-      "text": "「relationship / language / culture」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nrelationship：-tion は「ション」と一拍で軽く収めます。\nlanguage：ng は舌の奥で止め、最後の /g/ を強く出しません。\nculture：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。"
+      "text": "この文では「relationship / language / culture」を、単語ごとの口の形と音の止め方に合わせて読みます。\nrelationship：relationship の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 relationship の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nlanguage：language は /ˈlæŋɡwɪdʒ/。/læŋ/ を強く、/ŋ/ から /ɡw/ を一息でつなぎ、最後の /dʒ/ を「ジ」と開きません。\nculture：culture の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 culture の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "72": [
     {
       "label": "重点語の口の形",
-      "text": "「I / noticing / conversational」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nI：アクセントのある音を少し長く、ほかは軽く流します。\nnoticing：ng は舌の奥で止め、最後の /g/ を強く出しません。\nconversational：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「I / noticing / conversational」を、単語ごとの口の形と音の止め方に合わせて読みます。\nI：I は /aɪ/ を「ア」と「イ」の2拍に分けず、口を開いてそのまま一滑り。単独の「アイ」と切らず、次の語へすぐつなぎます。\nnoticing：noticing の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 noticing の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。\nconversational：conversational の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 conversational の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "73": [
     {
       "label": "重点語の口の形",
-      "text": "「cultures / directness / others」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncultures：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndirectness：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nothers：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「cultures / directness / others」を、単語ごとの口の形と音の止め方に合わせて読みます。\ncultures：cultures の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 cultures の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\ndirectness：directness の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 directness の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nothers：others の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 others の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "74": [
     {
       "label": "重点語の口の形",
-      "text": "「behavior / interpreted / differently」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nbehavior：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ninterpreted：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndifferently：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「behavior / interpreted / differently」を、単語ごとの口の形と音の止め方に合わせて読みます。\nbehavior：behavior の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 behavior の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\ninterpreted：interpreted の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 interpreted の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。\ndifferently：differently の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 differently の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "75": [
     {
       "label": "重点語の口の形",
-      "text": "「Context / important / single」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nContext：アクセントのある音を少し長く、ほかは軽く流します。\nimportant：語尾の /t/ は強く破裂させず、舌先で止めます。\nsingle：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「Context / important / single」を、単語ごとの口の形と音の止め方に合わせて読みます。\nContext：Context の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 Context の語尾 /t/ は強く破裂させず、舌先で止めます。\nimportant：important は /ɪmˈpɔːrtənt/。/pɔːr/ を強く、最初の /ɪm/ と最後の /tənt/ は軽くし、語尾に「トゥ」と母音を足しません。\nsingle：single の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 single の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",

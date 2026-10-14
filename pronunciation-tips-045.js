@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "221": [
     {
       "label": "重点語の口の形",
-      "text": "「don’t / giving / sentence」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ndon’t：アクセントのある音を少し長く、ほかは軽く流します。\ngiving：f / v は下唇を上の歯に軽く触れ、母音を足しません。\nsentence：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「don’t / giving / sentence」を、単語ごとの口の形と音の止め方に合わせて読みます。\ndon’t：don’t の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 don’t の語尾 /t/ は強く破裂させず、舌先で止めます。\ngiving：giving の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 giving の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\nsentence：sentence は /ˈsentəns/。最初の /sent/ を強く、真ん中の /tə/ を弱くし、最後の /s/ は「ス」と母音を足さず止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "222": [
     {
       "label": "重点語の口の形",
-      "text": "「learning / detail / enough」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlearning：ng は舌の奥で止め、最後の /g/ を強く出しません。\ndetail：l は舌先を上の歯ぐきに軽く触れます。\nenough：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「learning / detail / enough」を、単語ごとの口の形と音の止め方に合わせて読みます。\nlearning：learning の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 learning の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\ndetail：detail の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nenough：enough の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "223": [
     {
       "label": "重点語の口の形",
-      "text": "「reason / stating / opinion」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nreason：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nstating：ng は舌の奥で止め、最後の /g/ を強く出しません。\nopinion：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「reason / stating / opinion」を、単語ごとの口の形と音の止め方に合わせて読みます。\nreason：reason の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。\nstating：stating の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 stating の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。\nopinion：opinion は最初の /o/ をはっきり出し、最後の /n/ で音を閉じます。「opinion」を日本語の拍に分けず、一息でつなげます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "224": [
     {
       "label": "重点語の口の形",
-      "text": "「example / idea / abstract」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexample：アクセントのある音を少し長く、ほかは軽く流します。\nidea：アクセントのある音を少し長く、ほかは軽く流します。\nabstract：この語は語尾に母音を足さず、最後の子音で短く閉じます。"
+      "text": "この文では「example / idea / abstract」を、単語ごとの口の形と音の止め方に合わせて読みます。\nexample：example は /ɪɡˈzæmpəl/。/zæm/ を強く、/ɡ/ から /z/ を切らず、最後の /pəl/ は「ポル」と開かず軽く終えます。\nidea：idea は最初の /i/ をはっきり出し、最後の /a/ で音を閉じます。「idea」を日本語の拍に分けず、一息でつなげます。\nabstract：abstract の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 abstract の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "225": [
     {
       "label": "重点語の口の形",
-      "text": "「want / compare / clearly」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\ncompare：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nclearly：この語は語尾に母音を足さず、最後の子音で短く閉じます。"
+      "text": "この文では「want / compare / clearly」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ncompare：compare の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 compare の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nclearly：clearly の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 clearly の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",

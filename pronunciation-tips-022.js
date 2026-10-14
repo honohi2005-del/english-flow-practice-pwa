@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "106": [
     {
       "label": "重点語の口の形",
-      "text": "「Older / younger / different」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nOlder：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nyounger：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。"
+      "text": "この文では「Older / younger / different」を、単語ごとの口の形と音の止め方に合わせて読みます。\nOlder：Older の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 Older の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nyounger：younger の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 younger の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\ndifferent：different は /ˈdɪfrənt/。「ディ・ファ・レント」と3拍にせず、/dɪf/ を強くして /frənt/ へ一息でつなぎ、最後の /t/ は破裂させません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "107": [
     {
       "label": "重点語の口の形",
-      "text": "「expectations / influence / choices」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexpectations：-tion は「ション」と一拍で軽く収めます。\ninfluence：l は舌先を上の歯ぐきに軽く触れます。\nchoices：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「expectations / influence / choices」を、単語ごとの口の形と音の止め方に合わせて読みます。\nexpectations：expectations の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 expectations の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\ninfluence：influence の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 influence の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nchoices：choices の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。 choices の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "108": [
     {
       "label": "重点語の口の形",
-      "text": "「relationships / shaped / factors」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nrelationships：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nshaped：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nfactors：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「relationships / shaped / factors」を、単語ごとの口の形と音の止め方に合わせて読みます。\nrelationships：relationships の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 relationships の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nshaped：shaped の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。 shaped の sh は「シ」と声を足さず、唇を少し丸めた /ʃ/ の息で閉じます。\nfactors：factors の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 factors の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "109": [
     {
       "label": "重点語の口の形",
-      "text": "「difficult / define / successful」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ndifficult：l は舌先を上の歯ぐきに軽く触れます。\ndefine：アクセントのある音を少し長く、ほかは軽く流します。\nsuccessful：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「difficult / define / successful」を、単語ごとの口の形と音の止め方に合わせて読みます。\ndifficult：difficult の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 difficult の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\ndefine：define の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nsuccessful：successful の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 successful の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "110": [
     {
       "label": "重点語の口の形",
-      "text": "「People / stability / freedom」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nPeople：l は舌先を上の歯ぐきに軽く触れます。\nstability：l は舌先を上の歯ぐきに軽く触れます。\nfreedom：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「People / stability / freedom」を、単語ごとの口の形と音の止め方に合わせて読みます。\nPeople：People の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 People の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nstability：stability の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 stability の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nfreedom：freedom の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 freedom の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",

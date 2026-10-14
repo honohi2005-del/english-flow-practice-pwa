@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "151": [
     {
       "label": "重点語の口の形",
-      "text": "「want / structure / speak」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nstructure：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nspeak：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「want / structure / speak」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nstructure：structure の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 structure の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nspeak：speak の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "152": [
     {
       "label": "重点語の口の形",
-      "text": "「practicing / state / opinion」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\npracticing：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nstate：アクセントのある音を少し長く、ほかは軽く流します。\nopinion：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「practicing / state / opinion」を、単語ごとの口の形と音の止め方に合わせて読みます。\npracticing：practicing は /ˈpræktɪsɪŋ/。最初の /pr/ を「プ・ラ」と分けず、/præk/ を強く、最後の /ŋ/ は「ング」と破裂させません。\nstate：state の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nopinion：opinion は最初の /o/ をはっきり出し、最後の /n/ で音を閉じます。「opinion」を日本語の拍に分けず、一息でつなげます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "153": [
     {
       "label": "重点語の口の形",
-      "text": "「Then / reason / example」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nThen：th は舌先を歯の間に少し出し、息（または声）を添えます。\nreason：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nexample：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「Then / reason / example」を、単語ごとの口の形と音の止め方に合わせて読みます。\nThen：Then の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。 Then の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nreason：reason の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。\nexample：example は /ɪɡˈzæmpəl/。/zæm/ を強く、/ɡ/ から /z/ を切らず、最後の /pəl/ は「ポル」と開かず軽く終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "154": [
     {
       "label": "重点語の口の形",
-      "text": "「want / avoid / unrelated」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\navoid：f / v は下唇を上の歯に軽く触れ、母音を足しません。\nunrelated：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「want / avoid / unrelated」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\navoid：avoid の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 avoid の語尾 /d/ は強く破裂させず、舌先で止めます。\nunrelated：unrelated の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 unrelated の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "155": [
     {
       "label": "重点語の口の形",
-      "text": "「short / organize / sentence」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nshort：r は舌先を歯ぐきに付けず、口の奥で響かせます。\norganize：語尾の /z/ は母音を足さず、声を残して短く閉じます。\nsentence：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「short / organize / sentence」を、単語ごとの口の形と音の止め方に合わせて読みます。\nshort：short の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 short の sh は「シ」と声を足さず、唇を少し丸めた /ʃ/ の息で閉じます。\norganize：organize の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 organize の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nsentence：sentence は /ˈsentəns/。最初の /sent/ を強く、真ん中の /tə/ を弱くし、最後の /s/ は「ス」と母音を足さず止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",

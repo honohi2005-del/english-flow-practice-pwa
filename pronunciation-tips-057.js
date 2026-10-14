@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "281": [
     {
       "label": "重点語の口の形",
-      "text": "「interested / explain / experiences」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ninterested：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nexperiences：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「interested / explain / experiences」を、単語ごとの口の形と音の止め方に合わせて読みます。\ninterested：interested の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 interested の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。\nexplain：explain の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explain の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nexperiences：experiences は /ɪkˈspɪriənsɪz/。/ɪkˈspɪr/ を「イク・スピ」と切らず、-spee- を強くし、最後の /sɪz/ は小さく添えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "282": [
     {
       "label": "重点語の口の形",
-      "text": "「Personal / reveal / differences」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nPersonal：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nreveal：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndifferences：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「Personal / reveal / differences」を、単語ごとの口の形と音の止め方に合わせて読みます。\nPersonal：Personal の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 Personal の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nreveal：reveal の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 reveal の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\ndifferences：differences の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 differences の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "283": [
     {
       "label": "重点語の口の形",
-      "text": "「People / organize / way」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nPeople：l は舌先を上の歯ぐきに軽く触れます。\norganize：語尾の /z/ は母音を足さず、声を残して短く閉じます。\nway：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。"
+      "text": "この文では「People / organize / way」を、単語ごとの口の形と音の止め方に合わせて読みます。\nPeople：People の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 People の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\norganize：organize の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 organize の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nway：way の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "284": [
     {
       "label": "重点語の口の形",
-      "text": "「listener / need / information」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlistener：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nneed：語尾の -ed は「エッド」と一拍にせず、短く収めます。\ninformation：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「listener / need / information」を、単語ごとの口の形と音の止め方に合わせて読みます。\nlistener：listener の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 listener の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nneed：need の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。 need の語尾 /d/ は強く破裂させず、舌先で止めます。\ninformation：information の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 information の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "285": [
     {
       "label": "重点語の口の形",
-      "text": "「true / still / incomplete」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntrue：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nstill：l は舌先を上の歯ぐきに軽く触れます。\nincomplete：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「true / still / incomplete」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntrue：true の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 true の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nstill：still の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 still の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nincomplete：incomplete の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 incomplete の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",

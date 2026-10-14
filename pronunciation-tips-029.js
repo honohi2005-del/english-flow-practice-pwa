@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "141": [
     {
       "label": "重点語の口の形",
-      "text": "「teacher / question / experience」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nteacher：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。\nquestion：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。\nexperience：この語は語尾に母音を足さず、最後の子音で短く閉じます。"
+      "text": "この文では「teacher / question / experience」を、単語ごとの口の形と音の止め方に合わせて読みます。\nteacher：teacher の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 teacher の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。\nquestion：question の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。 question の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nexperience：experience の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 experience の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "142": [
     {
       "label": "重点語の口の形",
-      "text": "「understood / question / answer」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nunderstood：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nquestion：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。\nanswer：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「understood / question / answer」を、単語ごとの口の形と音の止め方に合わせて読みます。\nunderstood：understood の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 understood の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nquestion：question の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。 question の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nanswer：answer の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 answer の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "143": [
     {
       "label": "重点語の口の形",
-      "text": "「needed / moment / right」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nneeded：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nmoment：アクセントのある音を少し長く、ほかは軽く流します。\nright：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「needed / moment / right」を、単語ごとの口の形と音の止め方に合わせて読みます。\nneeded：needed の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。 needed の語尾 /d/ は強く破裂させず、舌先で止めます。\nmoment：moment の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 moment の語尾 /t/ は強く破裂させず、舌先で止めます。\nright：right の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 right の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "144": [
     {
       "label": "重点語の口の形",
-      "text": "「gave / answer / explanation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ngave：f / v は下唇を上の歯に軽く触れ、母音を足しません。\nanswer：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexplanation：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「gave / answer / explanation」を、単語ごとの口の形と音の止め方に合わせて読みます。\ngave：gave の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nanswer：answer の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 answer の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nexplanation：explanation の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explanation の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "145": [
     {
       "label": "重点語の口の形",
-      "text": "「follow / question / develop」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nfollow：l は舌先を上の歯ぐきに軽く触れます。\nquestion：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。\ndevelop：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「follow / question / develop」を、単語ごとの口の形と音の止め方に合わせて読みます。\nfollow：follow の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 follow の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nquestion：question の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。 question の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ndevelop：develop の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 develop の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",

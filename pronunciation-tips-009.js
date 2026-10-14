@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "41": [
     {
       "label": "重点語の口の形",
-      "text": "「usually / day / coffee」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nusually：アクセントのある音を少し長く、ほかは軽く流します。\nday：アクセントのある音を少し長く、ほかは軽く流します。\ncoffee：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「usually / day / coffee」を、単語ごとの口の形と音の止め方に合わせて読みます。\nusually：usually の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 usually の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nday：day は最初の /d/ をはっきり出し、最後の /y/ で音を閉じます。「day」を日本語の拍に分けず、一息でつなげます。\ncoffee：coffee の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 coffee の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "42": [
     {
       "label": "重点語の口の形",
-      "text": "「taking / short / break」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntaking：ng は舌の奥で止め、最後の /g/ を強く出しません。\nshort：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nbreak：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「taking / short / break」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntaking：taking の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 taking の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。\nshort：short の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 short の sh は「シ」と声を足さず、唇を少し丸めた /ʃ/ の息で閉じます。\nbreak：break の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 break の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "43": [
     {
       "label": "重点語の口の形",
-      "text": "「listen / English / housework」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlisten：l は舌先を上の歯ぐきに軽く触れます。\nEnglish：l は舌先を上の歯ぐきに軽く触れます。\nhousework：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「listen / English / housework」を、単語ごとの口の形と音の止め方に合わせて読みます。\nlisten：listen の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 listen の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nEnglish：English は /ˈɪŋɡlɪʃ/。最初の /ɪŋ/ を強く、/ŋ/ のあとに「グ」を独立させず、最後の /ʃ/ は「シ」と母音を足さず息で終えます。\nhousework：housework の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 housework の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "44": [
     {
       "label": "重点語の口の形",
-      "text": "「try / time / reading」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntry：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ntime：アクセントのある音を少し長く、ほかは軽く流します。\nreading：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「try / time / reading」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntry：try の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 try の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ntime：time は最初の /t/ をはっきり出し、最後の /e/ で音を閉じます。「time」を日本語の拍に分けず、一息でつなげます。\nreading：reading の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 reading の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "45": [
     {
       "label": "重点語の口の形",
-      "text": "「enjoy / quiet / mornings」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nenjoy：アクセントのある音を少し長く、ほかは軽く流します。\nquiet：アクセントのある音を少し長く、ほかは軽く流します。\nmornings：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「enjoy / quiet / mornings」を、単語ごとの口の形と音の止め方に合わせて読みます。\nenjoy：enjoy の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nquiet：quiet の語尾 /t/ は強く破裂させず、舌先で止めます。\nmornings：mornings の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 mornings の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",

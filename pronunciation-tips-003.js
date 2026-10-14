@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "11": [
     {
       "label": "重点語の口の形",
-      "text": "「learning / communicate / clearly」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlearning：ng は舌の奥で止め、最後の /g/ を強く出しません。\ncommunicate：アクセントのある音を少し長く、ほかは軽く流します。\nclearly：この語は語尾に母音を足さず、最後の子音で短く閉じます。"
+      "text": "この文では「learning / communicate / clearly」を、単語ごとの口の形と音の止め方に合わせて読みます。\nlearning：learning の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 learning の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\ncommunicate：communicate の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nclearly：clearly の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 clearly の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "12": [
     {
       "label": "重点語の口の形",
-      "text": "「I / English / conversation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nI：アクセントのある音を少し長く、ほかは軽く流します。\nEnglish：l は舌先を上の歯ぐきに軽く触れます。\nconversation：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「I / English / conversation」を、単語ごとの口の形と音の止め方に合わせて読みます。\nI：I は /aɪ/ を「ア」と「イ」の2拍に分けず、口を開いてそのまま一滑り。単独の「アイ」と切らず、次の語へすぐつなぎます。\nEnglish：English は /ˈɪŋɡlɪʃ/。最初の /ɪŋ/ を強く、/ŋ/ のあとに「グ」を独立させず、最後の /ʃ/ は「シ」と母音を足さず息で終えます。\nconversation：conversation は /ˌkɑːnvərˈseɪʃən/。一番強くするのは -say-、/kɑːn-vər/ は弱くつなぎ、最後の /ʃən/ を「ション」と2拍にしません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "13": [
     {
       "label": "重点語の口の形",
-      "text": "「I / online / regularly」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nI：アクセントのある音を少し長く、ほかは軽く流します。\nonline：アクセントのある音を少し長く、ほかは軽く流します。\nregularly：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「I / online / regularly」を、単語ごとの口の形と音の止め方に合わせて読みます。\nI：I は /aɪ/ を「ア」と「イ」の2拍に分けず、口を開いてそのまま一滑り。単独の「アイ」と切らず、次の語へすぐつなぎます。\nonline：online の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 online の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nregularly：regularly の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 regularly の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "14": [
     {
       "label": "重点語の口の形",
-      "text": "「want / confident / English」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nconfident：アクセントのある音を少し長く、ほかは軽く流します。\nEnglish：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「want / confident / English」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nconfident：confident の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 confident の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nEnglish：English は /ˈɪŋɡlɪʃ/。最初の /ɪŋ/ を強く、/ŋ/ のあとに「グ」を独立させず、最後の /ʃ/ は「シ」と母音を足さず息で終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "15": [
     {
       "label": "重点語の口の形",
-      "text": "「sometimes / organize / thoughts」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\norganize：語尾の /z/ は母音を足さず、声を残して短く閉じます。\nthoughts：th は舌先を歯の間に少し出し、息（または声）を添えます。"
+      "text": "この文では「sometimes / organize / thoughts」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsometimes：sometimes の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\norganize：organize の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 organize の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nthoughts：thoughts の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。 thoughts の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",

@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "186": [
     {
       "label": "重点語の口の形",
-      "text": "「explain / reason / result」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nreason：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nresult：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「explain / reason / result」を、単語ごとの口の形と音の止め方に合わせて読みます。\nexplain：explain の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explain の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nreason：reason の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。\nresult：result の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 result の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "187": [
     {
       "label": "重点語の口の形",
-      "text": "「concrete / abstract / understand」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nconcrete：語尾の /t/ は強く破裂させず、舌先で止めます。\nabstract：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。"
+      "text": "この文では「concrete / abstract / understand」を、単語ごとの口の形と音の止め方に合わせて読みます。\nconcrete：concrete の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 concrete の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nabstract：abstract の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 abstract の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nunderstand：understand の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 understand の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "188": [
     {
       "label": "重点語の口の形",
-      "text": "「sometimes / details / beginning」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\ndetails：アクセントのある音を少し長く、ほかは軽く流します。\nbeginning：ng は舌の奥で止め、最後の /g/ を強く出しません。"
+      "text": "この文では「sometimes / details / beginning」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsometimes：sometimes の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\ndetails：details の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 details の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nbeginning：beginning の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 beginning の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "189": [
     {
       "label": "重点語の口の形",
-      "text": "「want / important / moment」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nimportant：語尾の /t/ は強く破裂させず、舌先で止めます。\nmoment：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「want / important / moment」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nimportant：important は /ɪmˈpɔːrtənt/。/pɔːr/ を強く、最初の /ɪm/ と最後の /tənt/ は軽くし、語尾に「トゥ」と母音を足しません。\nmoment：moment の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 moment の語尾 /t/ は強く破裂させず、舌先で止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "190": [
     {
       "label": "重点語の口の形",
-      "text": "「practicing / compare / different」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\npracticing：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ncompare：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。"
+      "text": "この文では「practicing / compare / different」を、単語ごとの口の形と音の止め方に合わせて読みます。\npracticing：practicing は /ˈpræktɪsɪŋ/。最初の /pr/ を「プ・ラ」と分けず、/præk/ を強く、最後の /ŋ/ は「ング」と破裂させません。\ncompare：compare の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 compare の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ndifferent：different は /ˈdɪfrənt/。「ディ・ファ・レント」と3拍にせず、/dɪf/ を強くして /frənt/ へ一息でつなぎ、最後の /t/ は破裂させません。"
     },
     {
       "label": "日本語訛りになりやすい音",

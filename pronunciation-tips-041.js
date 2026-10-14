@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "201": [
     {
       "label": "重点語の口の形",
-      "text": "「explain / step / step」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nstep：アクセントのある音を少し長く、ほかは軽く流します。\nstep：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「explain / step / step」を、単語ごとの口の形と音の止め方に合わせて読みます。\nexplain：explain の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explain の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nstep：step の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nstep：step の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "202": [
     {
       "label": "重点語の口の形",
-      "text": "「sometimes / speaking / finish」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\nspeaking：ng は舌の奥で止め、最後の /g/ を強く出しません。\nfinish：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「sometimes / speaking / finish」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsometimes：sometimes の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nspeaking：speaking の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 speaking の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。\nfinish：finish の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 finish の sh は「シ」と声を足さず、唇を少し丸めた /ʃ/ の息で閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "203": [
     {
       "label": "重点語の口の形",
-      "text": "「want / answers / organized」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nanswers：r は舌先を歯ぐきに付けず、口の奥で響かせます。\norganized：語尾の /z/ は母音を足さず、声を残して短く閉じます。"
+      "text": "この文では「want / answers / organized」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nanswers：answers の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 answers の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\norganized：organized の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 organized の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "204": [
     {
       "label": "重点語の口の形",
-      "text": "「moment / arrange / thoughts」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nmoment：アクセントのある音を少し長く、ほかは軽く流します。\narrange：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nthoughts：th は舌先を歯の間に少し出し、息（または声）を添えます。"
+      "text": "この文では「moment / arrange / thoughts」を、単語ごとの口の形と音の止め方に合わせて読みます。\nmoment：moment の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 moment の語尾 /t/ は強く破裂させず、舌先で止めます。\narrange：arrange の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 arrange の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\nthoughts：thoughts の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。 thoughts の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "205": [
     {
       "label": "重点語の口の形",
-      "text": "「often / clear / Japanese」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\noften：アクセントのある音を少し長く、ほかは軽く流します。\nclear：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nJapanese：語尾の /z/ は母音を足さず、声を残して短く閉じます。"
+      "text": "この文では「often / clear / Japanese」を、単語ごとの口の形と音の止め方に合わせて読みます。\noften：often の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 often の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nclear：clear の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 clear の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nJapanese：Japanese は /ˌdʒæpəˈniːz/。いちばん高く長くするのは -nee-、最後の /z/ は「ズ」と母音を足さず声だけ残します。"
     },
     {
       "label": "日本語訛りになりやすい音",

@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "66": [
     {
       "label": "重点語の口の形",
-      "text": "「I / listening / thoughtful」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nI：アクセントのある音を少し長く、ほかは軽く流します。\nlistening：ng は舌の奥で止め、最後の /g/ を強く出しません。\nthoughtful：th は舌先を歯の間に少し出し、息（または声）を添えます。"
+      "text": "この文では「I / listening / thoughtful」を、単語ごとの口の形と音の止め方に合わせて読みます。\nI：I は /aɪ/ を「ア」と「イ」の2拍に分けず、口を開いてそのまま一滑り。単独の「アイ」と切らず、次の語へすぐつなぎます。\nlistening：listening の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 listening の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\nthoughtful：thoughtful の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 thoughtful の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "67": [
     {
       "label": "重点語の口の形",
-      "text": "「like / reconsider / assumptions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlike：l は舌先を上の歯ぐきに軽く触れます。\nreconsider：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nassumptions：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「like / reconsider / assumptions」を、単語ごとの口の形と音の止め方に合わせて読みます。\nlike：like の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nreconsider：reconsider の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 reconsider の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nassumptions：assumptions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 assumptions の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "68": [
     {
       "label": "重点語の口の形",
-      "text": "「opinion / hearing / explanation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nopinion：アクセントのある音を少し長く、ほかは軽く流します。\nhearing：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexplanation：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「opinion / hearing / explanation」を、単語ごとの口の形と音の止め方に合わせて読みます。\nopinion：opinion は最初の /o/ をはっきり出し、最後の /n/ で音を閉じます。「opinion」を日本語の拍に分けず、一息でつなげます。\nhearing：hearing の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 hearing の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\nexplanation：explanation の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explanation の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "69": [
     {
       "label": "重点語の口の形",
-      "text": "「want / look / perspectives」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nlook：l は舌先を上の歯ぐきに軽く触れます。\nperspectives：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「want / look / perspectives」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nlook：look の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nperspectives：perspectives の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 perspectives の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "70": [
     {
       "label": "重点語の口の形",
-      "text": "「try / facts / impressions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntry：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nfacts：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nimpressions：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「try / facts / impressions」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntry：try の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 try の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nfacts：facts の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 facts の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nimpressions：impressions の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 impressions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",

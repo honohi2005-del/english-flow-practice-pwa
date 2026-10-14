@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "211": [
     {
       "label": "重点語の口の形",
-      "text": "「example / general / stronger」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexample：アクセントのある音を少し長く、ほかは軽く流します。\ngeneral：アクセントのある音を少し長く、ほかは軽く流します。\nstronger：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「example / general / stronger」を、単語ごとの口の形と音の止め方に合わせて読みます。\nexample：example は /ɪɡˈzæmpəl/。/zæm/ を強く、/ɡ/ から /z/ を切らず、最後の /pəl/ は「ポル」と開かず軽く終えます。\ngeneral：general は /ˈdʒenrəl/。/dʒen/ を強く、「ジェ・ネ・ラル」と母音を3つ足さず、後半は /rəl/ を軽くまとめます。\nstronger：stronger の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 stronger の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "212": [
     {
       "label": "重点語の口の形",
-      "text": "「understand / better / discussing」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。\nbetter：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndiscussing：ng は舌の奥で止め、最後の /g/ を強く出しません。"
+      "text": "この文では「understand / better / discussing」を、単語ごとの口の形と音の止め方に合わせて読みます。\nunderstand：understand の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 understand の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nbetter：better の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 better の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ndiscussing：discussing の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 discussing の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "213": [
     {
       "label": "重点語の口の形",
-      "text": "「questions / make / think」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nquestions：-tion は「ション」と一拍で軽く収めます。\nmake：アクセントのある音を少し長く、ほかは軽く流します。\nthink：th は舌先を歯の間に少し出し、息（または声）を添えます。"
+      "text": "この文では「questions / make / think」を、単語ごとの口の形と音の止め方に合わせて読みます。\nquestions：questions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 questions の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nmake：make は最初の /m/ をはっきり出し、最後の /e/ で音を閉じます。「make」を日本語の拍に分けず、一息でつなげます。\nthink：think の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。 think の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "214": [
     {
       "label": "重点語の口の形",
-      "text": "「sometimes / specific / question」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\nspecific：アクセントのある音を少し長く、ほかは軽く流します。\nquestion：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。"
+      "text": "この文では「sometimes / specific / question」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsometimes：sometimes の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nspecific：specific は /spəˈsɪfɪk/。真ん中の /sɪf/ を強く、最初の /spə/ は弱くつなぎ、最後の /k/ は「ク」と開きません。\nquestion：question の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。 question の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "215": [
     {
       "label": "重点語の口の形",
-      "text": "「questions / difficult / answer」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nquestions：-tion は「ション」と一拍で軽く収めます。\ndifficult：l は舌先を上の歯ぐきに軽く触れます。\nanswer：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「questions / difficult / answer」を、単語ごとの口の形と音の止め方に合わせて読みます。\nquestions：questions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 questions の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\ndifficult：difficult の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 difficult の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nanswer：answer の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 answer の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。"
     },
     {
       "label": "日本語訛りになりやすい音",

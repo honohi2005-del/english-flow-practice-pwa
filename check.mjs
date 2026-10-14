@@ -65,6 +65,7 @@ if (tipIds.length !== 300 || tipIds.some((id) => !sentenceIds.has(id))) {
 }
 
 const allTipTexts = [];
+const advice1Texts = [];
 const requiredTipLabels = new Set([
   "重点語の口の形",
   "日本語訛りになりやすい音",
@@ -144,6 +145,15 @@ for (const [index, sentence] of sentences.entries()) {
     }
     allTipTexts.push(tip.text.trim());
   }
+  const advice1 = tips.find((tip) => tip?.label === "重点語の口の形");
+  if (!advice1) {
+    throw new Error("Advice 1 is missing: " + sentence.id);
+  }
+  const advice1Text = advice1.text.trim();
+  if (!/^この文では「[^」]+」を、単語ごとの口の形と音の止め方に合わせて読みます。/.test(advice1Text)) {
+    throw new Error("Advice 1 must start with the word-specific intro: " + sentence.id);
+  }
+  advice1Texts.push(advice1Text);
 }
 
 if (new Set(allTipTexts).size !== allTipTexts.length) {
@@ -151,13 +161,21 @@ if (new Set(allTipTexts).size !== allTipTexts.length) {
 }
 
 for (const forbidden of [
-  "この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。",
-  "の語尾を「ウ」「オ」「イ」で開かず、最後の子音で音を止める意識を持ってください。"
-]) {
-  if (allTipTexts.some((text) => text.includes(forbidden))) {
-    throw new Error("Generic pronunciation-tip wording remains: " + forbidden);
+    "アクセントのある音を少し長く、ほかは軽く流します。",
+    "強い音は少し長く、弱い音は軽くつなぎます。",
+    "この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。"
+  ]) {
+    if (advice1Texts.some((text) => text.includes(forbidden))) {
+      throw new Error("Generic Advice 1 wording remains: " + forbidden);
+    }
   }
-}
+for (const forbidden of [
+    "の語尾を「ウ」「オ」「イ」で開かず、最後の子音で音を止める意識を持ってください。"
+  ]) {
+    if (allTipTexts.some((text) => text.includes(forbidden))) {
+      throw new Error("Generic pronunciation-tip wording remains: " + forbidden);
+    }
+  }
 
 for (const required of [
   "./site.webmanifest",
@@ -168,7 +186,7 @@ for (const required of [
   "./pronunciation-tips-polish.js",
   ...tipFragmentNames.map((name) => "./" + name),
   "./recording-store.js",
-      "./startup.js",
+  "./startup.js",
   "./app.js"
 ]) {
   if (!html.includes(required)) {

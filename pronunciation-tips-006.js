@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "26": [
     {
       "label": "重点語の口の形",
-      "text": "「notice / during / lesson」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nnotice：アクセントのある音を少し長く、ほかは軽く流します。\nduring：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nlesson：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「notice / during / lesson」を、単語ごとの口の形と音の止め方に合わせて読みます。\nnotice：notice は最初の /n/ をはっきり出し、最後の /e/ で音を閉じます。「notice」を日本語の拍に分けず、一息でつなげます。\nduring：during の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 during の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\nlesson：lesson の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 lesson の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "27": [
     {
       "label": "重点語の口の形",
-      "text": "「often / expressions / remember」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\noften：アクセントのある音を少し長く、ほかは軽く流します。\nexpressions：-tion は「ション」と一拍で軽く収めます。\nremember：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「often / expressions / remember」を、単語ごとの口の形と音の止め方に合わせて読みます。\noften：often の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 often の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nexpressions：expressions の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 expressions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nremember：remember の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 remember の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "28": [
     {
       "label": "重点語の口の形",
-      "text": "「improve / listening / speaking」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nimprove：f / v は下唇を上の歯に軽く触れ、母音を足しません。\nlistening：ng は舌の奥で止め、最後の /g/ を強く出しません。\nspeaking：ng は舌の奥で止め、最後の /g/ を強く出しません。"
+      "text": "この文では「improve / listening / speaking」を、単語ごとの口の形と音の止め方に合わせて読みます。\nimprove：improve の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 improve の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nlistening：listening の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 listening の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\nspeaking：speaking の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 speaking の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "29": [
     {
       "label": "重点語の口の形",
-      "text": "「sometimes / meaning / context」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\nmeaning：ng は舌の奥で止め、最後の /g/ を強く出しません。\ncontext：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「sometimes / meaning / context」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsometimes：sometimes の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nmeaning：meaning の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 meaning の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。\ncontext：context の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 context の語尾 /t/ は強く破裂させず、舌先で止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "30": [
     {
       "label": "重点語の口の形",
-      "text": "「hear / expression / times」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nhear：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexpression：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ntimes：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「hear / expression / times」を、単語ごとの口の形と音の止め方に合わせて読みます。\nhear：hear の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。\nexpression：expression の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 expression の -sion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。\ntimes：times の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",

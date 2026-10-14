@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "16": [
     {
       "label": "重点語の口の形",
-      "text": "「understand / than / quickly」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。\nthan：th は舌先を歯の間に少し出し、息（または声）を添えます。\nquickly：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「understand / than / quickly」を、単語ごとの口の形と音の止め方に合わせて読みます。\nunderstand：understand の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 understand の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nthan：than の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。 than の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nquickly：quickly の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 quickly の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "17": [
     {
       "label": "重点語の口の形",
-      "text": "「practicing / explain / opinions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\npracticing：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nopinions：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「practicing / explain / opinions」を、単語ごとの口の形と音の止め方に合わせて読みます。\npracticing：practicing は /ˈpræktɪsɪŋ/。最初の /pr/ を「プ・ラ」と分けず、/præk/ を強く、最後の /ŋ/ は「ング」と破裂させません。\nexplain：explain の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explain の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nopinions：opinions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 opinions の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "18": [
     {
       "label": "重点語の口の形",
-      "text": "「want / speak / clearer」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nspeak：アクセントのある音を少し長く、ほかは軽く流します。\nclearer：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「want / speak / clearer」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nspeak：speak の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nclearer：clearer の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 clearer の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "19": [
     {
       "label": "重点語の口の形",
-      "text": "「trying / use / expressions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntrying：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nuse：アクセントのある音を少し長く、ほかは軽く流します。\nexpressions：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「trying / use / expressions」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntrying：trying の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 trying の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\nuse：use は最初の /u/ をはっきり出し、最後の /e/ で音を閉じます。「use」を日本語の拍に分けず、一息でつなげます。\nexpressions：expressions の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 expressions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "20": [
     {
       "label": "重点語の口の形",
-      "text": "「communicate / translating / sentence」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncommunicate：アクセントのある音を少し長く、ほかは軽く流します。\ntranslating：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nsentence：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「communicate / translating / sentence」を、単語ごとの口の形と音の止め方に合わせて読みます。\ncommunicate：communicate の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ntranslating：translating の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 translating の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nsentence：sentence は /ˈsentəns/。最初の /sent/ を強く、真ん中の /tə/ を弱くし、最後の /s/ は「ス」と母音を足さず止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",

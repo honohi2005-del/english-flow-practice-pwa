@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "36": [
     {
       "label": "重点語の口の形",
-      "text": "「sometimes / mistake / noticing」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\nmistake：アクセントのある音を少し長く、ほかは軽く流します。\nnoticing：ng は舌の奥で止め、最後の /g/ を強く出しません。"
+      "text": "この文では「sometimes / mistake / noticing」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsometimes：sometimes の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nmistake：mistake の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nnoticing：noticing の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 noticing の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "37": [
     {
       "label": "重点語の口の形",
-      "text": "「trying / attention / stress」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntrying：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nattention：-tion は「ション」と一拍で軽く収めます。\nstress：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「trying / attention / stress」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntrying：trying の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 trying の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\nattention：attention の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。 attention の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nstress：stress の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 stress の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "38": [
     {
       "label": "重点語の口の形",
-      "text": "「want / connect / smoothly」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nconnect：アクセントのある音を少し長く、ほかは軽く流します。\nsmoothly：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「want / connect / smoothly」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nconnect：connect の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 connect の語尾 /t/ は強く破裂させず、舌先で止めます。\nsmoothly：smoothly の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 smoothly の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "39": [
     {
       "label": "重点語の口の形",
-      "text": "「practicing / pause / natural」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\npracticing：r は舌先を歯ぐきに付けず、口の奥で響かせます。\npause：アクセントのある音を少し長く、ほかは軽く流します。\nnatural：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。"
+      "text": "この文では「practicing / pause / natural」を、単語ごとの口の形と音の止め方に合わせて読みます。\npracticing：practicing は /ˈpræktɪsɪŋ/。最初の /pr/ を「プ・ラ」と分けず、/præk/ を強く、最後の /ŋ/ は「ング」と破裂させません。\npause：pause は /pɔːz/。/ɔː/ を「ポ・オ」と分けず一つの長い母音にし、最後の /z/ は声を残して「ズ」と開きません。\nnatural：natural は /ˈnætʃərəl/。最初の /næ/ を強く、-tural- は「チュラル」と3拍にせず、/tʃr/ を続けて最後を軽くします。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "40": [
     {
       "label": "重点語の口の形",
-      "text": "「pronunciation / influenced / Japanese」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\npronunciation：-tion は「ション」と一拍で軽く収めます。\ninfluenced：l は舌先を上の歯ぐきに軽く触れます。\nJapanese：語尾の /z/ は母音を足さず、声を残して短く閉じます。"
+      "text": "この文では「pronunciation / influenced / Japanese」を、単語ごとの口の形と音の止め方に合わせて読みます。\npronunciation：pronunciation の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 pronunciation の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。\ninfluenced：influenced の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 influenced の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nJapanese：Japanese は /ˌdʒæpəˈniːz/。いちばん高く長くするのは -nee-、最後の /z/ は「ズ」と母音を足さず声だけ残します。"
     },
     {
       "label": "日本語訛りになりやすい音",

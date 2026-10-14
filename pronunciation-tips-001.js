@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "1": [
     {
       "label": "重点語の口の形",
-      "text": "「I / teach / Japanese」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nI：アクセントのある音を少し長く、ほかは軽く流します。\nteach：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。\nJapanese：語尾の /z/ は母音を足さず、声を残して短く閉じます。"
+      "text": "この文では「I / teach / Japanese」を、単語ごとの口の形と音の止め方に合わせて読みます。\nI：I は /aɪ/ を「ア」と「イ」の2拍に分けず、口を開いてそのまま一滑り。単独の「アイ」と切らず、次の語へすぐつなぎます。\nteach：teach は /tiːtʃ/。/iː/ を「イー」と長く保ち、最後の /tʃ/ は「チュ」と開かず息で止めます。\nJapanese：Japanese は /ˌdʒæpəˈniːz/。いちばん高く長くするのは -nee-、最後の /z/ は「ズ」と母音を足さず声だけ残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "2": [
     {
       "label": "重点語の口の形",
-      "text": "「work / Japanese / teacher」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwork：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nJapanese：語尾の /z/ は母音を足さず、声を残して短く閉じます。\nteacher：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。"
+      "text": "この文では「work / Japanese / teacher」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwork：work の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 work の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nJapanese：Japanese は /ˌdʒæpəˈniːz/。いちばん高く長くするのは -nee-、最後の /z/ は「ズ」と母音を足さず声だけ残します。\nteacher：teacher の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 teacher の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "3": [
     {
       "label": "重点語の口の形",
-      "text": "「teach / adult / learners」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nteach：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。\nadult：l は舌先を上の歯ぐきに軽く触れます。\nlearners：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「teach / adult / learners」を、単語ごとの口の形と音の止め方に合わせて読みます。\nteach：teach は /tiːtʃ/。/iː/ を「イー」と長く保ち、最後の /tʃ/ は「チュ」と開かず息で止めます。\nadult：adult の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 adult の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nlearners：learners の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 learners の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "4": [
     {
       "label": "重点語の口の形",
-      "text": "「have / Japanese / years」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nhave：f / v は下唇を上の歯に軽く触れ、母音を足しません。\nJapanese：語尾の /z/ は母音を足さず、声を残して短く閉じます。\nyears：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「have / Japanese / years」を、単語ごとの口の形と音の止め方に合わせて読みます。\nhave：have の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nJapanese：Japanese は /ˌdʒæpəˈniːz/。いちばん高く長くするのは -nee-、最後の /z/ は「ズ」と母音を足さず声だけ残します。\nyears：years の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 years の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "5": [
     {
       "label": "重点語の口の形",
-      "text": "「work / learners / different」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwork：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nlearners：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。"
+      "text": "この文では「work / learners / different」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwork：work の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 work の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nlearners：learners の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 learners の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\ndifferent：different は /ˈdɪfrənt/。「ディ・ファ・レント」と3拍にせず、/dɪf/ を強くして /frənt/ へ一息でつなぎ、最後の /t/ は破裂させません。"
     },
     {
       "label": "日本語訛りになりやすい音",

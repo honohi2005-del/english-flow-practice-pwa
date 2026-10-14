@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "231": [
     {
       "label": "重点語の口の形",
-      "text": "「want / point / beginning」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\npoint：アクセントのある音を少し長く、ほかは軽く流します。\nbeginning：ng は舌の奥で止め、最後の /g/ を強く出しません。"
+      "text": "この文では「want / point / beginning」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\npoint：point の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 point の語尾 /t/ は強く破裂させず、舌先で止めます。\nbeginning：beginning の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 beginning の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "232": [
     {
       "label": "重点語の口の形",
-      "text": "「trying / transitions / naturally」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntrying：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ntransitions：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nnaturally：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「trying / transitions / naturally」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntrying：trying の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 trying の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\ntransitions：transitions の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 transitions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nnaturally：naturally の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 naturally の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "233": [
     {
       "label": "重点語の口の形",
-      "text": "「often / example / time」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\noften：アクセントのある音を少し長く、ほかは軽く流します。\nexample：アクセントのある音を少し長く、ほかは軽く流します。\ntime：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「often / example / time」を、単語ごとの口の形と音の止め方に合わせて読みます。\noften：often の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 often の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nexample：example は /ɪɡˈzæmpəl/。/zæm/ を強く、/ɡ/ から /z/ を切らず、最後の /pəl/ は「ポル」と開かず軽く終えます。\ntime：time は最初の /t/ をはっきり出し、最後の /e/ で音を閉じます。「time」を日本語の拍に分けず、一息でつなげます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "234": [
     {
       "label": "重点語の口の形",
-      "text": "「want / connectors / mechanical」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nconnectors：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nmechanical：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「want / connectors / mechanical」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nconnectors：connectors の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 connectors の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nmechanical：mechanical の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 mechanical の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "235": [
     {
       "label": "重点語の口の形",
-      "text": "「practicing / summarize / answer」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\npracticing：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nsummarize：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nanswer：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「practicing / summarize / answer」を、単語ごとの口の形と音の止め方に合わせて読みます。\npracticing：practicing は /ˈpræktɪsɪŋ/。最初の /pr/ を「プ・ラ」と分けず、/præk/ を強く、最後の /ŋ/ は「ング」と破裂させません。\nsummarize：summarize の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 summarize の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nanswer：answer の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 answer の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。"
     },
     {
       "label": "日本語訛りになりやすい音",

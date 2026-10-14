@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "131": [
     {
       "label": "重点語の口の形",
-      "text": "「often / small / experiences」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\noften：アクセントのある音を少し長く、ほかは軽く流します。\nsmall：l は舌先を上の歯ぐきに軽く触れます。\nexperiences：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「often / small / experiences」を、単語ごとの口の形と音の止め方に合わせて読みます。\noften：often の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 often の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nsmall：small の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 small の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nexperiences：experiences は /ɪkˈspɪriənsɪz/。/ɪkˈspɪr/ を「イク・スピ」と切らず、-spee- を強くし、最後の /sɪz/ は小さく添えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "132": [
     {
       "label": "重点語の口の形",
-      "text": "「situation / reveal / matters」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsituation：-tion は「ション」と一拍で軽く収めます。\nreveal：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nmatters：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「situation / reveal / matters」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsituation：situation の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。\nreveal：reveal の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 reveal の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nmatters：matters の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 matters の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "133": [
     {
       "label": "重点語の口の形",
-      "text": "「describe / happened / evaluate」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ndescribe：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nhappened：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nevaluate：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「describe / happened / evaluate」を、単語ごとの口の形と音の止め方に合わせて読みます。\ndescribe：describe の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 describe の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nhappened：happened の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。 happened の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nevaluate：evaluate の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 evaluate の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "134": [
     {
       "label": "重点語の口の形",
-      "text": "「understand / problem / background」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。\nproblem：子音が続くところは、間に母音を足さず一息でつなぎます。\nbackground：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「understand / problem / background」を、単語ごとの口の形と音の止め方に合わせて読みます。\nunderstand：understand の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 understand の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nproblem：problem の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 problem の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nbackground：background の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 background の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "135": [
     {
       "label": "重点語の口の形",
-      "text": "「want / explain / happened」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nhappened：語尾の -ed は「エッド」と一拍にせず、短く収めます。"
+      "text": "この文では「want / explain / happened」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nexplain：explain の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explain の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nhappened：happened の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。 happened の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",

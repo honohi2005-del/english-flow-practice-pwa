@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "76": [
     {
       "label": "重点語の口の形",
-      "text": "「communication / than / grammar」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncommunication：-tion は「ション」と一拍で軽く収めます。\nthan：th は舌先を歯の間に少し出し、息（または声）を添えます。\ngrammar：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「communication / than / grammar」を、単語ごとの口の形と音の止め方に合わせて読みます。\ncommunication：communication の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。 communication の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nthan：than の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。 than の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ngrammar：grammar の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 grammar の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "77": [
     {
       "label": "重点語の口の形",
-      "text": "「conversation / both / speakers」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nconversation：-tion は「ション」と一拍で軽く収めます。\nboth：th は舌先を歯の間に少し出し、息（または声）を添えます。\nspeakers：語尾の /z/ は母音を足さず、声を残して短く閉じます。"
+      "text": "この文では「conversation / both / speakers」を、単語ごとの口の形と音の止め方に合わせて読みます。\nconversation：conversation は /ˌkɑːnvərˈseɪʃən/。一番強くするのは -say-、/kɑːn-vər/ は弱くつなぎ、最後の /ʃən/ を「ション」と2拍にしません。\nboth：both の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。 both の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nspeakers：speakers の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 speakers の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "78": [
     {
       "label": "重点語の口の形",
-      "text": "「listen / speaker’s / intention」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlisten：l は舌先を上の歯ぐきに軽く触れます。\nspeaker’s：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nintention：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「listen / speaker’s / intention」を、単語ごとの口の形と音の止め方に合わせて読みます。\nlisten：listen の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 listen の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nspeaker’s：speaker’s の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 speaker’s の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nintention：intention の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。 intention の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "79": [
     {
       "label": "重点語の口の形",
-      "text": "「interested / people / unsaid」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ninterested：r は舌先を歯ぐきに付けず、口の奥で響かせます。\npeople：l は舌先を上の歯ぐきに軽く触れます。\nunsaid：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「interested / people / unsaid」を、単語ごとの口の形と音の止め方に合わせて読みます。\ninterested：interested の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 interested の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。\npeople：people の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 people の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nunsaid：unsaid の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 unsaid の語尾 /d/ は強く破裂させず、舌先で止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "80": [
     {
       "label": "重点語の口の形",
-      "text": "「changes / wording / impression」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nchanges：ng は舌の奥で止め、最後の /g/ を強く出しません。\nwording：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nimpression：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「changes / wording / impression」を、単語ごとの口の形と音の止め方に合わせて読みます。\nchanges：changes の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 changes の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。\nwording：wording の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 wording の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nimpression：impression の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 impression の -sion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",

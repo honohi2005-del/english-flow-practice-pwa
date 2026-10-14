@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "111": [
     {
       "label": "重点語の口の形",
-      "text": "「Education / change / opportunities」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nEducation：-tion は「ション」と一拍で軽く収めます。\nchange：ng は舌の奥で止め、最後の /g/ を強く出しません。\nopportunities：この語は語尾に母音を足さず、最後の子音で短く閉じます。"
+      "text": "この文では「Education / change / opportunities」を、単語ごとの口の形と音の止め方に合わせて読みます。\nEducation：Education の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。\nchange：change の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 change の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。\nopportunities：opportunities の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 opportunities の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "112": [
     {
       "label": "重点語の口の形",
-      "text": "「information / equal / everyone」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ninformation：-tion は「ション」と一拍で軽く収めます。\nequal：l は舌先を上の歯ぐきに軽く触れます。\neveryone：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「information / equal / everyone」を、単語ごとの口の形と音の止め方に合わせて読みます。\ninformation：information の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 information の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nequal：equal の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\neveryone：everyone の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 everyone の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "113": [
     {
       "label": "重点語の口の形",
-      "text": "「policy / affect / people」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\npolicy：l は舌先を上の歯ぐきに軽く触れます。\naffect：アクセントのある音を少し長く、ほかは軽く流します。\npeople：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「policy / affect / people」を、単語ごとの口の形と音の止め方に合わせて読みます。\npolicy：policy の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 policy の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\naffect：affect の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 affect の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\npeople：people の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 people の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "114": [
     {
       "label": "重点語の口の形",
-      "text": "「Public / include / different」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nPublic：l は舌先を上の歯ぐきに軽く触れます。\ninclude：l は舌先を上の歯ぐきに軽く触れます。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。"
+      "text": "この文では「Public / include / different」を、単語ごとの口の形と音の止め方に合わせて読みます。\nPublic：Public の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 Public の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ninclude：include の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 include の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ndifferent：different は /ˈdɪfrənt/。「ディ・ファ・レント」と3拍にせず、/dɪf/ を強くして /frənt/ へ一息でつなぎ、最後の /t/ は破裂させません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "115": [
     {
       "label": "重点語の口の形",
-      "text": "「consider / people / represented」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nconsider：r は舌先を歯ぐきに付けず、口の奥で響かせます。\npeople：l は舌先を上の歯ぐきに軽く触れます。\nrepresented：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「consider / people / represented」を、単語ごとの口の形と音の止め方に合わせて読みます。\nconsider：consider の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 consider の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\npeople：people の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 people の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nrepresented：represented の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 represented の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",

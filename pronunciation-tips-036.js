@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "176": [
     {
       "label": "重点語の口の形",
-      "text": "「learning / combinations / words」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlearning：ng は舌の奥で止め、最後の /g/ を強く出しません。\ncombinations：-tion は「ション」と一拍で軽く収めます。\nwords：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「learning / combinations / words」を、単語ごとの口の形と音の止め方に合わせて読みます。\nlearning：learning の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 learning の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\ncombinations：combinations の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 combinations の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nwords：words の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 words の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "177": [
     {
       "label": "重点語の口の形",
-      "text": "「helps / memorize / phrase」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nhelps：l は舌先を上の歯ぐきに軽く触れます。\nmemorize：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nphrase：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「helps / memorize / phrase」を、単語ごとの口の形と音の止め方に合わせて読みます。\nhelps：helps の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 helps の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nmemorize：memorize の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。\nphrase：phrase の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 phrase の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "178": [
     {
       "label": "重点語の口の形",
-      "text": "「want / expression / another」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nexpression：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nanother：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「want / expression / another」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nexpression：expression の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 expression の -sion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。\nanother：another の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 another の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "179": [
     {
       "label": "重点語の口の形",
-      "text": "「simpler / explain / thing」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsimpler：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nthing：th は舌先を歯の間に少し出し、息（または声）を添えます。"
+      "text": "この文では「simpler / explain / thing」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsimpler：simpler の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 simpler の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nexplain：explain の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explain の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nthing：thing の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。 thing の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "180": [
     {
       "label": "重点語の口の形",
-      "text": "「English / natural / advanced」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nEnglish：l は舌先を上の歯ぐきに軽く触れます。\nnatural：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。\nadvanced：f / v は下唇を上の歯に軽く触れ、母音を足しません。"
+      "text": "この文では「English / natural / advanced」を、単語ごとの口の形と音の止め方に合わせて読みます。\nEnglish：English は /ˈɪŋɡlɪʃ/。最初の /ɪŋ/ を強く、/ŋ/ のあとに「グ」を独立させず、最後の /ʃ/ は「シ」と母音を足さず息で終えます。\nnatural：natural は /ˈnætʃərəl/。最初の /næ/ を強く、-tural- は「チュラル」と3拍にせず、/tʃr/ を続けて最後を軽くします。\nadvanced：advanced の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 advanced の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",

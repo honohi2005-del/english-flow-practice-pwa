@@ -38,6 +38,8 @@ if (records.length !== 300) {
 }
 
 function extractFocus(text) {
+  const rewrittenMatch = String(text).match(/「([^」]+)」(?:を中心に|を意識して|を、)/);
+  if (rewrittenMatch) return rewrittenMatch[1].trim();
   const match = String(text).match(/まず意味の中心になる\s+(.+?)\s+を/);
   if (match) return match[1].trim();
   const compactMatch = String(text).match(/まずは大事な\s+(.+?)\s+を/);
@@ -61,55 +63,92 @@ function isHeading(part, word) {
   );
 }
 
-function compactCue(groupText) {
+const WORD_GUIDES = {
+  i: "I は /aɪ/ を「ア」と「イ」の2拍に分けず、口を開いてそのまま一滑り。単独の「アイ」と切らず、次の語へすぐつなぎます。",
+  teach: "teach は /tiːtʃ/。/iː/ を「イー」と長く保ち、最後の /tʃ/ は「チュ」と開かず息で止めます。",
+  japanese: "Japanese は /ˌdʒæpəˈniːz/。いちばん高く長くするのは -nee-、最後の /z/ は「ズ」と母音を足さず声だけ残します。",
+  practicing: "practicing は /ˈpræktɪsɪŋ/。最初の /pr/ を「プ・ラ」と分けず、/præk/ を強く、最後の /ŋ/ は「ング」と破裂させません。",
+  pause: "pause は /pɔːz/。/ɔː/ を「ポ・オ」と分けず一つの長い母音にし、最後の /z/ は声を残して「ズ」と開きません。",
+  natural: "natural は /ˈnætʃərəl/。最初の /næ/ を強く、-tural- は「チュラル」と3拍にせず、/tʃr/ を続けて最後を軽くします。",
+  different: "different は /ˈdɪfrənt/。「ディ・ファ・レント」と3拍にせず、/dɪf/ を強くして /frənt/ へ一息でつなぎ、最後の /t/ は破裂させません。",
+  general: "general は /ˈdʒenrəl/。/dʒen/ を強く、「ジェ・ネ・ラル」と母音を3つ足さず、後半は /rəl/ を軽くまとめます。",
+  trends: "trends は /trendz/。/tr/ を「ト・ゥ」と分けず、/trend/ のあと最後の /dz/ を一気に閉じ、「トレンズ」と母音を足しません。",
+  individual: "individual は /ˌɪndɪˈvɪdʒuəl/。一番強くするのは -vid-、最後の /dʒuəl/ は「ジュ・アル」と分けず軽く流します。",
+  experiences: "experiences は /ɪkˈspɪriənsɪz/。/ɪkˈspɪr/ を「イク・スピ」と切らず、-spee- を強くし、最後の /sɪz/ は小さく添えます。",
+  english: "English は /ˈɪŋɡlɪʃ/。最初の /ɪŋ/ を強く、/ŋ/ のあとに「グ」を独立させず、最後の /ʃ/ は「シ」と母音を足さず息で終えます。",
+  language: "language は /ˈlæŋɡwɪdʒ/。/læŋ/ を強く、/ŋ/ から /ɡw/ を一息でつなぎ、最後の /dʒ/ を「ジ」と開きません。",
+  sentence: "sentence は /ˈsentəns/。最初の /sent/ を強く、真ん中の /tə/ を弱くし、最後の /s/ は「ス」と母音を足さず止めます。",
+  sentences: "sentences は /ˈsentənsɪz/。/sent/ を強く、/tənsɪz/ を細かく区切らず、最後の /ɪz/ を「イズ」と大きく開きません。",
+  feedback: "feedback は /ˈfiːdbæk/。/fiːd/ の /iː/ を保ち、/d/ から /b/ を切らず、最後の /k/ は「ク」と母音を添えず止めます。",
+  conversation: "conversation は /ˌkɑːnvərˈseɪʃən/。一番強くするのは -say-、/kɑːn-vər/ は弱くつなぎ、最後の /ʃən/ を「ション」と2拍にしません。",
+  discussion: "discussion は /dɪˈskʌʃən/。/sk/ を「ス・ク」と分けず -cuss- を強く、最後の /ʃən/ は短く一まとまりにします。",
+  important: "important は /ɪmˈpɔːrtənt/。/pɔːr/ を強く、最初の /ɪm/ と最後の /tənt/ は軽くし、語尾に「トゥ」と母音を足しません。",
+  example: "example は /ɪɡˈzæmpəl/。/zæm/ を強く、/ɡ/ から /z/ を切らず、最後の /pəl/ は「ポル」と開かず軽く終えます。",
+  specific: "specific は /spəˈsɪfɪk/。真ん中の /sɪf/ を強く、最初の /spə/ は弱くつなぎ、最後の /k/ は「ク」と開きません。"
+};
+
+function cleanWord(word) {
+  return String(word).replace(/[^A-Za-z'-]/g, "");
+}
+
+function specificCue(word, groupText) {
+  const normalized = cleanWord(word);
+  const lower = normalized.toLowerCase();
+  if (WORD_GUIDES[lower]) return WORD_GUIDES[lower];
+
   const text = String(groupText);
-  if (/\br は/.test(text)) {
-    return "r は舌先を歯ぐきに付けず、口の奥で響かせます。";
+  const cues = [];
+  if (/[r]/.test(lower) || /\br は|\/r\//.test(text)) {
+    cues.push(`${word} の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。`);
   }
-  if (/\bl は/.test(text)) {
-    return "l は舌先を上の歯ぐきに軽く触れます。";
+  if (/[l]/.test(lower) || /\bl は|\/l\//.test(text)) {
+    cues.push(`${word} の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。`);
   }
-  if (/\bw は/.test(text)) {
-    return "w は唇を丸めてすぐ開き、「ウ」を一拍にしません。";
+  if (/[w]/.test(lower) || /\bw は|\/w\//.test(text)) {
+    cues.push(`${word} の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。`);
   }
-  if (/tʃ/.test(text)) {
-    return "最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。";
+  if (/[fv]/.test(lower) || /下唇|f は|v は/.test(text)) {
+    cues.push(`${word} の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。`);
   }
-  if (/下唇|f は|v は/.test(text)) {
-    return "f / v は下唇を上の歯に軽く触れ、母音を足しません。";
+  if (/th/.test(lower) || /[ðθ]|(?:^|[\s:])th(?:\s*(?:は|\/|音)|\b)/.test(text)) {
+    cues.push(`${word} の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。`);
   }
-  if (/[ðθ]|(?:^|[\s:])th(?:\s*(?:は|\/|音)|\b)/.test(text)) {
-    return "th は舌先を歯の間に少し出し、息（または声）を添えます。";
+  if (/ng/.test(lower) || /ng|ŋ/.test(text)) {
+    cues.push(`${word} の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。`);
   }
-  if (/ng|ŋ/.test(text)) {
-    return "ng は舌の奥で止め、最後の /g/ を強く出しません。";
+  if (lower.endsWith("ing")) {
+    cues.push(`${word} の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。`);
   }
-  if (/-ed|過去形/.test(text)) {
-    return "語尾の -ed は「エッド」と一拍にせず、短く収めます。";
+  if (lower.endsWith("ed")) {
+    cues.push(`${word} の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。`);
   }
-  if (/-tion|ʃən|ション/.test(text)) {
-    return "-tion は「ション」と一拍で軽く収めます。";
+  if (/(tion|sion)$/.test(lower)) {
+    cues.push(`${word} の -${lower.endsWith("tion") ? "tion" : "sion"} は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。`);
   }
-  if (/語尾.*\/z\/|\/z\/.*語尾/.test(text)) {
-    return "語尾の /z/ は母音を足さず、声を残して短く閉じます。";
+  if (/tch|ch/.test(lower)) {
+    cues.push(`${word} の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。`);
   }
-  if (/語尾.*\/s\/|\/s\/.*語尾/.test(text)) {
-    return "語尾の /s/ は「ス」と開かず、息だけで止めます。";
+  if (/sh/.test(lower)) {
+    cues.push(`${word} の sh は「シ」と声を足さず、唇を少し丸めた /ʃ/ の息で閉じます。`);
   }
-  if (/(?:語尾|語末).*\/t\/|\/t\/.*(?:語尾|語末)|破裂/.test(text)) {
-    return "語尾の /t/ は強く破裂させず、舌先で止めます。";
+  if (/ph/.test(lower)) {
+    cues.push(`${word} の ph は /f/。下唇を上の歯に触れ、「フ」と母音を後ろに足しません。`);
   }
-  if (
-    /連続子音|子音の連続|\/sk\/|\/kr\/|\/st\/|\/str\/|\/pl\/|\/pr\/|\/tr\/|\/dr\//.test(
-      text
-    )
-  ) {
-    return "子音が続くところは、間に母音を足さず一息でつなぎます。";
+  if (/[^aeiou]{2,}/.test(lower)) {
+    cues.push(`${word} の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。`);
   }
-  if (/アクセント|強勢|強く/.test(text)) {
-    return "アクセントのある音を少し長く、ほかは軽く流します。";
+  if (/[z]$/.test(lower)) {
+    cues.push(`${word} の語尾 /z/ は「ズ」と開かず、声を残したまま短く閉じます。`);
+  } else if (/[s]$/.test(lower)) {
+    cues.push(`${word} の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。`);
+  } else if (/[td]$/.test(lower)) {
+    cues.push(`${word} の語尾 /${lower.at(-1)}/ は強く破裂させず、舌先で止めます。`);
   }
-  return "この語は語尾に母音を足さず、最後の子音で短く閉じます。";
+  if (cues.length) return cues.slice(0, 2).join(" ");
+
+  const first = lower[0] || normalized || word;
+  const last = lower.at(-1) || first;
+  return `${word} は最初の /${first}/ をはっきり出し、最後の /${last}/ で音を閉じます。「${word}」を日本語の拍に分けず、一息でつなげます。`;
 }
 
 function rewriteAdvice1(record) {
@@ -124,7 +163,10 @@ function rewriteAdvice1(record) {
     throw new Error("Focus words are missing for record " + record.id + ".");
   }
 
-  let body = original.text;
+  let body = original.text.replace(
+    /^\s*この文では「[^」]+」を、単語ごとの口の形と音の止め方に合わせて読みます。\s*/,
+    ""
+  );
   const introEnd = body.indexOf("練習します。");
   if (introEnd >= 0) {
     body = body.slice(introEnd + "練習します。".length);
@@ -175,12 +217,12 @@ function rewriteAdvice1(record) {
   }
 
   const lines = [
-    "「" +
+    "この文では「" +
       words.join(" / ") +
-      "」を中心に、強い音は少し長く、弱い音は軽くつなぎます。"
+      "」を、単語ごとの口の形と音の止め方に合わせて読みます。"
   ];
   for (const group of groups) {
-    lines.push(group.word + "：" + compactCue(group.text));
+    lines.push(group.word + "：" + specificCue(group.word, group.text));
   }
 
   return {

@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "116": [
     {
       "label": "重点語の口の形",
-      "text": "「Statistics / always / individual」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nStatistics：アクセントのある音を少し長く、ほかは軽く流します。\nalways：l は舌先を上の歯ぐきに軽く触れます。\nindividual：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「Statistics / always / individual」を、単語ごとの口の形と音の止め方に合わせて読みます。\nStatistics：Statistics の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 Statistics の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nalways：always の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 always の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nindividual：individual は /ˌɪndɪˈvɪdʒuəl/。一番強くするのは -vid-、最後の /dʒuəl/ は「ジュ・アル」と分けず軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "117": [
     {
       "label": "重点語の口の形",
-      "text": "「general / trend / important」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ngeneral：アクセントのある音を少し長く、ほかは軽く流します。\ntrend：子音が続くところは、間に母音を足さず一息でつなぎます。\nimportant：語尾の /t/ は強く破裂させず、舌先で止めます。"
+      "text": "この文では「general / trend / important」を、単語ごとの口の形と音の止め方に合わせて読みます。\ngeneral：general は /ˈdʒenrəl/。/dʒen/ を強く、「ジェ・ネ・ラル」と母音を3つ足さず、後半は /rəl/ を軽くまとめます。\ntrend：trend の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 trend の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nimportant：important は /ɪmˈpɔːrtənt/。/pɔːr/ を強く、最初の /ɪm/ と最後の /tənt/ は軽くし、語尾に「トゥ」と母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "118": [
     {
       "label": "重点語の口の形",
-      "text": "「Personal / meaning / numerical」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nPersonal：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nmeaning：ng は舌の奥で止め、最後の /g/ を強く出しません。\nnumerical：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「Personal / meaning / numerical」を、単語ごとの口の形と音の止め方に合わせて読みます。\nPersonal：Personal の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 Personal の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nmeaning：meaning の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 meaning の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。\nnumerical：numerical の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 numerical の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "119": [
     {
       "label": "重点語の口の形",
-      "text": "「careful / making / conclusions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncareful：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nmaking：ng は舌の奥で止め、最後の /g/ を強く出しません。\nconclusions：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「careful / making / conclusions」を、単語ごとの口の形と音の止め方に合わせて読みます。\ncareful：careful の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 careful の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nmaking：making の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 making の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。\nconclusions：conclusions の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 conclusions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "120": [
     {
       "label": "重点語の口の形",
-      "text": "「Good / require / information」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nGood：アクセントのある音を少し長く、ほかは軽く流します。\nrequire：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ninformation：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「Good / require / information」を、単語ごとの口の形と音の止め方に合わせて読みます。\nGood：Good の語尾 /d/ は強く破裂させず、舌先で止めます。\nrequire：require の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。\ninformation：information の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 information の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",

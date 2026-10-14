@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "161": [
     {
       "label": "重点語の口の形",
-      "text": "「sure / express / English」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsure：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexpress：アクセントのある音を少し長く、ほかは軽く流します。\nEnglish：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「sure / express / English」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsure：sure の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。\nexpress：express の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 express の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nEnglish：English は /ˈɪŋɡlɪʃ/。最初の /ɪŋ/ を強く、/ŋ/ のあとに「グ」を独立させず、最後の /ʃ/ は「シ」と母音を足さず息で終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "162": [
     {
       "label": "重点語の口の形",
-      "text": "「know / word / sure」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nknow：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nword：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nsure：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「know / word / sure」を、単語ごとの口の形と音の止め方に合わせて読みます。\nknow：know の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 know の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nword：word の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 word の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nsure：sure の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "163": [
     {
       "label": "重点語の口の形",
-      "text": "「expression / little / conversation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexpression：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nlittle：l は舌先を上の歯ぐきに軽く触れます。\nconversation：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「expression / little / conversation」を、単語ごとの口の形と音の止め方に合わせて読みます。\nexpression：expression の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 expression の -sion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。\nlittle：little の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 little の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nconversation：conversation は /ˌkɑːnvərˈseɪʃən/。一番強くするのは -say-、/kɑːn-vər/ は弱くつなぎ、最後の /ʃən/ を「ション」と2拍にしません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "164": [
     {
       "label": "重点語の口の形",
-      "text": "「natural / way / say」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nnatural：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。\nway：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nsay：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「natural / way / say」を、単語ごとの口の形と音の止め方に合わせて読みます。\nnatural：natural は /ˈnætʃərəl/。最初の /næ/ を強く、-tural- は「チュラル」と3拍にせず、/tʃr/ を続けて最後を軽くします。\nway：way の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nsay：say は最初の /s/ をはっきり出し、最後の /y/ で音を閉じます。「say」を日本語の拍に分けず、一息でつなげます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "165": [
     {
       "label": "重点語の口の形",
-      "text": "「What / difference / expressions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nWhat：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\ndifference：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexpressions：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「What / difference / expressions」を、単語ごとの口の形と音の止め方に合わせて読みます。\nWhat：What の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 What の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ndifference：difference の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 difference の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nexpressions：expressions の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 expressions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",

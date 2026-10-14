@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "81": [
     {
       "label": "重点語の口の形",
-      "text": "「learning / connect / real」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlearning：ng は舌の奥で止め、最後の /g/ を強く出しません。\nconnect：アクセントのある音を少し長く、ほかは軽く流します。\nreal：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「learning / connect / real」を、単語ごとの口の形と音の止め方に合わせて読みます。\nlearning：learning の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 learning の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nconnect：connect の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 connect の語尾 /t/ は強く破裂させず、舌先で止めます。\nreal：real の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 real の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "82": [
     {
       "label": "重点語の口の形",
-      "text": "「clear / helps / motivated」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nclear：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nhelps：l は舌先を上の歯ぐきに軽く触れます。\nmotivated：f / v は下唇を上の歯に軽く触れ、母音を足しません。"
+      "text": "この文では「clear / helps / motivated」を、単語ごとの口の形と音の止め方に合わせて読みます。\nclear：clear の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 clear の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nhelps：helps の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 helps の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nmotivated：motivated の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 motivated の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "83": [
     {
       "label": "重点語の口の形",
-      "text": "「I / progress / practice」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nI：アクセントのある音を少し長く、ほかは軽く流します。\nprogress：r は舌先を歯ぐきに付けず、口の奥で響かせます。\npractice：子音が続くところは、間に母音を足さず一息でつなぎます。"
+      "text": "この文では「I / progress / practice」を、単語ごとの口の形と音の止め方に合わせて読みます。\nI：I は /aɪ/ を「ア」と「イ」の2拍に分けず、口を開いてそのまま一滑り。単独の「アイ」と切らず、次の語へすぐつなぎます。\nprogress：progress の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 progress の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\npractice：practice の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 practice の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "84": [
     {
       "label": "重点語の口の形",
-      "text": "「practice / easier / continue」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\npractice：子音が続くところは、間に母音を足さず一息でつなぎます。\neasier：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ncontinue：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「practice / easier / continue」を、単語ごとの口の形と音の止め方に合わせて読みます。\npractice：practice の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 practice の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\neasier：easier の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。\ncontinue：continue の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "85": [
     {
       "label": "重点語の口の形",
-      "text": "「focus / much / mistakes」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nfocus：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nmuch：アクセントのある音を少し長く、ほかは軽く流します。\nmistakes：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「focus / much / mistakes」を、単語ごとの口の形と音の止め方に合わせて読みます。\nfocus：focus の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 focus の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nmuch：much の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。 much の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nmistakes：mistakes の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 mistakes の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",

@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "51": [
     {
       "label": "重点語の口の形",
-      "text": "「I / visiting / new」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nI：アクセントのある音を少し長く、ほかは軽く流します。\nvisiting：f / v は下唇を上の歯に軽く触れ、母音を足しません。\nnew：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。"
+      "text": "この文では「I / visiting / new」を、単語ごとの口の形と音の止め方に合わせて読みます。\nI：I は /aɪ/ を「ア」と「イ」の2拍に分けず、口を開いてそのまま一滑り。単独の「アイ」と切らず、次の語へすぐつなぎます。\nvisiting：visiting の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 visiting の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\nnew：new の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "52": [
     {
       "label": "重点語の口の形",
-      "text": "「talking / people / different」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntalking：l は舌先を上の歯ぐきに軽く触れます。\npeople：l は舌先を上の歯ぐきに軽く触れます。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。"
+      "text": "この文では「talking / people / different」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntalking：talking の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 talking の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\npeople：people の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 people の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ndifferent：different は /ˈdɪfrənt/。「ディ・ファ・レント」と3拍にせず、/dɪf/ を強くして /frənt/ へ一息でつなぎ、最後の /t/ は破裂させません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "53": [
     {
       "label": "重点語の口の形",
-      "text": "「curious / people / cultures」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncurious：r は舌先を歯ぐきに付けず、口の奥で響かせます。\npeople：l は舌先を上の歯ぐきに軽く触れます。\ncultures：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「curious / people / cultures」を、単語ごとの口の形と音の止め方に合わせて読みます。\ncurious：curious の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 curious の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\npeople：people の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 people の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ncultures：cultures の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 cultures の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "54": [
     {
       "label": "重点語の口の形",
-      "text": "「trying / food / travel」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntrying：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nfood：アクセントのある音を少し長く、ほかは軽く流します。\ntravel：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「trying / food / travel」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntrying：trying の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 trying の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\nfood：food の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 food の語尾 /d/ は強く破裂させず、舌先で止めます。\ntravel：travel の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 travel の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "55": [
     {
       "label": "重点語の口の形",
-      "text": "「prefer / flexible / detailed」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nprefer：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nflexible：l は舌先を上の歯ぐきに軽く触れます。\ndetailed：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「prefer / flexible / detailed」を、単語ごとの口の形と音の止め方に合わせて読みます。\nprefer：prefer の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 prefer の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nflexible：flexible の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 flexible の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\ndetailed：detailed の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 detailed の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",

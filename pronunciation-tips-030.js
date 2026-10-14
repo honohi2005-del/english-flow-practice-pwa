@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "146": [
     {
       "label": "重点語の口の形",
-      "text": "「noticed / answer / general」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nnoticed：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nanswer：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ngeneral：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「noticed / answer / general」を、単語ごとの口の形と音の止め方に合わせて読みます。\nnoticed：noticed の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。 noticed の語尾 /d/ は強く破裂させず、舌先で止めます。\nanswer：answer の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 answer の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\ngeneral：general は /ˈdʒenrəl/。/dʒen/ を強く、「ジェ・ネ・ラル」と母音を3つ足さず、後半は /rəl/ を軽くまとめます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "147": [
     {
       "label": "重点語の口の形",
-      "text": "「tried / answer / specific」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntried：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nanswer：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nspecific：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「tried / answer / specific」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntried：tried の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 tried の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。\nanswer：answer の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 answer の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nspecific：specific は /spəˈsɪfɪk/。真ん中の /sɪf/ を強く、最初の /spə/ は弱くつなぎ、最後の /k/ は「ク」と開きません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "148": [
     {
       "label": "重点語の口の形",
-      "text": "「gave / example / life」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ngave：f / v は下唇を上の歯に軽く触れ、母音を足しません。\nexample：アクセントのある音を少し長く、ほかは軽く流します。\nlife：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「gave / example / life」を、単語ごとの口の形と音の止め方に合わせて読みます。\ngave：gave の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nexample：example は /ɪɡˈzæmpəl/。/zæm/ を強く、/ɡ/ から /z/ を切らず、最後の /pəl/ は「ポル」と開かず軽く終えます。\nlife：life の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 life の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "149": [
     {
       "label": "重点語の口の形",
-      "text": "「wanted / connect / example」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwanted：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nconnect：アクセントのある音を少し長く、ほかは軽く流します。\nexample：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「wanted / connect / example」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwanted：wanted の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 wanted の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。\nconnect：connect の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 connect の語尾 /t/ は強く破裂させず、舌先で止めます。\nexample：example は /ɪɡˈzæmpəl/。/zæm/ を強く、/ɡ/ から /z/ を切らず、最後の /pəl/ は「ポル」と開かず軽く終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "150": [
     {
       "label": "重点語の口の形",
-      "text": "「sometimes / sentence / through」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\nsentence：アクセントのある音を少し長く、ほかは軽く流します。\nthrough：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「sometimes / sentence / through」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsometimes：sometimes の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nsentence：sentence は /ˈsentəns/。最初の /sent/ を強く、真ん中の /tə/ を弱くし、最後の /s/ は「ス」と母音を足さず止めます。\nthrough：through の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 through の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。"
     },
     {
       "label": "日本語訛りになりやすい音",

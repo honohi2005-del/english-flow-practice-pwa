@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "96": [
     {
       "label": "重点語の口の形",
-      "text": "「helpful / whether / understood」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nhelpful：l は舌先を上の歯ぐきに軽く触れます。\nwhether：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nunderstood：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「helpful / whether / understood」を、単語ごとの口の形と音の止め方に合わせて読みます。\nhelpful：helpful の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 helpful の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nwhether：whether の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 whether の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nunderstood：understood の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 understood の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "97": [
     {
       "label": "重点語の口の形",
-      "text": "「give / example / point」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ngive：f / v は下唇を上の歯に軽く触れ、母音を足しません。\nexample：アクセントのある音を少し長く、ほかは軽く流します。\npoint：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「give / example / point」を、単語ごとの口の形と音の止め方に合わせて読みます。\ngive：give の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nexample：example は /ɪɡˈzæmpəl/。/zæm/ を強く、/ɡ/ から /z/ を切らず、最後の /pəl/ は「ポル」と開かず軽く終えます。\npoint：point の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 point の語尾 /t/ は強く破裂させず、舌先で止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "98": [
     {
       "label": "重点語の口の形",
-      "text": "「experience / explanation / memorable」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexperience：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nexplanation：-tion は「ション」と一拍で軽く収めます。\nmemorable：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「experience / explanation / memorable」を、単語ごとの口の形と音の止め方に合わせて読みます。\nexperience：experience の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 experience の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nexplanation：explanation の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explanation の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。\nmemorable：memorable の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 memorable の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "99": [
     {
       "label": "重点語の口の形",
-      "text": "「want / answers / follow」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nanswers：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nfollow：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「want / answers / follow」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nanswers：answers の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 answers の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nfollow：follow の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 follow の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "100": [
     {
       "label": "重点語の口の形",
-      "text": "「practicing / finish / clearly」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\npracticing：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nfinish：アクセントのある音を少し長く、ほかは軽く流します。\nclearly：この語は語尾に母音を足さず、最後の子音で短く閉じます。"
+      "text": "この文では「practicing / finish / clearly」を、単語ごとの口の形と音の止め方に合わせて読みます。\npracticing：practicing は /ˈpræktɪsɪŋ/。最初の /pr/ を「プ・ラ」と分けず、/præk/ を強く、最後の /ŋ/ は「ング」と破裂させません。\nfinish：finish の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 finish の sh は「シ」と声を足さず、唇を少し丸めた /ʃ/ の息で閉じます。\nclearly：clearly の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 clearly の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",

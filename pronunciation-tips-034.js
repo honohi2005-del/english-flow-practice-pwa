@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "166": [
     {
       "label": "重点語の口の形",
-      "text": "「phrase / polite / situation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nphrase：r は舌先を歯ぐきに付けず、口の奥で響かせます。\npolite：l は舌先を上の歯ぐきに軽く触れます。\nsituation：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「phrase / polite / situation」を、単語ごとの口の形と音の止め方に合わせて読みます。\nphrase：phrase の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 phrase の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\npolite：polite の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nsituation：situation の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "167": [
     {
       "label": "重点語の口の形",
-      "text": "「check / meaning / context」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncheck：アクセントのある音を少し長く、ほかは軽く流します。\nmeaning：ng は舌の奥で止め、最後の /g/ を強く出しません。\ncontext：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「check / meaning / context」を、単語ごとの口の形と音の止め方に合わせて読みます。\ncheck：check の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。 check の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nmeaning：meaning の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 meaning の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。\ncontext：context の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 context の語尾 /t/ は強く破裂させず、舌先で止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "168": [
     {
       "label": "重点語の口の形",
-      "text": "「sometimes / expressions / directly」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\nexpressions：-tion は「ション」と一拍で軽く収めます。\ndirectly：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「sometimes / expressions / directly」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsometimes：sometimes の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nexpressions：expressions の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 expressions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ndirectly：directly の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 directly の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "169": [
     {
       "label": "重点語の口の形",
-      "text": "「word / different / English」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nword：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。\nEnglish：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「word / different / English」を、単語ごとの口の形と音の止め方に合わせて読みます。\nword：word の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 word の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\ndifferent：different は /ˈdɪfrənt/。「ディ・ファ・レント」と3拍にせず、/dɪf/ を強くして /frənt/ へ一息でつなぎ、最後の /t/ は破裂させません。\nEnglish：English は /ˈɪŋɡlɪʃ/。最初の /ɪŋ/ を強く、/ŋ/ のあとに「グ」を独立させず、最後の /ʃ/ は「シ」と母音を足さず息で終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "170": [
     {
       "label": "重点語の口の形",
-      "text": "「need / expression / strong」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nneed：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nexpression：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nstrong：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「need / expression / strong」を、単語ごとの口の形と音の止め方に合わせて読みます。\nneed：need の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。 need の語尾 /d/ は強く破裂させず、舌先で止めます。\nexpression：expression の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 expression の -sion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。\nstrong：strong の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 strong の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",

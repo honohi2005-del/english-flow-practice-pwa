@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "46": [
     {
       "label": "重点語の口の形",
-      "text": "「sometimes / late / finish」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\nlate：l は舌先を上の歯ぐきに軽く触れます。\nfinish：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「sometimes / late / finish」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsometimes：sometimes の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nlate：late の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nfinish：finish の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 finish の sh は「シ」と声を足さず、唇を少し丸めた /ʃ/ の息で閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "47": [
     {
       "label": "重点語の口の形",
-      "text": "「planning / schedule / advance」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nplanning：l は舌先を上の歯ぐきに軽く触れます。\nschedule：l は舌先を上の歯ぐきに軽く触れます。\nadvance：f / v は下唇を上の歯に軽く触れ、母音を足しません。"
+      "text": "この文では「planning / schedule / advance」を、単語ごとの口の形と音の止め方に合わせて読みます。\nplanning：planning の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 planning の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\nschedule：schedule の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 schedule の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。\nadvance：advance の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 advance の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "48": [
     {
       "label": "重点語の口の形",
-      "text": "「try / overload / calendar」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntry：r は舌先を歯ぐきに付けず、口の奥で響かせます。\noverload：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ncalendar：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「try / overload / calendar」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntry：try の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 try の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\noverload：overload の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 overload の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\ncalendar：calendar の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 calendar の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "49": [
     {
       "label": "重点語の口の形",
-      "text": "「need / alone / busy」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nneed：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nalone：l は舌先を上の歯ぐきに軽く触れます。\nbusy：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「need / alone / busy」を、単語ごとの口の形と音の止め方に合わせて読みます。\nneed：need の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。 need の語尾 /d/ は強く破裂させず、舌先で止めます。\nalone：alone の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nbusy：busy の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "50": [
     {
       "label": "重点語の口の形",
-      "text": "「reflect / what / learned」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nreflect：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nwhat：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nlearned：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「reflect / what / learned」を、単語ごとの口の形と音の止め方に合わせて読みます。\nreflect：reflect の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 reflect の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nwhat：what の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 what の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nlearned：learned の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 learned の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",

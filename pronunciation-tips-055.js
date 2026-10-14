@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "271": [
     {
       "label": "重点語の口の形",
-      "text": "「like / questions / students」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlike：l は舌先を上の歯ぐきに軽く触れます。\nquestions：-tion は「ション」と一拍で軽く収めます。\nstudents：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「like / questions / students」を、単語ごとの口の形と音の止め方に合わせて読みます。\nlike：like の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nquestions：questions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 questions の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nstudents：students の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 students の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "272": [
     {
       "label": "重点語の口の形",
-      "text": "「Students / understand / than」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nStudents：アクセントのある音を少し長く、ほかは軽く流します。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。\nthan：th は舌先を歯の間に少し出し、息（または声）を添えます。"
+      "text": "この文では「Students / understand / than」を、単語ごとの口の形と音の止め方に合わせて読みます。\nStudents：Students の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 Students の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nunderstand：understand の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 understand の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nthan：than の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。 than の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "273": [
     {
       "label": "重点語の口の形",
-      "text": "「Speaking / develops / repeated」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nSpeaking：ng は舌の奥で止め、最後の /g/ を強く出しません。\ndevelops：l は舌先を上の歯ぐきに軽く触れます。\nrepeated：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「Speaking / develops / repeated」を、単語ごとの口の形と音の止め方に合わせて読みます。\nSpeaking：Speaking の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 Speaking の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。\ndevelops：develops の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 develops の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nrepeated：repeated の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 repeated の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "274": [
     {
       "label": "重点語の口の形",
-      "text": "「Learners / realistic / goals」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nLearners：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nrealistic：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ngoals：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「Learners / realistic / goals」を、単語ごとの口の形と音の止め方に合わせて読みます。\nLearners：Learners の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 Learners の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nrealistic：realistic の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 realistic の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\ngoals：goals の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 goals の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "275": [
     {
       "label": "重点語の口の形",
-      "text": "「Small / improvements / confidence」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nSmall：l は舌先を上の歯ぐきに軽く触れます。\nimprovements：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nconfidence：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「Small / improvements / confidence」を、単語ごとの口の形と音の止め方に合わせて読みます。\nSmall：Small の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 Small の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nimprovements：improvements の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 improvements の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nconfidence：confidence の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 confidence の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",

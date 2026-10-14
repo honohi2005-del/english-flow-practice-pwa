@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "276": [
     {
       "label": "重点語の口の形",
-      "text": "「students / notice / progress」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nstudents：アクセントのある音を少し長く、ほかは軽く流します。\nnotice：アクセントのある音を少し長く、ほかは軽く流します。\nprogress：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「students / notice / progress」を、単語ごとの口の形と音の止め方に合わせて読みます。\nstudents：students の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 students の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nnotice：notice は最初の /n/ をはっきり出し、最後の /e/ で音を閉じます。「notice」を日本語の拍に分けず、一息でつなげます。\nprogress：progress の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 progress の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "277": [
     {
       "label": "重点語の口の形",
-      "text": "「adapt / explanation / learner」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nadapt：アクセントのある音を少し長く、ほかは軽く流します。\nexplanation：-tion は「ション」と一拍で軽く収めます。\nlearner：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「adapt / explanation / learner」を、単語ごとの口の形と音の止め方に合わせて読みます。\nadapt：adapt の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 adapt の語尾 /t/ は強く破裂させず、舌先で止めます。\nexplanation：explanation の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explanation の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。\nlearner：learner の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 learner の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "278": [
     {
       "label": "重点語の口の形",
-      "text": "「students / need / examples」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nstudents：アクセントのある音を少し長く、ほかは軽く流します。\nneed：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nexamples：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「students / need / examples」を、単語ごとの口の形と音の止め方に合わせて読みます。\nstudents：students の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 students の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nneed：need の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。 need の語尾 /d/ は強く破裂させず、舌先で止めます。\nexamples：examples の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 examples の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "279": [
     {
       "label": "重点語の口の形",
-      "text": "「students / opportunities / speak」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nstudents：アクセントのある音を少し長く、ほかは軽く流します。\nopportunities：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nspeak：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「students / opportunities / speak」を、単語ごとの口の形と音の止め方に合わせて読みます。\nstudents：students の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 students の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nopportunities：opportunities の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 opportunities の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nspeak：speak の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "280": [
     {
       "label": "重点語の口の形",
-      "text": "「Teaching / requires / observation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nTeaching：ng は舌の奥で止め、最後の /g/ を強く出しません。\nrequires：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nobservation：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「Teaching / requires / observation」を、単語ごとの口の形と音の止め方に合わせて読みます。\nTeaching：Teaching の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 Teaching の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。\nrequires：requires の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 requires の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nobservation：observation の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 observation の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",

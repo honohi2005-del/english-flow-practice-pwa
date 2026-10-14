@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "236": [
     {
       "label": "重点語の口の形",
-      "text": "「want / stories / clear」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nstories：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nclear：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「want / stories / clear」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nstories：stories の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 stories の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nclear：clear の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 clear の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "237": [
     {
       "label": "重点語の口の形",
-      "text": "「explain / happened / opinion」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nhappened：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nopinion：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「explain / happened / opinion」を、単語ごとの口の形と音の止め方に合わせて読みます。\nexplain：explain の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explain の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nhappened：happened の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。 happened の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nopinion：opinion は最初の /o/ をはっきり出し、最後の /n/ で音を閉じます。「opinion」を日本語の拍に分けず、一息でつなげます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "238": [
     {
       "label": "重点語の口の形",
-      "text": "「want / important / stand」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nimportant：語尾の /t/ は強く破裂させず、舌先で止めます。\nstand：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「want / important / stand」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nimportant：important は /ɪmˈpɔːrtənt/。/pɔːr/ を強く、最初の /ɪm/ と最後の /tənt/ は軽くし、語尾に「トゥ」と母音を足しません。\nstand：stand の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 stand の語尾 /d/ は強く破裂させず、舌先で止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "239": [
     {
       "label": "重点語の口の形",
-      "text": "「sometimes / details / necessary」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\ndetails：アクセントのある音を少し長く、ほかは軽く流します。\nnecessary：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「sometimes / details / necessary」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsometimes：sometimes の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\ndetails：details の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 details の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nnecessary：necessary の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 necessary の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "240": [
     {
       "label": "重点語の口の形",
-      "text": "「learning / choose / details」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlearning：ng は舌の奥で止め、最後の /g/ を強く出しません。\nchoose：アクセントのある音を少し長く、ほかは軽く流します。\ndetails：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「learning / choose / details」を、単語ごとの口の形と音の止め方に合わせて読みます。\nlearning：learning の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 learning の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nchoose：choose の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。 choose の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ndetails：details の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 details の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",

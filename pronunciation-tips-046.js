@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "226": [
     {
       "label": "重点語の口の形",
-      "text": "「practicing / explain / opinion」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\npracticing：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nopinion：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「practicing / explain / opinion」を、単語ごとの口の形と音の止め方に合わせて読みます。\npracticing：practicing は /ˈpræktɪsɪŋ/。最初の /pr/ を「プ・ラ」と分けず、/præk/ を強く、最後の /ŋ/ は「ング」と破裂させません。\nexplain：explain の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explain の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nopinion：opinion は最初の /o/ をはっきり出し、最後の /n/ で音を閉じます。「opinion」を日本語の拍に分けず、一息でつなげます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "227": [
     {
       "label": "重点語の口の形",
-      "text": "「want / show / relationship」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nshow：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nrelationship：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「want / show / relationship」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nshow：show の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 show の sh は「シ」と声を足さず、唇を少し丸めた /ʃ/ の息で閉じます。\nrelationship：relationship の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 relationship の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "228": [
     {
       "label": "重点語の口の形",
-      "text": "「Cause / effect / simple」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nCause：アクセントのある音を少し長く、ほかは軽く流します。\neffect：アクセントのある音を少し長く、ほかは軽く流します。\nsimple：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「Cause / effect / simple」を、単語ごとの口の形と音の止め方に合わせて読みます。\nCause：Cause は最初の /c/ をはっきり出し、最後の /e/ で音を閉じます。「Cause」を日本語の拍に分けず、一息でつなげます。\neffect：effect の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 effect の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nsimple：simple の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 simple の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "229": [
     {
       "label": "重点語の口の形",
-      "text": "「sometimes / explain / background」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nbackground：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「sometimes / explain / background」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsometimes：sometimes の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\nexplain：explain の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explain の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nbackground：background の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 background の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "230": [
     {
       "label": "重点語の口の形",
-      "text": "「conclusion / introduce / completely」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nconclusion：l は舌先を上の歯ぐきに軽く触れます。\nintroduce：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ncompletely：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「conclusion / introduce / completely」を、単語ごとの口の形と音の止め方に合わせて読みます。\nconclusion：conclusion の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 conclusion の -sion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。\nintroduce：introduce の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 introduce の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ncompletely：completely の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 completely の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",

@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "136": [
     {
       "label": "重点語の口の形",
-      "text": "「result / different / predicted」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nresult：アクセントのある音を少し長く、ほかは軽く流します。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。\npredicted：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「result / different / predicted」を、単語ごとの口の形と音の止め方に合わせて読みます。\nresult：result の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 result の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\ndifferent：different は /ˈdɪfrənt/。「ディ・ファ・レント」と3拍にせず、/dɪf/ を強くして /frənt/ へ一息でつなぎ、最後の /t/ は破裂させません。\npredicted：predicted の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 predicted の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "137": [
     {
       "label": "重点語の口の形",
-      "text": "「needed / change / approach」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nneeded：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nchange：ng は舌の奥で止め、最後の /g/ を強く出しません。\napproach：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「needed / change / approach」を、単語ごとの口の形と音の止め方に合わせて読みます。\nneeded：needed の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。 needed の語尾 /d/ は強く破裂させず、舌先で止めます。\nchange：change の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 change の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。\napproach：approach の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 approach の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "138": [
     {
       "label": "重点語の口の形",
-      "text": "「Looking / see / possible」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nLooking：l は舌先を上の歯ぐきに軽く触れます。\nsee：アクセントのある音を少し長く、ほかは軽く流します。\npossible：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「Looking / see / possible」を、単語ごとの口の形と音の止め方に合わせて読みます。\nLooking：Looking の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 Looking の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\nsee：see は最初の /s/ をはっきり出し、最後の /e/ で音を閉じます。「see」を日本語の拍に分けず、一息でつなげます。\npossible：possible の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 possible の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "139": [
     {
       "label": "重点語の口の形",
-      "text": "「event / affect / different」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nevent：f / v は下唇を上の歯に軽く触れ、母音を足しません。\naffect：アクセントのある音を少し長く、ほかは軽く流します。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。"
+      "text": "この文では「event / affect / different」を、単語ごとの口の形と音の止め方に合わせて読みます。\nevent：event の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 event の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\naffect：affect の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 affect の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ndifferent：different は /ˈdɪfrənt/。「ディ・ファ・レント」と3拍にせず、/dɪf/ を強くして /frənt/ へ一息でつなぎ、最後の /t/ は破裂させません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "140": [
     {
       "label": "重点語の口の形",
-      "text": "「remember / learned / experience」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nremember：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nlearned：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexperience：この語は語尾に母音を足さず、最後の子音で短く閉じます。"
+      "text": "この文では「remember / learned / experience」を、単語ごとの口の形と音の止め方に合わせて読みます。\nremember：remember の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 remember の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nlearned：learned の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 learned の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nexperience：experience の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 experience の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",

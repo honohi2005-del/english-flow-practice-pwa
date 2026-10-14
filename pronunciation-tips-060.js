@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "296": [
     {
       "label": "重点語の口の形",
-      "text": "「Social / usually / than」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nSocial：l は舌先を上の歯ぐきに軽く触れます。\nusually：アクセントのある音を少し長く、ほかは軽く流します。\nthan：th は舌先を歯の間に少し出し、息（または声）を添えます。"
+      "text": "この文では「Social / usually / than」を、単語ごとの口の形と音の止め方に合わせて読みます。\nSocial：Social の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nusually：usually の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 usually の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nthan：than の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。 than の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "297": [
     {
       "label": "重点語の口の形",
-      "text": "「Individual / different / general」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nIndividual：アクセントのある音を少し長く、ほかは軽く流します。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。\ngeneral：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「Individual / different / general」を、単語ごとの口の形と音の止め方に合わせて読みます。\nIndividual：individual は /ˌɪndɪˈvɪdʒuəl/。一番強くするのは -vid-、最後の /dʒuəl/ は「ジュ・アル」と分けず軽く流します。\ndifferent：different は /ˈdɪfrənt/。「ディ・ファ・レント」と3拍にせず、/dɪf/ を強くして /frənt/ へ一息でつなぎ、最後の /t/ は破裂させません。\ngeneral：general は /ˈdʒenrəl/。/dʒen/ を強く、「ジェ・ネ・ラル」と母音を3つ足さず、後半は /rəl/ を軽くまとめます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "298": [
     {
       "label": "重点語の口の形",
-      "text": "「consider / short / effects」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nconsider：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nshort：r は舌先を歯ぐきに付けず、口の奥で響かせます。\neffects：この語は語尾に母音を足さず、最後の子音で短く閉じます。"
+      "text": "この文では「consider / short / effects」を、単語ごとの口の形と音の止め方に合わせて読みます。\nconsider：consider の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 consider の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nshort：short の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 short の sh は「シ」と声を足さず、唇を少し丸めた /ʃ/ の息で閉じます。\neffects：effects の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 effects の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "299": [
     {
       "label": "重点語の口の形",
-      "text": "「balanced / discussion / concrete」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nbalanced：l は舌先を上の歯ぐきに軽く触れます。\ndiscussion：-tion は「ション」と一拍で軽く収めます。\nconcrete：語尾の /t/ は強く破裂させず、舌先で止めます。"
+      "text": "この文では「balanced / discussion / concrete」を、単語ごとの口の形と音の止め方に合わせて読みます。\nbalanced：balanced の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 balanced の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。\ndiscussion：discussion は /dɪˈskʌʃən/。/sk/ を「ス・ク」と分けず -cuss- を強く、最後の /ʃən/ は短く一まとまりにします。\nconcrete：concrete の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 concrete の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "300": [
     {
       "label": "重点語の口の形",
-      "text": "「want / thoughtful / natural」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nthoughtful：th は舌先を歯の間に少し出し、息（または声）を添えます。\nnatural：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。"
+      "text": "この文では「want / thoughtful / natural」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nthoughtful：thoughtful の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 thoughtful の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nnatural：natural は /ˈnætʃərəl/。最初の /næ/ を強く、-tural- は「チュラル」と3拍にせず、/tʃr/ を続けて最後を軽くします。"
     },
     {
       "label": "日本語訛りになりやすい音",

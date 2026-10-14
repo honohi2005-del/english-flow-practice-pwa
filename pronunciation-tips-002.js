@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "6": [
     {
       "label": "重点語の口の形",
-      "text": "「helping / communicate / Japanese」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nhelping：l は舌先を上の歯ぐきに軽く触れます。\ncommunicate：アクセントのある音を少し長く、ほかは軽く流します。\nJapanese：語尾の /z/ は母音を足さず、声を残して短く閉じます。"
+      "text": "この文では「helping / communicate / Japanese」を、単語ごとの口の形と音の止め方に合わせて読みます。\nhelping：helping の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 helping の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\ncommunicate：communicate の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nJapanese：Japanese は /ˌdʒæpəˈniːz/。いちばん高く長くするのは -nee-、最後の /z/ は「ズ」と母音を足さず声だけ残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "7": [
     {
       "label": "重点語の口の形",
-      "text": "「interested / languages / think」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ninterested：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nlanguages：l は舌先を上の歯ぐきに軽く触れます。\nthink：th は舌先を歯の間に少し出し、息（または声）を添えます。"
+      "text": "この文では「interested / languages / think」を、単語ごとの口の形と音の止め方に合わせて読みます。\ninterested：interested の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 interested の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。\nlanguages：languages の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 languages の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。\nthink：think の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。 think の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "8": [
     {
       "label": "重点語の口の形",
-      "text": "「often / Japanese / English」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\noften：アクセントのある音を少し長く、ほかは軽く流します。\nJapanese：語尾の /z/ は母音を足さず、声を残して短く閉じます。\nEnglish：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「often / Japanese / English」を、単語ごとの口の形と音の止め方に合わせて読みます。\noften：often の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 often の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nJapanese：Japanese は /ˌdʒæpəˈniːz/。いちばん高く長くするのは -nee-、最後の /z/ は「ズ」と母音を足さず声だけ残します。\nEnglish：English は /ˈɪŋɡlɪʃ/。最初の /ɪŋ/ を強く、/ŋ/ のあとに「グ」を独立させず、最後の /ʃ/ は「シ」と母音を足さず息で終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "9": [
     {
       "label": "重点語の口の形",
-      "text": "「students / comfortable / Japanese」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nstudents：アクセントのある音を少し長く、ほかは軽く流します。\ncomfortable：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nJapanese：語尾の /z/ は母音を足さず、声を残して短く閉じます。"
+      "text": "この文では「students / comfortable / Japanese」を、単語ごとの口の形と音の止め方に合わせて読みます。\nstudents：students の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 students の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。\ncomfortable：comfortable の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 comfortable の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nJapanese：Japanese は /ˌdʒæpəˈniːz/。いちばん高く長くするのは -nee-、最後の /z/ は「ズ」と母音を足さず声だけ残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "10": [
     {
       "label": "重点語の口の形",
-      "text": "「try / explain / simple」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntry：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nsimple：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「try / explain / simple」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntry：try の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 try の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nexplain：explain の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explain の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nsimple：simple の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 simple の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",

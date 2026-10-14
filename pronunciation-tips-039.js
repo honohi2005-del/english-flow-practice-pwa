@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "191": [
     {
       "label": "重点語の口の形",
-      "text": "「want / explain / oversimplifying」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\noversimplifying：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「want / explain / oversimplifying」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nexplain：explain の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 explain の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\noversimplifying：oversimplifying の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 oversimplifying の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "192": [
     {
       "label": "重点語の口の形",
-      "text": "「answer / mention / weaknesses」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nanswer：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nmention：-tion は「ション」と一拍で軽く収めます。\nweaknesses：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。"
+      "text": "この文では「answer / mention / weaknesses」を、単語ごとの口の形と音の止め方に合わせて読みます。\nanswer：answer の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 answer の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nmention：mention の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。 mention の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nweaknesses：weaknesses の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 weaknesses の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "193": [
     {
       "label": "重点語の口の形",
-      "text": "「distinguish / opinion / fact」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ndistinguish：ng は舌の奥で止め、最後の /g/ を強く出しません。\nopinion：アクセントのある音を少し長く、ほかは軽く流します。\nfact：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「distinguish / opinion / fact」を、単語ごとの口の形と音の止め方に合わせて読みます。\ndistinguish：distinguish の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 distinguish の sh は「シ」と声を足さず、唇を少し丸めた /ʃ/ の息で閉じます。\nopinion：opinion は最初の /o/ をはっきり出し、最後の /n/ で音を閉じます。「opinion」を日本語の拍に分けず、一息でつなげます。\nfact：fact の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 fact の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "194": [
     {
       "label": "重点語の口の形",
-      "text": "「want / show / suggestion」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nshow：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nsuggestion：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「want / show / suggestion」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nshow：show の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 show の sh は「シ」と声を足さず、唇を少し丸めた /ʃ/ の息で閉じます。\nsuggestion：suggestion の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。 suggestion の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "195": [
     {
       "label": "重点語の口の形",
-      "text": "「learning / disagree / politely」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlearning：ng は舌の奥で止め、最後の /g/ を強く出しません。\ndisagree：r は舌先を歯ぐきに付けず、口の奥で響かせます。\npolitely：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「learning / disagree / politely」を、単語ごとの口の形と音の止め方に合わせて読みます。\nlearning：learning の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 learning の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\ndisagree：disagree の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 disagree の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\npolitely：politely の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 politely の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",

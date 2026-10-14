@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "256": [
     {
       "label": "重点語の口の形",
-      "text": "「Learners / expression / times」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nLearners：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexpression：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ntimes：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「Learners / expression / times」を、単語ごとの口の形と音の止め方に合わせて読みます。\nLearners：Learners の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 Learners の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nexpression：expression の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 expression の -sion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。\ntimes：times の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "257": [
     {
       "label": "重点語の口の形",
-      "text": "「notice / speaker / answer」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nnotice：アクセントのある音を少し長く、ほかは軽く流します。\nspeaker：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nanswer：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「notice / speaker / answer」を、単語ごとの口の形と音の止め方に合わせて読みます。\nnotice：notice は最初の /n/ をはっきり出し、最後の /e/ で音を閉じます。「notice」を日本語の拍に分けず、一息でつなげます。\nspeaker：speaker の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 speaker の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nanswer：answer の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 answer の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "258": [
     {
       "label": "重点語の口の形",
-      "text": "「attention / people / topics」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nattention：-tion は「ション」と一拍で軽く収めます。\npeople：l は舌先を上の歯ぐきに軽く触れます。\ntopics：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「attention / people / topics」を、単語ごとの口の形と音の止め方に合わせて読みます。\nattention：attention の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。 attention の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\npeople：people の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 people の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ntopics：topics の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 topics の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "259": [
     {
       "label": "重点語の口の形",
-      "text": "「natural / always / long」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nnatural：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。\nalways：l は舌先を上の歯ぐきに軽く触れます。\nlong：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「natural / always / long」を、単語ごとの口の形と音の止め方に合わせて読みます。\nnatural：natural は /ˈnætʃərəl/。最初の /næ/ を強く、-tural- は「チュラル」と3拍にせず、/tʃr/ を続けて最後を軽くします。\nalways：always の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 always の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nlong：long の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 long の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "260": [
     {
       "label": "重点語の口の形",
-      "text": "「best / expression / situation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nbest：アクセントのある音を少し長く、ほかは軽く流します。\nexpression：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nsituation：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「best / expression / situation」を、単語ごとの口の形と音の止め方に合わせて読みます。\nbest：best の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 best の語尾 /t/ は強く破裂させず、舌先で止めます。\nexpression：expression の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 expression の -sion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。\nsituation：situation の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",

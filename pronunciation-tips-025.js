@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "121": [
     {
       "label": "重点語の口の形",
-      "text": "「recently / conversation / think」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nrecently：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nconversation：-tion は「ション」と一拍で軽く収めます。\nthink：th は舌先を歯の間に少し出し、息（または声）を添えます。"
+      "text": "この文では「recently / conversation / think」を、単語ごとの口の形と音の止め方に合わせて読みます。\nrecently：recently の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 recently の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nconversation：conversation は /ˌkɑːnvərˈseɪʃən/。一番強くするのは -say-、/kɑːn-vər/ は弱くつなぎ、最後の /ʃən/ を「ション」と2拍にしません。\nthink：think の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。 think の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "122": [
     {
       "label": "重点語の口の形",
-      "text": "「noticed / expected / happened」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nnoticed：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nexpected：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nhappened：語尾の -ed は「エッド」と一拍にせず、短く収めます。"
+      "text": "この文では「noticed / expected / happened」を、単語ごとの口の形と音の止め方に合わせて読みます。\nnoticed：noticed の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。 noticed の語尾 /d/ は強く破裂させず、舌先で止めます。\nexpected：expected の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。 expected の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nhappened：happened の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。 happened の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "123": [
     {
       "label": "重点語の口の形",
-      "text": "「first / know / respond」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nfirst：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nknow：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nrespond：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「first / know / respond」を、単語ごとの口の形と音の止め方に合わせて読みます。\nfirst：first の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 first の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nknow：know の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 know の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nrespond：respond の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 respond の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "124": [
     {
       "label": "重点語の口の形",
-      "text": "「After / understand / situation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nAfter：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。\nsituation：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「After / understand / situation」を、単語ごとの口の形と音の止め方に合わせて読みます。\nAfter：After の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 After の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。\nunderstand：understand の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 understand の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nsituation：situation の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "125": [
     {
       "label": "重点語の口の形",
-      "text": "「realized / had / assumption」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nrealized：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nhad：アクセントのある音を少し長く、ほかは軽く流します。\nassumption：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「realized / had / assumption」を、単語ごとの口の形と音の止め方に合わせて読みます。\nrealized：realized の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 realized の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nhad：had の語尾 /d/ は強く破裂させず、舌先で止めます。\nassumption：assumption の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。 assumption の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",

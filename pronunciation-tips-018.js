@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "86": [
     {
       "label": "重点語の口の形",
-      "text": "「learning / notice / already」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlearning：ng は舌の奥で止め、最後の /g/ を強く出しません。\nnotice：アクセントのある音を少し長く、ほかは軽く流します。\nalready：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「learning / notice / already」を、単語ごとの口の形と音の止め方に合わせて読みます。\nlearning：learning の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 learning の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。\nnotice：notice は最初の /n/ をはっきり出し、最後の /e/ で音を閉じます。「notice」を日本語の拍に分けず、一息でつなげます。\nalready：already の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 already の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "87": [
     {
       "label": "重点語の口の形",
-      "text": "「Confidence / use / repeatedly」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nConfidence：アクセントのある音を少し長く、ほかは軽く流します。\nuse：アクセントのある音を少し長く、ほかは軽く流します。\nrepeatedly：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「Confidence / use / repeatedly」を、単語ごとの口の形と音の止め方に合わせて読みます。\nConfidence：Confidence の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 Confidence の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nuse：use は最初の /u/ をはっきり出し、最後の /e/ で音を閉じます。「use」を日本語の拍に分けず、一息でつなげます。\nrepeatedly：repeatedly の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 repeatedly の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "88": [
     {
       "label": "重点語の口の形",
-      "text": "「want / progress / than」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nprogress：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nthan：th は舌先を歯の間に少し出し、息（または声）を添えます。"
+      "text": "この文では「want / progress / than」を、単語ごとの口の形と音の止め方に合わせて読みます。\nwant：want の /w/ は唇を丸めてすぐ開き、「ウ」を一拍にしません。 want の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nprogress：progress の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 progress の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nthan：than の th は舌先を歯の間に少し出し、「トゥ」と区切らず息（または声）を添えます。 than の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "89": [
     {
       "label": "重点語の口の形",
-      "text": "「try / important / regularly」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntry：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nimportant：語尾の /t/ は強く破裂させず、舌先で止めます。\nregularly：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「try / important / regularly」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntry：try の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 try の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nimportant：important は /ɪmˈpɔːrtənt/。/pɔːr/ を強く、最初の /ɪm/ と最後の /tənt/ は軽くし、語尾に「トゥ」と母音を足しません。\nregularly：regularly の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 regularly の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "90": [
     {
       "label": "重点語の口の形",
-      "text": "「remember / better / context」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nremember：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nbetter：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ncontext：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「remember / better / context」を、単語ごとの口の形と音の止め方に合わせて読みます。\nremember：remember の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 remember の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nbetter：better の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 better の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ncontext：context の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 context の語尾 /t/ は強く破裂させず、舌先で止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",

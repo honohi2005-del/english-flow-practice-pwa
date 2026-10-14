@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "291": [
     {
       "label": "重点語の口の形",
-      "text": "「conversation / deeper / questions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nconversation：-tion は「ション」と一拍で軽く収めます。\ndeeper：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nquestions：-tion は「ション」と一拍で軽く収めます。"
+      "text": "この文では「conversation / deeper / questions」を、単語ごとの口の形と音の止め方に合わせて読みます。\nconversation：conversation は /ˌkɑːnvərˈseɪʃən/。一番強くするのは -say-、/kɑːn-vər/ は弱くつなぎ、最後の /ʃən/ を「ション」と2拍にしません。\ndeeper：deeper の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。\nquestions：questions の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。 questions の語尾 /s/ は「ス」と母音を足さず、息だけで止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "292": [
     {
       "label": "重点語の口の形",
-      "text": "「discussing / advantages / disadvantages」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ndiscussing：ng は舌の奥で止め、最後の /g/ を強く出しません。\nadvantages：f / v は下唇を上の歯に軽く触れ、母音を足しません。\ndisadvantages：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「discussing / advantages / disadvantages」を、単語ごとの口の形と音の止め方に合わせて読みます。\ndiscussing：discussing の ng は舌の奥で止め、最後の /g/ を独立させず鼻に抜いて終えます。 discussing の -ing は /ɪŋ/。最後を「イング」と二拍にせず、/ŋ/ で鼻に抜いて止めます。\nadvantages：advantages の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 advantages の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ndisadvantages：disadvantages の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 disadvantages の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "293": [
     {
       "label": "重点語の口の形",
-      "text": "「solution / possible / limitations」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsolution：-tion は「ション」と一拍で軽く収めます。\npossible：アクセントのある音を少し長く、ほかは軽く流します。\nlimitations：l は舌先を上の歯ぐきに軽く触れます。"
+      "text": "この文では「solution / possible / limitations」を、単語ごとの口の形と音の止め方に合わせて読みます。\nsolution：solution の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 solution の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。\npossible：possible の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 possible の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nlimitations：limitations の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 limitations の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "294": [
     {
       "label": "重点語の口の形",
-      "text": "「technology / discussed / perspectives」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntechnology：アクセントのある音を少し長く、ほかは軽く流します。\ndiscussed：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nperspectives：アクセントのある音を少し長く、ほかは軽く流します。"
+      "text": "この文では「technology / discussed / perspectives」を、単語ごとの口の形と音の止め方に合わせて読みます。\ntechnology：technology の /l/ は舌先を上の歯ぐきに軽く触れ、後ろに母音を足しません。 technology の ch は「チュ」と母音を足さず、/tʃ/ を一度だけ弾いて止めます。\ndiscussed：discussed の -ed は「エッド」と一拍にせず、直前の音から短く閉じます。 discussed の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nperspectives：perspectives の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 perspectives の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "295": [
     {
       "label": "重点語の口の形",
-      "text": "「Convenience / safety / direction」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nConvenience：f / v は下唇を上の歯に軽く触れ、母音を足しません。\nsafety：アクセントのある音を少し長く、ほかは軽く流します。\ndirection：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
+      "text": "この文では「Convenience / safety / direction」を、単語ごとの口の形と音の止め方に合わせて読みます。\nConvenience：Convenience の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 Convenience の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\nsafety：safety の f / v は下唇を上の歯に軽く触れ、最後まで母音を足さずに息（または声）を残します。 safety の子音が続く箇所は、「ク」や「トゥ」を挟まず、子音を一息でつなぎます。\ndirection：direction の /r/ は舌先を歯ぐきに付けず、口の奥で響かせます。 direction の -tion は「ション」と二拍にせず、/ʃən/ を一まとまりで軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
