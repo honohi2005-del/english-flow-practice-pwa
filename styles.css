@@ -446,6 +446,13 @@ button:focus-visible {
   white-space: pre-line;
 }
 
+.tips-list li > strong,
+.tips-list li > span,
+.flow-description,
+.flow-note {
+  font-family: Meiryo, "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+}
+
 .flow-advice {
   margin-top: 28px;
   padding: 20px 22px;

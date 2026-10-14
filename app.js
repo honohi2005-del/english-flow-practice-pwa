@@ -3,6 +3,9 @@
 
   const sentences = Array.isArray(window.SENTENCES) ? window.SENTENCES : [];
   const PREGENERATED_AUDIO_ROOT = "./audio/tts/google-en-US";
+  const initialSentenceIndex = sentences.length
+    ? Math.floor(Math.random() * sentences.length)
+    : 0;
   const sentenceHeading = document.getElementById("sentence-heading");
   const sentenceCount = document.getElementById("sentence-count");
   const sentenceNumber = document.getElementById("sentence-number");
@@ -53,7 +56,7 @@
   };
 
   const state = {
-    index: 0,
+    index: initialSentenceIndex,
     voices: [],
     selectedVoice: null,
     deferredInstall: null,
