@@ -1,8 +1,9 @@
-const CACHE_NAME = "english-flow-practice-v19";
+const CACHE_NAME = "english-flow-practice-v21";
+const AUDIO_CACHE_NAME = "english-flow-practice-audio-v1";
 const APP_SHELL = [
   "./",
   "./index.html",
-  "./styles.css?v=16",
+  "./styles.css?v=19",
   "./sentences.js",
   "./speech-voice.js",
   "./pronunciation-tips.js",
@@ -68,7 +69,7 @@ const APP_SHELL = [
   "./pronunciation-tips-059.js",
   "./pronunciation-tips-060.js",
   "./recording-store.js",
-  "./app.js",
+  "./app.js?v=22",
   "./audio/tts-manifest.json",
   "./site.webmanifest?v=3",
   "./icons/icon.svg",
@@ -89,7 +90,7 @@ self.addEventListener("activate", (event) => {
     caches.keys()
       .then((keys) => Promise.all(
         keys
-          .filter((key) => key !== CACHE_NAME)
+          .filter((key) => key !== CACHE_NAME && key !== AUDIO_CACHE_NAME)
           .map((key) => caches.delete(key))
       ))
       .then(() => self.clients.claim())
@@ -100,6 +101,30 @@ self.addEventListener("fetch", (event) => {
   if (event.request.method !== "GET") return;
   const requestUrl = new URL(event.request.url);
   if (requestUrl.origin !== self.location.origin) return;
+
+  const isAudioRequest = requestUrl.pathname.includes("/audio/tts/")
+    && requestUrl.pathname.endsWith(".mp3");
+  if (isAudioRequest) {
+    // Native audio controls may request byte ranges. Let those requests keep
+    // their Range semantics, while caching full-file requests for repeat use.
+    if (event.request.headers.has("range")) {
+      event.respondWith(fetch(event.request));
+    } else {
+      event.respondWith(
+        caches.open(AUDIO_CACHE_NAME).then((cache) =>
+          fetch(event.request)
+            .then((response) => {
+              if (response && response.ok && response.status === 200) {
+                cache.put(event.request, response.clone()).catch(() => {});
+              }
+              return response;
+            })
+            .catch(() => cache.match(event.request).then((cached) => cached || Response.error()))
+        )
+      );
+    }
+    return;
+  }
 
   event.respondWith(
     caches.match(event.request).then((cached) => {

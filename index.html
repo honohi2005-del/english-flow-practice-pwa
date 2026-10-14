@@ -12,7 +12,7 @@
     <link rel="manifest" href="./site.webmanifest?v=3" />
     <link rel="icon" href="./icons/icon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="./icons/icon-192.png" />
-    <link rel="stylesheet" href="./styles.css?v=16" />
+    <link rel="stylesheet" href="./styles.css?v=19" />
     <title>英語の発音練習</title>
   </head>
   <body>
@@ -36,7 +36,7 @@
         <div class="sentence-number" id="sentence-number">No. 001</div>
         <h2 id="sentence-heading">I teach Japanese.</h2>
         <div class="sentence-actions">
-          <button class="primary-button" id="speak-button" type="button">
+          <button class="primary-button" id="speak-button" type="button" aria-controls="narration-audio">
             <span aria-hidden="true">▶</span>
             英文を読む
           </button>
@@ -44,6 +44,25 @@
             別の例文
             <span aria-hidden="true">↗</span>
           </button>
+        </div>
+        <div class="narration-panel" aria-labelledby="narration-heading">
+          <div class="narration-panel-heading">
+            <div>
+              <p class="narration-label" id="narration-heading">収録した英語音声</p>
+              <p class="narration-help">この例文の音声をそのまま再生します。</p>
+            </div>
+            <span class="narration-badge">埋め込み音声</span>
+          </div>
+          <audio
+            id="narration-audio"
+            class="narration-audio"
+            src="./audio/tts/google-en-US/001.mp3"
+            controls
+            preload="metadata"
+            aria-label="収録した英語音声の再生"
+          >
+            お使いのブラウザは音声再生に対応していません。
+          </audio>
         </div>
         <div class="recording-panel" aria-labelledby="recording-heading">
           <div class="recording-heading-row">
@@ -65,7 +84,7 @@
           <audio id="recording-audio" class="recording-audio" controls hidden></audio>
           <p class="recording-status" id="recording-status" role="status">この例文の録音はまだありません。</p>
         </div>
-        <p class="voice-status" id="voice-status" role="status">男性の英語音声を優先します。</p>
+          <p class="voice-status" id="voice-status" role="status">収録した高品質英語音声を使用します。</p>
       </section>
 
       <section class="content-grid">
@@ -102,7 +121,7 @@
 
       <footer class="footer-note">
         <span>300 SENTENCES</span>
-        <span>音声は端末の英語音声を使用します</span>
+        <span>収録済み英語音声を使用します</span>
       </footer>
     </main>
     <script src="./sentences.js"></script>
@@ -170,6 +189,6 @@
     <script src="./pronunciation-tips-060.js"></script>
     <script src="./pronunciation-tips-polish.js"></script>
     <script src="./recording-store.js"></script>
-    <script src="./app.js"></script>
+    <script src="./app.js?v=22"></script>
   </body>
 </html>

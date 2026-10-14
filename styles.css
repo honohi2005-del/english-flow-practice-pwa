@@ -207,6 +207,55 @@ button:focus-visible {
   margin-top: 30px;
 }
 
+.narration-panel {
+  margin-top: 18px;
+  padding: 16px 18px 18px;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.narration-panel-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.narration-label {
+  margin: 0;
+  font-size: 0.74rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.narration-help {
+  margin: 5px 0 0;
+  color: var(--muted);
+  font-size: 0.84rem;
+}
+
+.narration-badge {
+  flex: 0 0 auto;
+  padding: 6px 9px;
+  border-radius: 999px;
+  background: rgba(116, 190, 209, 0.16);
+  color: var(--cyan-deep);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  white-space: nowrap;
+}
+
+.narration-audio {
+  display: block;
+  width: 100%;
+  margin-top: 14px;
+  accent-color: var(--cyan-deep);
+}
+
 .primary-button,
 .secondary-button,
 .icon-button {
@@ -576,6 +625,15 @@ button:focus-visible {
 
   .sentence-actions {
     margin-top: 24px;
+  }
+
+  .narration-panel-heading {
+    display: block;
+  }
+
+  .narration-badge {
+    display: inline-block;
+    margin-top: 10px;
   }
 
   .primary-button,

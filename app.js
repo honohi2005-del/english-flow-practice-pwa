@@ -2,7 +2,7 @@
   "use strict";
 
   const sentences = Array.isArray(window.SENTENCES) ? window.SENTENCES : [];
-const PREGENERATED_AUDIO_ROOT = "./audio/tts/google-en-US";
+  const PREGENERATED_AUDIO_ROOT = "./audio/tts/google-en-US";
   const sentenceHeading = document.getElementById("sentence-heading");
   const sentenceCount = document.getElementById("sentence-count");
   const sentenceNumber = document.getElementById("sentence-number");
@@ -16,6 +16,7 @@ const PREGENERATED_AUDIO_ROOT = "./audio/tts/google-en-US";
   const recordingStatus = document.getElementById("recording-status");
   const recordingBadge = document.getElementById("recording-badge");
   const voiceStatus = document.getElementById("voice-status");
+  const narrationAudio = document.getElementById("narration-audio");
   const installButton = document.getElementById("install-button");
 
   const functionWords = new Set([
@@ -701,6 +702,11 @@ const PREGENERATED_AUDIO_ROOT = "./audio/tts/google-en-US";
     }
 
     const sentence = sentences[state.index];
+    stopNarration();
+    if (narrationAudio) {
+      narrationAudio.src = getNarrationAudioUrl(sentence);
+      narrationAudio.load();
+    }
     sentenceHeading.textContent = sentence.text;
     sentenceCount.textContent = state.index + 1 + " / " + sentences.length;
     sentenceNumber.textContent = "No. " + String(sentence.id).padStart(3, "0");
@@ -739,99 +745,64 @@ const PREGENERATED_AUDIO_ROOT = "./audio/tts/google-en-US";
       voiceStatus.textContent = message;
       return;
     }
-      voiceStatus.textContent = "高品質な事前生成英語音声を使用します。";
+    voiceStatus.textContent = "収録した高品質英語音声を使用します。";
   }
 
-  function refreshVoices() {
-    if (!("speechSynthesis" in window)) {
-            state.voices = [];
-            state.selectedVoice = null;
-            updateVoiceStatus();
+  function getNarrationAudioUrl(sentence) {
+    return PREGENERATED_AUDIO_ROOT + "/" + String(sentence.id).padStart(3, "0") + ".mp3";
+  }
+
+  function stopNarration() {
+    state.narrationToken += 1;
+    const audio = state.narrationAudio || narrationAudio;
+    if (audio) {
+      audio.pause();
+      audio.onplay = null;
+      audio.onended = null;
+      audio.onerror = null;
+      audio.removeAttribute("src");
+      audio.load();
+      state.narrationAudio = null;
+    }
+  }
+
+  function speakCurrentSentence() {
+    const sentence = sentences[state.index];
+    if (!sentence || !narrationAudio) {
       return;
     }
 
-    state.voices = window.speechSynthesis.getVoices();
-    state.selectedVoice = window.selectPreferredEnglishVoice(state.voices, "en-US");
-    updateVoiceStatus();
-  }
-
-        function stopNarration() {
-          state.narrationToken += 1;
-          if (state.narrationAudio) {
-            state.narrationAudio.pause();
-            state.narrationAudio.removeAttribute("src");
-            state.narrationAudio.load();
-            state.narrationAudio = null;
-          }
-          if ("speechSynthesis" in window) {
-            window.speechSynthesis.cancel();
-          }
+    stopNarration();
+    const token = state.narrationToken;
+    narrationAudio.src = getNarrationAudioUrl(sentence);
+    narrationAudio.preload = "auto";
+    state.narrationAudio = narrationAudio;
+    narrationAudio.onplay = () => {
+      if (token === state.narrationToken) {
+        updateVoiceStatus("収録した高品質英語音声で再生中");
+      }
+    };
+    narrationAudio.onended = () => {
+      if (token === state.narrationToken) {
+        state.narrationAudio = null;
+        updateVoiceStatus();
+      }
+    };
+    narrationAudio.onerror = () => {
+      if (token === state.narrationToken) {
+        state.narrationAudio = null;
+        updateVoiceStatus("収録音声を読み込めませんでした。通信状態を確認して、もう一度お試しください。");
+      }
+    };
+    narrationAudio.load();
+    const playPromise = narrationAudio.play();
+    if (playPromise && typeof playPromise.catch === "function") {
+      playPromise.catch(() => {
+        if (token === state.narrationToken) {
+          updateVoiceStatus("再生できませんでした。下の音声プレーヤーの再生ボタンを押してください。");
         }
-
-        function playBrowserFallback(sentence, token) {
-          if (token !== state.narrationToken || !("speechSynthesis" in window)) {
-            if (token === state.narrationToken) {
-              updateVoiceStatus("音声を再生できませんでした。もう一度お試しください。");
-            }
-            return;
-          }
-
-          const utterance = new SpeechSynthesisUtterance(sentence.text);
-          utterance.lang = state.selectedVoice ? state.selectedVoice.lang : "en-US";
-          utterance.voice = state.selectedVoice || null;
-          utterance.rate = 0.82;
-          utterance.pitch = 0.78;
-          utterance.onstart = () => updateVoiceStatus("端末の英語音声で再生中");
-          utterance.onend = () => {
-            if (token === state.narrationToken) {
-              updateVoiceStatus();
-            }
-          };
-          utterance.onerror = () => {
-            if (token === state.narrationToken) {
-              updateVoiceStatus("音声を再生できませんでした。もう一度お試しください。");
-            }
-          };
-          window.speechSynthesis.speak(utterance);
-        }
-
-        function speakCurrentSentence() {
-          const sentence = sentences[state.index];
-          if (!sentence) {
-            return;
-          }
-
-          stopNarration();
-          const token = state.narrationToken;
-          const audio = new Audio(
-            PREGENERATED_AUDIO_ROOT + "/" + String(sentence.id).padStart(3, "0") + ".mp3"
-          );
-          audio.preload = "auto";
-          state.narrationAudio = audio;
-
-          let fallbackStarted = false;
-          const startFallback = () => {
-            if (fallbackStarted || token !== state.narrationToken) {
-              return;
-            }
-            fallbackStarted = true;
-            state.narrationAudio = null;
-            playBrowserFallback(sentence, token);
-          };
-
-          audio.addEventListener("play", () => {
-            if (token === state.narrationToken) {
-              updateVoiceStatus("高品質な事前生成英語音声で再生中");
-            }
-          });
-          audio.addEventListener("ended", () => {
-            if (token === state.narrationToken) {
-              state.narrationAudio = null;
-              updateVoiceStatus();
-            }
-          });
-          audio.addEventListener("error", startFallback, { once: true });
-          audio.play().catch(startFallback);
+      });
+    }
   }
 
   function isIos() {
@@ -896,12 +867,7 @@ const PREGENERATED_AUDIO_ROOT = "./audio/tts/google-en-US";
   recordButton.addEventListener("click", toggleRecording);
   deleteRecordingButton.addEventListener("click", deleteCurrentRecording);
   render();
-  refreshVoices();
   setupInstallPrompt();
-
-  if ("speechSynthesis" in window) {
-    window.speechSynthesis.addEventListener("voiceschanged", refreshVoices);
-  }
 
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
