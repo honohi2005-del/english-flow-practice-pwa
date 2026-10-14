@@ -1,4 +1,4 @@
-  const CACHE_NAME = "english-flow-practice-v24";
+const CACHE_NAME = "english-flow-practice-v26";
   const AUDIO_CACHE_NAME = "english-flow-practice-audio-v4";
 const APP_SHELL = [
   "./",
@@ -69,7 +69,7 @@ const APP_SHELL = [
   "./pronunciation-tips-059.js",
   "./pronunciation-tips-060.js",
   "./recording-store.js",
-    "./app.js?v=25",
+  "./app.js?v=26",
   "./audio/tts-manifest.json",
   "./site.webmanifest?v=3",
   "./icons/icon.svg",

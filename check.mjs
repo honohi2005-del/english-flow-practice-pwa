@@ -180,12 +180,34 @@ for (const required of [
   }
 }
 
-  if (!appSource.includes('./audio/tts/en-US-RyanPiper')) {
-    throw new Error("Missing pre-generated male narration path in app.js");
+if (!appSource.includes("./audio/tts/en-US-RyanPiper")) {
+  throw new Error("Missing pre-generated male narration path in app.js");
 }
 
-if (!swSource.includes('./audio/tts-manifest.json')) {
+if (!swSource.includes("./audio/tts-manifest.json")) {
   throw new Error("Missing TTS manifest in Service Worker cache list");
+}
+
+const appVersionMatch = html.match(/<script\s+src="\.\/app\.js\?v=(\d+)"><\/script>/);
+if (!appVersionMatch || appVersionMatch[1] !== "26") {
+  throw new Error("index.html must load app.js?v=26");
+}
+
+if (
+  !swSource.includes("english-flow-practice-v26") ||
+  !swSource.includes("./app.js?v=26")
+) {
+  throw new Error("Service Worker cache version is out of date");
+}
+
+for (const required of [
+  "function randomSentenceIndex(",
+  "english-flow-practice-start-index-v2",
+  "getInitialSentenceIndex()"
+]) {
+  if (!appSource.includes(required)) {
+    throw new Error("Random start implementation is missing: " + required);
+  }
 }
 
 if (
