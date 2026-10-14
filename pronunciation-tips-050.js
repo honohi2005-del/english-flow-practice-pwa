@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Native → speakers を単語ごとに切らず、一つの音の流れとして練習します。speakers は短く弱く発音し、Native の終わりからそのまま移ります。Native speakers often use shorter のあとに毎回ポーズを置かず、意味の区切り Native speakers often use shorter｜expressions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Native ／ speakers を単語ごとに切らず、一つの音の流れとして練習します。speakers は短く弱く発音し、Native の終わりからそのまま移ります。Native speakers often use shorter のあとに毎回ポーズを置かず、意味の区切り Native speakers often use shorter｜expressions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 speakers・use・expressions を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「Native speakers often use shorter expressions.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Native speakers often use shorter expressions. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で speakers、use、expressions の強勢、Native speakers の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 speakers・use・expressions を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「Native speakers often use shorter expressions.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Native speakers often use shorter expressions. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で speakers、use、expressions の強勢、Native speakers の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "247": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では English → does を単語ごとに切らず、一つの音の流れとして練習します。does は /dəz/ と短く弱くし、English の終わりからそのまま移ります。Spoken English does not always のあとに毎回ポーズを置かず、意味の区切り Spoken English does not always｜follow textbook patterns だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では English ／ does を単語ごとに切らず、一つの音の流れとして練習します。does は /dəz/ と短く弱くし、English の終わりからそのまま移ります。Spoken English does not always のあとに毎回ポーズを置かず、意味の区切り Spoken English does not always｜follow textbook patterns だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① Englishだけを強く読む → ② English と always と textbookを残して他を弱く読む → ③ 文全体を「Spoken English does not always follow textbook patterns.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、Spoken English does not always follow textbook patterns. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で English、always、textbook の強勢、English does の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① Englishだけを強く読む ／ ② English と always と textbookを残して他を弱く読む ／ ③ 文全体を「Spoken English does not always follow textbook patterns.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、Spoken English does not always follow textbook patterns. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で English、always、textbook の強勢、English does の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "248": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では sentence → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、sentence の終わりからそのまま移ります。The same sentence can sound のあとに毎回ポーズを置かず、意味の区切り The same sentence can sound｜different in different situations だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では sentence ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、sentence の終わりからそのまま移ります。The same sentence can sound のあとに毎回ポーズを置かず、意味の区切り The same sentence can sound｜different in different situations だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「sentence・different・different」だけで言う → ② sentence can を切らずに連結 → ③ 最後に「The same sentence can sound different in different situations.」を一息で読みます。 仕上げでは、The same sentence can sound different in different situations. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で sentence、different、different の強勢、sentence can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「sentence・different・different」だけで言う ／ ② sentence can を切らずに連結 ／ ③ 最後に「The same sentence can sound different in different situations.」を一息で読みます。 仕上げでは、The same sentence can sound different in different situations. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で sentence、different、different の強勢、sentence can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "249": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では on → the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、on の終わりからそのまま移ります。Politeness depends on the relationship のあとに毎回ポーズを置かず、意味の区切り Politeness depends on the relationship｜between the speakers だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では on ／ the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、on の終わりからそのまま移ります。Politeness depends on the relationship のあとに毎回ポーズを置かず、意味の区切り Politeness depends on the relationship｜between the speakers だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① on の後で止まらず the /ðə/ と続ける → ② Politenessを長くする → ③ 「Politeness depends on the relationship between the speakers.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、Politeness depends on the relationship between the speakers. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Politeness、relationship、speakers の強勢、on the の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① on の後で止まらず the /ðə/ と続ける ／ ② Politenessを長くする ／ ③ 「Politeness depends on the relationship between the speakers.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、Politeness depends on the relationship between the speakers. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Politeness、relationship、speakers の強勢、on the の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "250": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Tone → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、Tone の終わりからそのまま移ります。Tone can change the meaning のあとに毎回ポーズを置かず、意味の区切り Tone can change the meaning｜of a sentence だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Tone ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、Tone の終わりからそのまま移ります。Tone can change the meaning のあとに毎回ポーズを置かず、意味の区切り Tone can change the meaning｜of a sentence だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「Tone can change the meaning｜of a sentence」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「Tone can change the meaning of a sentence.」を再生します。 仕上げでは、Tone can change the meaning of a sentence. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で change、meaning、sentence の強勢、Tone can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「Tone can change the meaning｜of a sentence」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「Tone can change the meaning of a sentence.」を再生します。 仕上げでは、Tone can change the meaning of a sentence. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で change、meaning、sentence の強勢、Tone can の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

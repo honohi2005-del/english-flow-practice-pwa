@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では with → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、with の終わりからそのまま移ります。I usually start my day のあとに毎回ポーズを置かず、意味の区切り I usually start my day｜with a cup of coffee だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では with ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、with の終わりからそのまま移ります。I usually start my day のあとに毎回ポーズを置かず、意味の区切り I usually start my day｜with a cup of coffee だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① usually、day、coffeeの口の形をゆっくり確認 → ② /w/ から a へ移る → ③ 速度を上げても子音連結を保って「I usually start my day with a cup of coffee.」を3回録音します。 仕上げでは、I usually start my day with a cup of coffee. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で usually、day、coffee の強勢、with a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① usually、day、coffeeの口の形をゆっくり確認 ／ ② /w/ から a へ移る ／ ③ 速度を上げても子音連結を保って「I usually start my day with a cup of coffee.」を3回録音します。 仕上げでは、I usually start my day with a cup of coffee. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で usually、day、coffee の強勢、with a の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "42": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では taking → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、taking の終わりからそのまま移ります。I like taking a short walk のあとに毎回ポーズを置かず、意味の区切り I like taking a short walk｜when I need a break だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では taking ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、taking の終わりからそのまま移ります。I like taking a short walk のあとに毎回ポーズを置かず、意味の区切り I like taking a short walk｜when I need a break だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 taking・short・break を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I like taking a short walk when I need a break.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I like taking a short walk when I need a break. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で taking、short、break の強勢、taking a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 taking・short・break を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I like taking a short walk when I need a break.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I like taking a short walk when I need a break. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で taking、short、break の強勢、taking a の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "43": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では listen → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、listen の終わりからそのまま移ります。I often listen to English のあとに毎回ポーズを置かず、意味の区切り I often listen to English｜while I’m doing housework だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では listen ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、listen の終わりからそのまま移ります。I often listen to English のあとに毎回ポーズを置かず、意味の区切り I often listen to English｜while I’m doing housework だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① listenだけを強く読む → ② listen と English と houseworkを残して他を弱く読む → ③ 文全体を「I often listen to English while I’m doing housework.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I often listen to English while I’m doing housework. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で listen、English、housework の強勢、listen to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① listenだけを強く読む ／ ② listen と English と houseworkを残して他を弱く読む ／ ③ 文全体を「I often listen to English while I’m doing housework.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I often listen to English while I’m doing housework. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で listen、English、housework の強勢、listen to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "44": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では try → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to make time のあとに毎回ポーズを置かず、意味の区切り I try to make time｜for reading every day だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では try ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to make time のあとに毎回ポーズを置かず、意味の区切り I try to make time｜for reading every day だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「try・time・reading」だけで言う → ② try to を切らずに連結 → ③ 最後に「I try to make time for reading every day.」を一息で読みます。 仕上げでは、I try to make time for reading every day. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で try、time、reading の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「try・time・reading」だけで言う ／ ② try to を切らずに連結 ／ ③ 最後に「I try to make time for reading every day.」を一息で読みます。 仕上げでは、I try to make time for reading every day. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で try、time、reading の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "45": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → enjoy を単語ごとに切らず、一つの音の流れとして練習します。enjoy は短く弱く発音し、I の終わりからそのまま移ります。I enjoy quiet mornings のあとに毎回ポーズを置かず、意味の区切り I enjoy quiet mornings だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ enjoy を単語ごとに切らず、一つの音の流れとして練習します。enjoy は短く弱く発音し、I の終わりからそのまま移ります。I enjoy quiet mornings のあとに毎回ポーズを置かず、意味の区切り I enjoy quiet mornings だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① I の後で止まらず enjoy 弱く短く と続ける → ② enjoyを長くする → ③ 「I enjoy quiet mornings.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I enjoy quiet mornings. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で enjoy、quiet、mornings の強勢、I enjoy の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① I の後で止まらず enjoy 弱く短く と続ける ／ ② enjoyを長くする ／ ③ 「I enjoy quiet mornings.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I enjoy quiet mornings. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で enjoy、quiet、mornings の強勢、I enjoy の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では about → the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、about の終わりからそのまま移ります。I like asking about the のあとに毎回ポーズを置かず、意味の区切り I like asking about the｜reason behind a correction だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では about ／ the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、about の終わりからそのまま移ります。I like asking about the のあとに毎回ポーズを置かず、意味の区切り I like asking about the｜reason behind a correction だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① likeだけを強く読む → ② like と reason と correctionを残して他を弱く読む → ③ 文全体を「I like asking about the reason behind a correction.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I like asking about the reason behind a correction. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で like、reason、correction の強勢、about the の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① likeだけを強く読む ／ ② like と reason と correctionを残して他を弱く読む ／ ③ 文全体を「I like asking about the reason behind a correction.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I like asking about the reason behind a correction. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で like、reason、correction の強勢、about the の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "32": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to understand the のあとに毎回ポーズを置かず、意味の区切り I want to understand the｜feeling of an expression だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to understand the のあとに毎回ポーズを置かず、意味の区切り I want to understand the｜feeling of an expression だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「understand・feeling・expression」だけで言う → ② want to を切らずに連結 → ③ 最後に「I want to understand the feeling of an expression.」を一息で読みます。 仕上げでは、I want to understand the feeling of an expression. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で understand、feeling、expression の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「understand・feeling・expression」だけで言う ／ ② want to を切らずに連結 ／ ③ 最後に「I want to understand the feeling of an expression.」を一息で読みます。 仕上げでは、I want to understand the feeling of an expression. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で understand、feeling、expression の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "33": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では try → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to use a のあとに毎回ポーズを置かず、意味の区切り I try to use a｜new phrase in my own｜sentence だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では try ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to use a のあとに毎回ポーズを置かず、意味の区切り I try to use a｜new phrase in my own｜sentence だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① try の後で止まらず to /tə/ と続ける → ② tryを長くする → ③ 「I try to use a new phrase in my own sentence.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I try to use a new phrase in my own sentence. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で try、phrase、sentence の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① try の後で止まらず to /tə/ と続ける ／ ② tryを長くする ／ ③ 「I try to use a new phrase in my own sentence.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I try to use a new phrase in my own sentence. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で try、phrase、sentence の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "34": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、I の終わりからそのまま移ります。I learn best のあとに毎回ポーズを置かず、意味の区切り I learn best｜when I can compare several examples だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、I の終わりからそのまま移ります。I learn best のあとに毎回ポーズを置かず、意味の区切り I learn best｜when I can compare several examples だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I learn best｜when I can compare several examples」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I learn best when I can compare several examples.」を再生します。 仕上げでは、I learn best when I can compare several examples. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で learn、compare、examples の強勢、I can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I learn best｜when I can compare several examples」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I learn best when I can compare several examples.」を再生します。 仕上げでは、I learn best when I can compare several examples. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で learn、compare、examples の強勢、I can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "35": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では feedback → that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、feedback の終わりからそのまま移ります。I want feedback のあとに毎回ポーズを置かず、意味の区切り I want feedback｜that I can apply in the next conversation だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では feedback ／ that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、feedback の終わりからそのまま移ります。I want feedback のあとに毎回ポーズを置かず、意味の区切り I want feedback｜that I can apply in the next conversation だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① want、apply、conversationの口の形をゆっくり確認 → ② /f/ から that へ移る → ③ 速度を上げても子音連結を保って「I want feedback that I can apply in the next conversation.」を3回録音します。 仕上げでは、I want feedback that I can apply in the next conversation. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、apply、conversation の強勢、feedback that の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① want、apply、conversationの口の形をゆっくり確認 ／ ② /f/ から that へ移る ／ ③ 速度を上げても子音連結を保って「I want feedback that I can apply in the next conversation.」を3回録音します。 仕上げでは、I want feedback that I can apply in the next conversation. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、apply、conversation の強勢、feedback that の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

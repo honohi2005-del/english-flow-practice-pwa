@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では example → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、example の終わりからそのまま移ります。A clear example can make のあとに毎回ポーズを置かず、意味の区切り A clear example can make｜a general point stronger だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では example ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、example の終わりからそのまま移ります。A clear example can make のあとに毎回ポーズを置かず、意味の区切り A clear example can make｜a general point stronger だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① exampleだけを強く読む → ② example と general と strongerを残して他を弱く読む → ③ 文全体を「A clear example can make a general point stronger.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、A clear example can make a general point stronger. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で example、general、stronger の強勢、example can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① exampleだけを強く読む ／ ② example と general と strongerを残して他を弱く読む ／ ③ 文全体を「A clear example can make a general point stronger.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、A clear example can make a general point stronger. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で example、general、stronger の強勢、example can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "212": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では understand → an を単語ごとに切らず、一つの音の流れとして練習します。an は /ən/ と短く弱くし、understand の終わりからそのまま移ります。I usually understand an idea のあとに毎回ポーズを置かず、意味の区切り I usually understand an idea｜better after discussing it だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では understand ／ an を単語ごとに切らず、一つの音の流れとして練習します。an は /ən/ と短く弱くし、understand の終わりからそのまま移ります。I usually understand an idea のあとに毎回ポーズを置かず、意味の区切り I usually understand an idea｜better after discussing it だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「understand・better・discussing」だけで言う → ② understand an を切らずに連結 → ③ 最後に「I usually understand an idea better after discussing it.」を一息で読みます。 仕上げでは、I usually understand an idea better after discussing it. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で understand、better、discussing の強勢、understand an の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「understand・better・discussing」だけで言う ／ ② understand an を切らずに連結 ／ ③ 最後に「I usually understand an idea better after discussing it.」を一息で読みます。 仕上げでは、I usually understand an idea better after discussing it. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で understand、better、discussing の強勢、understand an の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "213": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では questions → that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、questions の終わりからそのまま移ります。I like questions のあとに毎回ポーズを置かず、意味の区切り I like questions｜that make me think だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では questions ／ that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、questions の終わりからそのまま移ります。I like questions のあとに毎回ポーズを置かず、意味の区切り I like questions｜that make me think だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① questions の後で止まらず that /ðət/ と続ける → ② questionsを長くする → ③ 「I like questions that make me think.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I like questions that make me think. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で questions、make、think の強勢、questions that の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① questions の後で止まらず that /ðət/ と続ける ／ ② questionsを長くする ／ ③ 「I like questions that make me think.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I like questions that make me think. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で questions、make、think の強勢、questions that の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "214": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では need → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、need の終わりからそのまま移ります。I sometimes need a more のあとに毎回ポーズを置かず、意味の区切り I sometimes need a more｜specific question だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では need ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、need の終わりからそのまま移ります。I sometimes need a more のあとに毎回ポーズを置かず、意味の区切り I sometimes need a more｜specific question だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I sometimes need a more｜specific question」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I sometimes need a more specific question.」を再生します。 仕上げでは、I sometimes need a more specific question. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、specific、question の強勢、need a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I sometimes need a more｜specific question」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I sometimes need a more specific question.」を再生します。 仕上げでは、I sometimes need a more specific question. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、specific、question の強勢、need a の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "215": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では questions → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、questions の終わりからそのまま移ります。Broad questions can be difficult のあとに毎回ポーズを置かず、意味の区切り Broad questions can be difficult｜to answer quickly だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では questions ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、questions の終わりからそのまま移ります。Broad questions can be difficult のあとに毎回ポーズを置かず、意味の区切り Broad questions can be difficult｜to answer quickly だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① questions、difficult、answerの口の形をゆっくり確認 → ② /q/ から can へ移る → ③ 速度を上げても子音連結を保って「Broad questions can be difficult to answer quickly.」を3回録音します。 仕上げでは、Broad questions can be difficult to answer quickly. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で questions、difficult、answer の強勢、questions can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① questions、difficult、answerの口の形をゆっくり確認 ／ ② /q/ から can へ移る ／ ③ 速度を上げても子音連結を保って「Broad questions can be difficult to answer quickly.」を3回録音します。 仕上げでは、Broad questions can be difficult to answer quickly. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で questions、difficult、answer の強勢、questions can の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

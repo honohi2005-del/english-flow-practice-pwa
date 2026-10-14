@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では how → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、how の終わりからそのまま移ります。I’m practicing how to explain のあとに毎回ポーズを置かず、意味の区切り I’m practicing how to explain｜a change in my opinion だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では how ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、how の終わりからそのまま移ります。I’m practicing how to explain のあとに毎回ポーズを置かず、意味の区切り I’m practicing how to explain｜a change in my opinion だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I’m practicing how to explain｜a change in my opinion」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I’m practicing how to explain a change in my opinion.」を再生します。 仕上げでは、I’m practicing how to explain a change in my opinion. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で practicing、explain、opinion の強勢、how to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I’m practicing how to explain｜a change in my opinion」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I’m practicing how to explain a change in my opinion.」を再生します。 仕上げでは、I’m practicing how to explain a change in my opinion. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で practicing、explain、opinion の強勢、how to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "227": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to show the のあとに毎回ポーズを置かず、意味の区切り I want to show the｜relationship between two ideas だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to show the のあとに毎回ポーズを置かず、意味の区切り I want to show the｜relationship between two ideas だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① want、show、relationshipの口の形をゆっくり確認 → ② /w/ から to へ移る → ③ 速度を上げても子音連結を保って「I want to show the relationship between two ideas.」を3回録音します。 仕上げでは、I want to show the relationship between two ideas. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、show、relationship の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① want、show、relationshipの口の形をゆっくり確認 ／ ② /w/ から to へ移る ／ ③ 速度を上げても子音連結を保って「I want to show the relationship between two ideas.」を3回録音します。 仕上げでは、I want to show the relationship between two ideas. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、show、relationship の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "228": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Cause → and を単語ごとに切らず、一つの音の流れとして練習します。and は /ən/ または /n/ と短く弱くし、Cause の終わりからそのまま移ります。Cause のあとに毎回ポーズを置かず、意味の区切り Cause｜and effect are not always simple だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Cause ／ and を単語ごとに切らず、一つの音の流れとして練習します。and は /ən/ または /n/ と短く弱くし、Cause の終わりからそのまま移ります。Cause のあとに毎回ポーズを置かず、意味の区切り Cause｜and effect are not always simple だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 Cause・effect・simple を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「Cause and effect are not always simple.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Cause and effect are not always simple. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Cause、effect、simple の強勢、Cause and の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 Cause・effect・simple を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「Cause and effect are not always simple.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Cause and effect are not always simple. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Cause、effect、simple の強勢、Cause and の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "229": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では need → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、need の終わりからそのまま移ります。I sometimes need to explain のあとに毎回ポーズを置かず、意味の区切り I sometimes need to explain｜the background first だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では need ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、need の終わりからそのまま移ります。I sometimes need to explain のあとに毎回ポーズを置かず、意味の区切り I sometimes need to explain｜the background first だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① sometimesだけを強く読む → ② sometimes と explain と backgroundを残して他を弱く読む → ③ 文全体を「I sometimes need to explain the background first.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I sometimes need to explain the background first. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、explain、background の強勢、need to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① sometimesだけを強く読む ／ ② sometimes と explain と backgroundを残して他を弱く読む ／ ③ 文全体を「I sometimes need to explain the background first.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I sometimes need to explain the background first. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、explain、background の強勢、need to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "230": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では introduce → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、introduce の終わりからそのまま移ります。A good conclusion should not のあとに毎回ポーズを置かず、意味の区切り A good conclusion should not｜introduce a completely new idea だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では introduce ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、introduce の終わりからそのまま移ります。A good conclusion should not のあとに毎回ポーズを置かず、意味の区切り A good conclusion should not｜introduce a completely new idea だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「conclusion・introduce・completely」だけで言う → ② introduce a を切らずに連結 → ③ 最後に「A good conclusion should not introduce a completely new idea.」を一息で読みます。 仕上げでは、A good conclusion should not introduce a completely new idea. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で conclusion、introduce、completely の強勢、introduce a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「conclusion・introduce・completely」だけで言う ／ ② introduce a を切らずに連結 ／ ③ 最後に「A good conclusion should not introduce a completely new idea.」を一息で読みます。 仕上げでは、A good conclusion should not introduce a completely new idea. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で conclusion、introduce、completely の強勢、introduce a の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

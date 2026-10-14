@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Details → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、Details の終わりからそのまま移ります。Details can make an explanation のあとに毎回ポーズを置かず、意味の区切り Details can make an explanation｜more convincing だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Details ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、Details の終わりからそのまま移ります。Details can make an explanation のあとに毎回ポーズを置かず、意味の区切り Details can make an explanation｜more convincing だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「Details can make an explanation｜more convincing」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「Details can make an explanation more convincing.」を再生します。 仕上げでは、Details can make an explanation more convincing. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Details、explanation、convincing の強勢、Details can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「Details can make an explanation｜more convincing」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「Details can make an explanation more convincing.」を再生します。 仕上げでは、Details can make an explanation more convincing. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Details、explanation、convincing の強勢、Details can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "287": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では order → of を単語ごとに切らず、一つの音の流れとして練習します。of は /əv/ または /ə/ と短く弱くし、order の終わりからそのまま移ります。The order of information affects のあとに毎回ポーズを置かず、意味の区切り The order of information affects｜the listener’s impression だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では order ／ of を単語ごとに切らず、一つの音の流れとして練習します。of は /əv/ または /ə/ と短く弱くし、order の終わりからそのまま移ります。The order of information affects のあとに毎回ポーズを置かず、意味の区切り The order of information affects｜the listener’s impression だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① order、information、impressionの口の形をゆっくり確認 → ② /o/ から of へ移る → ③ 速度を上げても子音連結を保って「The order of information affects the listener’s impression.」を3回録音します。 仕上げでは、The order of information affects the listener’s impression. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で order、information、impression の強勢、order of の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① order、information、impressionの口の形をゆっくり確認 ／ ② /o/ から of へ移る ／ ③ 速度を上げても子音連結を保って「The order of information affects the listener’s impression.」を3回録音します。 仕上げでは、The order of information affects the listener’s impression. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で order、information、impression の強勢、order of の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "288": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では comparison → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、comparison の終わりからそのまま移ります。A comparison can make an のあとに毎回ポーズを置かず、意味の区切り A comparison can make an｜unfamiliar idea clearer だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では comparison ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、comparison の終わりからそのまま移ります。A comparison can make an のあとに毎回ポーズを置かず、意味の区切り A comparison can make an｜unfamiliar idea clearer だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 comparison・unfamiliar・clearer を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「A comparison can make an unfamiliar idea clearer.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、A comparison can make an unfamiliar idea clearer. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で comparison、unfamiliar、clearer の強勢、comparison can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 comparison・unfamiliar・clearer を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「A comparison can make an unfamiliar idea clearer.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、A comparison can make an unfamiliar idea clearer. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で comparison、unfamiliar、clearer の強勢、comparison can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "289": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では facts → from を単語ごとに切らず、一つの音の流れとして練習します。from は /frəm/ と短く弱くし、facts の終わりからそのまま移ります。We should distinguish facts from のあとに毎回ポーズを置かず、意味の区切り We should distinguish facts from｜personal opinions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では facts ／ from を単語ごとに切らず、一つの音の流れとして練習します。from は /frəm/ と短く弱くし、facts の終わりからそのまま移ります。We should distinguish facts from のあとに毎回ポーズを置かず、意味の区切り We should distinguish facts from｜personal opinions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① distinguishだけを強く読む → ② distinguish と facts と personalを残して他を弱く読む → ③ 文全体を「We should distinguish facts from personal opinions.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、We should distinguish facts from personal opinions. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で distinguish、facts、personal の強勢、facts from の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① distinguishだけを強く読む ／ ② distinguish と facts と personalを残して他を弱く読む ／ ③ 文全体を「We should distinguish facts from personal opinions.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、We should distinguish facts from personal opinions. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で distinguish、facts、personal の強勢、facts from の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "290": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では explain → the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、explain の終わりからそのまま移ります。We should also explain the のあとに毎回ポーズを置かず、意味の区切り We should also explain the｜reason for an opinion だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では explain ／ the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、explain の終わりからそのまま移ります。We should also explain the のあとに毎回ポーズを置かず、意味の区切り We should also explain the｜reason for an opinion だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「explain・reason・opinion」だけで言う → ② explain the を切らずに連結 → ③ 最後に「We should also explain the reason for an opinion.」を一息で読みます。 仕上げでは、We should also explain the reason for an opinion. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で explain、reason、opinion の強勢、explain the の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「explain・reason・opinion」だけで言う ／ ② explain the を切らずに連結 ／ ③ 最後に「We should also explain the reason for an opinion.」を一息で読みます。 仕上げでは、We should also explain the reason for an opinion. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で explain、reason、opinion の強勢、explain the の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

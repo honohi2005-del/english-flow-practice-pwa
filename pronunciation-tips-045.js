@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I don’t want to stop のあとに毎回ポーズを置かず、意味の区切り I don’t want to stop｜after giving only one sentence だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I don’t want to stop のあとに毎回ポーズを置かず、意味の区切り I don’t want to stop｜after giving only one sentence だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① don’t、giving、sentenceの口の形をゆっくり確認 → ② /w/ から to へ移る → ③ 速度を上げても子音連結を保って「I don’t want to stop after giving only one sentence.」を3回録音します。 仕上げでは、I don’t want to stop after giving only one sentence. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で don’t、giving、sentence の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① don’t、giving、sentenceの口の形をゆっくり確認 ／ ② /w/ から to へ移る ／ ③ 速度を上げても子音連結を保って「I don’t want to stop after giving only one sentence.」を3回録音します。 仕上げでは、I don’t want to stop after giving only one sentence. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で don’t、giving、sentence の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "222": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では detail → is を単語ごとに切らず、一つの音の流れとして練習します。is は /əz/ と短く弱くし、detail の終わりからそのまま移ります。I’m learning how much detail のあとに毎回ポーズを置かず、意味の区切り I’m learning how much detail｜is enough だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では detail ／ is を単語ごとに切らず、一つの音の流れとして練習します。is は /əz/ と短く弱くし、detail の終わりからそのまま移ります。I’m learning how much detail のあとに毎回ポーズを置かず、意味の区切り I’m learning how much detail｜is enough だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 learning・detail・enough を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I’m learning how much detail is enough.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I’m learning how much detail is enough. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で learning、detail、enough の強勢、detail is の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 learning・detail・enough を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I’m learning how much detail is enough.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I’m learning how much detail is enough. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で learning、detail、enough の強勢、detail is の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "223": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to add a のあとに毎回ポーズを置かず、意味の区切り I want to add a｜reason after stating my opinion だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to add a のあとに毎回ポーズを置かず、意味の区切り I want to add a｜reason after stating my opinion だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① reasonだけを強く読む → ② reason と stating と opinionを残して他を弱く読む → ③ 文全体を「I want to add a reason after stating my opinion.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I want to add a reason after stating my opinion. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で reason、stating、opinion の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① reasonだけを強く読む ／ ② reason と stating と opinionを残して他を弱く読む ／ ③ 文全体を「I want to add a reason after stating my opinion.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I want to add a reason after stating my opinion. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で reason、stating、opinion の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "224": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、I の終わりからそのまま移ります。I can add an example のあとに毎回ポーズを置かず、意味の区切り I can add an example｜when the idea is too abstract だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、I の終わりからそのまま移ります。I can add an example のあとに毎回ポーズを置かず、意味の区切り I can add an example｜when the idea is too abstract だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「example・idea・abstract」だけで言う → ② I can を切らずに連結 → ③ 最後に「I can add an example when the idea is too abstract.」を一息で読みます。 仕上げでは、I can add an example when the idea is too abstract. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で example、idea、abstract の強勢、I can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「example・idea・abstract」だけで言う ／ ② I can を切らずに連結 ／ ③ 最後に「I can add an example when the idea is too abstract.」を一息で読みます。 仕上げでは、I can add an example when the idea is too abstract. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で example、idea、abstract の強勢、I can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "225": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to compare two のあとに毎回ポーズを置かず、意味の区切り I want to compare two｜possibilities clearly だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to compare two のあとに毎回ポーズを置かず、意味の区切り I want to compare two｜possibilities clearly だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① want の後で止まらず to /tə/ と続ける → ② wantを長くする → ③ 「I want to compare two possibilities clearly.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I want to compare two possibilities clearly. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、compare、clearly の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① want の後で止まらず to /tə/ と続ける ／ ② wantを長くする ／ ③ 「I want to compare two possibilities clearly.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I want to compare two possibilities clearly. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、compare、clearly の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

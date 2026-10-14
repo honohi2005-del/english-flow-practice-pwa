@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to understand implied のあとに毎回ポーズを置かず、意味の区切り I want to understand implied｜meaning だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to understand implied のあとに毎回ポーズを置かず、意味の区切り I want to understand implied｜meaning だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① want、understand、meaningの口の形をゆっくり確認 → ② /w/ から to へ移る → ③ 速度を上げても子音連結を保って「I want to understand implied meaning.」を3回録音します。 仕上げでは、I want to understand implied meaning. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、understand、meaning の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① want、understand、meaningの口の形をゆっくり確認 ／ ② /w/ から to へ移る ／ ③ 速度を上げても子音連結を保って「I want to understand implied meaning.」を3回録音します。 仕上げでは、I want to understand implied meaning. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、understand、meaning の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "252": [
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 interested・people・opinions を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I’m interested in how people soften their opinions.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I’m interested in how people soften their opinions. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で interested、people、opinions の強勢、I’m interested の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 interested・people・opinions を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I’m interested in how people soften their opinions.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I’m interested in how people soften their opinions. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で interested、people、opinions の強勢、I’m interested の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "253": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では It → is を単語ごとに切らず、一つの音の流れとして練習します。is は /əz/ と短く弱くし、It の終わりからそのまま移ります。It is useful to learn のあとに毎回ポーズを置かず、意味の区切り It is useful to learn｜common sentence patterns だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では It ／ is を単語ごとに切らず、一つの音の流れとして練習します。is は /əz/ と短く弱くし、It の終わりからそのまま移ります。It is useful to learn のあとに毎回ポーズを置かず、意味の区切り It is useful to learn｜common sentence patterns だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① usefulだけを強く読む → ② useful と learn と sentenceを残して他を弱く読む → ③ 文全体を「It is useful to learn common sentence patterns.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、It is useful to learn common sentence patterns. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で useful、learn、sentence の強勢、It is の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① usefulだけを強く読む ／ ② useful と learn と sentenceを残して他を弱く読む ／ ③ 文全体を「It is useful to learn common sentence patterns.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、It is useful to learn common sentence patterns. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で useful、learn、sentence の強勢、It is の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "254": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では try → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to remember phrases のあとに毎回ポーズを置かず、意味の区切り I try to remember phrases｜rather than isolated words だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では try ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to remember phrases のあとに毎回ポーズを置かず、意味の区切り I try to remember phrases｜rather than isolated words だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「remember・rather・isolated」だけで言う → ② try to を切らずに連結 → ③ 最後に「I try to remember phrases rather than isolated words.」を一息で読みます。 仕上げでは、I try to remember phrases rather than isolated words. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で remember、rather、isolated の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「remember・rather・isolated」だけで言う ／ ② try to を切らずに連結 ／ ③ 最後に「I try to remember phrases rather than isolated words.」を一息で読みます。 仕上げでは、I try to remember phrases rather than isolated words. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で remember、rather、isolated の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "255": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Pronunciation → and を単語ごとに切らず、一つの音の流れとして練習します。and は /ən/ または /n/ と短く弱くし、Pronunciation の終わりからそのまま移ります。Pronunciation のあとに毎回ポーズを置かず、意味の区切り Pronunciation｜and vocabulary are connected to listening だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Pronunciation ／ and を単語ごとに切らず、一つの音の流れとして練習します。and は /ən/ または /n/ と短く弱くし、Pronunciation の終わりからそのまま移ります。Pronunciation のあとに毎回ポーズを置かず、意味の区切り Pronunciation｜and vocabulary are connected to listening だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① Pronunciation の後で止まらず and /ən/ または /n/ と続ける → ② Pronunciationを長くする → ③ 「Pronunciation and vocabulary are connected to listening.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、Pronunciation and vocabulary are connected to listening. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Pronunciation、connected、listening の強勢、Pronunciation and の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① Pronunciation の後で止まらず and /ən/ または /n/ と続ける ／ ② Pronunciationを長くする ／ ③ 「Pronunciation and vocabulary are connected to listening.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、Pronunciation and vocabulary are connected to listening. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Pronunciation、connected、listening の強勢、Pronunciation and の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

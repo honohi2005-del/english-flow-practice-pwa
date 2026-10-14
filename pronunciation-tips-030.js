@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では noticed → that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、noticed の終わりからそのまま移ります。I noticed のあとに毎回ポーズを置かず、意味の区切り I noticed｜that my first answer was too general だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では noticed ／ that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、noticed の終わりからそのまま移ります。I noticed のあとに毎回ポーズを置かず、意味の区切り I noticed｜that my first answer was too general だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「noticed・answer・general」だけで言う → ② noticed that を切らずに連結 → ③ 最後に「I noticed that my first answer was too general.」を一息で読みます。 仕上げでは、I noticed that my first answer was too general. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で noticed、answer、general の強勢、noticed that の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「noticed・answer・general」だけで言う ／ ② noticed that を切らずに連結 ／ ③ 最後に「I noticed that my first answer was too general.」を一息で読みます。 仕上げでは、I noticed that my first answer was too general. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で noticed、answer、general の強勢、noticed that の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "147": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では tried → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、tried の終わりからそのまま移ります。I tried to make my のあとに毎回ポーズを置かず、意味の区切り I tried to make my｜answer more specific だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では tried ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、tried の終わりからそのまま移ります。I tried to make my のあとに毎回ポーズを置かず、意味の区切り I tried to make my｜answer more specific だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① tried の後で止まらず to /tə/ と続ける → ② triedを長くする → ③ 「I tried to make my answer more specific.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I tried to make my answer more specific. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で tried、answer、specific の強勢、tried to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① tried の後で止まらず to /tə/ と続ける ／ ② triedを長くする ／ ③ 「I tried to make my answer more specific.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I tried to make my answer more specific. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で tried、answer、specific の強勢、tried to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "148": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では gave → an を単語ごとに切らず、一つの音の流れとして練習します。an は /ən/ と短く弱くし、gave の終わりからそのまま移ります。I gave an example from のあとに毎回ポーズを置かず、意味の区切り I gave an example from｜my own life だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では gave ／ an を単語ごとに切らず、一つの音の流れとして練習します。an は /ən/ と短く弱くし、gave の終わりからそのまま移ります。I gave an example from のあとに毎回ポーズを置かず、意味の区切り I gave an example from｜my own life だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I gave an example from｜my own life」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I gave an example from my own life.」を再生します。 仕上げでは、I gave an example from my own life. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で gave、example、life の強勢、gave an の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I gave an example from｜my own life」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I gave an example from my own life.」を再生します。 仕上げでは、I gave an example from my own life. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で gave、example、life の強勢、gave an の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "149": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では wanted → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、wanted の終わりからそのまま移ります。I wanted to connect the のあとに毎回ポーズを置かず、意味の区切り I wanted to connect the｜example to the main point だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では wanted ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、wanted の終わりからそのまま移ります。I wanted to connect the のあとに毎回ポーズを置かず、意味の区切り I wanted to connect the｜example to the main point だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① wanted、connect、exampleの口の形をゆっくり確認 → ② /w/ から to へ移る → ③ 速度を上げても子音連結を保って「I wanted to connect the example to the main point.」を3回録音します。 仕上げでは、I wanted to connect the example to the main point. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で wanted、connect、example の強勢、wanted to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① wanted、connect、exampleの口の形をゆっくり確認 ／ ② /w/ から to へ移る ／ ③ 速度を上げても子音連結を保って「I wanted to connect the example to the main point.」を3回録音します。 仕上げでは、I wanted to connect the example to the main point. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で wanted、connect、example の強勢、wanted to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "150": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では track → of を単語ごとに切らず、一つの音の流れとして練習します。of は /əv/ または /ə/ と短く弱くし、track の終わりからそのまま移ります。I sometimes lose track of のあとに毎回ポーズを置かず、意味の区切り I sometimes lose track of｜my sentence halfway through だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では track ／ of を単語ごとに切らず、一つの音の流れとして練習します。of は /əv/ または /ə/ と短く弱くし、track の終わりからそのまま移ります。I sometimes lose track of のあとに毎回ポーズを置かず、意味の区切り I sometimes lose track of｜my sentence halfway through だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 sometimes・sentence・through を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I sometimes lose track of my sentence halfway through.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I sometimes lose track of my sentence halfway through. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、sentence、through の強勢、track of の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 sometimes・sentence・through を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I sometimes lose track of my sentence halfway through.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I sometimes lose track of my sentence halfway through. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、sentence、through の強勢、track of の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

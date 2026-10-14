@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では people → and を単語ごとに切らず、一つの音の流れとして練習します。and は /ən/ または /n/ と短く弱くし、people の終わりからそのまま移ります。Older people のあとに毎回ポーズを置かず、意味の区切り Older people｜and younger people may value different things だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では people ／ and を単語ごとに切らず、一つの音の流れとして練習します。and は /ən/ または /n/ と短く弱くし、people の終わりからそのまま移ります。Older people のあとに毎回ポーズを置かず、意味の区切り Older people｜and younger people may value different things だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「Older people｜and younger people may value different things」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「Older people and younger people may value different things.」を再生します。 仕上げでは、Older people and younger people may value different things. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Older、younger、different の強勢、people and の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「Older people｜and younger people may value different things」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「Older people and younger people may value different things.」を再生します。 仕上げでは、Older people and younger people may value different things. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Older、younger、different の強勢、people and の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "107": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では expectations → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、expectations の終わりからそのまま移ります。Social expectations can influence personal のあとに毎回ポーズを置かず、意味の区切り Social expectations can influence personal｜choices だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では expectations ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、expectations の終わりからそのまま移ります。Social expectations can influence personal のあとに毎回ポーズを置かず、意味の区切り Social expectations can influence personal｜choices だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① expectations、influence、choicesの口の形をゆっくり確認 → ② /e/ から can へ移る → ③ 速度を上げても子音連結を保って「Social expectations can influence personal choices.」を3回録音します。 仕上げでは、Social expectations can influence personal choices. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で expectations、influence、choices の強勢、expectations can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① expectations、influence、choicesの口の形をゆっくり確認 ／ ② /e/ から can へ移る ／ ③ 速度を上げても子音連結を保って「Social expectations can influence personal choices.」を3回録音します。 仕上げでは、Social expectations can influence personal choices. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で expectations、influence、choices の強勢、expectations can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "108": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では relationships → are を単語ごとに切らず、一つの音の流れとして練習します。are は /ər/ と短く弱くし、relationships の終わりからそのまま移ります。Family relationships are shaped by のあとに毎回ポーズを置かず、意味の区切り Family relationships are shaped by｜many factors だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では relationships ／ are を単語ごとに切らず、一つの音の流れとして練習します。are は /ər/ と短く弱くし、relationships の終わりからそのまま移ります。Family relationships are shaped by のあとに毎回ポーズを置かず、意味の区切り Family relationships are shaped by｜many factors だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 relationships・shaped・factors を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「Family relationships are shaped by many factors.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Family relationships are shaped by many factors. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で relationships、shaped、factors の強勢、relationships are の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 relationships・shaped・factors を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「Family relationships are shaped by many factors.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Family relationships are shaped by many factors. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で relationships、shaped、factors の強勢、relationships are の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "109": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では It → is を単語ごとに切らず、一つの音の流れとして練習します。is は /əz/ と短く弱くし、It の終わりからそのまま移ります。It is difficult to define のあとに毎回ポーズを置かず、意味の区切り It is difficult to define｜a successful life だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では It ／ is を単語ごとに切らず、一つの音の流れとして練習します。is は /əz/ と短く弱くし、It の終わりからそのまま移ります。It is difficult to define のあとに毎回ポーズを置かず、意味の区切り It is difficult to define｜a successful life だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① difficultだけを強く読む → ② difficult と define と successfulを残して他を弱く読む → ③ 文全体を「It is difficult to define a successful life.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、It is difficult to define a successful life. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で difficult、define、successful の強勢、It is の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① difficultだけを強く読む ／ ② difficult と define と successfulを残して他を弱く読む ／ ③ 文全体を「It is difficult to define a successful life.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、It is difficult to define a successful life. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で difficult、define、successful の強勢、It is の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "110": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では stability → and を単語ごとに切らず、一つの音の流れとして練習します。and は /ən/ または /n/ と短く弱くし、stability の終わりからそのまま移ります。People need both stability のあとに毎回ポーズを置かず、意味の区切り People need both stability｜and freedom だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では stability ／ and を単語ごとに切らず、一つの音の流れとして練習します。and は /ən/ または /n/ と短く弱くし、stability の終わりからそのまま移ります。People need both stability のあとに毎回ポーズを置かず、意味の区切り People need both stability｜and freedom だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「People・stability・freedom」だけで言う → ② stability and を切らずに連結 → ③ 最後に「People need both stability and freedom.」を一息で読みます。 仕上げでは、People need both stability and freedom. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で People、stability、freedom の強勢、stability and の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「People・stability・freedom」だけで言う ／ ② stability and を切らずに連結 ／ ③ 最後に「People need both stability and freedom.」を一息で読みます。 仕上げでは、People need both stability and freedom. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で People、stability、freedom の強勢、stability and の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

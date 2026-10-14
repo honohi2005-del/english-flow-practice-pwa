@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → think を単語ごとに切らず、一つの音の流れとして練習します。think は短く弱く発音し、I の終わりからそのまま移ります。I think communication requires more のあとに毎回ポーズを置かず、意味の区切り I think communication requires more｜than correct grammar だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ think を単語ごとに切らず、一つの音の流れとして練習します。think は短く弱く発音し、I の終わりからそのまま移ります。I think communication requires more のあとに毎回ポーズを置かず、意味の区切り I think communication requires more｜than correct grammar だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I think communication requires more｜than correct grammar」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I think communication requires more than correct grammar.」を再生します。 仕上げでは、I think communication requires more than correct grammar. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で communication、than、grammar の強勢、I think の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I think communication requires more｜than correct grammar」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I think communication requires more than correct grammar.」を再生します。 仕上げでは、I think communication requires more than correct grammar. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で communication、than、grammar の強勢、I think の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "77": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では A → good を単語ごとに切らず、一つの音の流れとして練習します。good は短く弱く発音し、A の終わりからそのまま移ります。A good conversation depends on のあとに毎回ポーズを置かず、意味の区切り A good conversation depends on｜both speakers だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では A ／ good を単語ごとに切らず、一つの音の流れとして練習します。good は短く弱く発音し、A の終わりからそのまま移ります。A good conversation depends on のあとに毎回ポーズを置かず、意味の区切り A good conversation depends on｜both speakers だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① conversation、both、speakersの口の形をゆっくり確認 → ② /a/ から good へ移る → ③ 速度を上げても子音連結を保って「A good conversation depends on both speakers.」を3回録音します。 仕上げでは、A good conversation depends on both speakers. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で conversation、both、speakers の強勢、A good の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① conversation、both、speakersの口の形をゆっくり確認 ／ ② /a/ から good へ移る ／ ③ 速度を上げても子音連結を保って「A good conversation depends on both speakers.」を3回録音します。 仕上げでは、A good conversation depends on both speakers. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で conversation、both、speakers の強勢、A good の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "78": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では try → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to listen for のあとに毎回ポーズを置かず、意味の区切り I try to listen for｜the speaker’s real intention だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では try ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to listen for のあとに毎回ポーズを置かず、意味の区切り I try to listen for｜the speaker’s real intention だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 listen・speaker’s・intention を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I try to listen for the speaker’s real intention.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I try to listen for the speaker’s real intention. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で listen、speaker’s、intention の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 listen・speaker’s・intention を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I try to listen for the speaker’s real intention.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I try to listen for the speaker’s real intention. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で listen、speaker’s、intention の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "79": [
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① interestedだけを強く読む → ② interested と people と unsaidを残して他を弱く読む → ③ 文全体を「I’m interested in what people leave unsaid.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m interested in what people leave unsaid. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で interested、people、unsaid の強勢、I’m interested の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① interestedだけを強く読む ／ ② interested と people と unsaidを残して他を弱く読む ／ ③ 文全体を「I’m interested in what people leave unsaid.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m interested in what people leave unsaid. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で interested、people、unsaid の強勢、I’m interested の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "80": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では wording → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、wording の終わりからそのまま移ります。Small changes in wording can のあとに毎回ポーズを置かず、意味の区切り Small changes in wording can｜affect the whole impression だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では wording ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、wording の終わりからそのまま移ります。Small changes in wording can のあとに毎回ポーズを置かず、意味の区切り Small changes in wording can｜affect the whole impression だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「changes・wording・impression」だけで言う → ② wording can を切らずに連結 → ③ 最後に「Small changes in wording can affect the whole impression.」を一息で読みます。 仕上げでは、Small changes in wording can affect the whole impression. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で changes、wording、impression の強勢、wording can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「changes・wording・impression」だけで言う ／ ② wording can を切らずに連結 ／ ③ 最後に「Small changes in wording can affect the whole impression.」を一息で読みます。 仕上げでは、Small changes in wording can affect the whole impression. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で changes、wording、impression の強勢、wording can の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

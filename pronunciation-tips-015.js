@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では in → the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、in の終わりからそのまま移ります。I’m interested in the relationship between language のあとに毎回ポーズを置かず、意味の区切り I’m interested in the relationship between language｜and culture だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では in ／ the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、in の終わりからそのまま移ります。I’m interested in the relationship between language のあとに毎回ポーズを置かず、意味の区切り I’m interested in the relationship between language｜and culture だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① relationship、language、cultureの口の形をゆっくり確認 → ② /i/ から the へ移る → ③ 速度を上げても子音連結を保って「I’m interested in the relationship between language and culture.」を3回録音します。 仕上げでは、I’m interested in the relationship between language and culture. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で relationship、language、culture の強勢、in the の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① relationship、language、cultureの口の形をゆっくり確認 ／ ② /i/ から the へ移る ／ ③ 速度を上げても子音連結を保って「I’m interested in the relationship between language and culture.」を3回録音します。 仕上げでは、I’m interested in the relationship between language and culture. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で relationship、language、culture の強勢、in the の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "72": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → like を単語ごとに切らず、一つの音の流れとして練習します。like は短く弱く発音し、I の終わりからそのまま移ります。I like noticing differences in のあとに毎回ポーズを置かず、意味の区切り I like noticing differences in｜conversational style だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ like を単語ごとに切らず、一つの音の流れとして練習します。like は短く弱く発音し、I の終わりからそのまま移ります。I like noticing differences in のあとに毎回ポーズを置かず、意味の区切り I like noticing differences in｜conversational style だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 I・noticing・conversational を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I like noticing differences in conversational style.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I like noticing differences in conversational style. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で I、noticing、conversational の強勢、I like の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 I・noticing・conversational を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I like noticing differences in conversational style.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I like noticing differences in conversational style. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で I、noticing、conversational の強勢、I like の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "73": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Some → cultures を単語ごとに切らず、一つの音の流れとして練習します。cultures は短く弱く発音し、Some の終わりからそのまま移ります。Some cultures value directness more のあとに毎回ポーズを置かず、意味の区切り Some cultures value directness more｜than others だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Some ／ cultures を単語ごとに切らず、一つの音の流れとして練習します。cultures は短く弱く発音し、Some の終わりからそのまま移ります。Some cultures value directness more のあとに毎回ポーズを置かず、意味の区切り Some cultures value directness more｜than others だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① culturesだけを強く読む → ② cultures と directness と othersを残して他を弱く読む → ③ 文全体を「Some cultures value directness more than others.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、Some cultures value directness more than others. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で cultures、directness、others の強勢、Some cultures の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① culturesだけを強く読む ／ ② cultures と directness と othersを残して他を弱く読む ／ ③ 文全体を「Some cultures value directness more than others.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、Some cultures value directness more than others. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で cultures、directness、others の強勢、Some cultures の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "74": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では behavior → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、behavior の終わりからそのまま移ります。The same behavior can be のあとに毎回ポーズを置かず、意味の区切り The same behavior can be｜interpreted differently だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では behavior ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、behavior の終わりからそのまま移ります。The same behavior can be のあとに毎回ポーズを置かず、意味の区切り The same behavior can be｜interpreted differently だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「behavior・interpreted・differently」だけで言う → ② behavior can を切らずに連結 → ③ 最後に「The same behavior can be interpreted differently.」を一息で読みます。 仕上げでは、The same behavior can be interpreted differently. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で behavior、interpreted、differently の強勢、behavior can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「behavior・interpreted・differently」だけで言う ／ ② behavior can を切らずに連結 ／ ③ 最後に「The same behavior can be interpreted differently.」を一息で読みます。 仕上げでは、The same behavior can be interpreted differently. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で behavior、interpreted、differently の強勢、behavior can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "75": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Context → is を単語ごとに切らず、一つの音の流れとして練習します。is は /əz/ と短く弱くし、Context の終わりからそのまま移ります。Context is often more important のあとに毎回ポーズを置かず、意味の区切り Context is often more important｜than a single word だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Context ／ is を単語ごとに切らず、一つの音の流れとして練習します。is は /əz/ と短く弱くし、Context の終わりからそのまま移ります。Context is often more important のあとに毎回ポーズを置かず、意味の区切り Context is often more important｜than a single word だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① Context の後で止まらず is /əz/ と続ける → ② Contextを長くする → ③ 「Context is often more important than a single word.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、Context is often more important than a single word. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Context、important、single の強勢、Context is の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① Context の後で止まらず is /əz/ と続ける ／ ② Contextを長くする ／ ③ 「Context is often more important than a single word.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、Context is often more important than a single word. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Context、important、single の強勢、Context is の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

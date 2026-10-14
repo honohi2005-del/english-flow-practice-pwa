@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では had → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、had の終わりからそのまま移ります。I recently had a conversation のあとに毎回ポーズを置かず、意味の区切り I recently had a conversation｜that made me think だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では had ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、had の終わりからそのまま移ります。I recently had a conversation のあとに毎回ポーズを置かず、意味の区切り I recently had a conversation｜that made me think だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① recentlyだけを強く読む → ② recently と conversation と thinkを残して他を弱く読む → ③ 文全体を「I recently had a conversation that made me think.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I recently had a conversation that made me think. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で recently、conversation、think の強勢、had a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① recentlyだけを強く読む ／ ② recently と conversation と thinkを残して他を弱く読む ／ ③ 文全体を「I recently had a conversation that made me think.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I recently had a conversation that made me think. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で recently、conversation、think の強勢、had a の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "122": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では noticed → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、noticed の終わりからそのまま移ります。I noticed a difference between what I expected のあとに毎回ポーズを置かず、意味の区切り I noticed a difference between what I expected｜and what happened だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では noticed ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、noticed の終わりからそのまま移ります。I noticed a difference between what I expected のあとに毎回ポーズを置かず、意味の区切り I noticed a difference between what I expected｜and what happened だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「noticed・expected・happened」だけで言う → ② noticed a を切らずに連結 → ③ 最後に「I noticed a difference between what I expected and what happened.」を一息で読みます。 仕上げでは、I noticed a difference between what I expected and what happened. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で noticed、expected、happened の強勢、noticed a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「noticed・expected・happened」だけで言う ／ ② noticed a を切らずに連結 ／ ③ 最後に「I noticed a difference between what I expected and what happened.」を一息で読みます。 仕上げでは、I noticed a difference between what I expected and what happened. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で noticed、expected、happened の強勢、noticed a の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "123": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では how → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、how の終わりからそのまま移ります。At first のあとに毎回ポーズを置かず、意味の区切り At first｜I did not know how to respond だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では how ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、how の終わりからそのまま移ります。At first のあとに毎回ポーズを置かず、意味の区切り At first｜I did not know how to respond だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① how の後で止まらず to /tə/ と続ける → ② firstを長くする → ③ 「At first, I did not know how to respond.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、At first, I did not know how to respond. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で first、know、respond の強勢、how to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① how の後で止まらず to /tə/ と続ける ／ ② firstを長くする ／ ③ 「At first, I did not know how to respond.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、At first, I did not know how to respond. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で first、know、respond の強勢、how to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "124": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では After → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、After の終わりからそのまま移ります。After a while のあとに毎回ポーズを置かず、意味の区切り After a while｜I began to understand the situation だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では After ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、After の終わりからそのまま移ります。After a while のあとに毎回ポーズを置かず、意味の区切り After a while｜I began to understand the situation だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「After a while｜I began to understand the situation」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「After a while, I began to understand the situation.」を再生します。 仕上げでは、After a while, I began to understand the situation. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で After、understand、situation の強勢、After a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「After a while｜I began to understand the situation」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「After a while, I began to understand the situation.」を再生します。 仕上げでは、After a while, I began to understand the situation. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で After、understand、situation の強勢、After a の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "125": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では realized → that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、realized の終わりからそのまま移ります。I realized のあとに毎回ポーズを置かず、意味の区切り I realized｜that I had made an assumption だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では realized ／ that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、realized の終わりからそのまま移ります。I realized のあとに毎回ポーズを置かず、意味の区切り I realized｜that I had made an assumption だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① realized、had、assumptionの口の形をゆっくり確認 → ② /r/ から that へ移る → ③ 速度を上げても子音連結を保って「I realized that I had made an assumption.」を3回録音します。 仕上げでは、I realized that I had made an assumption. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で realized、had、assumption の強勢、realized that の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① realized、had、assumptionの口の形をゆっくり確認 ／ ② /r/ から that へ移る ／ ③ 速度を上げても子音連結を保って「I realized that I had made an assumption.」を3回録音します。 仕上げでは、I realized that I had made an assumption. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で realized、had、assumption の強勢、realized that の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

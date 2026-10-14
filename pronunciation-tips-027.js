@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では learn → from を単語ごとに切らず、一つの音の流れとして練習します。from は /frəm/ と短く弱くし、learn の終わりからそのまま移ります。I often learn from small のあとに毎回ポーズを置かず、意味の区切り I often learn from small｜everyday experiences だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では learn ／ from を単語ごとに切らず、一つの音の流れとして練習します。from は /frəm/ と短く弱くし、learn の終わりからそのまま移ります。I often learn from small のあとに毎回ポーズを置かず、意味の区切り I often learn from small｜everyday experiences だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① often、small、experiencesの口の形をゆっくり確認 → ② /l/ から from へ移る → ③ 速度を上げても子音連結を保って「I often learn from small everyday experiences.」を3回録音します。 仕上げでは、I often learn from small everyday experiences. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で often、small、experiences の強勢、learn from の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① often、small、experiencesの口の形をゆっくり確認 ／ ② /l/ から from へ移る ／ ③ 速度を上げても子音連結を保って「I often learn from small everyday experiences.」を3回録音します。 仕上げでは、I often learn from small everyday experiences. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で often、small、experiences の強勢、learn from の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "132": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では situation → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、situation の終わりからそのまま移ります。A difficult situation can reveal のあとに毎回ポーズを置かず、意味の区切り A difficult situation can reveal｜what really matters だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では situation ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、situation の終わりからそのまま移ります。A difficult situation can reveal のあとに毎回ポーズを置かず、意味の区切り A difficult situation can reveal｜what really matters だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 situation・reveal・matters を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「A difficult situation can reveal what really matters.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、A difficult situation can reveal what really matters. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で situation、reveal、matters の強勢、situation can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 situation・reveal・matters を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「A difficult situation can reveal what really matters.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、A difficult situation can reveal what really matters. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で situation、reveal、matters の強勢、situation can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "133": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では try → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to describe what のあとに毎回ポーズを置かず、意味の区切り I try to describe what｜happened before I evaluate it だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では try ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to describe what のあとに毎回ポーズを置かず、意味の区切り I try to describe what｜happened before I evaluate it だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① describeだけを強く読む → ② describe と happened と evaluateを残して他を弱く読む → ③ 文全体を「I try to describe what happened before I evaluate it.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I try to describe what happened before I evaluate it. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で describe、happened、evaluate の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① describeだけを強く読む ／ ② describe と happened と evaluateを残して他を弱く読む ／ ③ 文全体を「I try to describe what happened before I evaluate it.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I try to describe what happened before I evaluate it. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で describe、happened、evaluate の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "134": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では It → is を単語ごとに切らず、一つの音の流れとして練習します。is は /əz/ と短く弱くし、It の終わりからそのまま移ります。It is easier to understand a problem のあとに毎回ポーズを置かず、意味の区切り It is easier to understand a problem｜when I know its background だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では It ／ is を単語ごとに切らず、一つの音の流れとして練習します。is は /əz/ と短く弱くし、It の終わりからそのまま移ります。It is easier to understand a problem のあとに毎回ポーズを置かず、意味の区切り It is easier to understand a problem｜when I know its background だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「understand・problem・background」だけで言う → ② It is を切らずに連結 → ③ 最後に「It is easier to understand a problem when I know its background.」を一息で読みます。 仕上げでは、It is easier to understand a problem when I know its background. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で understand、problem、background の強勢、It is の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「understand・problem・background」だけで言う ／ ② It is を切らずに連結 ／ ③ 最後に「It is easier to understand a problem when I know its background.」を一息で読みます。 仕上げでは、It is easier to understand a problem when I know its background. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で understand、problem、background の強勢、It is の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "135": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to explain not only what happened のあとに毎回ポーズを置かず、意味の区切り I want to explain not only what happened｜but also why だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to explain not only what happened のあとに毎回ポーズを置かず、意味の区切り I want to explain not only what happened｜but also why だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① want の後で止まらず to /tə/ と続ける → ② wantを長くする → ③ 「I want to explain not only what happened but also why.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I want to explain not only what happened but also why. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、explain、happened の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① want の後で止まらず to /tə/ と続ける ／ ② wantを長くする ／ ③ 「I want to explain not only what happened but also why.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I want to explain not only what happened but also why. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、explain、happened の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

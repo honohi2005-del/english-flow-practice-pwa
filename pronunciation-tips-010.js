@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では have → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、have の終わりからそのまま移ります。I sometimes work late のあとに毎回ポーズを置かず、意味の区切り I sometimes work late｜when I have a lot to finish だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では have ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、have の終わりからそのまま移ります。I sometimes work late のあとに毎回ポーズを置かず、意味の区切り I sometimes work late｜when I have a lot to finish だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I sometimes work late｜when I have a lot to finish」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I sometimes work late when I have a lot to finish.」を再生します。 仕上げでは、I sometimes work late when I have a lot to finish. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、late、finish の強勢、have a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I sometimes work late｜when I have a lot to finish」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I sometimes work late when I have a lot to finish.」を再生します。 仕上げでは、I sometimes work late when I have a lot to finish. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、late、finish の強勢、have a の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "47": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → like を単語ごとに切らず、一つの音の流れとして練習します。like は短く弱く発音し、I の終わりからそのまま移ります。I like planning my schedule のあとに毎回ポーズを置かず、意味の区切り I like planning my schedule｜in advance だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ like を単語ごとに切らず、一つの音の流れとして練習します。like は短く弱く発音し、I の終わりからそのまま移ります。I like planning my schedule のあとに毎回ポーズを置かず、意味の区切り I like planning my schedule｜in advance だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① planning、schedule、advanceの口の形をゆっくり確認 → ② /i/ から like へ移る → ③ 速度を上げても子音連結を保って「I like planning my schedule in advance.」を3回録音します。 仕上げでは、I like planning my schedule in advance. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で planning、schedule、advance の強勢、I like の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① planning、schedule、advanceの口の形をゆっくり確認 ／ ② /i/ から like へ移る ／ ③ 速度を上げても子音連結を保って「I like planning my schedule in advance.」を3回録音します。 仕上げでは、I like planning my schedule in advance. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で planning、schedule、advance の強勢、I like の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "48": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では not → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、not の終わりからそのまま移ります。I try not to overload のあとに毎回ポーズを置かず、意味の区切り I try not to overload｜my calendar だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では not ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、not の終わりからそのまま移ります。I try not to overload のあとに毎回ポーズを置かず、意味の区切り I try not to overload｜my calendar だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 try・overload・calendar を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I try not to overload my calendar.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I try not to overload my calendar. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で try、overload、calendar の強勢、not to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 try・overload・calendar を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I try not to overload my calendar.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I try not to overload my calendar. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で try、overload、calendar の強勢、not to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "49": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では after → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、after の終わりからそのまま移ります。I need some time alone のあとに毎回ポーズを置かず、意味の区切り I need some time alone｜after a busy day だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では after ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、after の終わりからそのまま移ります。I need some time alone のあとに毎回ポーズを置かず、意味の区切り I need some time alone｜after a busy day だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① needだけを強く読む → ② need と alone と busyを残して他を弱く読む → ③ 文全体を「I need some time alone after a busy day.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I need some time alone after a busy day. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で need、alone、busy の強勢、after a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① needだけを強く読む ／ ② need と alone と busyを残して他を弱く読む ／ ③ 文全体を「I need some time alone after a busy day.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I need some time alone after a busy day. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で need、alone、busy の強勢、after a の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "50": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では learned → that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、learned の終わりからそのまま移ります。I often reflect on what I learned のあとに毎回ポーズを置かず、意味の区切り I often reflect on what I learned｜that day だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では learned ／ that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、learned の終わりからそのまま移ります。I often reflect on what I learned のあとに毎回ポーズを置かず、意味の区切り I often reflect on what I learned｜that day だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「reflect・what・learned」だけで言う → ② learned that を切らずに連結 → ③ 最後に「I often reflect on what I learned that day.」を一息で読みます。 仕上げでは、I often reflect on what I learned that day. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で reflect、what、learned の強勢、learned that の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「reflect・what・learned」だけで言う ／ ② learned that を切らずに連結 ／ ③ 最後に「I often reflect on what I learned that day.」を一息で読みます。 仕上げでは、I often reflect on what I learned that day. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で reflect、what、learned の強勢、learned that の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

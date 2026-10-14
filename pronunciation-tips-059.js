@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では A → conversation を単語ごとに切らず、一つの音の流れとして練習します。conversation は短く弱く発音し、A の終わりからそのまま移ります。A conversation becomes deeper のあとに毎回ポーズを置かず、意味の区切り A conversation becomes deeper｜when people ask follow-up questions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では A ／ conversation を単語ごとに切らず、一つの音の流れとして練習します。conversation は短く弱く発音し、A の終わりからそのまま移ります。A conversation becomes deeper のあとに毎回ポーズを置かず、意味の区切り A conversation becomes deeper｜when people ask follow-up questions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① A の後で止まらず conversation 弱く短く と続ける → ② conversationを長くする → ③ 「A conversation becomes deeper when people ask follow-up questions.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、A conversation becomes deeper when people ask follow-up questions. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で conversation、deeper、questions の強勢、A conversation の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① A の後で止まらず conversation 弱く短く と続ける ／ ② conversationを長くする ／ ③ 「A conversation becomes deeper when people ask follow-up questions.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、A conversation becomes deeper when people ask follow-up questions. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で conversation、deeper、questions の強勢、A conversation の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "292": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では discussing → the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、discussing の終わりからそのまま移ります。I like discussing the advantages のあとに毎回ポーズを置かず、意味の区切り I like discussing the advantages｜and disadvantages of an issue だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では discussing ／ the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、discussing の終わりからそのまま移ります。I like discussing the advantages のあとに毎回ポーズを置かず、意味の区切り I like discussing the advantages｜and disadvantages of an issue だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I like discussing the advantages｜and disadvantages of an issue」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I like discussing the advantages and disadvantages of an issue.」を再生します。 仕上げでは、I like discussing the advantages and disadvantages of an issue. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で discussing、advantages、disadvantages の強勢、discussing the の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I like discussing the advantages｜and disadvantages of an issue」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I like discussing the advantages and disadvantages of an issue.」を再生します。 仕上げでは、I like discussing the advantages and disadvantages of an issue. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で discussing、advantages、disadvantages の強勢、discussing the の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "293": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Every → solution を単語ごとに切らず、一つの音の流れとして練習します。solution は短く弱く発音し、Every の終わりからそのまま移ります。Every solution has possible limitations のあとに毎回ポーズを置かず、意味の区切り Every solution has possible limitations だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Every ／ solution を単語ごとに切らず、一つの音の流れとして練習します。solution は短く弱く発音し、Every の終わりからそのまま移ります。Every solution has possible limitations のあとに毎回ポーズを置かず、意味の区切り Every solution has possible limitations だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① solution、possible、limitationsの口の形をゆっくり確認 → ② /e/ から solution へ移る → ③ 速度を上げても子音連結を保って「Every solution has possible limitations.」を3回録音します。 仕上げでは、Every solution has possible limitations. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で solution、possible、limitations の強勢、Every solution の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① solution、possible、limitationsの口の形をゆっくり確認 ／ ② /e/ から solution へ移る ／ ③ 速度を上げても子音連結を保って「Every solution has possible limitations.」を3回録音します。 仕上げでは、Every solution has possible limitations. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で solution、possible、limitations の強勢、Every solution の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "294": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では should → be を単語ごとに切らず、一つの音の流れとして練習します。be は /bi/（短く） と短く弱くし、should の終わりからそのまま移ります。New technology should be discussed のあとに毎回ポーズを置かず、意味の区切り New technology should be discussed｜from several perspectives だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では should ／ be を単語ごとに切らず、一つの音の流れとして練習します。be は /bi/（短く） と短く弱くし、should の終わりからそのまま移ります。New technology should be discussed のあとに毎回ポーズを置かず、意味の区切り New technology should be discussed｜from several perspectives だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 technology・discussed・perspectives を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「New technology should be discussed from several perspectives.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、New technology should be discussed from several perspectives. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で technology、discussed、perspectives の強勢、should be の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 technology・discussed・perspectives を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「New technology should be discussed from several perspectives.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、New technology should be discussed from several perspectives. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で technology、discussed、perspectives の強勢、should be の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "295": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Convenience → and を単語ごとに切らず、一つの音の流れとして練習します。and は /ən/ または /n/ と短く弱くし、Convenience の終わりからそのまま移ります。Convenience のあとに毎回ポーズを置かず、意味の区切り Convenience｜and safety do not always point in the same direction だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Convenience ／ and を単語ごとに切らず、一つの音の流れとして練習します。and は /ən/ または /n/ と短く弱くし、Convenience の終わりからそのまま移ります。Convenience のあとに毎回ポーズを置かず、意味の区切り Convenience｜and safety do not always point in the same direction だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① Convenienceだけを強く読む → ② Convenience と safety と directionを残して他を弱く読む → ③ 文全体を「Convenience and safety do not always point in the same direction.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、Convenience and safety do not always point in the same direction. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Convenience、safety、direction の強勢、Convenience and の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① Convenienceだけを強く読む ／ ② Convenience と safety と directionを残して他を弱く読む ／ ③ 文全体を「Convenience and safety do not always point in the same direction.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、Convenience and safety do not always point in the same direction. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Convenience、safety、direction の強勢、Convenience and の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

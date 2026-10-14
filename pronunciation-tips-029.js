@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では me → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、me の終わりからそのまま移ります。The teacher asked me a のあとに毎回ポーズを置かず、意味の区切り The teacher asked me a｜question about my experience だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では me ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、me の終わりからそのまま移ります。The teacher asked me a のあとに毎回ポーズを置かず、意味の区切り The teacher asked me a｜question about my experience だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① me の後で止まらず a /ə/ と続ける → ② teacherを長くする → ③ 「The teacher asked me a question about my experience.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、The teacher asked me a question about my experience. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で teacher、question、experience の強勢、me a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① me の後で止まらず a /ə/ と続ける ／ ② teacherを長くする ／ ③ 「The teacher asked me a question about my experience.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、The teacher asked me a question about my experience. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で teacher、question、experience の強勢、me a の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "142": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では understood → the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、understood の終わりからそのまま移ります。I understood the question のあとに毎回ポーズを置かず、意味の区切り I understood the question｜but I could not answer immediately だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では understood ／ the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、understood の終わりからそのまま移ります。I understood the question のあとに毎回ポーズを置かず、意味の区切り I understood the question｜but I could not answer immediately だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I understood the question｜but I could not answer immediately」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I understood the question, but I could not answer immediately.」を再生します。 仕上げでは、I understood the question, but I could not answer immediately. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で understood、question、answer の強勢、understood the の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I understood the question｜but I could not answer immediately」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I understood the question, but I could not answer immediately.」を再生します。 仕上げでは、I understood the question, but I could not answer immediately. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で understood、question、answer の強勢、understood the の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "143": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では needed → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、needed の終わりからそのまま移ります。I needed a moment to のあとに毎回ポーズを置かず、意味の区切り I needed a moment to｜find the right words だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では needed ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、needed の終わりからそのまま移ります。I needed a moment to のあとに毎回ポーズを置かず、意味の区切り I needed a moment to｜find the right words だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① needed、moment、rightの口の形をゆっくり確認 → ② /n/ から a へ移る → ③ 速度を上げても子音連結を保って「I needed a moment to find the right words.」を3回録音します。 仕上げでは、I needed a moment to find the right words. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で needed、moment、right の強勢、needed a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① needed、moment、rightの口の形をゆっくり確認 ／ ② /n/ から a へ移る ／ ③ 速度を上げても子音連結を保って「I needed a moment to find the right words.」を3回録音します。 仕上げでは、I needed a moment to find the right words. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で needed、moment、right の強勢、needed a の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "144": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では gave → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、gave の終わりからそのまま移ります。I gave a short answer のあとに毎回ポーズを置かず、意味の区切り I gave a short answer｜and then added an explanation だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では gave ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、gave の終わりからそのまま移ります。I gave a short answer のあとに毎回ポーズを置かず、意味の区切り I gave a short answer｜and then added an explanation だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 gave・answer・explanation を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I gave a short answer and then added an explanation.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I gave a short answer and then added an explanation. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で gave、answer、explanation の強勢、gave a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 gave・answer・explanation を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I gave a short answer and then added an explanation.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I gave a short answer and then added an explanation. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で gave、answer、explanation の強勢、gave a の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "145": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では The → follow を単語ごとに切らず、一つの音の流れとして練習します。follow は短く弱く発音し、The の終わりからそのまま移ります。The follow up question helped のあとに毎回ポーズを置かず、意味の区切り The follow up question helped｜me develop my idea だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では The ／ follow を単語ごとに切らず、一つの音の流れとして練習します。follow は短く弱く発音し、The の終わりからそのまま移ります。The follow up question helped のあとに毎回ポーズを置かず、意味の区切り The follow up question helped｜me develop my idea だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① followだけを強く読む → ② follow と question と developを残して他を弱く読む → ③ 文全体を「The follow-up question helped me develop my idea.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、The follow-up question helped me develop my idea. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で follow、question、develop の強勢、The follow の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① followだけを強く読む ／ ② follow と question と developを残して他を弱く読む ／ ③ 文全体を「The follow-up question helped me develop my idea.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、The follow-up question helped me develop my idea. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で follow、question、develop の強勢、The follow の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

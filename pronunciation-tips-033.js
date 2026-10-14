@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では how → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、how の終わりからそのまま移ります。I’m not sure how to のあとに毎回ポーズを置かず、意味の区切り I’m not sure how to｜express this idea in English だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では how ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、how の終わりからそのまま移ります。I’m not sure how to のあとに毎回ポーズを置かず、意味の区切り I’m not sure how to｜express this idea in English だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① sure、express、Englishの口の形をゆっくり確認 → ② /h/ から to へ移る → ③ 速度を上げても子音連結を保って「I’m not sure how to express this idea in English.」を3回録音します。 仕上げでは、I’m not sure how to express this idea in English. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で sure、express、English の強勢、how to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① sure、express、Englishの口の形をゆっくり確認 ／ ② /h/ から to へ移る ／ ③ 速度を上げても子音連結を保って「I’m not sure how to express this idea in English.」を3回録音します。 仕上げでは、I’m not sure how to express this idea in English. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で sure、express、English の強勢、how to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "162": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では know → the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、know の終わりからそのまま移ります。I know the word のあとに毎回ポーズを置かず、意味の区切り I know the word｜but I’m not sure how to use it だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では know ／ the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、know の終わりからそのまま移ります。I know the word のあとに毎回ポーズを置かず、意味の区切り I know the word｜but I’m not sure how to use it だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 know・word・sure を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I know the word, but I’m not sure how to use it.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I know the word, but I’m not sure how to use it. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で know、word、sure の強勢、know the の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 know・word・sure を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I know the word, but I’m not sure how to use it.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I know the word, but I’m not sure how to use it. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で know、word、sure の強勢、know the の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "163": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では sounds → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、sounds の終わりからそのまま移ります。This expression sounds a little のあとに毎回ポーズを置かず、意味の区切り This expression sounds a little｜too formal for conversation だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では sounds ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、sounds の終わりからそのまま移ります。This expression sounds a little のあとに毎回ポーズを置かず、意味の区切り This expression sounds a little｜too formal for conversation だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① expressionだけを強く読む → ② expression と little と conversationを残して他を弱く読む → ③ 文全体を「This expression sounds a little too formal for conversation.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、This expression sounds a little too formal for conversation. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で expression、little、conversation の強勢、sounds a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① expressionだけを強く読む ／ ② expression と little と conversationを残して他を弱く読む ／ ③ 文全体を「This expression sounds a little too formal for conversation.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、This expression sounds a little too formal for conversation. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で expression、little、conversation の強勢、sounds a の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "164": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では there → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、there の終わりからそのまま移ります。Is there a more natural のあとに毎回ポーズを置かず、意味の区切り Is there a more natural｜way to say this だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では there ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、there の終わりからそのまま移ります。Is there a more natural のあとに毎回ポーズを置かず、意味の区切り Is there a more natural｜way to say this だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「natural・way・say」だけで言う → ② there a を切らずに連結 → ③ 最後に「Is there a more natural way to say this?」を一息で読みます。 仕上げでは、Is there a more natural way to say this? を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で natural、way、say の強勢、there a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「natural・way・say」だけで言う ／ ② there a を切らずに連結 ／ ③ 最後に「Is there a more natural way to say this?」を一息で読みます。 仕上げでは、Is there a more natural way to say this? を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で natural、way、say の強勢、there a の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "165": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では What → is を単語ごとに切らず、一つの音の流れとして練習します。is は /əz/ と短く弱くし、What の終わりからそのまま移ります。What is the difference between のあとに毎回ポーズを置かず、意味の区切り What is the difference between｜these two expressions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では What ／ is を単語ごとに切らず、一つの音の流れとして練習します。is は /əz/ と短く弱くし、What の終わりからそのまま移ります。What is the difference between のあとに毎回ポーズを置かず、意味の区切り What is the difference between｜these two expressions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① What の後で止まらず is /əz/ と続ける → ② Whatを長くする → ③ 「What is the difference between these two expressions?」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、What is the difference between these two expressions? を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で What、difference、expressions の強勢、What is の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① What の後で止まらず is /əz/ と続ける ／ ② Whatを長くする ／ ③ 「What is the difference between these two expressions?」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、What is the difference between these two expressions? を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で What、difference、expressions の強勢、What is の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

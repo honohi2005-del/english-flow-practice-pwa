@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to acknowledge the のあとに毎回ポーズを置かず、意味の区切り I want to acknowledge the｜other person’s point first だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to acknowledge the のあとに毎回ポーズを置かず、意味の区切り I want to acknowledge the｜other person’s point first だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I want to acknowledge the｜other person’s point first」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I want to acknowledge the other person’s point first.」を再生します。 仕上げでは、I want to acknowledge the other person’s point first. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で acknowledge、person’s、first の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I want to acknowledge the｜other person’s point first」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I want to acknowledge the other person’s point first.」を再生します。 仕上げでは、I want to acknowledge the other person’s point first. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で acknowledge、person’s、first の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "197": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では question → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、question の終わりからそのまま移ります。A good question can make のあとに毎回ポーズを置かず、意味の区切り A good question can make｜a conversation more meaningful だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では question ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、question の終わりからそのまま移ります。A good question can make のあとに毎回ポーズを置かず、意味の区切り A good question can make｜a conversation more meaningful だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① question、conversation、meaningfulの口の形をゆっくり確認 → ② /q/ から can へ移る → ③ 速度を上げても子音連結を保って「A good question can make a conversation more meaningful.」を3回録音します。 仕上げでは、A good question can make a conversation more meaningful. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で question、conversation、meaningful の強勢、question can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① question、conversation、meaningfulの口の形をゆっくり確認 ／ ② /q/ から can へ移る ／ ③ 速度を上げても子音連結を保って「A good question can make a conversation more meaningful.」を3回録音します。 仕上げでは、A good question can make a conversation more meaningful. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で question、conversation、meaningful の強勢、question can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "198": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to ask follow-up questions のあとに毎回ポーズを置かず、意味の区切り I want to ask follow-up questions｜that deepen the discussion だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to ask follow-up questions のあとに毎回ポーズを置かず、意味の区切り I want to ask follow-up questions｜that deepen the discussion だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 follow・questions・discussion を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I want to ask follow-up questions that deepen the discussion.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I want to ask follow-up questions that deepen the discussion. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で follow、questions、discussion の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 follow・questions・discussion を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I want to ask follow-up questions that deepen the discussion.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I want to ask follow-up questions that deepen the discussion. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で follow、questions、discussion の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "199": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では trying → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、trying の終わりからそのまま移ります。I’m trying to make my のあとに毎回ポーズを置かず、意味の区切り I’m trying to make my｜conclusions more precise だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では trying ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、trying の終わりからそのまま移ります。I’m trying to make my のあとに毎回ポーズを置かず、意味の区切り I’m trying to make my｜conclusions more precise だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① tryingだけを強く読む → ② trying と conclusions と preciseを残して他を弱く読む → ③ 文全体を「I’m trying to make my conclusions more precise.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m trying to make my conclusions more precise. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で trying、conclusions、precise の強勢、trying to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① tryingだけを強く読む ／ ② trying と conclusions と preciseを残して他を弱く読む ／ ③ 文全体を「I’m trying to make my conclusions more precise.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m trying to make my conclusions more precise. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で trying、conclusions、precise の強勢、trying to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "200": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → enjoy を単語ごとに切らず、一つの音の流れとして練習します。enjoy は短く弱く発音し、I の終わりからそのまま移ります。I enjoy improving through conversation のあとに毎回ポーズを置かず、意味の区切り I enjoy improving through conversation だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ enjoy を単語ごとに切らず、一つの音の流れとして練習します。enjoy は短く弱く発音し、I の終わりからそのまま移ります。I enjoy improving through conversation のあとに毎回ポーズを置かず、意味の区切り I enjoy improving through conversation だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「I・improving・conversation」だけで言う → ② I enjoy を切らずに連結 → ③ 最後に「I enjoy improving through conversation.」を一息で読みます。 仕上げでは、I enjoy improving through conversation. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で I、improving、conversation の強勢、I enjoy の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「I・improving・conversation」だけで言う ／ ② I enjoy を切らずに連結 ／ ③ 最後に「I enjoy improving through conversation.」を一息で読みます。 仕上げでは、I enjoy improving through conversation. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で I、improving、conversation の強勢、I enjoy の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

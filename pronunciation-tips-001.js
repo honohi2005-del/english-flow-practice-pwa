@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → teach を単語ごとに切らず、一つの音の流れとして練習します。teach は短く弱く発音し、I の終わりからそのまま移ります。I teach Japanese のあとに毎回ポーズを置かず、意味の区切り I teach Japanese だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ teach を単語ごとに切らず、一つの音の流れとして練習します。teach は短く弱く発音し、I の終わりからそのまま移ります。I teach Japanese のあとに毎回ポーズを置かず、意味の区切り I teach Japanese だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① Iだけを強く読む → ② I と teach と Japaneseを残して他を弱く読む → ③ 文全体を「I teach Japanese.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I teach Japanese. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で I、teach、Japanese の強勢、I teach の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① Iだけを強く読む ／ ② I と teach と Japaneseを残して他を弱く読む ／ ③ 文全体を「I teach Japanese.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I teach Japanese. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で I、teach、Japanese の強勢、I teach の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "2": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では as → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、as の終わりからそのまま移ります。I work as a Japanese のあとに毎回ポーズを置かず、意味の区切り I work as a Japanese｜teacher だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では as ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、as の終わりからそのまま移ります。I work as a Japanese のあとに毎回ポーズを置かず、意味の区切り I work as a Japanese｜teacher だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「work・Japanese・teacher」だけで言う → ② as a を切らずに連結 → ③ 最後に「I work as a Japanese teacher.」を一息で読みます。 仕上げでは、I work as a Japanese teacher. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で work、Japanese、teacher の強勢、as a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「work・Japanese・teacher」だけで言う ／ ② as a を切らずに連結 ／ ③ 最後に「I work as a Japanese teacher.」を一息で読みます。 仕上げでは、I work as a Japanese teacher. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で work、Japanese、teacher の強勢、as a の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "3": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → teach を単語ごとに切らず、一つの音の流れとして練習します。teach は短く弱く発音し、I の終わりからそのまま移ります。I teach adult learners のあとに毎回ポーズを置かず、意味の区切り I teach adult learners だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ teach を単語ごとに切らず、一つの音の流れとして練習します。teach は短く弱く発音し、I の終わりからそのまま移ります。I teach adult learners のあとに毎回ポーズを置かず、意味の区切り I teach adult learners だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① I の後で止まらず teach 弱く短く と続ける → ② teachを長くする → ③ 「I teach adult learners.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I teach adult learners. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で teach、adult、learners の強勢、I teach の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① I の後で止まらず teach 弱く短く と続ける ／ ② teachを長くする ／ ③ 「I teach adult learners.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I teach adult learners. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で teach、adult、learners の強勢、I teach の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "4": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では have → been を単語ごとに切らず、一つの音の流れとして練習します。been は /bɪn/ と短く弱くし、have の終わりからそのまま移ります。I have been teaching Japanese のあとに毎回ポーズを置かず、意味の区切り I have been teaching Japanese｜for many years だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では have ／ been を単語ごとに切らず、一つの音の流れとして練習します。been は /bɪn/ と短く弱くし、have の終わりからそのまま移ります。I have been teaching Japanese のあとに毎回ポーズを置かず、意味の区切り I have been teaching Japanese｜for many years だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I have been teaching Japanese｜for many years」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I have been teaching Japanese for many years.」を再生します。 仕上げでは、I have been teaching Japanese for many years. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で have、Japanese、years の強勢、have been の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I have been teaching Japanese｜for many years」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I have been teaching Japanese for many years.」を再生します。 仕上げでは、I have been teaching Japanese for many years. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で have、Japanese、years の強勢、have been の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "5": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では learners → from を単語ごとに切らず、一つの音の流れとして練習します。from は /frəm/ と短く弱くし、learners の終わりからそのまま移ります。I work with learners from のあとに毎回ポーズを置かず、意味の区切り I work with learners from｜different backgrounds だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では learners ／ from を単語ごとに切らず、一つの音の流れとして練習します。from は /frəm/ と短く弱くし、learners の終わりからそのまま移ります。I work with learners from のあとに毎回ポーズを置かず、意味の区切り I work with learners from｜different backgrounds だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① work、learners、differentの口の形をゆっくり確認 → ② /l/ から from へ移る → ③ 速度を上げても子音連結を保って「I work with learners from different backgrounds.」を3回録音します。 仕上げでは、I work with learners from different backgrounds. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で work、learners、different の強勢、learners from の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① work、learners、differentの口の形をゆっくり確認 ／ ② /l/ から from へ移る ／ ③ 速度を上げても子音連結を保って「I work with learners from different backgrounds.」を3回録音します。 仕上げでは、I work with learners from different backgrounds. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で work、learners、different の強勢、learners from の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では result → was を単語ごとに切らず、一つの音の流れとして練習します。was は /wəz/ と短く弱くし、result の終わりからそのまま移ります。The result was different from のあとに毎回ポーズを置かず、意味の区切り The result was different from｜what I had predicted だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では result ／ was を単語ごとに切らず、一つの音の流れとして練習します。was は /wəz/ と短く弱くし、result の終わりからそのまま移ります。The result was different from のあとに毎回ポーズを置かず、意味の区切り The result was different from｜what I had predicted だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「The result was different from｜what I had predicted」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「The result was different from what I had predicted.」を再生します。 仕上げでは、The result was different from what I had predicted. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で result、different、predicted の強勢、result was の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「The result was different from｜what I had predicted」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「The result was different from what I had predicted.」を再生します。 仕上げでは、The result was different from what I had predicted. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で result、different、predicted の強勢、result was の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "137": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では needed → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、needed の終わりからそのまま移ります。I needed to change my のあとに毎回ポーズを置かず、意味の区切り I needed to change my｜approach だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では needed ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、needed の終わりからそのまま移ります。I needed to change my のあとに毎回ポーズを置かず、意味の区切り I needed to change my｜approach だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① needed、change、approachの口の形をゆっくり確認 → ② /n/ から to へ移る → ③ 速度を上げても子音連結を保って「I needed to change my approach.」を3回録音します。 仕上げでは、I needed to change my approach. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で needed、change、approach の強勢、needed to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① needed、change、approachの口の形をゆっくり確認 ／ ② /n/ から to へ移る ／ ③ 速度を上げても子音連結を保って「I needed to change my approach.」を3回録音します。 仕上げでは、I needed to change my approach. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で needed、change、approach の強勢、needed to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "138": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、I の終わりからそのまま移ります。Looking back のあとに毎回ポーズを置かず、意味の区切り Looking back｜I can see several possible causes だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、I の終わりからそのまま移ります。Looking back のあとに毎回ポーズを置かず、意味の区切り Looking back｜I can see several possible causes だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 Looking・see・possible を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「Looking back, I can see several possible causes.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Looking back, I can see several possible causes. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Looking、see、possible の強勢、I can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 Looking・see・possible を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「Looking back, I can see several possible causes.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Looking back, I can see several possible causes. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Looking、see、possible の強勢、I can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "139": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では event → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、event の終わりからそのまま移ります。One event can affect people のあとに毎回ポーズを置かず、意味の区切り One event can affect people｜in very different ways だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では event ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、event の終わりからそのまま移ります。One event can affect people のあとに毎回ポーズを置かず、意味の区切り One event can affect people｜in very different ways だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① eventだけを強く読む → ② event と affect と differentを残して他を弱く読む → ③ 文全体を「One event can affect people in very different ways.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、One event can affect people in very different ways. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で event、affect、different の強勢、event can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① eventだけを強く読む ／ ② event と affect と differentを残して他を弱く読む ／ ③ 文全体を「One event can affect people in very different ways.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、One event can affect people in very different ways. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で event、affect、different の強勢、event can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "140": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to remember what のあとに毎回ポーズを置かず、意味の区切り I want to remember what｜I learned from the experience だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to remember what のあとに毎回ポーズを置かず、意味の区切り I want to remember what｜I learned from the experience だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「remember・learned・experience」だけで言う → ② want to を切らずに連結 → ③ 最後に「I want to remember what I learned from the experience.」を一息で読みます。 仕上げでは、I want to remember what I learned from the experience. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で remember、learned、experience の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「remember・learned・experience」だけで言う ／ ② want to を切らずに連結 ／ ③ 最後に「I want to remember what I learned from the experience.」を一息で読みます。 仕上げでは、I want to remember what I learned from the experience. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で remember、learned、experience の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

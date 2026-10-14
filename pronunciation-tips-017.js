@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では connect → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、connect の終わりからそのまま移ります。I think learning should connect のあとに毎回ポーズを置かず、意味の区切り I think learning should connect｜to real life だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では connect ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、connect の終わりからそのまま移ります。I think learning should connect のあとに毎回ポーズを置かず、意味の区切り I think learning should connect｜to real life だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① connect の後で止まらず to /tə/ と続ける → ② learningを長くする → ③ 「I think learning should connect to real life.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I think learning should connect to real life. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で learning、connect、real の強勢、connect to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① connect の後で止まらず to /tə/ と続ける ／ ② learningを長くする ／ ③ 「I think learning should connect to real life.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I think learning should connect to real life. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で learning、connect、real の強勢、connect to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "82": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では A → clear を単語ごとに切らず、一つの音の流れとして練習します。clear は短く弱く発音し、A の終わりからそのまま移ります。A clear goal helps me のあとに毎回ポーズを置かず、意味の区切り A clear goal helps me｜stay motivated だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では A ／ clear を単語ごとに切らず、一つの音の流れとして練習します。clear は短く弱く発音し、A の終わりからそのまま移ります。A clear goal helps me のあとに毎回ポーズを置かず、意味の区切り A clear goal helps me｜stay motivated だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「A clear goal helps me｜stay motivated」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「A clear goal helps me stay motivated.」を再生します。 仕上げでは、A clear goal helps me stay motivated. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で clear、helps、motivated の強勢、A clear の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「A clear goal helps me｜stay motivated」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「A clear goal helps me stay motivated.」を再生します。 仕上げでは、A clear goal helps me stay motivated. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で clear、helps、motivated の強勢、A clear の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "83": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → make を単語ごとに切らず、一つの音の流れとして練習します。make は短く弱く発音し、I の終わりからそのまま移ります。I make progress のあとに毎回ポーズを置かず、意味の区切り I make progress｜when I practice consistently だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ make を単語ごとに切らず、一つの音の流れとして練習します。make は短く弱く発音し、I の終わりからそのまま移ります。I make progress のあとに毎回ポーズを置かず、意味の区切り I make progress｜when I practice consistently だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① I、progress、practiceの口の形をゆっくり確認 → ② /i/ から make へ移る → ③ 速度を上げても子音連結を保って「I make progress when I practice consistently.」を3回録音します。 仕上げでは、I make progress when I practice consistently. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で I、progress、practice の強勢、I make の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① I、progress、practiceの口の形をゆっくり確認 ／ ② /i/ から make へ移る ／ ③ 速度を上げても子音連結を保って「I make progress when I practice consistently.」を3回録音します。 仕上げでは、I make progress when I practice consistently. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で I、progress、practice の強勢、I make の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "84": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では sessions → are を単語ごとに切らず、一つの音の流れとして練習します。are は /ər/ と短く弱くし、sessions の終わりからそのまま移ります。Short practice sessions are easier のあとに毎回ポーズを置かず、意味の区切り Short practice sessions are easier｜to continue だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では sessions ／ are を単語ごとに切らず、一つの音の流れとして練習します。are は /ər/ と短く弱くし、sessions の終わりからそのまま移ります。Short practice sessions are easier のあとに毎回ポーズを置かず、意味の区切り Short practice sessions are easier｜to continue だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 practice・easier・continue を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「Short practice sessions are easier to continue.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Short practice sessions are easier to continue. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で practice、easier、continue の強勢、sessions are の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 practice・easier・continue を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「Short practice sessions are easier to continue.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Short practice sessions are easier to continue. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で practice、easier、continue の強勢、sessions are の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "85": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → sometimes を単語ごとに切らず、一つの音の流れとして練習します。sometimes は短く弱く発音し、I の終わりからそのまま移ります。I sometimes focus too much のあとに毎回ポーズを置かず、意味の区切り I sometimes focus too much｜on my mistakes だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ sometimes を単語ごとに切らず、一つの音の流れとして練習します。sometimes は短く弱く発音し、I の終わりからそのまま移ります。I sometimes focus too much のあとに毎回ポーズを置かず、意味の区切り I sometimes focus too much｜on my mistakes だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① focusだけを強く読む → ② focus と much と mistakesを残して他を弱く読む → ③ 文全体を「I sometimes focus too much on my mistakes.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I sometimes focus too much on my mistakes. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で focus、much、mistakes の強勢、I sometimes の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① focusだけを強く読む ／ ② focus と much と mistakesを残して他を弱く読む ／ ③ 文全体を「I sometimes focus too much on my mistakes.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I sometimes focus too much on my mistakes. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で focus、much、mistakes の強勢、I sometimes の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

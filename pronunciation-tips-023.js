@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Education → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、Education の終わりからそのまま移ります。Education can change a person’s のあとに毎回ポーズを置かず、意味の区切り Education can change a person’s｜opportunities だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Education ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、Education の終わりからそのまま移ります。Education can change a person’s のあとに毎回ポーズを置かず、意味の区切り Education can change a person’s｜opportunities だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① Education の後で止まらず can /kən/ と続ける → ② Educationを長くする → ③ 「Education can change a person’s opportunities.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、Education can change a person’s opportunities. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Education、change、opportunities の強勢、Education can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① Education の後で止まらず can /kən/ と続ける ／ ② Educationを長くする ／ ③ 「Education can change a person’s opportunities.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、Education can change a person’s opportunities. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Education、change、opportunities の強勢、Education can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "112": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Access → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、Access の終わりからそのまま移ります。Access to information is not のあとに毎回ポーズを置かず、意味の区切り Access to information is not｜equal for everyone だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Access ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、Access の終わりからそのまま移ります。Access to information is not のあとに毎回ポーズを置かず、意味の区切り Access to information is not｜equal for everyone だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「Access to information is not｜equal for everyone」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「Access to information is not equal for everyone.」を再生します。 仕上げでは、Access to information is not equal for everyone. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で information、equal、everyone の強勢、Access to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「Access to information is not｜equal for everyone」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「Access to information is not equal for everyone.」を再生します。 仕上げでは、Access to information is not equal for everyone. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で information、equal、everyone の強勢、Access to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "113": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では change → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、change の終わりからそのまま移ります。A small policy change can のあとに毎回ポーズを置かず、意味の区切り A small policy change can｜affect many people だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では change ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、change の終わりからそのまま移ります。A small policy change can のあとに毎回ポーズを置かず、意味の区切り A small policy change can｜affect many people だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① policy、affect、peopleの口の形をゆっくり確認 → ② /c/ から can へ移る → ③ 速度を上げても子音連結を保って「A small policy change can affect many people.」を3回録音します。 仕上げでは、A small policy change can affect many people. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で policy、affect、people の強勢、change can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① policy、affect、peopleの口の形をゆっくり確認 ／ ② /c/ から can へ移る ／ ③ 速度を上げても子音連結を保って「A small policy change can affect many people.」を3回録音します。 仕上げでは、A small policy change can affect many people. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で policy、affect、people の強勢、change can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "114": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Public → discussions を単語ごとに切らず、一つの音の流れとして練習します。discussions は短く弱く発音し、Public の終わりからそのまま移ります。Public discussions should include different のあとに毎回ポーズを置かず、意味の区切り Public discussions should include different｜voices だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Public ／ discussions を単語ごとに切らず、一つの音の流れとして練習します。discussions は短く弱く発音し、Public の終わりからそのまま移ります。Public discussions should include different のあとに毎回ポーズを置かず、意味の区切り Public discussions should include different｜voices だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 Public・include・different を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「Public discussions should include different voices.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Public discussions should include different voices. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Public、include、different の強勢、Public discussions の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 Public・include・different を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「Public discussions should include different voices.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Public discussions should include different voices. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Public、include、different の強勢、Public discussions の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "115": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では need → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、need の終わりからそのまま移ります。We need to consider the のあとに毎回ポーズを置かず、意味の区切り We need to consider the｜people who are not represented だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では need ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、need の終わりからそのまま移ります。We need to consider the のあとに毎回ポーズを置かず、意味の区切り We need to consider the｜people who are not represented だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① considerだけを強く読む → ② consider と people と representedを残して他を弱く読む → ③ 文全体を「We need to consider the people who are not represented.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、We need to consider the people who are not represented. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で consider、people、represented の強勢、need to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① considerだけを強く読む ／ ② consider と people と representedを残して他を弱く読む ／ ③ 文全体を「We need to consider the people who are not represented.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、We need to consider the people who are not represented. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で consider、people、represented の強勢、need to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

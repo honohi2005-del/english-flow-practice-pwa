@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では places → that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、places の終わりからそのまま移ります。I like visiting places のあとに毎回ポーズを置かず、意味の区切り I like visiting places｜that are new to me だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では places ／ that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、places の終わりからそのまま移ります。I like visiting places のあとに毎回ポーズを置かず、意味の区切り I like visiting places｜that are new to me だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① places の後で止まらず that /ðət/ と続ける → ② Iを長くする → ③ 「I like visiting places that are new to me.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I like visiting places that are new to me. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で I、visiting、new の強勢、places that の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① places の後で止まらず that /ðət/ と続ける ／ ② Iを長くする ／ ③ 「I like visiting places that are new to me.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I like visiting places that are new to me. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で I、visiting、new の強勢、places that の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "52": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では people → from を単語ごとに切らず、一つの音の流れとして練習します。from は /frəm/ と短く弱くし、people の終わりからそのまま移ります。I enjoy talking with people のあとに毎回ポーズを置かず、意味の区切り I enjoy talking with people｜from different countries だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では people ／ from を単語ごとに切らず、一つの音の流れとして練習します。from は /frəm/ と短く弱くし、people の終わりからそのまま移ります。I enjoy talking with people のあとに毎回ポーズを置かず、意味の区切り I enjoy talking with people｜from different countries だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I enjoy talking with people｜from different countries」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I enjoy talking with people from different countries.」を再生します。 仕上げでは、I enjoy talking with people from different countries. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で talking、people、different の強勢、people from の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I enjoy talking with people｜from different countries」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I enjoy talking with people from different countries.」を再生します。 仕上げでは、I enjoy talking with people from different countries. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で talking、people、different の強勢、people from の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "53": [
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① curious、people、culturesの口の形をゆっくり確認 → ② /i/ から curious へ移る → ③ 速度を上げても子音連結を保って「I’m curious about how people live in other cultures.」を3回録音します。 仕上げでは、I’m curious about how people live in other cultures. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で curious、people、cultures の強勢、I’m curious の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① curious、people、culturesの口の形をゆっくり確認 ／ ② /i/ から curious へ移る ／ ③ 速度を上げても子音連結を保って「I’m curious about how people live in other cultures.」を3回録音します。 仕上げでは、I’m curious about how people live in other cultures. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で curious、people、cultures の強勢、I’m curious の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "54": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → like を単語ごとに切らず、一つの音の流れとして練習します。like は短く弱く発音し、I の終わりからそのまま移ります。I like trying local food のあとに毎回ポーズを置かず、意味の区切り I like trying local food｜when I travel だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ like を単語ごとに切らず、一つの音の流れとして練習します。like は短く弱く発音し、I の終わりからそのまま移ります。I like trying local food のあとに毎回ポーズを置かず、意味の区切り I like trying local food｜when I travel だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 trying・food・travel を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I like trying local food when I travel.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I like trying local food when I travel. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で trying、food、travel の強勢、I like の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 trying・food・travel を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I like trying local food when I travel.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I like trying local food when I travel. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で trying、food、travel の強勢、I like の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "55": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では prefer → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、prefer の終わりからそのまま移ります。I prefer a flexible plan のあとに毎回ポーズを置かず、意味の区切り I prefer a flexible plan｜to a very detailed itinerary だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では prefer ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、prefer の終わりからそのまま移ります。I prefer a flexible plan のあとに毎回ポーズを置かず、意味の区切り I prefer a flexible plan｜to a very detailed itinerary だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① preferだけを強く読む → ② prefer と flexible と detailedを残して他を弱く読む → ③ 文全体を「I prefer a flexible plan to a very detailed itinerary.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I prefer a flexible plan to a very detailed itinerary. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で prefer、flexible、detailed の強勢、prefer a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① preferだけを強く読む ／ ② prefer と flexible と detailedを残して他を弱く読む ／ ③ 文全体を「I prefer a flexible plan to a very detailed itinerary.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I prefer a flexible plan to a very detailed itinerary. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で prefer、flexible、detailed の強勢、prefer a の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

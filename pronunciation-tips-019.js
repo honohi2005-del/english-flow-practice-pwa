@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では mistakes → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、mistakes の終わりからそのまま移ります。I believe mistakes can show のあとに毎回ポーズを置かず、意味の区切り I believe mistakes can show｜me what to practice next だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では mistakes ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、mistakes の終わりからそのまま移ります。I believe mistakes can show のあとに毎回ポーズを置かず、意味の区切り I believe mistakes can show｜me what to practice next だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① mistakesだけを強く読む → ② mistakes と show と practiceを残して他を弱く読む → ③ 文全体を「I believe mistakes can show me what to practice next.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I believe mistakes can show me what to practice next. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で mistakes、show、practice の強勢、mistakes can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① mistakesだけを強く読む ／ ② mistakes と show と practiceを残して他を弱く読む ／ ③ 文全体を「I believe mistakes can show me what to practice next.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I believe mistakes can show me what to practice next. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で mistakes、show、practice の強勢、mistakes can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "92": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to become more のあとに毎回ポーズを置かず、意味の区切り I want to become more｜comfortable with uncertainty だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to become more のあとに毎回ポーズを置かず、意味の区切り I want to become more｜comfortable with uncertainty だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「want・comfortable・uncertainty」だけで言う → ② want to を切らずに連結 → ③ 最後に「I want to become more comfortable with uncertainty.」を一息で読みます。 仕上げでは、I want to become more comfortable with uncertainty. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、comfortable、uncertainty の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「want・comfortable・uncertainty」だけで言う ／ ② want to を切らずに連結 ／ ③ 最後に「I want to become more comfortable with uncertainty.」を一息で読みます。 仕上げでは、I want to become more comfortable with uncertainty. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、comfortable、uncertainty の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "93": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → sometimes を単語ごとに切らず、一つの音の流れとして練習します。sometimes は短く弱く発音し、I の終わりからそのまま移ります。I sometimes worry about sounding のあとに毎回ポーズを置かず、意味の区切り I sometimes worry about sounding｜unnatural だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ sometimes を単語ごとに切らず、一つの音の流れとして練習します。sometimes は短く弱く発音し、I の終わりからそのまま移ります。I sometimes worry about sounding のあとに毎回ポーズを置かず、意味の区切り I sometimes worry about sounding｜unnatural だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① I の後で止まらず sometimes 弱く短く と続ける → ② sometimesを長くする → ③ 「I sometimes worry about sounding unnatural.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I sometimes worry about sounding unnatural. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、worry、unnatural の強勢、I sometimes の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① I の後で止まらず sometimes 弱く短く と続ける ／ ② sometimesを長くする ／ ③ 「I sometimes worry about sounding unnatural.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I sometimes worry about sounding unnatural. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、worry、unnatural の強勢、I sometimes の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "94": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では trying → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、trying の終わりからそのまま移ります。I’m trying to speak even のあとに毎回ポーズを置かず、意味の区切り I’m trying to speak even｜when my sentence is not perfect だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では trying ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、trying の終わりからそのまま移ります。I’m trying to speak even のあとに毎回ポーズを置かず、意味の区切り I’m trying to speak even｜when my sentence is not perfect だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I’m trying to speak even｜when my sentence is not perfect」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I’m trying to speak even when my sentence is not perfect.」を再生します。 仕上げでは、I’m trying to speak even when my sentence is not perfect. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で trying、sentence、perfect の強勢、trying to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I’m trying to speak even｜when my sentence is not perfect」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I’m trying to speak even when my sentence is not perfect.」を再生します。 仕上げでは、I’m trying to speak even when my sentence is not perfect. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で trying、sentence、perfect の強勢、trying to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "95": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to ask for のあとに毎回ポーズを置かず、意味の区切り I want to ask for｜clarification more naturally だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to ask for のあとに毎回ポーズを置かず、意味の区切り I want to ask for｜clarification more naturally だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① want、clarification、naturallyの口の形をゆっくり確認 → ② /w/ から to へ移る → ③ 速度を上げても子音連結を保って「I want to ask for clarification more naturally.」を3回録音します。 仕上げでは、I want to ask for clarification more naturally. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、clarification、naturally の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① want、clarification、naturallyの口の形をゆっくり確認 ／ ② /w/ から to へ移る ／ ③ 速度を上げても子音連結を保って「I want to ask for clarification more naturally.」を3回録音します。 仕上げでは、I want to ask for clarification more naturally. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、clarification、naturally の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

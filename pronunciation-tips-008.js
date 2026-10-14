@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では repeat → the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、repeat の終わりからそのまま移ります。I sometimes repeat the same のあとに毎回ポーズを置かず、意味の区切り I sometimes repeat the same｜mistake without noticing it だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では repeat ／ the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、repeat の終わりからそのまま移ります。I sometimes repeat the same のあとに毎回ポーズを置かず、意味の区切り I sometimes repeat the same｜mistake without noticing it だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 sometimes・mistake・noticing を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I sometimes repeat the same mistake without noticing it.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I sometimes repeat the same mistake without noticing it. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、mistake、noticing の強勢、repeat the の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 sometimes・mistake・noticing を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I sometimes repeat the same mistake without noticing it.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I sometimes repeat the same mistake without noticing it. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、mistake、noticing の強勢、repeat the の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "37": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では trying → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、trying の終わりからそのまま移ります。I’m trying to pay attention のあとに毎回ポーズを置かず、意味の区切り I’m trying to pay attention｜to word stress だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では trying ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、trying の終わりからそのまま移ります。I’m trying to pay attention のあとに毎回ポーズを置かず、意味の区切り I’m trying to pay attention｜to word stress だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① tryingだけを強く読む → ② trying と attention と stressを残して他を弱く読む → ③ 文全体を「I’m trying to pay attention to word stress.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m trying to pay attention to word stress. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で trying、attention、stress の強勢、trying to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① tryingだけを強く読む ／ ② trying と attention と stressを残して他を弱く読む ／ ③ 文全体を「I’m trying to pay attention to word stress.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m trying to pay attention to word stress. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で trying、attention、stress の強勢、trying to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "38": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to connect words のあとに毎回ポーズを置かず、意味の区切り I want to connect words｜more smoothly だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to connect words のあとに毎回ポーズを置かず、意味の区切り I want to connect words｜more smoothly だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「want・connect・smoothly」だけで言う → ② want to を切らずに連結 → ③ 最後に「I want to connect words more smoothly.」を一息で読みます。 仕上げでは、I want to connect words more smoothly. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、connect、smoothly の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「want・connect・smoothly」だけで言う ／ ② want to を切らずに連結 ／ ③ 最後に「I want to connect words more smoothly.」を一息で読みます。 仕上げでは、I want to connect words more smoothly. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、connect、smoothly の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "39": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では how → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、how の終わりからそのまま移ります。I’m practicing how to pause のあとに毎回ポーズを置かず、意味の区切り I’m practicing how to pause｜in natural places だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では how ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、how の終わりからそのまま移ります。I’m practicing how to pause のあとに毎回ポーズを置かず、意味の区切り I’m practicing how to pause｜in natural places だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① how の後で止まらず to /tə/ と続ける → ② practicingを長くする → ③ 「I’m practicing how to pause in natural places.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I’m practicing how to pause in natural places. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で practicing、pause、natural の強勢、how to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① how の後で止まらず to /tə/ と続ける ／ ② practicingを長くする ／ ③ 「I’m practicing how to pause in natural places.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I’m practicing how to pause in natural places. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で practicing、pause、natural の強勢、how to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "40": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では pronunciation → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、pronunciation の終わりからそのまま移ります。I want my pronunciation to のあとに毎回ポーズを置かず、意味の区切り I want my pronunciation to｜sound less influenced by Japanese だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では pronunciation ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、pronunciation の終わりからそのまま移ります。I want my pronunciation to のあとに毎回ポーズを置かず、意味の区切り I want my pronunciation to｜sound less influenced by Japanese だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I want my pronunciation to｜sound less influenced by Japanese」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I want my pronunciation to sound less influenced by Japanese.」を再生します。 仕上げでは、I want my pronunciation to sound less influenced by Japanese. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で pronunciation、influenced、Japanese の強勢、pronunciation to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I want my pronunciation to｜sound less influenced by Japanese」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I want my pronunciation to sound less influenced by Japanese.」を再生します。 仕上げでは、I want my pronunciation to sound less influenced by Japanese. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で pronunciation、influenced、Japanese の強勢、pronunciation to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

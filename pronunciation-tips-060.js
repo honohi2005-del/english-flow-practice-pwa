@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Social → problems を単語ごとに切らず、一つの音の流れとして練習します。problems は短く弱く発音し、Social の終わりからそのまま移ります。Social problems usually have more のあとに毎回ポーズを置かず、意味の区切り Social problems usually have more｜than one cause だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Social ／ problems を単語ごとに切らず、一つの音の流れとして練習します。problems は短く弱く発音し、Social の終わりからそのまま移ります。Social problems usually have more のあとに毎回ポーズを置かず、意味の区切り Social problems usually have more｜than one cause だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「Social・usually・than」だけで言う → ② Social problems を切らずに連結 → ③ 最後に「Social problems usually have more than one cause.」を一息で読みます。 仕上げでは、Social problems usually have more than one cause. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Social、usually、than の強勢、Social problems の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「Social・usually・than」だけで言う ／ ② Social problems を切らずに連結 ／ ③ 最後に「Social problems usually have more than one cause.」を一息で読みます。 仕上げでは、Social problems usually have more than one cause. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Social、usually、than の強勢、Social problems の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "297": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では experiences → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、experiences の終わりからそのまま移ります。Individual experiences can be different のあとに毎回ポーズを置かず、意味の区切り Individual experiences can be different｜from general trends だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では experiences ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、experiences の終わりからそのまま移ります。Individual experiences can be different のあとに毎回ポーズを置かず、意味の区切り Individual experiences can be different｜from general trends だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① experiences の後で止まらず can /kən/ と続ける → ② Individualを長くする → ③ 「Individual experiences can be different from general trends.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、Individual experiences can be different from general trends. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Individual、different、general の強勢、experiences can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① experiences の後で止まらず can /kən/ と続ける ／ ② Individualを長くする ／ ③ 「Individual experiences can be different from general trends.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、Individual experiences can be different from general trends. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Individual、different、general の強勢、experiences can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "298": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では need → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、need の終わりからそのまま移ります。We need to consider both short-term のあとに毎回ポーズを置かず、意味の区切り We need to consider both short-term｜and long-term effects だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では need ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、need の終わりからそのまま移ります。We need to consider both short-term のあとに毎回ポーズを置かず、意味の区切り We need to consider both short-term｜and long-term effects だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「We need to consider both short-term｜and long-term effects」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「We need to consider both short-term and long-term effects.」を再生します。 仕上げでは、We need to consider both short-term and long-term effects. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で consider、short、effects の強勢、need to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「We need to consider both short-term｜and long-term effects」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「We need to consider both short-term and long-term effects.」を再生します。 仕上げでは、We need to consider both short-term and long-term effects. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で consider、short、effects の強勢、need to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "299": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では A → balanced を単語ごとに切らず、一つの音の流れとして練習します。balanced は短く弱く発音し、A の終わりからそのまま移ります。A balanced discussion should include のあとに毎回ポーズを置かず、意味の区切り A balanced discussion should include｜concrete examples だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では A ／ balanced を単語ごとに切らず、一つの音の流れとして練習します。balanced は短く弱く発音し、A の終わりからそのまま移ります。A balanced discussion should include のあとに毎回ポーズを置かず、意味の区切り A balanced discussion should include｜concrete examples だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① balanced、discussion、concreteの口の形をゆっくり確認 → ② /a/ から balanced へ移る → ③ 速度を上げても子音連結を保って「A balanced discussion should include concrete examples.」を3回録音します。 仕上げでは、A balanced discussion should include concrete examples. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で balanced、discussion、concrete の強勢、A balanced の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① balanced、discussion、concreteの口の形をゆっくり確認 ／ ② /a/ から balanced へ移る ／ ③ 速度を上げても子音連結を保って「A balanced discussion should include concrete examples.」を3回録音します。 仕上げでは、A balanced discussion should include concrete examples. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で balanced、discussion、concrete の強勢、A balanced の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "300": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to express thoughtful ideas in clear のあとに毎回ポーズを置かず、意味の区切り I want to express thoughtful ideas in clear｜natural English だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to express thoughtful ideas in clear のあとに毎回ポーズを置かず、意味の区切り I want to express thoughtful ideas in clear｜natural English だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 want・thoughtful・natural を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I want to express thoughtful ideas in clear, natural English.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I want to express thoughtful ideas in clear, natural English. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、thoughtful、natural の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 want・thoughtful・natural を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I want to express thoughtful ideas in clear, natural English.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I want to express thoughtful ideas in clear, natural English. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、thoughtful、natural の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

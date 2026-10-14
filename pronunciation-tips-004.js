@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、I の終わりからそのまま移ります。I understand more than I のあとに毎回ポーズを置かず、意味の区切り I understand more than I｜can say quickly だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、I の終わりからそのまま移ります。I understand more than I のあとに毎回ポーズを置かず、意味の区切り I understand more than I｜can say quickly だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I understand more than I｜can say quickly」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I understand more than I can say quickly.」を再生します。 仕上げでは、I understand more than I can say quickly. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で understand、than、quickly の強勢、I can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I understand more than I｜can say quickly」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I understand more than I can say quickly.」を再生します。 仕上げでは、I understand more than I can say quickly. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で understand、than、quickly の強勢、I can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "17": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では how → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、how の終わりからそのまま移ります。I’m practicing how to explain のあとに毎回ポーズを置かず、意味の区切り I’m practicing how to explain｜my opinions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では how ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、how の終わりからそのまま移ります。I’m practicing how to explain のあとに毎回ポーズを置かず、意味の区切り I’m practicing how to explain｜my opinions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① practicing、explain、opinionsの口の形をゆっくり確認 → ② /h/ から to へ移る → ③ 速度を上げても子音連結を保って「I’m practicing how to explain my opinions.」を3回録音します。 仕上げでは、I’m practicing how to explain my opinions. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で practicing、explain、opinions の強勢、how to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① practicing、explain、opinionsの口の形をゆっくり確認 ／ ② /h/ から to へ移る ／ ③ 速度を上げても子音連結を保って「I’m practicing how to explain my opinions.」を3回録音します。 仕上げでは、I’m practicing how to explain my opinions. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で practicing、explain、opinions の強勢、how to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "18": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to speak in longer のあとに毎回ポーズを置かず、意味の区切り I want to speak in longer｜clearer answers だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to speak in longer のあとに毎回ポーズを置かず、意味の区切り I want to speak in longer｜clearer answers だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 want・speak・clearer を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I want to speak in longer, clearer answers.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I want to speak in longer, clearer answers. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、speak、clearer の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 want・speak・clearer を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I want to speak in longer, clearer answers.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I want to speak in longer, clearer answers. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、speak、clearer の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "19": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では trying → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、trying の終わりからそのまま移ります。I’m trying to use more のあとに毎回ポーズを置かず、意味の区切り I’m trying to use more｜natural expressions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では trying ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、trying の終わりからそのまま移ります。I’m trying to use more のあとに毎回ポーズを置かず、意味の区切り I’m trying to use more｜natural expressions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① tryingだけを強く読む → ② trying と use と expressionsを残して他を弱く読む → ③ 文全体を「I’m trying to use more natural expressions.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m trying to use more natural expressions. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で trying、use、expressions の強勢、trying to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① tryingだけを強く読む ／ ② trying と use と expressionsを残して他を弱く読む ／ ③ 文全体を「I’m trying to use more natural expressions.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m trying to use more natural expressions. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で trying、use、expressions の強勢、trying to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "20": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to communicate without のあとに毎回ポーズを置かず、意味の区切り I want to communicate without｜translating every sentence だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to communicate without のあとに毎回ポーズを置かず、意味の区切り I want to communicate without｜translating every sentence だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「communicate・translating・sentence」だけで言う → ② want to を切らずに連結 → ③ 最後に「I want to communicate without translating every sentence.」を一息で読みます。 仕上げでは、I want to communicate without translating every sentence. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で communicate、translating、sentence の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「communicate・translating・sentence」だけで言う ／ ② want to を切らずに連結 ／ ③ 最後に「I want to communicate without translating every sentence.」を一息で読みます。 仕上げでは、I want to communicate without translating every sentence. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で communicate、translating、sentence の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

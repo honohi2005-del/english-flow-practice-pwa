@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では them → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、them の終わりからそのまま移ります。I also want them to のあとに毎回ポーズを置かず、意味の区切り I also want them to｜know how to improve it だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では them ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、them の終わりからそのまま移ります。I also want them to のあとに毎回ポーズを置かず、意味の区切り I also want them to｜know how to improve it だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「want・know・improve」だけで言う → ② them to を切らずに連結 → ③ 最後に「I also want them to know how to improve it.」を一息で読みます。 仕上げでは、I also want them to know how to improve it. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、know、improve の強勢、them to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「want・know・improve」だけで言う ／ ② them to を切らずに連結 ／ ③ 最後に「I also want them to know how to improve it.」を一息で読みます。 仕上げでは、I also want them to know how to improve it. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、know、improve の強勢、them to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "267": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Correction → should を単語ごとに切らず、一つの音の流れとして練習します。should は短く弱く発音し、Correction の終わりからそのまま移ります。Correction should not interrupt communication のあとに毎回ポーズを置かず、意味の区切り Correction should not interrupt communication｜too much だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Correction ／ should を単語ごとに切らず、一つの音の流れとして練習します。should は短く弱く発音し、Correction の終わりからそのまま移ります。Correction should not interrupt communication のあとに毎回ポーズを置かず、意味の区切り Correction should not interrupt communication｜too much だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① Correction の後で止まらず should 弱く短く と続ける → ② Correctionを長くする → ③ 「Correction should not interrupt communication too much.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、Correction should not interrupt communication too much. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Correction、communication、much の強勢、Correction should の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① Correction の後で止まらず should 弱く短く と続ける ／ ② Correctionを長くする ／ ③ 「Correction should not interrupt communication too much.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、Correction should not interrupt communication too much. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Correction、communication、much の強勢、Correction should の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "268": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では time → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、time の終わりからそのまま移ります。Students need time to produce のあとに毎回ポーズを置かず、意味の区切り Students need time to produce｜their own sentences だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では time ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、time の終わりからそのまま移ります。Students need time to produce のあとに毎回ポーズを置かず、意味の区切り Students need time to produce｜their own sentences だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「Students need time to produce｜their own sentences」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「Students need time to produce their own sentences.」を再生します。 仕上げでは、Students need time to produce their own sentences. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Students、produce、sentences の強勢、time to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「Students need time to produce｜their own sentences」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「Students need time to produce their own sentences.」を再生します。 仕上げでは、Students need time to produce their own sentences. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Students、produce、sentences の強勢、time to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "269": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では try → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to balance accuracy のあとに毎回ポーズを置かず、意味の区切り I try to balance accuracy｜and confidence だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では try ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to balance accuracy のあとに毎回ポーズを置かず、意味の区切り I try to balance accuracy｜and confidence だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① try、accuracy、confidenceの口の形をゆっくり確認 → ② /t/ から to へ移る → ③ 速度を上げても子音連結を保って「I try to balance accuracy and confidence.」を3回録音します。 仕上げでは、I try to balance accuracy and confidence. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で try、accuracy、confidence の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① try、accuracy、confidenceの口の形をゆっくり確認 ／ ② /t/ から to へ移る ／ ③ 速度を上げても子音連結を保って「I try to balance accuracy and confidence.」を3回録音します。 仕上げでは、I try to balance accuracy and confidence. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で try、accuracy、confidence の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "270": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では chances → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、chances の終わりからそのまま移ります。A lesson should give students のあとに毎回ポーズを置かず、意味の区切り A lesson should give students｜chances to think だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では chances ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、chances の終わりからそのまま移ります。A lesson should give students のあとに毎回ポーズを置かず、意味の区切り A lesson should give students｜chances to think だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 lesson・students・think を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「A lesson should give students chances to think.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、A lesson should give students chances to think. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で lesson、students、think の強勢、chances to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 lesson・students・think を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「A lesson should give students chances to think.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、A lesson should give students chances to think. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で lesson、students、think の強勢、chances to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

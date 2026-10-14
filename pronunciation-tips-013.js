@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① interestedだけを強く読む → ② interested と people と languagesを残して他を弱く読む → ③ 文全体を「I’m interested in how people learn languages.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m interested in how people learn languages. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で interested、people、languages の強勢、I’m interested の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① interestedだけを強く読む ／ ② interested と people と languagesを残して他を弱く読む ／ ③ 文全体を「I’m interested in how people learn languages.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m interested in how people learn languages. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で interested、people、languages の強勢、I’m interested の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "62": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → enjoy を単語ごとに切らず、一つの音の流れとして練習します。enjoy は短く弱く発音し、I の終わりからそのまま移ります。I enjoy reading about education のあとに毎回ポーズを置かず、意味の区切り I enjoy reading about education だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ enjoy を単語ごとに切らず、一つの音の流れとして練習します。enjoy は短く弱く発音し、I の終わりからそのまま移ります。I enjoy reading about education のあとに毎回ポーズを置かず、意味の区切り I enjoy reading about education だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「I・reading・education」だけで言う → ② I enjoy を切らずに連結 → ③ 最後に「I enjoy reading about education.」を一息で読みます。 仕上げでは、I enjoy reading about education. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で I、reading、education の強勢、I enjoy の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「I・reading・education」だけで言う ／ ② I enjoy を切らずに連結 ／ ③ 最後に「I enjoy reading about education.」を一息で読みます。 仕上げでは、I enjoy reading about education. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で I、reading、education の強勢、I enjoy の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "63": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では discussing → the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、discussing の終わりからそのまま移ります。I like discussing the advantages のあとに毎回ポーズを置かず、意味の区切り I like discussing the advantages｜and disadvantages of technology だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では discussing ／ the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、discussing の終わりからそのまま移ります。I like discussing the advantages のあとに毎回ポーズを置かず、意味の区切り I like discussing the advantages｜and disadvantages of technology だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① discussing の後で止まらず the /ðə/ と続ける → ② advantagesを長くする → ③ 「I like discussing the advantages and disadvantages of technology.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I like discussing the advantages and disadvantages of technology. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で advantages、disadvantages、technology の強勢、discussing the の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① discussing の後で止まらず the /ðə/ と続ける ／ ② advantagesを長くする ／ ③ 「I like discussing the advantages and disadvantages of technology.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I like discussing the advantages and disadvantages of technology. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で advantages、disadvantages、technology の強勢、discussing the の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "64": [
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I’m curious about how artificial｜intelligence will change education」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I’m curious about how artificial intelligence will change education.」を再生します。 仕上げでは、I’m curious about how artificial intelligence will change education. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で curious、intelligence、education の強勢、I’m curious の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I’m curious about how artificial｜intelligence will change education」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I’m curious about how artificial intelligence will change education.」を再生します。 仕上げでは、I’m curious about how artificial intelligence will change education. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で curious、intelligence、education の強勢、I’m curious の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "65": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to understand both the benefits のあとに毎回ポーズを置かず、意味の区切り I want to understand both the benefits｜and the risks だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to understand both the benefits のあとに毎回ポーズを置かず、意味の区切り I want to understand both the benefits｜and the risks だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① understand、benefits、risksの口の形をゆっくり確認 → ② /w/ から to へ移る → ③ 速度を上げても子音連結を保って「I want to understand both the benefits and the risks.」を3回録音します。 仕上げでは、I want to understand both the benefits and the risks. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で understand、benefits、risks の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① understand、benefits、risksの口の形をゆっくり確認 ／ ② /w/ から to へ移る ／ ③ 速度を上げても子音連結を保って「I want to understand both the benefits and the risks.」を3回録音します。 仕上げでは、I want to understand both the benefits and the risks. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で understand、benefits、risks の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → enjoy を単語ごとに切らず、一つの音の流れとして練習します。enjoy は短く弱く発音し、I の終わりからそのまま移ります。I enjoy helping people communicate のあとに毎回ポーズを置かず、意味の区切り I enjoy helping people communicate｜in Japanese だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ enjoy を単語ごとに切らず、一つの音の流れとして練習します。enjoy は短く弱く発音し、I の終わりからそのまま移ります。I enjoy helping people communicate のあとに毎回ポーズを置かず、意味の区切り I enjoy helping people communicate｜in Japanese だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 helping・communicate・Japanese を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I enjoy helping people communicate in Japanese.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I enjoy helping people communicate in Japanese. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で helping、communicate、Japanese の強勢、I enjoy の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 helping・communicate・Japanese を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I enjoy helping people communicate in Japanese.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I enjoy helping people communicate in Japanese. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で helping、communicate、Japanese の強勢、I enjoy の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "7": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では shape → the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、shape の終わりからそのまま移ります。I’m interested in how languages のあとに毎回ポーズを置かず、意味の区切り I’m interested in how languages｜shape the way we think だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では shape ／ the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、shape の終わりからそのまま移ります。I’m interested in how languages のあとに毎回ポーズを置かず、意味の区切り I’m interested in how languages｜shape the way we think だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① interestedだけを強く読む → ② interested と languages と thinkを残して他を弱く読む → ③ 文全体を「I’m interested in how languages shape the way we think.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m interested in how languages shape the way we think. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で interested、languages、think の強勢、shape the の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① interestedだけを強く読む ／ ② interested と languages と thinkを残して他を弱く読む ／ ③ 文全体を「I’m interested in how languages shape the way we think.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m interested in how languages shape the way we think. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で interested、languages、think の強勢、shape the の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "8": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Japanese → and を単語ごとに切らず、一つの音の流れとして練習します。and は /ən/ または /n/ と短く弱くし、Japanese の終わりからそのまま移ります。I often compare Japanese のあとに毎回ポーズを置かず、意味の区切り I often compare Japanese｜and English だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Japanese ／ and を単語ごとに切らず、一つの音の流れとして練習します。and は /ən/ または /n/ と短く弱くし、Japanese の終わりからそのまま移ります。I often compare Japanese のあとに毎回ポーズを置かず、意味の区切り I often compare Japanese｜and English だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「often・Japanese・English」だけで言う → ② Japanese and を切らずに連結 → ③ 最後に「I often compare Japanese and English.」を一息で読みます。 仕上げでは、I often compare Japanese and English. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で often、Japanese、English の強勢、Japanese and の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「often・Japanese・English」だけで言う ／ ② Japanese and を切らずに連結 ／ ③ 最後に「I often compare Japanese and English.」を一息で読みます。 仕上げでは、I often compare Japanese and English. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で often、Japanese、English の強勢、Japanese and の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "9": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では students → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、students の終わりからそのまま移ります。I want my students to のあとに毎回ポーズを置かず、意味の区切り I want my students to｜feel comfortable using Japanese だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では students ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、students の終わりからそのまま移ります。I want my students to のあとに毎回ポーズを置かず、意味の区切り I want my students to｜feel comfortable using Japanese だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① students の後で止まらず to /tə/ と続ける → ② studentsを長くする → ③ 「I want my students to feel comfortable using Japanese.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I want my students to feel comfortable using Japanese. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で students、comfortable、Japanese の強勢、students to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① students の後で止まらず to /tə/ と続ける ／ ② studentsを長くする ／ ③ 「I want my students to feel comfortable using Japanese.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I want my students to feel comfortable using Japanese. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で students、comfortable、Japanese の強勢、students to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "10": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では try → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to explain difficult のあとに毎回ポーズを置かず、意味の区切り I try to explain difficult｜ideas in simple Japanese だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では try ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to explain difficult のあとに毎回ポーズを置かず、意味の区切り I try to explain difficult｜ideas in simple Japanese だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I try to explain difficult｜ideas in simple Japanese」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I try to explain difficult ideas in simple Japanese.」を再生します。 仕上げでは、I try to explain difficult ideas in simple Japanese. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で try、explain、simple の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I try to explain difficult｜ideas in simple Japanese」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I try to explain difficult ideas in simple Japanese.」を再生します。 仕上げでは、I try to explain difficult ideas in simple Japanese. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で try、explain、simple の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

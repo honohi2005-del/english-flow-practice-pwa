@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I’m → interested を単語ごとに切らず、一つの音の流れとして練習します。interested は短く弱く発音し、I’m の終わりからそのまま移ります。I’m interested in how people のあとに毎回ポーズを置かず、意味の区切り I’m interested in how people｜explain their experiences だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I’m ／ interested を単語ごとに切らず、一つの音の流れとして練習します。interested は短く弱く発音し、I’m の終わりからそのまま移ります。I’m interested in how people のあとに毎回ポーズを置かず、意味の区切り I’m interested in how people｜explain their experiences だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① interested、explain、experiencesの口の形をゆっくり確認 → ② /i/ から interested へ移る → ③ 速度を上げても子音連結を保って「I’m interested in how people explain their experiences.」を3回録音します。 仕上げでは、I’m interested in how people explain their experiences. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で interested、explain、experiences の強勢、I’m interested の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① interested、explain、experiencesの口の形をゆっくり確認 ／ ② /i/ から interested へ移る ／ ③ 速度を上げても子音連結を保って「I’m interested in how people explain their experiences.」を3回録音します。 仕上げでは、I’m interested in how people explain their experiences. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で interested、explain、experiences の強勢、I’m interested の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "282": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では stories → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、stories の終わりからそのまま移ります。Personal stories can reveal cultural のあとに毎回ポーズを置かず、意味の区切り Personal stories can reveal cultural｜differences だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では stories ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、stories の終わりからそのまま移ります。Personal stories can reveal cultural のあとに毎回ポーズを置かず、意味の区切り Personal stories can reveal cultural｜differences だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 Personal・reveal・differences を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「Personal stories can reveal cultural differences.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Personal stories can reveal cultural differences. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Personal、reveal、differences の強勢、stories can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 Personal・reveal・differences を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「Personal stories can reveal cultural differences.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Personal stories can reveal cultural differences. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Personal、reveal、differences の強勢、stories can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "283": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では People → do を単語ごとに切らず、一つの音の流れとして練習します。do は /də/ と短く弱くし、People の終わりからそのまま移ります。People do not always organize のあとに毎回ポーズを置かず、意味の区切り People do not always organize｜stories in the same way だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では People ／ do を単語ごとに切らず、一つの音の流れとして練習します。do は /də/ と短く弱くし、People の終わりからそのまま移ります。People do not always organize のあとに毎回ポーズを置かず、意味の区切り People do not always organize｜stories in the same way だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① Peopleだけを強く読む → ② People と organize と wayを残して他を弱く読む → ③ 文全体を「People do not always organize stories in the same way.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、People do not always organize stories in the same way. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で People、organize、way の強勢、People do の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① Peopleだけを強く読む ／ ② People と organize と wayを残して他を弱く読む ／ ③ 文全体を「People do not always organize stories in the same way.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、People do not always organize stories in the same way. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で People、organize、way の強勢、People do の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "284": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では A → listener を単語ごとに切らず、一つの音の流れとして練習します。listener は短く弱く発音し、A の終わりからそのまま移ります。A listener may need more のあとに毎回ポーズを置かず、意味の区切り A listener may need more｜background information だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では A ／ listener を単語ごとに切らず、一つの音の流れとして練習します。listener は短く弱く発音し、A の終わりからそのまま移ります。A listener may need more のあとに毎回ポーズを置かず、意味の区切り A listener may need more｜background information だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「listener・need・information」だけで言う → ② A listener を切らずに連結 → ③ 最後に「A listener may need more background information.」を一息で読みます。 仕上げでは、A listener may need more background information. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で listener、need、information の強勢、A listener の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「listener・need・information」だけで言う ／ ② A listener を切らずに連結 ／ ③ 最後に「A listener may need more background information.」を一息で読みます。 仕上げでは、A listener may need more background information. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で listener、need、information の強勢、A listener の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "285": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では idea → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、idea の終わりからそのまま移ります。An idea can be true のあとに毎回ポーズを置かず、意味の区切り An idea can be true｜but still feel incomplete だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では idea ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、idea の終わりからそのまま移ります。An idea can be true のあとに毎回ポーズを置かず、意味の区切り An idea can be true｜but still feel incomplete だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① idea の後で止まらず can /kən/ と続ける → ② trueを長くする → ③ 「An idea can be true but still feel incomplete.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、An idea can be true but still feel incomplete. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で true、still、incomplete の強勢、idea can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① idea の後で止まらず can /kən/ と続ける ／ ② trueを長くする ／ ③ 「An idea can be true but still feel incomplete.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、An idea can be true but still feel incomplete. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で true、still、incomplete の強勢、idea can の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Finding → the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、Finding の終わりからそのまま移ります。Finding the simplest English expression のあとに毎回ポーズを置かず、意味の区切り Finding the simplest English expression｜can be difficult だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Finding ／ the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、Finding の終わりからそのまま移ります。Finding the simplest English expression のあとに毎回ポーズを置かず、意味の区切り Finding the simplest English expression｜can be difficult だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「simplest・expression・difficult」だけで言う → ② Finding the を切らずに連結 → ③ 最後に「Finding the simplest English expression can be difficult.」を一息で読みます。 仕上げでは、Finding the simplest English expression can be difficult. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で simplest、expression、difficult の強勢、Finding the の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「simplest・expression・difficult」だけで言う ／ ② Finding the を切らずに連結 ／ ③ 最後に「Finding the simplest English expression can be difficult.」を一息で読みます。 仕上げでは、Finding the simplest English expression can be difficult. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で simplest、expression、difficult の強勢、Finding the の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "207": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to express the のあとに毎回ポーズを置かず、意味の区切り I want to express the｜same idea in several ways だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to express the のあとに毎回ポーズを置かず、意味の区切り I want to express the｜same idea in several ways だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① want の後で止まらず to /tə/ と続ける → ② wantを長くする → ③ 「I want to express the same idea in several ways.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I want to express the same idea in several ways. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、express、several の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① want の後で止まらず to /tə/ と続ける ／ ② wantを長くする ／ ③ 「I want to express the same idea in several ways.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I want to express the same idea in several ways. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、express、several の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "208": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では when → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、when の終わりからそのまま移ります。I’m learning のあとに毎回ポーズを置かず、意味の区切り I’m learning｜when to be direct｜and だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では when ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、when の終わりからそのまま移ります。I’m learning のあとに毎回ポーズを置かず、意味の区切り I’m learning｜when to be direct｜and だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I’m learning｜when to be direct｜and」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I’m learning when to be direct and when to be indirect.」を再生します。 仕上げでは、I’m learning when to be direct and when to be indirect. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で learning、direct、indirect の強勢、when to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I’m learning｜when to be direct｜and」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I’m learning when to be direct and when to be indirect.」を再生します。 仕上げでは、I’m learning when to be direct and when to be indirect. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で learning、direct、indirect の強勢、when to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "209": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では explanations → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、explanations の終わりからそのまま移ります。I want my explanations to のあとに毎回ポーズを置かず、意味の区切り I want my explanations to｜sound less repetitive だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では explanations ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、explanations の終わりからそのまま移ります。I want my explanations to のあとに毎回ポーズを置かず、意味の区切り I want my explanations to｜sound less repetitive だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① want、explanations、repetitiveの口の形をゆっくり確認 → ② /e/ から to へ移る → ③ 速度を上げても子音連結を保って「I want my explanations to sound less repetitive.」を3回録音します。 仕上げでは、I want my explanations to sound less repetitive. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、explanations、repetitive の強勢、explanations to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① want、explanations、repetitiveの口の形をゆっくり確認 ／ ② /e/ から to へ移る ／ ③ 速度を上げても子音連結を保って「I want my explanations to sound less repetitive.」を3回録音します。 仕上げでは、I want my explanations to sound less repetitive. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、explanations、repetitive の強勢、explanations to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "210": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では trying → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、trying の終わりからそのまま移ります。I’m trying to avoid long のあとに毎回ポーズを置かず、意味の区切り I’m trying to avoid long｜sentences with too many ideas だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では trying ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、trying の終わりからそのまま移ります。I’m trying to avoid long のあとに毎回ポーズを置かず、意味の区切り I’m trying to avoid long｜sentences with too many ideas だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 trying・avoid・sentences を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I’m trying to avoid long sentences with too many ideas.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I’m trying to avoid long sentences with too many ideas. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で trying、avoid、sentences の強勢、trying to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 trying・avoid・sentences を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I’m trying to avoid long sentences with too many ideas.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I’m trying to avoid long sentences with too many ideas. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で trying、avoid、sentences の強勢、trying to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

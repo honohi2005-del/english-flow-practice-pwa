@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Statistics → do を単語ごとに切らず、一つの音の流れとして練習します。do は /də/ と短く弱くし、Statistics の終わりからそのまま移ります。Statistics do not always show のあとに毎回ポーズを置かず、意味の区切り Statistics do not always show｜individual realities だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Statistics ／ do を単語ごとに切らず、一つの音の流れとして練習します。do は /də/ と短く弱くし、Statistics の終わりからそのまま移ります。Statistics do not always show のあとに毎回ポーズを置かず、意味の区切り Statistics do not always show｜individual realities だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「Statistics・always・individual」だけで言う → ② Statistics do を切らずに連結 → ③ 最後に「Statistics do not always show individual realities.」を一息で読みます。 仕上げでは、Statistics do not always show individual realities. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Statistics、always、individual の強勢、Statistics do の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「Statistics・always・individual」だけで言う ／ ② Statistics do を切らずに連結 ／ ③ 最後に「Statistics do not always show individual realities.」を一息で読みます。 仕上げでは、Statistics do not always show individual realities. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Statistics、always、individual の強勢、Statistics do の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "117": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では trend → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、trend の終わりからそのまま移ります。A general trend can hide のあとに毎回ポーズを置かず、意味の区切り A general trend can hide｜important differences だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では trend ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、trend の終わりからそのまま移ります。A general trend can hide のあとに毎回ポーズを置かず、意味の区切り A general trend can hide｜important differences だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① trend の後で止まらず can /kən/ と続ける → ② generalを長くする → ③ 「A general trend can hide important differences.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、A general trend can hide important differences. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で general、trend、important の強勢、trend can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① trend の後で止まらず can /kən/ と続ける ／ ② generalを長くする ／ ③ 「A general trend can hide important differences.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、A general trend can hide important differences. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で general、trend、important の強勢、trend can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "118": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では stories → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、stories の終わりからそのまま移ります。Personal stories can add meaning のあとに毎回ポーズを置かず、意味の区切り Personal stories can add meaning｜to numerical data だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では stories ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、stories の終わりからそのまま移ります。Personal stories can add meaning のあとに毎回ポーズを置かず、意味の区切り Personal stories can add meaning｜to numerical data だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「Personal stories can add meaning｜to numerical data」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「Personal stories can add meaning to numerical data.」を再生します。 仕上げでは、Personal stories can add meaning to numerical data. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Personal、meaning、numerical の強勢、stories can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「Personal stories can add meaning｜to numerical data」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「Personal stories can add meaning to numerical data.」を再生します。 仕上げでは、Personal stories can add meaning to numerical data. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Personal、meaning、numerical の強勢、stories can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "119": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では should → be を単語ごとに切らず、一つの音の流れとして練習します。be は /bi/（短く） と短く弱くし、should の終わりからそのまま移ります。We should be careful のあとに毎回ポーズを置かず、意味の区切り We should be careful｜when making broad conclusions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では should ／ be を単語ごとに切らず、一つの音の流れとして練習します。be は /bi/（短く） と短く弱くし、should の終わりからそのまま移ります。We should be careful のあとに毎回ポーズを置かず、意味の区切り We should be careful｜when making broad conclusions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① careful、making、conclusionsの口の形をゆっくり確認 → ② /s/ から be へ移る → ③ 速度を上げても子音連結を保って「We should be careful when making broad conclusions.」を3回録音します。 仕上げでは、We should be careful when making broad conclusions. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で careful、making、conclusions の強勢、should be の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① careful、making、conclusionsの口の形をゆっくり確認 ／ ② /s/ から be へ移る ／ ③ 速度を上げても子音連結を保って「We should be careful when making broad conclusions.」を3回録音します。 仕上げでは、We should be careful when making broad conclusions. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で careful、making、conclusions の強勢、should be の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "120": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Good → decisions を単語ごとに切らず、一つの音の流れとして練習します。decisions は短く弱く発音し、Good の終わりからそのまま移ります。Good decisions require reliable information のあとに毎回ポーズを置かず、意味の区切り Good decisions require reliable information だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Good ／ decisions を単語ごとに切らず、一つの音の流れとして練習します。decisions は短く弱く発音し、Good の終わりからそのまま移ります。Good decisions require reliable information のあとに毎回ポーズを置かず、意味の区切り Good decisions require reliable information だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 Good・require・information を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「Good decisions require reliable information.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Good decisions require reliable information. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Good、require、information の強勢、Good decisions の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 Good・require・information を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「Good decisions require reliable information.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Good decisions require reliable information. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Good、require、information の強勢、Good decisions の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

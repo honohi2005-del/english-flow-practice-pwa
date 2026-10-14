@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では need → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、need の終わりからそのまま移ります。Learners need to hear the のあとに毎回ポーズを置かず、意味の区切り Learners need to hear the｜expression several times だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では need ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、need の終わりからそのまま移ります。Learners need to hear the のあとに毎回ポーズを置かず、意味の区切り Learners need to hear the｜expression several times だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「Learners need to hear the｜expression several times」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「Learners need to hear the expression several times.」を再生します。 仕上げでは、Learners need to hear the expression several times. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Learners、expression、times の強勢、need to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「Learners need to hear the｜expression several times」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「Learners need to hear the expression several times.」を再生します。 仕上げでは、Learners need to hear the expression several times. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Learners、expression、times の強勢、need to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "257": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to notice how のあとに毎回ポーズを置かず、意味の区切り I want to notice how｜a speaker begins an answer だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to notice how のあとに毎回ポーズを置かず、意味の区切り I want to notice how｜a speaker begins an answer だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① notice、speaker、answerの口の形をゆっくり確認 → ② /w/ から to へ移る → ③ 速度を上げても子音連結を保って「I want to notice how a speaker begins an answer.」を3回録音します。 仕上げでは、I want to notice how a speaker begins an answer. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で notice、speaker、answer の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① notice、speaker、answerの口の形をゆっくり確認 ／ ② /w/ から to へ移る ／ ③ 速度を上げても子音連結を保って「I want to notice how a speaker begins an answer.」を3回録音します。 仕上げでは、I want to notice how a speaker begins an answer. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で notice、speaker、answer の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "258": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では attention → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、attention の終わりからそのまま移ります。I’m paying attention to how のあとに毎回ポーズを置かず、意味の区切り I’m paying attention to how｜people change topics だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では attention ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、attention の終わりからそのまま移ります。I’m paying attention to how のあとに毎回ポーズを置かず、意味の区切り I’m paying attention to how｜people change topics だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 attention・people・topics を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I’m paying attention to how people change topics.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I’m paying attention to how people change topics. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で attention、people、topics の強勢、attention to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 attention・people・topics を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I’m paying attention to how people change topics.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I’m paying attention to how people change topics. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で attention、people、topics の強勢、attention to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "259": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では response → does を単語ごとに切らず、一つの音の流れとして練習します。does は /dəz/ と短く弱くし、response の終わりからそのまま移ります。A natural response does not のあとに毎回ポーズを置かず、意味の区切り A natural response does not｜always need to be long だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では response ／ does を単語ごとに切らず、一つの音の流れとして練習します。does は /dəz/ と短く弱くし、response の終わりからそのまま移ります。A natural response does not のあとに毎回ポーズを置かず、意味の区切り A natural response does not｜always need to be long だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① naturalだけを強く読む → ② natural と always と longを残して他を弱く読む → ③ 文全体を「A natural response does not always need to be long.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、A natural response does not always need to be long. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で natural、always、long の強勢、response does の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① naturalだけを強く読む ／ ② natural と always と longを残して他を弱く読む ／ ③ 文全体を「A natural response does not always need to be long.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、A natural response does not always need to be long. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で natural、always、long の強勢、response does の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "260": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では on → the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、on の終わりからそのまま移ります。The best expression depends on のあとに毎回ポーズを置かず、意味の区切り The best expression depends on｜the situation だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では on ／ the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、on の終わりからそのまま移ります。The best expression depends on のあとに毎回ポーズを置かず、意味の区切り The best expression depends on｜the situation だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「best・expression・situation」だけで言う → ② on the を切らずに連結 → ③ 最後に「The best expression depends on the situation.」を一息で読みます。 仕上げでは、The best expression depends on the situation. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で best、expression、situation の強勢、on the の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「best・expression・situation」だけで言う ／ ② on the を切らずに連結 ／ ③ 最後に「The best expression depends on the situation.」を一息で読みます。 仕上げでは、The best expression depends on the situation. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で best、expression、situation の強勢、on the の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

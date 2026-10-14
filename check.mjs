@@ -109,7 +109,7 @@ for (const [index, sentence] of sentences.entries()) {
   );
   const linkingTip = tips.find((tip) => tip?.label === "音のつながり");
   const linkMatch = linkingTip?.text.match(
-    /文中では\s+([A-Za-z][A-Za-z’'-]*)\s*→\s*([A-Za-z][A-Za-z’'-]*)/
+    /文中では\s+([A-Za-z][A-Za-z’'-]*)\s*／\s*([A-Za-z][A-Za-z’'-]*)/
   );
   if (linkMatch) {
     const left = linkMatch[1].toLowerCase().replace(/[’']/g, "");
@@ -119,7 +119,7 @@ for (const [index, sentence] of sentences.entries()) {
     );
     if (!hasAdjacentPair) {
       throw new Error(
-        `Linking pair is not adjacent in sentence ${sentence.id}: ${linkMatch[1]} → ${linkMatch[2]}`
+        `Linking pair is not adjacent in sentence ${sentence.id}: ${linkMatch[1]} ／ ${linkMatch[2]}`
       );
     }
   }

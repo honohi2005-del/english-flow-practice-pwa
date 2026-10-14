@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では students → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、students の終わりからそのまま移ります。I want students to notice のあとに毎回ポーズを置かず、意味の区切り I want students to notice｜their own progress だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では students ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、students の終わりからそのまま移ります。I want students to notice のあとに毎回ポーズを置かず、意味の区切り I want students to notice｜their own progress だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 students・notice・progress を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I want students to notice their own progress.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I want students to notice their own progress. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で students、notice、progress の強勢、students to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 students・notice・progress を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I want students to notice their own progress.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I want students to notice their own progress. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で students、notice、progress の強勢、students to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "277": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では try → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to adapt my のあとに毎回ポーズを置かず、意味の区切り I try to adapt my｜explanation to each learner だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では try ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to adapt my のあとに毎回ポーズを置かず、意味の区切り I try to adapt my｜explanation to each learner だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① adaptだけを強く読む → ② adapt と explanation と learnerを残して他を弱く読む → ③ 文全体を「I try to adapt my explanation to each learner.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I try to adapt my explanation to each learner. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で adapt、explanation、learner の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① adaptだけを強く読む ／ ② adapt と explanation と learnerを残して他を弱く読む ／ ③ 文全体を「I try to adapt my explanation to each learner.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I try to adapt my explanation to each learner. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で adapt、explanation、learner の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "278": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Some → students を単語ごとに切らず、一つの音の流れとして練習します。students は短く弱く発音し、Some の終わりからそのまま移ります。Some students need more examples のあとに毎回ポーズを置かず、意味の区切り Some students need more examples だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Some ／ students を単語ごとに切らず、一つの音の流れとして練習します。students は短く弱く発音し、Some の終わりからそのまま移ります。Some students need more examples のあとに毎回ポーズを置かず、意味の区切り Some students need more examples だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「students・need・examples」だけで言う → ② Some students を切らずに連結 → ③ 最後に「Some students need more examples.」を一息で読みます。 仕上げでは、Some students need more examples. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で students、need、examples の強勢、Some students の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「students・need・examples」だけで言う ／ ② Some students を切らずに連結 ／ ③ 最後に「Some students need more examples.」を一息で読みます。 仕上げでは、Some students need more examples. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で students、need、examples の強勢、Some students の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "279": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では opportunities → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、opportunities の終わりからそのまま移ります。Other students need more opportunities のあとに毎回ポーズを置かず、意味の区切り Other students need more opportunities｜to speak だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では opportunities ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、opportunities の終わりからそのまま移ります。Other students need more opportunities のあとに毎回ポーズを置かず、意味の区切り Other students need more opportunities｜to speak だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① opportunities の後で止まらず to /tə/ と続ける → ② studentsを長くする → ③ 「Other students need more opportunities to speak.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、Other students need more opportunities to speak. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で students、opportunities、speak の強勢、opportunities to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① opportunities の後で止まらず to /tə/ と続ける ／ ② studentsを長くする ／ ③ 「Other students need more opportunities to speak.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、Other students need more opportunities to speak. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で students、opportunities、speak の強勢、opportunities to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "280": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Teaching → requires を単語ごとに切らず、一つの音の流れとして練習します。requires は短く弱く発音し、Teaching の終わりからそのまま移ります。Teaching requires careful observation のあとに毎回ポーズを置かず、意味の区切り Teaching requires careful observation だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Teaching ／ requires を単語ごとに切らず、一つの音の流れとして練習します。requires は短く弱く発音し、Teaching の終わりからそのまま移ります。Teaching requires careful observation のあとに毎回ポーズを置かず、意味の区切り Teaching requires careful observation だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「Teaching requires careful observation」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「Teaching requires careful observation.」を再生します。 仕上げでは、Teaching requires careful observation. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Teaching、requires、observation の強勢、Teaching requires の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「Teaching requires careful observation」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「Teaching requires careful observation.」を再生します。 仕上げでは、Teaching requires careful observation. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Teaching、requires、observation の強勢、Teaching requires の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

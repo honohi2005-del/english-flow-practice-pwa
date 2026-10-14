@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では try → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to create a のあとに毎回ポーズを置かず、意味の区切り I try to create a｜comfortable atmosphere for my students だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では try ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to create a のあとに毎回ポーズを置かず、意味の区切り I try to create a｜comfortable atmosphere for my students だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① try の後で止まらず to /tə/ と続ける → ② createを長くする → ③ 「I try to create a comfortable atmosphere for my students.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I try to create a comfortable atmosphere for my students. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で create、comfortable、students の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① try の後で止まらず to /tə/ と続ける ／ ② createを長くする ／ ③ 「I try to create a comfortable atmosphere for my students.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I try to create a comfortable atmosphere for my students. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で create、comfortable、students の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "262": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Students → speak を単語ごとに切らず、一つの音の流れとして練習します。speak は短く弱く発音し、Students の終わりからそのまま移ります。Students speak more freely のあとに毎回ポーズを置かず、意味の区切り Students speak more freely｜when they feel safe だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Students ／ speak を単語ごとに切らず、一つの音の流れとして練習します。speak は短く弱く発音し、Students の終わりからそのまま移ります。Students speak more freely のあとに毎回ポーズを置かず、意味の区切り Students speak more freely｜when they feel safe だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「Students speak more freely｜when they feel safe」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「Students speak more freely when they feel safe.」を再生します。 仕上げでは、Students speak more freely when they feel safe. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Students、freely、feel の強勢、Students speak の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「Students speak more freely｜when they feel safe」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「Students speak more freely when they feel safe.」を再生します。 仕上げでは、Students speak more freely when they feel safe. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Students、freely、feel の強勢、Students speak の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "263": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では Mistakes → can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、Mistakes の終わりからそのまま移ります。Mistakes can be useful learning のあとに毎回ポーズを置かず、意味の区切り Mistakes can be useful learning｜opportunities だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では Mistakes ／ can を単語ごとに切らず、一つの音の流れとして練習します。can は /kən/ と短く弱くし、Mistakes の終わりからそのまま移ります。Mistakes can be useful learning のあとに毎回ポーズを置かず、意味の区切り Mistakes can be useful learning｜opportunities だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① Mistakes、learning、opportunitiesの口の形をゆっくり確認 → ② /m/ から can へ移る → ③ 速度を上げても子音連結を保って「Mistakes can be useful learning opportunities.」を3回録音します。 仕上げでは、Mistakes can be useful learning opportunities. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Mistakes、learning、opportunities の強勢、Mistakes can の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① Mistakes、learning、opportunitiesの口の形をゆっくり確認 ／ ② /m/ から can へ移る ／ ③ 速度を上げても子音連結を保って「Mistakes can be useful learning opportunities.」を3回録音します。 仕上げでは、Mistakes can be useful learning opportunities. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Mistakes、learning、opportunities の強勢、Mistakes can の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "264": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では should → be を単語ごとに切らず、一つの音の流れとして練習します。be は /bi/（短く） と短く弱くし、should の終わりからそのまま移ります。Feedback should be specific のあとに毎回ポーズを置かず、意味の区切り Feedback should be specific｜and encouraging だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では should ／ be を単語ごとに切らず、一つの音の流れとして練習します。be は /bi/（短く） と短く弱くし、should の終わりからそのまま移ります。Feedback should be specific のあとに毎回ポーズを置かず、意味の区切り Feedback should be specific｜and encouraging だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 Feedback・specific・encouraging を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「Feedback should be specific and encouraging.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Feedback should be specific and encouraging. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Feedback、specific、encouraging の強勢、should be の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 Feedback・specific・encouraging を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「Feedback should be specific and encouraging.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Feedback should be specific and encouraging. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Feedback、specific、encouraging の強勢、should be の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "265": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では students → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、students の終わりからそのまま移ります。I want students to understand のあとに毎回ポーズを置かず、意味の区切り I want students to understand｜why something is wrong だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では students ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、students の終わりからそのまま移ります。I want students to understand のあとに毎回ポーズを置かず、意味の区切り I want students to understand｜why something is wrong だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① studentsだけを強く読む → ② students と understand と somethingを残して他を弱く読む → ③ 文全体を「I want students to understand why something is wrong.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I want students to understand why something is wrong. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で students、understand、something の強勢、students to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① studentsだけを強く読む ／ ② students と understand と somethingを残して他を弱く読む ／ ③ 文全体を「I want students to understand why something is wrong.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I want students to understand why something is wrong. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で students、understand、something の強勢、students to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

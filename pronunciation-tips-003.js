@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では English → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、English の終わりからそのまま移ります。I’m learning English to communicate のあとに毎回ポーズを置かず、意味の区切り I’m learning English to communicate｜more clearly だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では English ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、English の終わりからそのまま移ります。I’m learning English to communicate のあとに毎回ポーズを置かず、意味の区切り I’m learning English to communicate｜more clearly だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① learning、communicate、clearlyの口の形をゆっくり確認 → ② /e/ から to へ移る → ③ 速度を上げても子音連結を保って「I’m learning English to communicate more clearly.」を3回録音します。 仕上げでは、I’m learning English to communicate more clearly. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で learning、communicate、clearly の強勢、English to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① learning、communicate、clearlyの口の形をゆっくり確認 ／ ② /e/ から to へ移る ／ ③ 速度を上げても子音連結を保って「I’m learning English to communicate more clearly.」を3回録音します。 仕上げでは、I’m learning English to communicate more clearly. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で learning、communicate、clearly の強勢、English to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "12": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では English → for を単語ごとに切らず、一つの音の流れとして練習します。for は /fər/ と短く弱くし、English の終わりからそのまま移ります。I use English for conversation のあとに毎回ポーズを置かず、意味の区切り I use English for conversation｜practice だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では English ／ for を単語ごとに切らず、一つの音の流れとして練習します。for は /fər/ と短く弱くし、English の終わりからそのまま移ります。I use English for conversation のあとに毎回ポーズを置かず、意味の区切り I use English for conversation｜practice だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 I・English・conversation を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I use English for conversation practice.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I use English for conversation practice. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で I、English、conversation の強勢、English for の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 I・English・conversation を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I use English for conversation practice.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I use English for conversation practice. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で I、English、conversation の強勢、English for の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "13": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → take を単語ごとに切らず、一つの音の流れとして練習します。take は短く弱く発音し、I の終わりからそのまま移ります。I take online English lessons のあとに毎回ポーズを置かず、意味の区切り I take online English lessons｜regularly だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ take を単語ごとに切らず、一つの音の流れとして練習します。take は短く弱く発音し、I の終わりからそのまま移ります。I take online English lessons のあとに毎回ポーズを置かず、意味の区切り I take online English lessons｜regularly だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① Iだけを強く読む → ② I と online と regularlyを残して他を弱く読む → ③ 文全体を「I take online English lessons regularly.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I take online English lessons regularly. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で I、online、regularly の強勢、I take の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① Iだけを強く読む ／ ② I と online と regularlyを残して他を弱く読む ／ ③ 文全体を「I take online English lessons regularly.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I take online English lessons regularly. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で I、online、regularly の強勢、I take の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "14": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to become more confident のあとに毎回ポーズを置かず、意味の区切り I want to become more confident｜when I speak English だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to become more confident のあとに毎回ポーズを置かず、意味の区切り I want to become more confident｜when I speak English だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「want・confident・English」だけで言う → ② want to を切らずに連結 → ③ 最後に「I want to become more confident when I speak English.」を一息で読みます。 仕上げでは、I want to become more confident when I speak English. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、confident、English の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「want・confident・English」だけで言う ／ ② want to を切らずに連結 ／ ③ 最後に「I want to become more confident when I speak English.」を一息で読みます。 仕上げでは、I want to become more confident when I speak English. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、confident、English の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "15": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では time → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、time の終わりからそのまま移ります。I sometimes need more time のあとに毎回ポーズを置かず、意味の区切り I sometimes need more time｜to organize my thoughts だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では time ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、time の終わりからそのまま移ります。I sometimes need more time のあとに毎回ポーズを置かず、意味の区切り I sometimes need more time｜to organize my thoughts だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① time の後で止まらず to /tə/ と続ける → ② sometimesを長くする → ③ 「I sometimes need more time to organize my thoughts.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I sometimes need more time to organize my thoughts. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、organize、thoughts の強勢、time to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① time の後で止まらず to /tə/ と続ける ／ ② sometimesを長くする ／ ③ 「I sometimes need more time to organize my thoughts.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I sometimes need more time to organize my thoughts. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、organize、thoughts の強勢、time to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では try → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to notice useful のあとに毎回ポーズを置かず、意味の区切り I try to notice useful｜phrases during a lesson だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では try ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、try の終わりからそのまま移ります。I try to notice useful のあとに毎回ポーズを置かず、意味の区切り I try to notice useful｜phrases during a lesson だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「notice・during・lesson」だけで言う → ② try to を切らずに連結 → ③ 最後に「I try to notice useful phrases during a lesson.」を一息で読みます。 仕上げでは、I try to notice useful phrases during a lesson. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で notice、during、lesson の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「notice・during・lesson」だけで言う ／ ② try to を切らずに連結 ／ ③ 最後に「I try to notice useful phrases during a lesson.」を一息で読みます。 仕上げでは、I try to notice useful phrases during a lesson. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で notice、during、lesson の強勢、try to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "27": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では expressions → that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、expressions の終わりからそのまま移ります。I often write down expressions のあとに毎回ポーズを置かず、意味の区切り I often write down expressions｜that I want to remember だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では expressions ／ that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、expressions の終わりからそのまま移ります。I often write down expressions のあとに毎回ポーズを置かず、意味の区切り I often write down expressions｜that I want to remember だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① expressions の後で止まらず that /ðət/ と続ける → ② oftenを長くする → ③ 「I often write down expressions that I want to remember.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I often write down expressions that I want to remember. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で often、expressions、remember の強勢、expressions that の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① expressions の後で止まらず that /ðət/ と続ける ／ ② oftenを長くする ／ ③ 「I often write down expressions that I want to remember.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I often write down expressions that I want to remember. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で often、expressions、remember の強勢、expressions that の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "28": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to improve my のあとに毎回ポーズを置かず、意味の区切り I want to improve my｜listening as well as my｜speaking だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to improve my のあとに毎回ポーズを置かず、意味の区切り I want to improve my｜listening as well as my｜speaking だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I want to improve my｜listening as well as my｜speaking」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I want to improve my listening as well as my speaking.」を再生します。 仕上げでは、I want to improve my listening as well as my speaking. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で improve、listening、speaking の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I want to improve my｜listening as well as my｜speaking」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I want to improve my listening as well as my speaking.」を再生します。 仕上げでは、I want to improve my listening as well as my speaking. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で improve、listening、speaking の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "29": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では recognize → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、recognize の終わりからそのまま移ります。I sometimes recognize a word のあとに毎回ポーズを置かず、意味の区切り I sometimes recognize a word｜but miss its meaning in context だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では recognize ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、recognize の終わりからそのまま移ります。I sometimes recognize a word のあとに毎回ポーズを置かず、意味の区切り I sometimes recognize a word｜but miss its meaning in context だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① sometimes、meaning、contextの口の形をゆっくり確認 → ② /r/ から a へ移る → ③ 速度を上げても子音連結を保って「I sometimes recognize a word but miss its meaning in context.」を3回録音します。 仕上げでは、I sometimes recognize a word but miss its meaning in context. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、meaning、context の強勢、recognize a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① sometimes、meaning、contextの口の形をゆっくり確認 ／ ② /r/ から a へ移る ／ ③ 速度を上げても子音連結を保って「I sometimes recognize a word but miss its meaning in context.」を3回録音します。 仕上げでは、I sometimes recognize a word but miss its meaning in context. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、meaning、context の強勢、recognize a の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "30": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では need → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、need の終わりからそのまま移ります。I need to hear a のあとに毎回ポーズを置かず、意味の区切り I need to hear a｜new expression several times だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では need ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、need の終わりからそのまま移ります。I need to hear a のあとに毎回ポーズを置かず、意味の区切り I need to hear a｜new expression several times だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 hear・expression・times を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I need to hear a new expression several times.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I need to hear a new expression several times. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で hear、expression、times の強勢、need to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 hear・expression・times を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I need to hear a new expression several times.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I need to hear a new expression several times. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で hear、expression、times の強勢、need to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

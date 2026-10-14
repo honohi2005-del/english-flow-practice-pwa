@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では at → the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、at の終わりからそのまま移ります。I sometimes change my plans のあとに毎回ポーズを置かず、意味の区切り I sometimes change my plans｜at the last minute だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では at ／ the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、at の終わりからそのまま移ります。I sometimes change my plans のあとに毎回ポーズを置かず、意味の区切り I sometimes change my plans｜at the last minute だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「sometimes・plans・minute」だけで言う → ② at the を切らずに連結 → ③ 最後に「I sometimes change my plans at the last minute.」を一息で読みます。 仕上げでは、I sometimes change my plans at the last minute. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、plans、minute の強勢、at the の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「sometimes・plans・minute」だけで言う ／ ② at the を切らずに連結 ／ ③ 最後に「I sometimes change my plans at the last minute.」を一息で読みます。 仕上げでは、I sometimes change my plans at the last minute. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で sometimes、plans、minute の強勢、at the の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "57": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → enjoy を単語ごとに切らず、一つの音の流れとして練習します。enjoy は短く弱く発音し、I の終わりからそのまま移ります。I enjoy museums のあとに毎回ポーズを置かず、意味の区切り I enjoy museums｜because they help me see history differently だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ enjoy を単語ごとに切らず、一つの音の流れとして練習します。enjoy は短く弱く発音し、I の終わりからそのまま移ります。I enjoy museums のあとに毎回ポーズを置かず、意味の区切り I enjoy museums｜because they help me see history differently だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① I の後で止まらず enjoy 弱く短く と続ける → ② museumsを長くする → ③ 「I enjoy museums because they help me see history differently.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I enjoy museums because they help me see history differently. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で museums、help、differently の強勢、I enjoy の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① I の後で止まらず enjoy 弱く短く と続ける ／ ② museumsを長くする ／ ③ 「I enjoy museums because they help me see history differently.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I enjoy museums because they help me see history differently. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で museums、help、differently の強勢、I enjoy の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "58": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では around → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、around の終わりからそのまま移ります。I like walking around a のあとに毎回ポーズを置かず、意味の区切り I like walking around a｜city without a fixed destination だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では around ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、around の終わりからそのまま移ります。I like walking around a のあとに毎回ポーズを置かず、意味の区切り I like walking around a｜city without a fixed destination だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I like walking around a｜city without a fixed destination」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I like walking around a city without a fixed destination.」を再生します。 仕上げでは、I like walking around a city without a fixed destination. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で walking、without、destination の強勢、around a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I like walking around a｜city without a fixed destination」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I like walking around a city without a fixed destination.」を再生します。 仕上げでは、I like walking around a city without a fixed destination. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で walking、without、destination の強勢、around a の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "59": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → take を単語ごとに切らず、一つの音の流れとして練習します。take は短く弱く発音し、I の終わりからそのまま移ります。I take photos のあとに毎回ポーズを置かず、意味の区切り I take photos｜when something catches my attention だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ take を単語ごとに切らず、一つの音の流れとして練習します。take は短く弱く発音し、I の終わりからそのまま移ります。I take photos のあとに毎回ポーズを置かず、意味の区切り I take photos｜when something catches my attention だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① photos、something、attentionの口の形をゆっくり確認 → ② /i/ から take へ移る → ③ 速度を上げても子音連結を保って「I take photos when something catches my attention.」を3回録音します。 仕上げでは、I take photos when something catches my attention. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で photos、something、attention の強勢、I take の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① photos、something、attentionの口の形をゆっくり確認 ／ ② /i/ から take へ移る ／ ③ 速度を上げても子音連結を保って「I take photos when something catches my attention.」を3回録音します。 仕上げでは、I take photos when something catches my attention. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で photos、something、attention の強勢、I take の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "60": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では opportunities → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、opportunities の終わりからそのまま移ります。Travel gives me opportunities to のあとに毎回ポーズを置かず、意味の区切り Travel gives me opportunities to｜use English だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では opportunities ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、opportunities の終わりからそのまま移ります。Travel gives me opportunities to のあとに毎回ポーズを置かず、意味の区切り Travel gives me opportunities to｜use English だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 Travel・opportunities・English を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「Travel gives me opportunities to use English.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Travel gives me opportunities to use English. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Travel、opportunities、English の強勢、opportunities to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 Travel・opportunities・English を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「Travel gives me opportunities to use English.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、Travel gives me opportunities to use English. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Travel、opportunities、English の強勢、opportunities to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to make my のあとに毎回ポーズを置かず、意味の区切り I want to make my｜main point clear at the｜beginning だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to make my のあとに毎回ポーズを置かず、意味の区切り I want to make my｜main point clear at the｜beginning だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① want の後で止まらず to /tə/ と続ける → ② wantを長くする → ③ 「I want to make my main point clear at the beginning.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I want to make my main point clear at the beginning. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、point、beginning の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① want の後で止まらず to /tə/ と続ける ／ ② wantを長くする ／ ③ 「I want to make my main point clear at the beginning.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I want to make my main point clear at the beginning. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、point、beginning の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "232": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では trying → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、trying の終わりからそのまま移ります。I’m trying to use transitions のあとに毎回ポーズを置かず、意味の区切り I’m trying to use transitions｜more naturally だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では trying ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、trying の終わりからそのまま移ります。I’m trying to use transitions のあとに毎回ポーズを置かず、意味の区切り I’m trying to use transitions｜more naturally だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I’m trying to use transitions｜more naturally」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I’m trying to use transitions more naturally.」を再生します。 仕上げでは、I’m trying to use transitions more naturally. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で trying、transitions、naturally の強勢、trying to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I’m trying to use transitions｜more naturally」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I’m trying to use transitions more naturally.」を再生します。 仕上げでは、I’m trying to use transitions more naturally. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で trying、transitions、naturally の強勢、trying to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "233": [
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① often、example、timeの口の形をゆっくり確認 → ② /u/ から for へ移る → ③ 速度を上げても子音連結を保って「I often use “for example” when I need more time.」を3回録音します。 仕上げでは、I often use “for example” when I need more time. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で often、example、time の強勢、use for の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① often、example、timeの口の形をゆっくり確認 ／ ② /u/ から for へ移る ／ ③ 速度を上げても子音連結を保って「I often use “for example” when I need more time.」を3回録音します。 仕上げでは、I often use “for example” when I need more time. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で often、example、time の強勢、use for の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "234": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to use connectors のあとに毎回ポーズを置かず、意味の区切り I want to use connectors｜without sounding mechanical だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to use connectors のあとに毎回ポーズを置かず、意味の区切り I want to use connectors｜without sounding mechanical だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 want・connectors・mechanical を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I want to use connectors without sounding mechanical.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I want to use connectors without sounding mechanical. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、connectors、mechanical の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 want・connectors・mechanical を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I want to use connectors without sounding mechanical.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I want to use connectors without sounding mechanical. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、connectors、mechanical の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "235": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では how → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、how の終わりからそのまま移ります。I’m practicing how to summarize のあとに毎回ポーズを置かず、意味の区切り I’m practicing how to summarize｜a long answer だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では how ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、how の終わりからそのまま移ります。I’m practicing how to summarize のあとに毎回ポーズを置かず、意味の区切り I’m practicing how to summarize｜a long answer だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① practicingだけを強く読む → ② practicing と summarize と answerを残して他を弱く読む → ③ 文全体を「I’m practicing how to summarize a long answer.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m practicing how to summarize a long answer. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で practicing、summarize、answer の強勢、how to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① practicingだけを強く読む ／ ② practicing と summarize と answerを残して他を弱く読む ／ ③ 文全体を「I’m practicing how to summarize a long answer.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m practicing how to summarize a long answer. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で practicing、summarize、answer の強勢、how to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

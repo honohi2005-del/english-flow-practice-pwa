@@ -348,7 +348,7 @@ const PREGENERATED_AUDIO_ROOT = "./audio/tts/google-en-US";
 
     add({
       label: "文のまとまり",
-      text: analysis.chunks.map((chunk) => "“" + chunk + "”").join(" → ") +
+      text: analysis.chunks.map((chunk) => "“" + chunk + "”").join(" ／ ") +
         " のように3語前後を一息で読みます。単語ごとに停止せず、チャンクの最後だけを軽く区切ってください。"
     });
     add({
@@ -379,13 +379,13 @@ const PREGENERATED_AUDIO_ROOT = "./audio/tts/google-en-US";
     if (index === 296) {
       return [
         '<span class="flow-chunk strong">Individual experiences</span>',
-        '<span class="flow-arrow" aria-hidden="true">→</span>',
+        '<span class="flow-arrow" aria-hidden="true">／</span>',
         '<span class="flow-chunk">can be</span>',
-        '<span class="flow-arrow" aria-hidden="true">→</span>',
+        '<span class="flow-arrow" aria-hidden="true">／</span>',
         '<span class="flow-chunk strong">different</span>',
-        '<span class="flow-arrow" aria-hidden="true">→</span>',
+        '<span class="flow-arrow" aria-hidden="true">／</span>',
         '<span class="flow-chunk">from</span>',
-        '<span class="flow-arrow" aria-hidden="true">→</span>',
+        '<span class="flow-arrow" aria-hidden="true">／</span>',
         '<span class="flow-chunk strong">general trends.</span>'
       ].join(" ");
     }
@@ -400,7 +400,7 @@ const PREGENERATED_AUDIO_ROOT = "./audio/tts/google-en-US";
     const second = words.slice(breakAt).join(" ");
     return [
       '<span class="flow-chunk strong">' + escapeHtml(first) + "</span>",
-      '<span class="flow-arrow" aria-hidden="true">→</span>',
+      '<span class="flow-arrow" aria-hidden="true">／</span>',
       '<span class="flow-chunk">' + escapeHtml(second) + "</span>"
     ].join(" ");
   }

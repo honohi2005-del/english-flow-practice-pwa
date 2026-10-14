@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では me → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、me の終わりからそのまま移ります。The experience taught me to のあとに毎回ポーズを置かず、意味の区切り The experience taught me to｜ask more questions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では me ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、me の終わりからそのまま移ります。The experience taught me to のあとに毎回ポーズを置かず、意味の区切り The experience taught me to｜ask more questions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 experience・ask・questions を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「The experience taught me to ask more questions.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、The experience taught me to ask more questions. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で experience、ask、questions の強勢、me to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 experience・ask・questions を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「The experience taught me to ask more questions.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、The experience taught me to ask more questions. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で experience、ask、questions の強勢、me to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "127": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では I → could を単語ごとに切らず、一つの音の流れとして練習します。could は短く弱く発音し、I の終わりからそのまま移ります。I could have explained my のあとに毎回ポーズを置かず、意味の区切り I could have explained my｜point more clearly だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では I ／ could を単語ごとに切らず、一つの音の流れとして練習します。could は短く弱く発音し、I の終わりからそのまま移ります。I could have explained my のあとに毎回ポーズを置かず、意味の区切り I could have explained my｜point more clearly だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① explainedだけを強く読む → ② explained と point と clearlyを残して他を弱く読む → ③ 文全体を「I could have explained my point more clearly.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I could have explained my point more clearly. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で explained、point、clearly の強勢、I could の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① explainedだけを強く読む ／ ② explained と point と clearlyを残して他を弱く読む ／ ③ 文全体を「I could have explained my point more clearly.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I could have explained my point more clearly. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で explained、point、clearly の強勢、I could の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "128": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では The → other を単語ごとに切らず、一つの音の流れとして練習します。other は短く弱く発音し、The の終わりからそのまま移ります。The other person helped me のあとに毎回ポーズを置かず、意味の区切り The other person helped me｜see another side だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では The ／ other を単語ごとに切らず、一つの音の流れとして練習します。other は短く弱く発音し、The の終わりからそのまま移ります。The other person helped me のあとに毎回ポーズを置かず、意味の区切り The other person helped me｜see another side だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「other・helped・another」だけで言う → ② The other を切らずに連結 → ③ 最後に「The other person helped me see another side.」を一息で読みます。 仕上げでは、The other person helped me see another side. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で other、helped、another の強勢、The other の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「other・helped・another」だけで言う ／ ② The other を切らずに連結 ／ ③ 最後に「The other person helped me see another side.」を一息で読みます。 仕上げでは、The other person helped me see another side. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で other、helped、another の強勢、The other の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "129": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では but → the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、but の終わりからそのまま移ります。We did not completely agree のあとに毎回ポーズを置かず、意味の区切り We did not completely agree｜but the conversation was useful だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では but ／ the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、but の終わりからそのまま移ります。We did not completely agree のあとに毎回ポーズを置かず、意味の区切り We did not completely agree｜but the conversation was useful だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① but の後で止まらず the /ðə/ と続ける → ② completelyを長くする → ③ 「We did not completely agree, but the conversation was useful.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、We did not completely agree, but the conversation was useful. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で completely、conversation、useful の強勢、but the の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① but の後で止まらず the /ðə/ と続ける ／ ② completelyを長くする ／ ③ 「We did not completely agree, but the conversation was useful.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、We did not completely agree, but the conversation was useful. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で completely、conversation、useful の強勢、but the の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "130": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では remember → the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、remember の終わりからそのまま移ります。I remember the main idea のあとに毎回ポーズを置かず、意味の区切り I remember the main idea｜more than the exact words だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では remember ／ the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、remember の終わりからそのまま移ります。I remember the main idea のあとに毎回ポーズを置かず、意味の区切り I remember the main idea｜more than the exact words だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I remember the main idea｜more than the exact words」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I remember the main idea more than the exact words.」を再生します。 仕上げでは、I remember the main idea more than the exact words. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で remember、than、exact の強勢、remember the の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I remember the main idea｜more than the exact words」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I remember the main idea more than the exact words.」を再生します。 仕上げでは、I remember the main idea more than the exact words. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で remember、than、exact の強勢、remember the の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

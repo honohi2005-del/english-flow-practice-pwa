@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では lessons → that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、lessons の終わりからそのまま移ります。I like lessons のあとに毎回ポーズを置かず、意味の区切り I like lessons｜that include real conversation だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では lessons ／ that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、lessons の終わりからそのまま移ります。I like lessons のあとに毎回ポーズを置かず、意味の区切り I like lessons｜that include real conversation だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① lessons の後で止まらず that /ðət/ と続ける → ② lessonsを長くする → ③ 「I like lessons that include real conversation.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I like lessons that include real conversation. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で lessons、include、conversation の強勢、lessons that の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① lessons の後で止まらず that /ðət/ と続ける ／ ② lessonsを長くする ／ ③ 「I like lessons that include real conversation.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I like lessons that include real conversation. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で lessons、include、conversation の強勢、lessons that の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "22": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では learn → a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、learn の終わりからそのまま移ります。I learn a lot from のあとに毎回ポーズを置かず、意味の区切り I learn a lot from｜follow up questions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では learn ／ a を単語ごとに切らず、一つの音の流れとして練習します。a は /ə/ と短く弱くし、learn の終わりからそのまま移ります。I learn a lot from のあとに毎回ポーズを置かず、意味の区切り I learn a lot from｜follow up questions だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「I learn a lot from｜follow up questions」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「I learn a lot from follow-up questions.」を再生します。 仕上げでは、I learn a lot from follow-up questions. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で learn、follow、questions の強勢、learn a の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「I learn a lot from｜follow up questions」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「I learn a lot from follow-up questions.」を再生します。 仕上げでは、I learn a lot from follow-up questions. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で learn、follow、questions の強勢、learn a の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "23": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では examples → that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、examples の終わりからそのまま移ります。I prefer examples のあとに毎回ポーズを置かず、意味の区切り I prefer examples｜that I can use immediately だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では examples ／ that を単語ごとに切らず、一つの音の流れとして練習します。that は /ðət/ と短く弱くし、examples の終わりからそのまま移ります。I prefer examples のあとに毎回ポーズを置かず、意味の区切り I prefer examples｜that I can use immediately だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① I、examples、immediatelyの口の形をゆっくり確認 → ② /e/ から that へ移る → ③ 速度を上げても子音連結を保って「I prefer examples that I can use immediately.」を3回録音します。 仕上げでは、I prefer examples that I can use immediately. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で I、examples、immediately の強勢、examples that の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① I、examples、immediatelyの口の形をゆっくり確認 ／ ② /e/ から that へ移る ／ ③ 速度を上げても子音連結を保って「I prefer examples that I can use immediately.」を3回録音します。 仕上げでは、I prefer examples that I can use immediately. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で I、examples、immediately の強勢、examples that の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "24": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to know how のあとに毎回ポーズを置かず、意味の区切り I want to know how｜native speakers usually say something だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to know how のあとに毎回ポーズを置かず、意味の区切り I want to know how｜native speakers usually say something だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 内容語 want・speakers・something を少し長く高く → ② 機能語は低く短く → ③ 意味が伝わるまとまりごとに「I want to know how native speakers usually say something.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I want to know how native speakers usually say something. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、speakers、something の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 内容語 want・speakers・something を少し長く高く ／ ② 機能語は低く短く ／ ③ 意味が伝わるまとまりごとに「I want to know how native speakers usually say something.」を言い、最後に一度だけ自然な速度で言います。 仕上げでは、I want to know how native speakers usually say something. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、speakers、something の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "25": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では in → the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、in の終わりからそのまま移ります。I’m interested in the difference between correct のあとに毎回ポーズを置かず、意味の区切り I’m interested in the difference between correct｜and natural English だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では in ／ the を単語ごとに切らず、一つの音の流れとして練習します。the は /ðə/ と短く弱くし、in の終わりからそのまま移ります。I’m interested in the difference between correct のあとに毎回ポーズを置かず、意味の区切り I’m interested in the difference between correct｜and natural English だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① interestedだけを強く読む → ② interested と difference と naturalを残して他を弱く読む → ③ 文全体を「I’m interested in the difference between correct and natural English.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m interested in the difference between correct and natural English. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で interested、difference、natural の強勢、in the の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① interestedだけを強く読む ／ ② interested と difference と naturalを残して他を弱く読む ／ ③ 文全体を「I’m interested in the difference between correct and natural English.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m interested in the difference between correct and natural English. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で interested、difference、natural の強勢、in the の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });

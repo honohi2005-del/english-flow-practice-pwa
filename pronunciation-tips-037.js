@@ -10,7 +10,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では organize → an を単語ごとに切らず、一つの音の流れとして練習します。an は /ən/ と短く弱くし、organize の終わりからそのまま移ります。I’m interested in how native のあとに毎回ポーズを置かず、意味の区切り I’m interested in how native｜speakers organize an answer だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では organize ／ an を単語ごとに切らず、一つの音の流れとして練習します。an は /ən/ と短く弱くし、organize の終わりからそのまま移ります。I’m interested in how native のあとに毎回ポーズを置かず、意味の区切り I’m interested in how native｜speakers organize an answer だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -18,7 +18,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① interestedだけを強く読む → ② interested と speakers と answerを残して他を弱く読む → ③ 文全体を「I’m interested in how native speakers organize an answer.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m interested in how native speakers organize an answer. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で interested、speakers、answer の強勢、organize an の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① interestedだけを強く読む ／ ② interested と speakers と answerを残して他を弱く読む ／ ③ 文全体を「I’m interested in how native speakers organize an answer.」で録音し、語尾の母音を足していないか確認します。 仕上げでは、I’m interested in how native speakers organize an answer. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で interested、speakers、answer の強勢、organize an の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "182": [
@@ -32,7 +32,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では order → of を単語ごとに切らず、一つの音の流れとして練習します。of は /əv/ または /ə/ と短く弱くし、order の終わりからそのまま移ります。The order of ideas can のあとに毎回ポーズを置かず、意味の区切り The order of ideas can｜change how a message is｜understood だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では order ／ of を単語ごとに切らず、一つの音の流れとして練習します。of は /əv/ または /ə/ と短く弱くし、order の終わりからそのまま移ります。The order of ideas can のあとに毎回ポーズを置かず、意味の区切り The order of ideas can｜change how a message is｜understood だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -40,7 +40,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 子音の骨格を「change・message・understood」だけで言う → ② order of を切らずに連結 → ③ 最後に「The order of ideas can change how a message is understood.」を一息で読みます。 仕上げでは、The order of ideas can change how a message is understood. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で change、message、understood の強勢、order of の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 子音の骨格を「change・message・understood」だけで言う ／ ② order of を切らずに連結 ／ ③ 最後に「The order of ideas can change how a message is understood.」を一息で読みます。 仕上げでは、The order of ideas can change how a message is understood. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で change、message、understood の強勢、order of の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "183": [
@@ -54,7 +54,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では want → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to make the のあとに毎回ポーズを置かず、意味の区切り I want to make the｜connection between my sentences clearer だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では want ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、want の終わりからそのまま移ります。I want to make the のあとに毎回ポーズを置かず、意味の区切り I want to make the｜connection between my sentences clearer だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -62,7 +62,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① want の後で止まらず to /tə/ と続ける → ② wantを長くする → ③ 「I want to make the connection between my sentences clearer.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I want to make the connection between my sentences clearer. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で want、connection、sentences の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① want の後で止まらず to /tə/ と続ける ／ ② wantを長くする ／ ③ 「I want to make the connection between my sentences clearer.」を通常速度で言い、母音の足しすぎを録音で探します。 仕上げでは、I want to make the connection between my sentences clearer. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で want、connection、sentences の強勢、want to の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "184": [
@@ -76,7 +76,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では answer → is を単語ごとに切らず、一つの音の流れとして練習します。is は /əz/ と短く弱くし、answer の終わりからそのまま移ります。Sometimes my answer is correct のあとに毎回ポーズを置かず、意味の区切り Sometimes my answer is correct｜but feels incomplete だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では answer ／ is を単語ごとに切らず、一つの音の流れとして練習します。is は /əz/ と短く弱くし、answer の終わりからそのまま移ります。Sometimes my answer is correct のあとに毎回ポーズを置かず、意味の区切り Sometimes my answer is correct｜but feels incomplete だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -84,7 +84,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① 「Sometimes my answer is correct｜but feels incomplete」の区切りで意味を先に思い浮かべる → ② 各区切りの最後だけ軽く落とす → ③ 単語間に均等なポーズを置かず「Sometimes my answer is correct but feels incomplete.」を再生します。 仕上げでは、Sometimes my answer is correct but feels incomplete. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で Sometimes、answer、incomplete の強勢、answer is の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① 「Sometimes my answer is correct｜but feels incomplete」の区切りで意味を先に思い浮かべる ／ ② 各区切りの最後だけ軽く落とす ／ ③ 単語間に均等なポーズを置かず「Sometimes my answer is correct but feels incomplete.」を再生します。 仕上げでは、Sometimes my answer is correct but feels incomplete. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で Sometimes、answer、incomplete の強勢、answer is の連結、語末に余分な母音がないことを確認してください。"
     }
   ],
   "185": [
@@ -98,7 +98,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "音のつながり",
-      "text": "文中では need → to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、need の終わりからそのまま移ります。I need to give more のあとに毎回ポーズを置かず、意味の区切り I need to give more｜background before my conclusion だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
+      "text": "文中では need ／ to を単語ごとに切らず、一つの音の流れとして練習します。to は /tə/ と短く弱くし、need の終わりからそのまま移ります。I need to give more のあとに毎回ポーズを置かず、意味の区切り I need to give more｜background before my conclusion だけで息を整えます。日本語のように全単語を母音で開くと流れが止まるので、子音を次の語へ持ち越してください。"
     },
     {
       "label": "英語のリズム",
@@ -106,7 +106,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
     },
     {
       "label": "段階練習",
-      "text": "① give、background、conclusionの口の形をゆっくり確認 → ② /n/ から to へ移る → ③ 速度を上げても子音連結を保って「I need to give more background before my conclusion.」を3回録音します。 仕上げでは、I need to give more background before my conclusion. を「ゆっくり正確に → まとまりを保って通常速度で → 意味を相手に届ける速度で」の3段階で読みます。各段階で give、background、conclusion の強勢、need to の連結、語末に余分な母音がないことを確認してください。"
+      "text": "① give、background、conclusionの口の形をゆっくり確認 ／ ② /n/ から to へ移る ／ ③ 速度を上げても子音連結を保って「I need to give more background before my conclusion.」を3回録音します。 仕上げでは、I need to give more background before my conclusion. を「ゆっくり正確に ／ まとまりを保って通常速度で ／ 意味を相手に届ける速度で」の3段階で読みます。各段階で give、background、conclusion の強勢、need to の連結、語末に余分な母音がないことを確認してください。"
     }
   ]
 });
