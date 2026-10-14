@@ -364,6 +364,27 @@ const PREGENERATED_AUDIO_ROOT = "./audio/tts/google-en-US";
     return tips.slice(0, 7);
   }
 
+  function mergeOpeningTips(tips) {
+    if (!Array.isArray(tips) || tips.length < 2) return tips;
+
+    const [first, second, ...rest] = tips;
+    if (!first || !second) return tips;
+
+    const mergedText = [
+      first.label ? "【" + first.label + "】" : "",
+      first.text || "",
+      second.label ? "【" + second.label + "】" : "",
+      second.text || ""
+    ]
+      .filter(Boolean)
+      .join("\n\n");
+
+    return [
+      { label: "発音ポイント", text: mergedText },
+      ...rest
+    ];
+  }
+
   function buildFlow(text, index) {
     if (index === 296) {
       return [
@@ -695,7 +716,7 @@ const PREGENERATED_AUDIO_ROOT = "./audio/tts/google-en-US";
     sentenceNumber.textContent = "No. " + String(sentence.id).padStart(3, "0");
 
       const authoredTips = window.PRONUNCIATION_TIPS && window.PRONUNCIATION_TIPS[sentence.id];
-      const tips = authoredTips || buildDetailedTips(sentence.text);
+      const tips = mergeOpeningTips(authoredTips || buildDetailedTips(sentence.text));
 
       tipsList.innerHTML = tips
       .map((tip) => {

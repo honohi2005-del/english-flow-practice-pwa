@@ -388,6 +388,7 @@ button:focus-visible {
   display: block;
   color: var(--muted);
   line-height: 1.75;
+  white-space: pre-line;
 }
 
 .flow-advice {
