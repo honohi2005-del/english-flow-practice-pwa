@@ -703,10 +703,7 @@
 
     const sentence = sentences[state.index];
     stopNarration();
-    if (narrationAudio) {
-      narrationAudio.src = getNarrationAudioUrl(sentence);
-      narrationAudio.load();
-    }
+    setNarrationSource(sentence);
     sentenceHeading.textContent = sentence.text;
     sentenceCount.textContent = state.index + 1 + " / " + sentences.length;
     sentenceNumber.textContent = "No. " + String(sentence.id).padStart(3, "0");
@@ -752,16 +749,35 @@
     return PREGENERATED_AUDIO_ROOT + "/" + String(sentence.id).padStart(3, "0") + ".mp3";
   }
 
+  function setNarrationSource(sentence) {
+    if (!narrationAudio || !sentence) {
+      return;
+    }
+
+    const url = getNarrationAudioUrl(sentence);
+    narrationAudio.preload = "auto";
+    if (narrationAudio.dataset.audioUrl === url) {
+      return;
+    }
+
+    narrationAudio.dataset.audioUrl = url;
+    narrationAudio.src = url;
+    narrationAudio.load();
+  }
+
   function stopNarration() {
     state.narrationToken += 1;
     const audio = state.narrationAudio || narrationAudio;
     if (audio) {
       audio.pause();
+      try {
+        audio.currentTime = 0;
+      } catch {
+        // The audio may not have loaded metadata yet.
+      }
       audio.onplay = null;
       audio.onended = null;
       audio.onerror = null;
-      audio.removeAttribute("src");
-      audio.load();
       state.narrationAudio = null;
     }
   }
@@ -774,8 +790,7 @@
 
     stopNarration();
     const token = state.narrationToken;
-    narrationAudio.src = getNarrationAudioUrl(sentence);
-    narrationAudio.preload = "auto";
+    setNarrationSource(sentence);
     state.narrationAudio = narrationAudio;
     narrationAudio.onplay = () => {
       if (token === state.narrationToken) {
@@ -794,7 +809,6 @@
         updateVoiceStatus("収録音声を読み込めませんでした。通信状態を確認して、もう一度お試しください。");
       }
     };
-    narrationAudio.load();
     const playPromise = narrationAudio.play();
     if (playPromise && typeof playPromise.catch === "function") {
       playPromise.catch(() => {
