@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "291": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる conversation / deeper / questions を、日本語のカタカナ読みから切り離して練習します。conversation：conversation /ˌkɑnvərˈseɪʃən/。con- は弱く、-ver- は /vər/ と短く、-sa- の /seɪ/ を強くします。/v/ を /b/ にせず、-tion を「ション」と一拍で終えます。 deeper：deeper。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 questions：questions。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 A conversation becomes deeper when people ask follow-up questions. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「conversation / deeper / questions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nconversation：-tion は「ション」と一拍で軽く収めます。\ndeeper：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nquestions：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "292": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる discussing / advantages / disadvantages を、日本語のカタカナ読みから切り離して練習します。discussing：discussing。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 advantages：advantages /ədˈvæntɪdʒɪz/。語頭の ad- は /əd/ に弱化し、/v/ は上の歯を下唇に軽く触れさせて声を出します。-tages は /tɪdʒɪz/ と連続させ、語尾に「ス」を別拍で足しません。 disadvantages：disadvantages /ˌdɪsədˈvæntɪdʒɪz/。disad- を「ディス・アド」と切らず、最初の2音節を弱く流して -van- を強くします。/dʒɪz/ を「ジ・ズ」と分けず、複数の /ɪz/ を短く添えます。 I like discussing the advantages and disadvantages of an issue. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「discussing / advantages / disadvantages」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ndiscussing：ng は舌の奥で止め、最後の /g/ を強く出しません。\nadvantages：f / v は下唇を上の歯に軽く触れ、母音を足しません。\ndisadvantages：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "293": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる solution / possible / limitations を、日本語のカタカナ読みから切り離して練習します。solution：solution /səˈluːʃən/。語頭 /sə/ を弱く、/luː/ を強く長くします。-tion は /ʃən/ と短く、語尾に「ション」の母音を追加しません。 possible：possible /ˈpɑsəbəl/。pos- を強く、中央の /sə/ を弱く、最後の /bəl/ を一拍で。3つの母音を同じ強さで「ポ・シ・ブ・ル」と刻まないでください。 limitations：limitations。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Every solution has possible limitations. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「solution / possible / limitations」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsolution：-tion は「ション」と一拍で軽く収めます。\npossible：アクセントのある音を少し長く、ほかは軽く流します。\nlimitations：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "294": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる technology / discussed / perspectives を、日本語のカタカナ読みから切り離して練習します。technology：technology /tɛkˈnɑlədʒi/。tech- の /k/ と n をつなげて「テ・ク・ノ」と分けません。-nol- を強くし、最後の -gy は /dʒi/ と短く、語尾に「ィー」を伸ばしません。 discussed：discussed。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 perspectives：perspectives /pərˈspɛktɪvz/。per- は /pər/ と弱く、/sp/ を一塊にして -spec- を強くします。語尾 /tɪvz/ は「ティ・ブズ」と分解せず、/v/ を声付きで短く終えます。 New technology should be discussed from several perspectives. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「technology / discussed / perspectives」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntechnology：アクセントのある音を少し長く、ほかは軽く流します。\ndiscussed：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nperspectives：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "295": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる Convenience / safety / direction を、日本語のカタカナ読みから切り離して練習します。Convenience：Convenience。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 safety：safety。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 direction：direction。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Convenience and safety do not always point in the same direction. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Convenience / safety / direction」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nConvenience：f / v は下唇を上の歯に軽く触れ、母音を足しません。\nsafety：アクセントのある音を少し長く、ほかは軽く流します。\ndirection：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",

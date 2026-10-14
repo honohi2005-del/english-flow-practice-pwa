@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "31": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる like / reason / correction を、日本語のカタカナ読みから切り離して練習します。like：like。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 reason：reason /ˈriːzən/。/r/ は舌をどこにも付けず、/iː/ を伸ばします。二音節目 /zən/ を弱くし、語尾を「ゼン」と硬く閉じすぎません。 correction：correction。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I like asking about the reason behind a correction. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「like / reason / correction」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlike：l は舌先を上の歯ぐきに軽く触れます。\nreason：この語は語尾に母音を足さず、最後の子音で短く閉じます。\ncorrection：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "32": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる understand / feeling / expression を、日本語のカタカナ読みから切り離して練習します。understand：understand /ˌʌndərˈstænd/。under- を強く二語のようにせず、最後の -stand を頂点にします。/st/ と /nd/ の間に母音を入れず、/æ/ を横に広くして語尾を止めます。 feeling：feeling。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 expression：expression。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to understand the feeling of an expression. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「understand / feeling / expression」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。\nfeeling：l は舌先を上の歯ぐきに軽く触れます。\nexpression：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "33": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる try / phrase / sentence を、日本語のカタカナ読みから切り離して練習します。try：try。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 phrase：phrase。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 sentence：sentence /ˈsɛntəns/。/sɛn/ を強くし、中央 /təns/ を弱く。/nt/ を「ン・ト」と分けず、語尾 /ns/ を子音のまま止めます。 I try to use a new phrase in my own sentence. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「try / phrase / sentence」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntry：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nphrase：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nsentence：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "34": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる learn / compare / examples を、日本語のカタカナ読みから切り離して練習します。learn：learn。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 compare：compare。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 examples：examples。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I learn best when I can compare several examples. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「learn / compare / examples」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlearn：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ncompare：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexamples：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "35": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる want / apply / conversation を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 apply：apply。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 conversation：conversation /ˌkɑnvərˈseɪʃən/。con- は弱く、-ver- は /vər/ と短く、-sa- の /seɪ/ を強くします。/v/ を /b/ にせず、-tion を「ション」と一拍で終えます。 I want feedback that I can apply in the next conversation. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / apply / conversation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\napply：l は舌先を上の歯ぐきに軽く触れます。\nconversation：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",

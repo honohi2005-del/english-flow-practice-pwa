@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "121": [
     {
       "label": "重点語の口の形",
-      "text": "この文は経験・内省についての発話です。まず意味の中心になる recently / conversation / think を、日本語のカタカナ読みから切り離して練習します。recently：recently。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 conversation：conversation /ˌkɑnvərˈseɪʃən/。con- は弱く、-ver- は /vər/ と短く、-sa- の /seɪ/ を強くします。/v/ を /b/ にせず、-tion を「ション」と一拍で終えます。 think：think。th は舌先を上下の歯の間に少し出し、/θ/ は息だけ、/ð/ は声を加えます。「ス」「ザ」に置き換えません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I recently had a conversation that made me think. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「recently / conversation / think」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nrecently：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nconversation：-tion は「ション」と一拍で軽く収めます。\nthink：th は舌先を歯の間に少し出し、息（または声）を添えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "122": [
     {
       "label": "重点語の口の形",
-      "text": "この文は経験・内省についての発話です。まず意味の中心になる noticed / expected / happened を、日本語のカタカナ読みから切り離して練習します。noticed：noticed。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 expected：expected。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 happened：happened。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I noticed a difference between what I expected and what happened. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「noticed / expected / happened」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nnoticed：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nexpected：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nhappened：語尾の -ed は「エッド」と一拍にせず、短く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "123": [
     {
       "label": "重点語の口の形",
-      "text": "この文は経験・内省についての発話です。まず意味の中心になる first / know / respond を、日本語のカタカナ読みから切り離して練習します。first：first。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 know：know。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 respond：respond。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 At first, I did not know how to respond. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「first / know / respond」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nfirst：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nknow：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nrespond：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "124": [
     {
       "label": "重点語の口の形",
-      "text": "この文は経験・内省についての発話です。まず意味の中心になる After / understand / situation を、日本語のカタカナ読みから切り離して練習します。After：After。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 understand：understand /ˌʌndərˈstænd/。under- を強く二語のようにせず、最後の -stand を頂点にします。/st/ と /nd/ の間に母音を入れず、/æ/ を横に広くして語尾を止めます。 situation：situation。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 After a while, I began to understand the situation. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「After / understand / situation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nAfter：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。\nsituation：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "125": [
     {
       "label": "重点語の口の形",
-      "text": "この文は経験・内省についての発話です。まず意味の中心になる realized / had / assumption を、日本語のカタカナ読みから切り離して練習します。realized：realized。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 had：had。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 assumption：assumption。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I realized that I had made an assumption. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「realized / had / assumption」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nrealized：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nhad：アクセントのある音を少し長く、ほかは軽く流します。\nassumption：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",

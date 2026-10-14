@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "216": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる give / answer / purpose を、日本語のカタカナ読みから切り離して練習します。give：give。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 answer：answer /ˈænsər/。/æ/ を横に開き、/ns/ の間に母音を入れません。語尾 r は舌先を付けず、/ər/ を弱く添えます。 purpose：purpose。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I can give a better answer when I know the purpose. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「give / answer / purpose」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ngive：f / v は下唇を上の歯に軽く触れ、母音を足しません。\nanswer：r は舌先を歯ぐきに付けず、口の奥で響かせます。\npurpose：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "217": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる connect / answer / question を、日本語のカタカナ読みから切り離して練習します。connect：connect。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 answer：answer /ˈænsər/。/æ/ を横に開き、/ns/ の間に母音を入れません。語尾 r は舌先を付けず、/ər/ を弱く添えます。 question：question /ˈkwɛstʃən/。/kw/ を「ク・ウ」と二拍にせず唇を丸めたまま /ɛ/ へ。/stʃ/ を一塊にし、-tion は /ʃən/ で弱く終えます。 I want to connect my answer to the question. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「connect / answer / question」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nconnect：アクセントのある音を少し長く、ほかは軽く流します。\nanswer：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nquestion：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "218": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる practicing / respond / questions を、日本語のカタカナ読みから切り離して練習します。practicing：practicing。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 respond：respond。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 questions：questions。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I’m practicing how to respond to follow-up questions. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「practicing / respond / questions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\npracticing：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nrespond：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nquestions：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "219": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる want / keep / conversation を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 keep：keep。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 conversation：conversation /ˌkɑnvərˈseɪʃən/。con- は弱く、-ver- は /vər/ と短く、-sa- の /seɪ/ を強くします。/v/ を /b/ にせず、-tion を「ション」と一拍で終えます。 I want to keep the conversation moving. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / keep / conversation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nkeep：アクセントのある音を少し長く、ほかは軽く流します。\nconversation：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "220": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる notice / listener / explanation を、日本語のカタカナ読みから切り離して練習します。notice：notice。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 listener：listener。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 explanation：explanation /ˌɛkspləˈneɪʃən/。/ɛkspl/ を「エ・クス・プル」と分けず一塊にし、-na- の /neɪ/ を強くします。最後 /ʃən/ を軽く添えます。 I try to notice when the listener needs more explanation. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「notice / listener / explanation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nnotice：アクセントのある音を少し長く、ほかは軽く流します。\nlistener：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexplanation：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",

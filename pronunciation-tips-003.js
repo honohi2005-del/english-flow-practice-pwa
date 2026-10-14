@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "11": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる learning / communicate / clearly を、日本語のカタカナ読みから切り離して練習します。learning：learning /ˈlɝːnɪŋ/。/l/ を明確にし、/ɝː/ を保ちます。末尾は /nɪŋ/ とし、/ŋ/ の後ろに「グ」を付けません。 communicate：communicate。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 clearly：clearly /ˈklɪrli/。/kl/ を一塊にして /klɪr/ を一息で出します。語尾 /li/ は「リー」と長くせず軽く流します。 I’m learning English to communicate more clearly. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「learning / communicate / clearly」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlearning：ng は舌の奥で止め、最後の /g/ を強く出しません。\ncommunicate：アクセントのある音を少し長く、ほかは軽く流します。\nclearly：この語は語尾に母音を足さず、最後の子音で短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "12": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる I / English / conversation を、日本語のカタカナ読みから切り離して練習します。I：I。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 English：English。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 conversation：conversation /ˌkɑnvərˈseɪʃən/。con- は弱く、-ver- は /vər/ と短く、-sa- の /seɪ/ を強くします。/v/ を /b/ にせず、-tion を「ション」と一拍で終えます。 I use English for conversation practice. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「I / English / conversation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nI：アクセントのある音を少し長く、ほかは軽く流します。\nEnglish：l は舌先を上の歯ぐきに軽く触れます。\nconversation：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "13": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる I / online / regularly を、日本語のカタカナ読みから切り離して練習します。I：I。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 online：online /ˌɑnˈlaɪn/。on- は弱く、-line の /aɪ/ を強く一息で。語尾 /n/ の後ろに「ン・グ」と母音を足しません。 regularly：regularly /ˈrɛɡjələrli/。reg- を強くし、-u- の /jə/ を「ユー」と立てません。/r/ は舌先を浮かせ、語尾 -ly は /li/ と軽く流します。 I take online English lessons regularly. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「I / online / regularly」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nI：アクセントのある音を少し長く、ほかは軽く流します。\nonline：アクセントのある音を少し長く、ほかは軽く流します。\nregularly：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "14": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる want / confident / English を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 confident：confident。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 English：English。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to become more confident when I speak English. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / confident / English」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nconfident：アクセントのある音を少し長く、ほかは軽く流します。\nEnglish：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "15": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる sometimes / organize / thoughts を、日本語のカタカナ読みから切り離して練習します。sometimes：sometimes。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 organize：organize /ˈɔrɡənaɪz/。最初の /ɔr/ を強くし、語中の /ɡə/ を弱く、最後の /naɪz/ を一続きにします。語尾 /z/ を「ズー」と伸ばさず声だけ残して止めます。 thoughts：thoughts。th は舌先を上下の歯の間に少し出し、/θ/ は息だけ、/ð/ は声を加えます。「ス」「ザ」に置き換えません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I sometimes need more time to organize my thoughts. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「sometimes / organize / thoughts」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\norganize：語尾の /z/ は母音を足さず、声を残して短く閉じます。\nthoughts：th は舌先を歯の間に少し出し、息（または声）を添えます。"
     },
     {
       "label": "日本語訛りになりやすい音",

@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "156": [
     {
       "label": "重点語の口の形",
-      "text": "この文はレッスン中の応答についての発話です。まず意味の中心になる try / carefully / answer を、日本語のカタカナ読みから切り離して練習します。try：try。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 carefully：carefully。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 answer：answer /ˈænsər/。/æ/ を横に開き、/ns/ の間に母音を入れません。語尾 r は舌先を付けず、/ər/ を弱く添えます。 I try to listen carefully before I answer. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「try / carefully / answer」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntry：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ncarefully：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nanswer：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "157": [
     {
       "label": "重点語の口の形",
-      "text": "この文はレッスン中の応答についての発話です。まず意味の中心になる want / directly / question を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 directly：directly。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 question：question /ˈkwɛstʃən/。/kw/ を「ク・ウ」と二拍にせず唇を丸めたまま /ɛ/ へ。/stʃ/ を一塊にし、-tion は /ʃən/ で弱く終えます。 I want to respond directly to the question. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / directly / question」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\ndirectly：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nquestion：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "158": [
     {
       "label": "重点語の口の形",
-      "text": "この文はレッスン中の応答についての発話です。まず意味の中心になる understand / ask / clarification を、日本語のカタカナ読みから切り離して練習します。understand：understand /ˌʌndərˈstænd/。under- を強く二語のようにせず、最後の -stand を頂点にします。/st/ と /nd/ の間に母音を入れず、/æ/ を横に広くして語尾を止めます。 ask：ask。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 clarification：clarification。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 If I do not understand, I should ask for clarification. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「understand / ask / clarification」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。\nask：アクセントのある音を少し長く、ほかは軽く流します。\nclarification：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "159": [
     {
       "label": "重点語の口の形",
-      "text": "この文はレッスン中の応答についての発話です。まず意味の中心になる speaker / rephrase / question を、日本語のカタカナ読みから切り離して練習します。speaker：speaker。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 rephrase：rephrase。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 question：question /ˈkwɛstʃən/。/kw/ を「ク・ウ」と二拍にせず唇を丸めたまま /ɛ/ へ。/stʃ/ を一塊にし、-tion は /ʃən/ で弱く終えます。 I can ask the speaker to rephrase the question. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「speaker / rephrase / question」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nspeaker：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nrephrase：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nquestion：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "160": [
     {
       "label": "重点語の口の形",
-      "text": "この文はレッスン中の応答についての発話です。まず意味の中心になる want / connected / topic を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 connected：connected /kəˈnɛktɪd/。語頭 /kə/ を弱く、/nɛk/ を強く。過去語尾 /tɪd/ は「ティッド」と二拍にせず、/t/ を短く添えます。 topic：topic。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to keep my answer connected to the topic. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / connected / topic」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nconnected：語尾の /t/ は強く破裂させず、舌先で止めます。\ntopic：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",

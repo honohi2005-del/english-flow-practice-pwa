@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "276": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる students / notice / progress を、日本語のカタカナ読みから切り離して練習します。students：students。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 notice：notice。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 progress：progress。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want students to notice their own progress. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「students / notice / progress」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nstudents：アクセントのある音を少し長く、ほかは軽く流します。\nnotice：アクセントのある音を少し長く、ほかは軽く流します。\nprogress：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "277": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる adapt / explanation / learner を、日本語のカタカナ読みから切り離して練習します。adapt：adapt。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 explanation：explanation /ˌɛkspləˈneɪʃən/。/ɛkspl/ を「エ・クス・プル」と分けず一塊にし、-na- の /neɪ/ を強くします。最後 /ʃən/ を軽く添えます。 learner：learner。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I try to adapt my explanation to each learner. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「adapt / explanation / learner」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nadapt：アクセントのある音を少し長く、ほかは軽く流します。\nexplanation：-tion は「ション」と一拍で軽く収めます。\nlearner：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "278": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる students / need / examples を、日本語のカタカナ読みから切り離して練習します。students：students。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 need：need。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 examples：examples。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Some students need more examples. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「students / need / examples」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nstudents：アクセントのある音を少し長く、ほかは軽く流します。\nneed：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nexamples：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "279": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる students / opportunities / speak を、日本語のカタカナ読みから切り離して練習します。students：students。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 opportunities：opportunities /ˌɑpərˈtuːnətiz/。oppor- は弱く、-tune- を最も長く明確にします。最後の -ties は「ティーズ」と強調せず、/tiz/ を軽く添えます。 speak：speak。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Other students need more opportunities to speak. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「students / opportunities / speak」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nstudents：アクセントのある音を少し長く、ほかは軽く流します。\nopportunities：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nspeak：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "280": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる Teaching / requires / observation を、日本語のカタカナ読みから切り離して練習します。Teaching：Teaching。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 requires：requires。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 observation：observation。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Teaching requires careful observation. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Teaching / requires / observation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nTeaching：ng は舌の奥で止め、最後の /g/ を強く出しません。\nrequires：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nobservation：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",

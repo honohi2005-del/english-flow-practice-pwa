@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "61": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる interested / people / languages を、日本語のカタカナ読みから切り離して練習します。interested：interested。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 people：people。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 languages：languages。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I’m interested in how people learn languages. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「interested / people / languages」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ninterested：r は舌先を歯ぐきに付けず、口の奥で響かせます。\npeople：l は舌先を上の歯ぐきに軽く触れます。\nlanguages：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "62": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる I / reading / education を、日本語のカタカナ読みから切り離して練習します。I：I。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 reading：reading。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 education：education /ˌɛdʒəˈkeɪʃən/。最初の e- は弱く、-ca- の /keɪ/ を強く長めにします。-tion は /ʃən/ と一拍で、/ʃ/ の後ろに「ョン」の母音を足しすぎません。 I enjoy reading about education. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「I / reading / education」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nI：アクセントのある音を少し長く、ほかは軽く流します。\nreading：r は舌先を歯ぐきに付けず、口の奥で響かせます。\neducation：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "63": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる advantages / disadvantages / technology を、日本語のカタカナ読みから切り離して練習します。advantages：advantages /ədˈvæntɪdʒɪz/。語頭の ad- は /əd/ に弱化し、/v/ は上の歯を下唇に軽く触れさせて声を出します。-tages は /tɪdʒɪz/ と連続させ、語尾に「ス」を別拍で足しません。 disadvantages：disadvantages /ˌdɪsədˈvæntɪdʒɪz/。disad- を「ディス・アド」と切らず、最初の2音節を弱く流して -van- を強くします。/dʒɪz/ を「ジ・ズ」と分けず、複数の /ɪz/ を短く添えます。 technology：technology /tɛkˈnɑlədʒi/。tech- の /k/ と n をつなげて「テ・ク・ノ」と分けません。-nol- を強くし、最後の -gy は /dʒi/ と短く、語尾に「ィー」を伸ばしません。 I like discussing the advantages and disadvantages of technology. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「advantages / disadvantages / technology」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nadvantages：f / v は下唇を上の歯に軽く触れ、母音を足しません。\ndisadvantages：アクセントのある音を少し長く、ほかは軽く流します。\ntechnology：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "64": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる curious / intelligence / education を、日本語のカタカナ読みから切り離して練習します。curious：curious。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 intelligence：intelligence /ɪnˈtɛlədʒəns/。in- を強く「イン」と立てず、/ɪn/ から -tel- に滑ります。/dʒ/ の後ろに「イ」を余分に置かず、語尾 /əns/ を弱く閉じます。 education：education /ˌɛdʒəˈkeɪʃən/。最初の e- は弱く、-ca- の /keɪ/ を強く長めにします。-tion は /ʃən/ と一拍で、/ʃ/ の後ろに「ョン」の母音を足しすぎません。 I’m curious about how artificial intelligence will change education. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「curious / intelligence / education」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncurious：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nintelligence：アクセントのある音を少し長く、ほかは軽く流します。\neducation：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "65": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる understand / benefits / risks を、日本語のカタカナ読みから切り離して練習します。understand：understand /ˌʌndərˈstænd/。under- を強く二語のようにせず、最後の -stand を頂点にします。/st/ と /nd/ の間に母音を入れず、/æ/ を横に広くして語尾を止めます。 benefits：benefits。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 risks：risks。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。続く子音の間に「ウ」「オ」などの母音を挿入せず、子音を連続させます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to understand both the benefits and the risks. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「understand / benefits / risks」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。\nbenefits：アクセントのある音を少し長く、ほかは軽く流します。\nrisks：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",

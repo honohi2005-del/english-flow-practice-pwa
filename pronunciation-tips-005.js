@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "21": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる lessons / include / conversation を、日本語のカタカナ読みから切り離して練習します。lessons：lessons。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 include：include。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 conversation：conversation /ˌkɑnvərˈseɪʃən/。con- は弱く、-ver- は /vər/ と短く、-sa- の /seɪ/ を強くします。/v/ を /b/ にせず、-tion を「ション」と一拍で終えます。 I like lessons that include real conversation. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「lessons / include / conversation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlessons：l は舌先を上の歯ぐきに軽く触れます。\ninclude：l は舌先を上の歯ぐきに軽く触れます。\nconversation：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "22": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる learn / follow / questions を、日本語のカタカナ読みから切り離して練習します。learn：learn。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 follow：follow。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 questions：questions。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I learn a lot from follow-up questions. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「learn / follow / questions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlearn：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nfollow：l は舌先を上の歯ぐきに軽く触れます。\nquestions：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "23": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる I / examples / immediately を、日本語のカタカナ読みから切り離して練習します。I：I。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 examples：examples。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 immediately：immediately。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I prefer examples that I can use immediately. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「I / examples / immediately」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nI：アクセントのある音を少し長く、ほかは軽く流します。\nexamples：l は舌先を上の歯ぐきに軽く触れます。\nimmediately：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "24": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる want / speakers / something を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 speakers：speakers /ˈspiːkərz/。/sp/ を一塊にして /iː/ を長く。語尾 /ərz/ は「カー・ズ」と切らず、r を浮かせて /z/ まで密着させます。 something：something。th は舌先を上下の歯の間に少し出し、/θ/ は息だけ、/ð/ は声を加えます。「ス」「ザ」に置き換えません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to know how native speakers usually say something. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / speakers / something」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nspeakers：語尾の /z/ は母音を足さず、声を残して短く閉じます。\nsomething：th は舌先を歯の間に少し出し、息（または声）を添えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "25": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる interested / difference / natural を、日本語のカタカナ読みから切り離して練習します。interested：interested。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 difference：difference。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 natural：natural /ˈnætʃərəl/。/næ/ を横に開き、/tʃ/ を「チャ」と母音で引き延ばしません。語尾 /ərəl/ は弱く、3拍程度で流します。 I’m interested in the difference between correct and natural English. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「interested / difference / natural」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ninterested：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndifference：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nnatural：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",

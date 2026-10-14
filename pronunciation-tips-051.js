@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "251": [
     {
       "label": "重点語の口の形",
-      "text": "この文は実際の会話での配慮についての発話です。まず意味の中心になる want / understand / meaning を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 understand：understand /ˌʌndərˈstænd/。under- を強く二語のようにせず、最後の -stand を頂点にします。/st/ と /nd/ の間に母音を入れず、/æ/ を横に広くして語尾を止めます。 meaning：meaning /ˈmiːnɪŋ/。/miː/ を長く明確にし、語尾 /ɪŋ/ は鼻に抜きます。「ミーン・グ」と二つに分けず、/ŋ/ で止めます。 I want to understand implied meaning. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / understand / meaning」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。\nmeaning：ng は舌の奥で止め、最後の /g/ を強く出しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "252": [
     {
       "label": "重点語の口の形",
-      "text": "この文は実際の会話での配慮についての発話です。まず意味の中心になる interested / people / opinions を、日本語のカタカナ読みから切り離して練習します。interested：interested。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 people：people。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 opinions：opinions。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I’m interested in how people soften their opinions. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「interested / people / opinions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ninterested：r は舌先を歯ぐきに付けず、口の奥で響かせます。\npeople：l は舌先を上の歯ぐきに軽く触れます。\nopinions：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "253": [
     {
       "label": "重点語の口の形",
-      "text": "この文は実際の会話での配慮についての発話です。まず意味の中心になる useful / learn / sentence を、日本語のカタカナ読みから切り離して練習します。useful：useful。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 learn：learn。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 sentence：sentence /ˈsɛntəns/。/sɛn/ を強くし、中央 /təns/ を弱く。/nt/ を「ン・ト」と分けず、語尾 /ns/ を子音のまま止めます。 It is useful to learn common sentence patterns. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「useful / learn / sentence」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nuseful：l は舌先を上の歯ぐきに軽く触れます。\nlearn：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nsentence：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "254": [
     {
       "label": "重点語の口の形",
-      "text": "この文は実際の会話での配慮についての発話です。まず意味の中心になる remember / rather / isolated を、日本語のカタカナ読みから切り離して練習します。remember：remember。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 rather：rather。th は舌先を上下の歯の間に少し出し、/θ/ は息だけ、/ð/ は声を加えます。「ス」「ザ」に置き換えません。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 isolated：isolated。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I try to remember phrases rather than isolated words. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「remember / rather / isolated」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nremember：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nrather：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nisolated：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "255": [
     {
       "label": "重点語の口の形",
-      "text": "この文は実際の会話での配慮についての発話です。まず意味の中心になる Pronunciation / connected / listening を、日本語のカタカナ読みから切り離して練習します。Pronunciation：Pronunciation /prəˌnʌnsiˈeɪʃən/。最初の pro- は強く「プロ」と読まず /prə/ に弱化し、-nun- の /ʌ/ と -a- の /eɪ/ を分けます。最後の -tion は「ション」と一拍で、/ʃən/ の後ろに「グ」を足しません。 connected：connected /kəˈnɛktɪd/。語頭 /kə/ を弱く、/nɛk/ を強く。過去語尾 /tɪd/ は「ティッド」と二拍にせず、/t/ を短く添えます。 listening：listening /ˈlɪsənɪŋ/。最初の /l/ は舌先を歯ぐきに触れ、次の /sən/ を弱くします。末尾 /ŋ/ は舌の奥だけで止め、/g/ を破裂させません。 Pronunciation and vocabulary are connected to listening. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Pronunciation / connected / listening」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nPronunciation：-tion は「ション」と一拍で軽く収めます。\nconnected：語尾の /t/ は強く破裂させず、舌先で止めます。\nlistening：ng は舌の奥で止め、最後の /g/ を強く出しません。"
     },
     {
       "label": "日本語訛りになりやすい音",

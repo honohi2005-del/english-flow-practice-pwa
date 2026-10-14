@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "111": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる Education / change / opportunities を、日本語のカタカナ読みから切り離して練習します。Education：Education /ˌɛdʒəˈkeɪʃən/。最初の e- は弱く、-ca- の /keɪ/ を強く長めにします。-tion は /ʃən/ と一拍で、/ʃ/ の後ろに「ョン」の母音を足しすぎません。 change：change。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 opportunities：opportunities /ˌɑpərˈtuːnətiz/。oppor- は弱く、-tune- を最も長く明確にします。最後の -ties は「ティーズ」と強調せず、/tiz/ を軽く添えます。 Education can change a person’s opportunities. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Education / change / opportunities」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nEducation：-tion は「ション」と一拍で軽く収めます。\nchange：ng は舌の奥で止め、最後の /g/ を強く出しません。\nopportunities：この語は語尾に母音を足さず、最後の子音で短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "112": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる information / equal / everyone を、日本語のカタカナ読みから切り離して練習します。information：information /ˌɪnfərˈmeɪʃən/。in-for- は弱く、-ma- の /meɪ/ を強くします。/ʃən/ は一拍で、最後に「ション」と重く落としません。 equal：equal。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 everyone：everyone。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Access to information is not equal for everyone. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「information / equal / everyone」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ninformation：-tion は「ション」と一拍で軽く収めます。\nequal：l は舌先を上の歯ぐきに軽く触れます。\neveryone：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "113": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる policy / affect / people を、日本語のカタカナ読みから切り離して練習します。policy：policy。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 affect：affect。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 people：people。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 A small policy change can affect many people. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「policy / affect / people」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\npolicy：l は舌先を上の歯ぐきに軽く触れます。\naffect：アクセントのある音を少し長く、ほかは軽く流します。\npeople：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "114": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる Public / include / different を、日本語のカタカナ読みから切り離して練習します。Public：Public。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 include：include。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 different：different /ˈdɪfrənt/。3拍の「ディファレント」にせず、/dɪf/ と /rənt/ の2つに圧縮します。/f/ の摩擦を保ったまま、真ん中の /ə/ を弱くし、最後の /t/ は破裂させず舌先で止めます。 Public discussions should include different voices. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Public / include / different」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nPublic：l は舌先を上の歯ぐきに軽く触れます。\ninclude：l は舌先を上の歯ぐきに軽く触れます。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "115": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる consider / people / represented を、日本語のカタカナ読みから切り離して練習します。consider：consider。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 people：people。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 represented：represented。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 We need to consider the people who are not represented. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「consider / people / represented」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nconsider：r は舌先を歯ぐきに付けず、口の奥で響かせます。\npeople：l は舌先を上の歯ぐきに軽く触れます。\nrepresented：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",

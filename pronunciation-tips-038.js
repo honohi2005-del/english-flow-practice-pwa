@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "186": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる explain / reason / result を、日本語のカタカナ読みから切り離して練習します。explain：explain /ɪkˈspleɪn/。ex- は /ɪk/ と弱く、/spl/ を「ス・プ・ル」と分けません。/eɪn/ を一息で伸ばし、最後の /n/ の後ろに母音を足しません。 reason：reason /ˈriːzən/。/r/ は舌をどこにも付けず、/iː/ を伸ばします。二音節目 /zən/ を弱くし、語尾を「ゼン」と硬く閉じすぎません。 result：result /rɪˈzʌlt/。語頭 /rɪ/ を弱く、/zʌlt/ を強くします。/lt/ を直接つなぎ、最後に「トゥ」と母音を足しません。 I want to explain the reason before giving the result. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「explain / reason / result」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nreason：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nresult：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "187": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる concrete / abstract / understand を、日本語のカタカナ読みから切り離して練習します。concrete：concrete /ˈkɑnkriːt/。con- を「コン」と日本語の /o/ で丸くしすぎず、/kɑn/ から /kriːt/ へ。/kr/ を「ク・リ」と分けず、語尾 /t/ を無開放で止めます。 abstract：abstract /ˈæbstrækt/。最初の /æ/ を「ア」だけにせず、口を横にも開きます。/bstr/ の子音群に母音を挿入せず、最後の /kt/ を /k/ から舌先の /t/ へ直結します。 understand：understand /ˌʌndərˈstænd/。under- を強く二語のようにせず、最後の -stand を頂点にします。/st/ と /nd/ の間に母音を入れず、/æ/ を横に広くして語尾を止めます。 A concrete example can make an abstract idea easier to understand. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「concrete / abstract / understand」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nconcrete：語尾の /t/ は強く破裂させず、舌先で止めます。\nabstract：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "188": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる sometimes / details / beginning を、日本語のカタカナ読みから切り離して練習します。sometimes：sometimes。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 details：details /ˈdiːteɪlz/。/diː/ を強く長くし、/teɪlz/ を一続きにします。末尾 /lz/ を「ルズ」と二拍にせず、/l/ から /z/ へ直行します。 beginning：beginning。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I sometimes give too many details at the beginning. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「sometimes / details / beginning」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\ndetails：アクセントのある音を少し長く、ほかは軽く流します。\nbeginning：ng は舌の奥で止め、最後の /g/ を強く出しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "189": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる want / important / moment を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 important：important /ɪmˈpɔrtənt/。im- は弱く、-por- を強くします。語尾 /tənt/ の /t/ は二度とも破裂させず、最後に「ト」を独立させません。 moment：moment。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to save the most important point for the right moment. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / important / moment」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nimportant：語尾の /t/ は強く破裂させず、舌先で止めます。\nmoment：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "190": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる practicing / compare / different を、日本語のカタカナ読みから切り離して練習します。practicing：practicing。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 compare：compare。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 different：different /ˈdɪfrənt/。3拍の「ディファレント」にせず、/dɪf/ と /rənt/ の2つに圧縮します。/f/ の摩擦を保ったまま、真ん中の /ə/ を弱くし、最後の /t/ は破裂させず舌先で止めます。 I’m practicing how to compare two different cases. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「practicing / compare / different」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\npracticing：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ncompare：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",

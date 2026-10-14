@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "196": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる acknowledge / person’s / first を、日本語のカタカナ読みから切り離して練習します。acknowledge：acknowledge。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 person’s：person’s。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 first：first。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to acknowledge the other person’s point first. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「acknowledge / person’s / first」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nacknowledge：l は舌先を上の歯ぐきに軽く触れます。\nperson’s：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nfirst：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "197": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる question / conversation / meaningful を、日本語のカタカナ読みから切り離して練習します。question：question /ˈkwɛstʃən/。/kw/ を「ク・ウ」と二拍にせず唇を丸めたまま /ɛ/ へ。/stʃ/ を一塊にし、-tion は /ʃən/ で弱く終えます。 conversation：conversation /ˌkɑnvərˈseɪʃən/。con- は弱く、-ver- は /vər/ と短く、-sa- の /seɪ/ を強くします。/v/ を /b/ にせず、-tion を「ション」と一拍で終えます。 meaningful：meaningful。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 A good question can make a conversation more meaningful. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「question / conversation / meaningful」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nquestion：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。\nconversation：-tion は「ション」と一拍で軽く収めます。\nmeaningful：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "198": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる follow / questions / discussion を、日本語のカタカナ読みから切り離して練習します。follow：follow。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 questions：questions。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 discussion：discussion /dɪˈskʌʃən/。語頭 /dɪ/ を弱く、/skʌʃ/ を強く。/sk/ を「ス・ク」と分けず、-tion を /ʃən/ で軽く終えます。 I want to ask follow-up questions that deepen the discussion. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「follow / questions / discussion」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nfollow：l は舌先を上の歯ぐきに軽く触れます。\nquestions：-tion は「ション」と一拍で軽く収めます。\ndiscussion：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "199": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる trying / conclusions / precise を、日本語のカタカナ読みから切り離して練習します。trying：trying。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 conclusions：conclusions。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 precise：precise。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I’m trying to make my conclusions more precise. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「trying / conclusions / precise」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntrying：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nconclusions：l は舌先を上の歯ぐきに軽く触れます。\nprecise：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "200": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる I / improving / conversation を、日本語のカタカナ読みから切り離して練習します。I：I。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 improving：improving。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 conversation：conversation /ˌkɑnvərˈseɪʃən/。con- は弱く、-ver- は /vər/ と短く、-sa- の /seɪ/ を強くします。/v/ を /b/ にせず、-tion を「ション」と一拍で終えます。 I enjoy improving through conversation. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「I / improving / conversation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nI：アクセントのある音を少し長く、ほかは軽く流します。\nimproving：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nconversation：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",

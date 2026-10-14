@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "96": [
     {
       "label": "重点語の口の形",
-      "text": "この文は学習方法・習慣についての発話です。まず意味の中心になる helpful / whether / understood を、日本語のカタカナ読みから切り離して練習します。helpful：helpful。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 whether：whether。th は舌先を上下の歯の間に少し出し、/θ/ は息だけ、/ð/ は声を加えます。「ス」「ザ」に置き換えません。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 understood：understood。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 It is helpful to check whether the other person understood me. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「helpful / whether / understood」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nhelpful：l は舌先を上の歯ぐきに軽く触れます。\nwhether：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nunderstood：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "97": [
     {
       "label": "重点語の口の形",
-      "text": "この文は学習方法・習慣についての発話です。まず意味の中心になる give / example / point を、日本語のカタカナ読みから切り離して練習します。give：give。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 example：example /ɪɡˈzæmpəl/。語頭 /ɪɡ/ は弱く、/zæm/ を強くします。/pəl/ は「プル」と母音を足さず、/p/ からすぐ弱い /əl/ へ移ります。 point：point。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I try to give a specific example when I make a point. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「give / example / point」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ngive：f / v は下唇を上の歯に軽く触れ、母音を足しません。\nexample：アクセントのある音を少し長く、ほかは軽く流します。\npoint：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "98": [
     {
       "label": "重点語の口の形",
-      "text": "この文は学習方法・習慣についての発話です。まず意味の中心になる experience / explanation / memorable を、日本語のカタカナ読みから切り離して練習します。experience：experience /ɪkˈspɪriəns/。ex- を「エ・クス」と二拍にせず、/ɪk/ からすぐ /sp/ へ移ります。/r/ は日本語のラ行にせず、舌先を歯ぐきから離したまま響かせます。 explanation：explanation /ˌɛkspləˈneɪʃən/。/ɛkspl/ を「エ・クス・プル」と分けず一塊にし、-na- の /neɪ/ を強くします。最後 /ʃən/ を軽く添えます。 memorable：memorable。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 A personal experience can make an explanation more memorable. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「experience / explanation / memorable」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexperience：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nexplanation：-tion は「ション」と一拍で軽く収めます。\nmemorable：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "99": [
     {
       "label": "重点語の口の形",
-      "text": "この文は学習方法・習慣についての発話です。まず意味の中心になる want / answers / follow を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 answers：answers。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 follow：follow。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to make my answers easier to follow. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / answers / follow」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nanswers：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nfollow：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "100": [
     {
       "label": "重点語の口の形",
-      "text": "この文は学習方法・習慣についての発話です。まず意味の中心になる practicing / finish / clearly を、日本語のカタカナ読みから切り離して練習します。practicing：practicing。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 finish：finish。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 clearly：clearly /ˈklɪrli/。/kl/ を一塊にして /klɪr/ を一息で出します。語尾 /li/ は「リー」と長くせず軽く流します。 I’m practicing how to finish an answer clearly. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「practicing / finish / clearly」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\npracticing：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nfinish：アクセントのある音を少し長く、ほかは軽く流します。\nclearly：この語は語尾に母音を足さず、最後の子音で短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",

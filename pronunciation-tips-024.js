@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "116": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる Statistics / always / individual を、日本語のカタカナ読みから切り離して練習します。Statistics：Statistics /stəˈtɪstɪks/。最初の sta- は /stə/ に弱化し、-tis- を強くします。末尾 /tɪks/ の /ks/ を「クス」と二拍にせず、舌先を止めて一気に閉じます。 always：always。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 individual：individual /ˌɪndəˈvɪdʒuəl/。アクセントは -vid- です。in-di- を弱く短くし、/dʒuəl/ を「ジュ・ア・ル」と分解せず、唇を丸めたまま一続きにします。 Statistics do not always show individual realities. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Statistics / always / individual」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nStatistics：アクセントのある音を少し長く、ほかは軽く流します。\nalways：l は舌先を上の歯ぐきに軽く触れます。\nindividual：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "117": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる general / trend / important を、日本語のカタカナ読みから切り離して練習します。general：general /ˈdʒenərəl/。最初の /dʒen/ を強く、後半の /ərəl/ を一気に弱くします。「ジェ・ネ・ラ・ル」と4つに刻まず、2〜3拍で語尾を軽く流します。 trend：trend /trɛnd/。/tr/ を「ト・ラ」と分けず、舌先を軽く弾く /tr/ の塊で始めます。/nd/ は n から d へ直接移り、最後に「ドゥ」と母音を足しません。 important：important /ɪmˈpɔrtənt/。im- は弱く、-por- を強くします。語尾 /tənt/ の /t/ は二度とも破裂させず、最後に「ト」を独立させません。 A general trend can hide important differences. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「general / trend / important」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ngeneral：アクセントのある音を少し長く、ほかは軽く流します。\ntrend：子音が続くところは、間に母音を足さず一息でつなぎます。\nimportant：語尾の /t/ は強く破裂させず、舌先で止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "118": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる Personal / meaning / numerical を、日本語のカタカナ読みから切り離して練習します。Personal：Personal。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 meaning：meaning /ˈmiːnɪŋ/。/miː/ を長く明確にし、語尾 /ɪŋ/ は鼻に抜きます。「ミーン・グ」と二つに分けず、/ŋ/ で止めます。 numerical：numerical。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Personal stories can add meaning to numerical data. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Personal / meaning / numerical」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nPersonal：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nmeaning：ng は舌の奥で止め、最後の /g/ を強く出しません。\nnumerical：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "119": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる careful / making / conclusions を、日本語のカタカナ読みから切り離して練習します。careful：careful。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 making：making。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 conclusions：conclusions。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 We should be careful when making broad conclusions. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「careful / making / conclusions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncareful：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nmaking：ng は舌の奥で止め、最後の /g/ を強く出しません。\nconclusions：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "120": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる Good / require / information を、日本語のカタカナ読みから切り離して練習します。Good：Good。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 require：require。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 information：information /ˌɪnfərˈmeɪʃən/。in-for- は弱く、-ma- の /meɪ/ を強くします。/ʃən/ は一拍で、最後に「ション」と重く落としません。 Good decisions require reliable information. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Good / require / information」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nGood：アクセントのある音を少し長く、ほかは軽く流します。\nrequire：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ninformation：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",

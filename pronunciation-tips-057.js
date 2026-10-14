@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "281": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる interested / explain / experiences を、日本語のカタカナ読みから切り離して練習します。interested：interested。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 explain：explain /ɪkˈspleɪn/。ex- は /ɪk/ と弱く、/spl/ を「ス・プ・ル」と分けません。/eɪn/ を一息で伸ばし、最後の /n/ の後ろに母音を足しません。 experiences：experiences /ɪkˈspɪriənsɪz/。語頭の ex- は「エックス」と母音を二つ置かず /ɪk/。/sp/ を一塊にして -spee- を強くし、複数語尾 /ɪz/ は「イズ」と独立させず前に密着させます。 I’m interested in how people explain their experiences. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「interested / explain / experiences」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ninterested：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nexperiences：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "282": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる Personal / reveal / differences を、日本語のカタカナ読みから切り離して練習します。Personal：Personal。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 reveal：reveal。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 differences：differences。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Personal stories can reveal cultural differences. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Personal / reveal / differences」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nPersonal：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nreveal：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndifferences：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "283": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる People / organize / way を、日本語のカタカナ読みから切り離して練習します。People：People。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 organize：organize /ˈɔrɡənaɪz/。最初の /ɔr/ を強くし、語中の /ɡə/ を弱く、最後の /naɪz/ を一続きにします。語尾 /z/ を「ズー」と伸ばさず声だけ残して止めます。 way：way。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 People do not always organize stories in the same way. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「People / organize / way」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nPeople：l は舌先を上の歯ぐきに軽く触れます。\norganize：語尾の /z/ は母音を足さず、声を残して短く閉じます。\nway：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "284": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる listener / need / information を、日本語のカタカナ読みから切り離して練習します。listener：listener。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 need：need。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 information：information /ˌɪnfərˈmeɪʃən/。in-for- は弱く、-ma- の /meɪ/ を強くします。/ʃən/ は一拍で、最後に「ション」と重く落としません。 A listener may need more background information. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「listener / need / information」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlistener：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nneed：語尾の -ed は「エッド」と一拍にせず、短く収めます。\ninformation：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "285": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる true / still / incomplete を、日本語のカタカナ読みから切り離して練習します。true：true。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 still：still。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 incomplete：incomplete。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 An idea can be true but still feel incomplete. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「true / still / incomplete」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntrue：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nstill：l は舌先を上の歯ぐきに軽く触れます。\nincomplete：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",

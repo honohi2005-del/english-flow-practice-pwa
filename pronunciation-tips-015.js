@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "71": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる relationship / language / culture を、日本語のカタカナ読みから切り離して練習します。relationship：relationship /rɪˈleɪʃənʃɪp/。語頭 re- を「リ・レー」と切らず /rɪ/ から /leɪ/ に移ります。/r/ は舌をどこにも付けず、最後の -ship は /ʃɪp/ と短く閉じます。 language：language /ˈlæŋɡwɪdʒ/。/æ/ を横に広く、/ŋɡw/ を「ン・グ・ウ」と分けず一続きにします。語尾 /dʒ/ は母音なしで閉じます。 culture：culture /ˈkʌltʃər/。/kʌl/ の /ʌ/ を「ア」と長くせず短く。/ltʃ/ を一続きにし、語尾 /ər/ を弱く添えます。 I’m interested in the relationship between language and culture. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「relationship / language / culture」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nrelationship：-tion は「ション」と一拍で軽く収めます。\nlanguage：ng は舌の奥で止め、最後の /g/ を強く出しません。\nculture：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "72": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる I / noticing / conversational を、日本語のカタカナ読みから切り離して練習します。I：I。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 noticing：noticing。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 conversational：conversational。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I like noticing differences in conversational style. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「I / noticing / conversational」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nI：アクセントのある音を少し長く、ほかは軽く流します。\nnoticing：ng は舌の奥で止め、最後の /g/ を強く出しません。\nconversational：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "73": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる cultures / directness / others を、日本語のカタカナ読みから切り離して練習します。cultures：cultures。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 directness：directness。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 others：others。th は舌先を上下の歯の間に少し出し、/θ/ は息だけ、/ð/ は声を加えます。「ス」「ザ」に置き換えません。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Some cultures value directness more than others. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「cultures / directness / others」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncultures：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndirectness：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nothers：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "74": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる behavior / interpreted / differently を、日本語のカタカナ読みから切り離して練習します。behavior：behavior。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 interpreted：interpreted。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 differently：differently。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 The same behavior can be interpreted differently. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「behavior / interpreted / differently」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nbehavior：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ninterpreted：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndifferently：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "75": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる Context / important / single を、日本語のカタカナ読みから切り離して練習します。Context：Context。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 important：important /ɪmˈpɔrtənt/。im- は弱く、-por- を強くします。語尾 /tənt/ の /t/ は二度とも破裂させず、最後に「ト」を独立させません。 single：single。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Context is often more important than a single word. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Context / important / single」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nContext：アクセントのある音を少し長く、ほかは軽く流します。\nimportant：語尾の /t/ は強く破裂させず、舌先で止めます。\nsingle：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",

@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "6": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる helping / communicate / Japanese を、日本語のカタカナ読みから切り離して練習します。helping：helping。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 communicate：communicate。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Japanese：Japanese /ˌdʒæpəˈniːz/。Japan の /dʒæpə/ は「ジャパン」と平板にせず、最後の /niːz/ を最も強くします。語尾 /z/ の前に「ズー」と母音を足さず、声を残したまま短く止めます。 I enjoy helping people communicate in Japanese. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「helping / communicate / Japanese」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nhelping：l は舌先を上の歯ぐきに軽く触れます。\ncommunicate：アクセントのある音を少し長く、ほかは軽く流します。\nJapanese：語尾の /z/ は母音を足さず、声を残して短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "7": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる interested / languages / think を、日本語のカタカナ読みから切り離して練習します。interested：interested。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 languages：languages。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 think：think。th は舌先を上下の歯の間に少し出し、/θ/ は息だけ、/ð/ は声を加えます。「ス」「ザ」に置き換えません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I’m interested in how languages shape the way we think. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「interested / languages / think」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ninterested：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nlanguages：l は舌先を上の歯ぐきに軽く触れます。\nthink：th は舌先を歯の間に少し出し、息（または声）を添えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "8": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる often / Japanese / English を、日本語のカタカナ読みから切り離して練習します。often：often。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Japanese：Japanese /ˌdʒæpəˈniːz/。Japan の /dʒæpə/ は「ジャパン」と平板にせず、最後の /niːz/ を最も強くします。語尾 /z/ の前に「ズー」と母音を足さず、声を残したまま短く止めます。 English：English。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I often compare Japanese and English. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「often / Japanese / English」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\noften：アクセントのある音を少し長く、ほかは軽く流します。\nJapanese：語尾の /z/ は母音を足さず、声を残して短く閉じます。\nEnglish：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "9": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる students / comfortable / Japanese を、日本語のカタカナ読みから切り離して練習します。students：students。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 comfortable：comfortable /ˈkʌmftərbəl/。「コン・フォー・タ・ブ・ル」と5拍にせず、/kʌmf/ と /tərbəl/ の2つの塊にします。真ん中の母音を削り、語尾の -ble を「ブル」と独立させず /bəl/ で弱く閉じます。 Japanese：Japanese /ˌdʒæpəˈniːz/。Japan の /dʒæpə/ は「ジャパン」と平板にせず、最後の /niːz/ を最も強くします。語尾 /z/ の前に「ズー」と母音を足さず、声を残したまま短く止めます。 I want my students to feel comfortable using Japanese. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「students / comfortable / Japanese」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nstudents：アクセントのある音を少し長く、ほかは軽く流します。\ncomfortable：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nJapanese：語尾の /z/ は母音を足さず、声を残して短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "10": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる try / explain / simple を、日本語のカタカナ読みから切り離して練習します。try：try。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 explain：explain /ɪkˈspleɪn/。ex- は /ɪk/ と弱く、/spl/ を「ス・プ・ル」と分けません。/eɪn/ を一息で伸ばし、最後の /n/ の後ろに母音を足しません。 simple：simple /ˈsɪmpəl/。/sɪm/ を強くし、語尾 /pəl/ を「プル」と開かず /p/ から弱い /əl/ へ。/m/ の後ろに母音を足しません。 I try to explain difficult ideas in simple Japanese. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「try / explain / simple」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntry：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nsimple：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",

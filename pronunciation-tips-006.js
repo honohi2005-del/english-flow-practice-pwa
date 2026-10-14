@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "26": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる notice / during / lesson を、日本語のカタカナ読みから切り離して練習します。notice：notice。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 during：during。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 lesson：lesson。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I try to notice useful phrases during a lesson. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「notice / during / lesson」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nnotice：アクセントのある音を少し長く、ほかは軽く流します。\nduring：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nlesson：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "27": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる often / expressions / remember を、日本語のカタカナ読みから切り離して練習します。often：often。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 expressions：expressions /ɪkˈsprɛʃənz/。ex- を「エックス」と二拍にせず /ɪk/。/spr/ を一塊にし、-sion は /ʃən/、複数 /z/ は最後に短く添えます。 remember：remember。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I often write down expressions that I want to remember. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「often / expressions / remember」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\noften：アクセントのある音を少し長く、ほかは軽く流します。\nexpressions：-tion は「ション」と一拍で軽く収めます。\nremember：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "28": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる improve / listening / speaking を、日本語のカタカナ読みから切り離して練習します。improve：improve /ɪmˈpruːv/。im- は弱く、/pr/ を一塊にして -prove を強くします。語尾 /v/ は上の歯を下唇に軽く当てて声を残し、「ブ」と閉じません。 listening：listening /ˈlɪsənɪŋ/。最初の /l/ は舌先を歯ぐきに触れ、次の /sən/ を弱くします。末尾 /ŋ/ は舌の奥だけで止め、/g/ を破裂させません。 speaking：speaking /ˈspiːkɪŋ/。/sp/ を一塊にし、/iː/ を長く。語尾 /ɪŋ/ は「イング」と /g/ を出さず、鼻に抜いて終えます。 I want to improve my listening as well as my speaking. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「improve / listening / speaking」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nimprove：f / v は下唇を上の歯に軽く触れ、母音を足しません。\nlistening：ng は舌の奥で止め、最後の /g/ を強く出しません。\nspeaking：ng は舌の奥で止め、最後の /g/ を強く出しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "29": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる sometimes / meaning / context を、日本語のカタカナ読みから切り離して練習します。sometimes：sometimes。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 meaning：meaning /ˈmiːnɪŋ/。/miː/ を長く明確にし、語尾 /ɪŋ/ は鼻に抜きます。「ミーン・グ」と二つに分けず、/ŋ/ で止めます。 context：context。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I sometimes recognize a word but miss its meaning in context. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「sometimes / meaning / context」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\nmeaning：ng は舌の奥で止め、最後の /g/ を強く出しません。\ncontext：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "30": [
     {
       "label": "重点語の口の形",
-      "text": "この文は自己紹介・学習目標についての発話です。まず意味の中心になる hear / expression / times を、日本語のカタカナ読みから切り離して練習します。hear：hear。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 expression：expression。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 times：times。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I need to hear a new expression several times. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「hear / expression / times」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nhear：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexpression：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ntimes：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",

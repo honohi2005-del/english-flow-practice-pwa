@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "206": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる simplest / expression / difficult を、日本語のカタカナ読みから切り離して練習します。simplest：simplest。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 expression：expression。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 difficult：difficult。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Finding the simplest English expression can be difficult. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「simplest / expression / difficult」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsimplest：l は舌先を上の歯ぐきに軽く触れます。\nexpression：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndifficult：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "207": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる want / express / several を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 express：express /ɪkˈsprɛs/。ex- は /ɪk/、/spr/ は一塊、-press を強く。末尾 /s/ の後ろに「ス」を別拍で足さず息だけで止めます。 several：several。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to express the same idea in several ways. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / express / several」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nexpress：アクセントのある音を少し長く、ほかは軽く流します。\nseveral：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "208": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる learning / direct / indirect を、日本語のカタカナ読みから切り離して練習します。learning：learning /ˈlɝːnɪŋ/。/l/ を明確にし、/ɝː/ を保ちます。末尾は /nɪŋ/ とし、/ŋ/ の後ろに「グ」を付けません。 direct：direct。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 indirect：indirect。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I’m learning when to be direct and when to be indirect. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「learning / direct / indirect」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlearning：ng は舌の奥で止め、最後の /g/ を強く出しません。\ndirect：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nindirect：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "209": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる want / explanations / repetitive を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 explanations：explanations。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 repetitive：repetitive。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want my explanations to sound less repetitive. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / explanations / repetitive」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nexplanations：l は舌先を上の歯ぐきに軽く触れます。\nrepetitive：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "210": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる trying / avoid / sentences を、日本語のカタカナ読みから切り離して練習します。trying：trying。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 avoid：avoid。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 sentences：sentences。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I’m trying to avoid long sentences with too many ideas. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「trying / avoid / sentences」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntrying：r は舌先を歯ぐきに付けず、口の奥で響かせます。\navoid：f / v は下唇を上の歯に軽く触れ、母音を足しません。\nsentences：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",

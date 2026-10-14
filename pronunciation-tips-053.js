@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "261": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる create / comfortable / students を、日本語のカタカナ読みから切り離して練習します。create：create。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 comfortable：comfortable /ˈkʌmftərbəl/。「コン・フォー・タ・ブ・ル」と5拍にせず、/kʌmf/ と /tərbəl/ の2つの塊にします。真ん中の母音を削り、語尾の -ble を「ブル」と独立させず /bəl/ で弱く閉じます。 students：students。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I try to create a comfortable atmosphere for my students. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「create / comfortable / students」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncreate：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ncomfortable：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nstudents：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "262": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる Students / freely / feel を、日本語のカタカナ読みから切り離して練習します。Students：Students。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 freely：freely。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 feel：feel。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Students speak more freely when they feel safe. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Students / freely / feel」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nStudents：アクセントのある音を少し長く、ほかは軽く流します。\nfreely：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nfeel：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "263": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる Mistakes / learning / opportunities を、日本語のカタカナ読みから切り離して練習します。Mistakes：Mistakes。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 learning：learning /ˈlɝːnɪŋ/。/l/ を明確にし、/ɝː/ を保ちます。末尾は /nɪŋ/ とし、/ŋ/ の後ろに「グ」を付けません。 opportunities：opportunities /ˌɑpərˈtuːnətiz/。oppor- は弱く、-tune- を最も長く明確にします。最後の -ties は「ティーズ」と強調せず、/tiz/ を軽く添えます。 Mistakes can be useful learning opportunities. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Mistakes / learning / opportunities」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nMistakes：アクセントのある音を少し長く、ほかは軽く流します。\nlearning：ng は舌の奥で止め、最後の /g/ を強く出しません。\nopportunities：この語は語尾に母音を足さず、最後の子音で短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "264": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる Feedback / specific / encouraging を、日本語のカタカナ読みから切り離して練習します。Feedback：Feedback。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 specific：specific /spəˈsɪfɪk/。/sp/ を一塊にして語頭に母音を足しません。-ci- の /sɪ/ を強くし、最後の /fɪk/ を「フィ・ク」と二拍にせず止めます。 encouraging：encouraging。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Feedback should be specific and encouraging. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Feedback / specific / encouraging」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nFeedback：アクセントのある音を少し長く、ほかは軽く流します。\nspecific：アクセントのある音を少し長く、ほかは軽く流します。\nencouraging：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "265": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる students / understand / something を、日本語のカタカナ読みから切り離して練習します。students：students。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 understand：understand /ˌʌndərˈstænd/。under- を強く二語のようにせず、最後の -stand を頂点にします。/st/ と /nd/ の間に母音を入れず、/æ/ を横に広くして語尾を止めます。 something：something。th は舌先を上下の歯の間に少し出し、/θ/ は息だけ、/ð/ は声を加えます。「ス」「ザ」に置き換えません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want students to understand why something is wrong. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「students / understand / something」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nstudents：アクセントのある音を少し長く、ほかは軽く流します。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。\nsomething：th は舌先を歯の間に少し出し、息（または声）を添えます。"
     },
     {
       "label": "日本語訛りになりやすい音",

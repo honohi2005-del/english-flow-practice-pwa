@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "66": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる I / listening / thoughtful を、日本語のカタカナ読みから切り離して練習します。I：I。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 listening：listening /ˈlɪsənɪŋ/。最初の /l/ は舌先を歯ぐきに触れ、次の /sən/ を弱くします。末尾 /ŋ/ は舌の奥だけで止め、/g/ を破裂させません。 thoughtful：thoughtful /ˈθɔtfəl/。/θ/ は舌先を上下の歯の間に少し出し、息だけを通します。「ソ」や「ト」から始めません。-ful は /fəl/ と弱く、最後に「フル」の母音を伸ばしません。 I enjoy listening to thoughtful discussions. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「I / listening / thoughtful」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nI：アクセントのある音を少し長く、ほかは軽く流します。\nlistening：ng は舌の奥で止め、最後の /g/ を強く出しません。\nthoughtful：th は舌先を歯の間に少し出し、息（または声）を添えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "67": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる like / reconsider / assumptions を、日本語のカタカナ読みから切り離して練習します。like：like。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 reconsider：reconsider。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 assumptions：assumptions。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I like ideas that make me reconsider my assumptions. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「like / reconsider / assumptions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlike：l は舌先を上の歯ぐきに軽く触れます。\nreconsider：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nassumptions：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "68": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる opinion / hearing / explanation を、日本語のカタカナ読みから切り離して練習します。opinion：opinion /əˈpɪnjən/。最初の /ə/ は曖昧母音で弱く、/pɪn/ を強くします。/njən/ を「ニ・ヨン」と分けず一続きにします。 hearing：hearing。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 explanation：explanation /ˌɛkspləˈneɪʃən/。/ɛkspl/ を「エ・クス・プル」と分けず一塊にし、-na- の /neɪ/ を強くします。最後 /ʃən/ を軽く添えます。 I sometimes change my opinion after hearing a good explanation. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「opinion / hearing / explanation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nopinion：アクセントのある音を少し長く、ほかは軽く流します。\nhearing：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexplanation：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "69": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる want / look / perspectives を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 look：look。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 perspectives：perspectives /pərˈspɛktɪvz/。per- は /pər/ と弱く、/sp/ を一塊にして -spec- を強くします。語尾 /tɪvz/ は「ティ・ブズ」と分解せず、/v/ を声付きで短く終えます。 I want to look at an issue from several perspectives. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / look / perspectives」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nlook：l は舌先を上の歯ぐきに軽く触れます。\nperspectives：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "70": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる try / facts / impressions を、日本語のカタカナ読みから切り離して練習します。try：try。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 facts：facts。続く子音の間に「ウ」「オ」などの母音を挿入せず、子音を連続させます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 impressions：impressions。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I try to separate facts from impressions. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「try / facts / impressions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntry：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nfacts：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nimpressions：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",

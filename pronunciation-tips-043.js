@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "211": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる example / general / stronger を、日本語のカタカナ読みから切り離して練習します。example：example /ɪɡˈzæmpəl/。語頭 /ɪɡ/ は弱く、/zæm/ を強くします。/pəl/ は「プル」と母音を足さず、/p/ からすぐ弱い /əl/ へ移ります。 general：general /ˈdʒenərəl/。最初の /dʒen/ を強く、後半の /ərəl/ を一気に弱くします。「ジェ・ネ・ラ・ル」と4つに刻まず、2〜3拍で語尾を軽く流します。 stronger：stronger。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 A clear example can make a general point stronger. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「example / general / stronger」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexample：アクセントのある音を少し長く、ほかは軽く流します。\ngeneral：アクセントのある音を少し長く、ほかは軽く流します。\nstronger：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "212": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる understand / better / discussing を、日本語のカタカナ読みから切り離して練習します。understand：understand /ˌʌndərˈstænd/。under- を強く二語のようにせず、最後の -stand を頂点にします。/st/ と /nd/ の間に母音を入れず、/æ/ を横に広くして語尾を止めます。 better：better。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 discussing：discussing。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I usually understand an idea better after discussing it. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「understand / better / discussing」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。\nbetter：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndiscussing：ng は舌の奥で止め、最後の /g/ を強く出しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "213": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる questions / make / think を、日本語のカタカナ読みから切り離して練習します。questions：questions。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 make：make。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 think：think。th は舌先を上下の歯の間に少し出し、/θ/ は息だけ、/ð/ は声を加えます。「ス」「ザ」に置き換えません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I like questions that make me think. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「questions / make / think」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nquestions：-tion は「ション」と一拍で軽く収めます。\nmake：アクセントのある音を少し長く、ほかは軽く流します。\nthink：th は舌先を歯の間に少し出し、息（または声）を添えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "214": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる sometimes / specific / question を、日本語のカタカナ読みから切り離して練習します。sometimes：sometimes。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 specific：specific /spəˈsɪfɪk/。/sp/ を一塊にして語頭に母音を足しません。-ci- の /sɪ/ を強くし、最後の /fɪk/ を「フィ・ク」と二拍にせず止めます。 question：question /ˈkwɛstʃən/。/kw/ を「ク・ウ」と二拍にせず唇を丸めたまま /ɛ/ へ。/stʃ/ を一塊にし、-tion は /ʃən/ で弱く終えます。 I sometimes need a more specific question. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「sometimes / specific / question」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\nspecific：アクセントのある音を少し長く、ほかは軽く流します。\nquestion：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "215": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる questions / difficult / answer を、日本語のカタカナ読みから切り離して練習します。questions：questions。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 difficult：difficult。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 answer：answer /ˈænsər/。/æ/ を横に開き、/ns/ の間に母音を入れません。語尾 r は舌先を付けず、/ər/ を弱く添えます。 Broad questions can be difficult to answer quickly. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「questions / difficult / answer」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nquestions：-tion は「ション」と一拍で軽く収めます。\ndifficult：l は舌先を上の歯ぐきに軽く触れます。\nanswer：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",

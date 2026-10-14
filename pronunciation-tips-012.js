@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "56": [
     {
       "label": "重点語の口の形",
-      "text": "この文は日常生活・移動についての発話です。まず意味の中心になる sometimes / plans / minute を、日本語のカタカナ読みから切り離して練習します。sometimes：sometimes。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 plans：plans。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 minute：minute。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I sometimes change my plans at the last minute. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「sometimes / plans / minute」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\nplans：l は舌先を上の歯ぐきに軽く触れます。\nminute：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "57": [
     {
       "label": "重点語の口の形",
-      "text": "この文は日常生活・移動についての発話です。まず意味の中心になる museums / help / differently を、日本語のカタカナ読みから切り離して練習します。museums：museums。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 help：help。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 differently：differently。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I enjoy museums because they help me see history differently. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「museums / help / differently」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nmuseums：アクセントのある音を少し長く、ほかは軽く流します。\nhelp：l は舌先を上の歯ぐきに軽く触れます。\ndifferently：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "58": [
     {
       "label": "重点語の口の形",
-      "text": "この文は日常生活・移動についての発話です。まず意味の中心になる walking / without / destination を、日本語のカタカナ読みから切り離して練習します。walking：walking。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 without：without。th は舌先を上下の歯の間に少し出し、/θ/ は息だけ、/ð/ は声を加えます。「ス」「ザ」に置き換えません。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 destination：destination。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I like walking around a city without a fixed destination. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「walking / without / destination」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwalking：l は舌先を上の歯ぐきに軽く触れます。\nwithout：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\ndestination：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "59": [
     {
       "label": "重点語の口の形",
-      "text": "この文は日常生活・移動についての発話です。まず意味の中心になる photos / something / attention を、日本語のカタカナ読みから切り離して練習します。photos：photos。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 something：something。th は舌先を上下の歯の間に少し出し、/θ/ は息だけ、/ð/ は声を加えます。「ス」「ザ」に置き換えません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 attention：attention。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I take photos when something catches my attention. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「photos / something / attention」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nphotos：アクセントのある音を少し長く、ほかは軽く流します。\nsomething：th は舌先を歯の間に少し出し、息（または声）を添えます。\nattention：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "60": [
     {
       "label": "重点語の口の形",
-      "text": "この文は日常生活・移動についての発話です。まず意味の中心になる Travel / opportunities / English を、日本語のカタカナ読みから切り離して練習します。Travel：Travel。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 opportunities：opportunities /ˌɑpərˈtuːnətiz/。oppor- は弱く、-tune- を最も長く明確にします。最後の -ties は「ティーズ」と強調せず、/tiz/ を軽く添えます。 English：English。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Travel gives me opportunities to use English. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Travel / opportunities / English」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nTravel：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nopportunities：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nEnglish：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",

@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "91": [
     {
       "label": "重点語の口の形",
-      "text": "この文は学習方法・習慣についての発話です。まず意味の中心になる mistakes / show / practice を、日本語のカタカナ読みから切り離して練習します。mistakes：mistakes。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 show：show。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 practice：practice /ˈpræktɪs/。/pr/ を「プ・ラ」と分けず、/æ/ を横に開きます。/kt/ を /k/ から /t/ へ直結し、最後の /s/ の後ろに母音を足しません。 I believe mistakes can show me what to practice next. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「mistakes / show / practice」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nmistakes：アクセントのある音を少し長く、ほかは軽く流します。\nshow：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\npractice：子音が続くところは、間に母音を足さず一息でつなぎます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "92": [
     {
       "label": "重点語の口の形",
-      "text": "この文は学習方法・習慣についての発話です。まず意味の中心になる want / comfortable / uncertainty を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 comfortable：comfortable /ˈkʌmftərbəl/。「コン・フォー・タ・ブ・ル」と5拍にせず、/kʌmf/ と /tərbəl/ の2つの塊にします。真ん中の母音を削り、語尾の -ble を「ブル」と独立させず /bəl/ で弱く閉じます。 uncertainty：uncertainty。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to become more comfortable with uncertainty. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / comfortable / uncertainty」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\ncomfortable：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nuncertainty：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "93": [
     {
       "label": "重点語の口の形",
-      "text": "この文は学習方法・習慣についての発話です。まず意味の中心になる sometimes / worry / unnatural を、日本語のカタカナ読みから切り離して練習します。sometimes：sometimes。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 worry：worry。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 unnatural：unnatural。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I sometimes worry about sounding unnatural. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「sometimes / worry / unnatural」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\nworry：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nunnatural：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "94": [
     {
       "label": "重点語の口の形",
-      "text": "この文は学習方法・習慣についての発話です。まず意味の中心になる trying / sentence / perfect を、日本語のカタカナ読みから切り離して練習します。trying：trying。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 sentence：sentence /ˈsɛntəns/。/sɛn/ を強くし、中央 /təns/ を弱く。/nt/ を「ン・ト」と分けず、語尾 /ns/ を子音のまま止めます。 perfect：perfect。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I’m trying to speak even when my sentence is not perfect. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「trying / sentence / perfect」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntrying：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nsentence：アクセントのある音を少し長く、ほかは軽く流します。\nperfect：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "95": [
     {
       "label": "重点語の口の形",
-      "text": "この文は学習方法・習慣についての発話です。まず意味の中心になる want / clarification / naturally を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 clarification：clarification。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 naturally：naturally。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to ask for clarification more naturally. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / clarification / naturally」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nclarification：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nnaturally：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",

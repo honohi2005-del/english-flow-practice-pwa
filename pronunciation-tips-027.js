@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "131": [
     {
       "label": "重点語の口の形",
-      "text": "この文は経験・内省についての発話です。まず意味の中心になる often / small / experiences を、日本語のカタカナ読みから切り離して練習します。often：often。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 small：small。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 experiences：experiences /ɪkˈspɪriənsɪz/。語頭の ex- は「エックス」と母音を二つ置かず /ɪk/。/sp/ を一塊にして -spee- を強くし、複数語尾 /ɪz/ は「イズ」と独立させず前に密着させます。 I often learn from small everyday experiences. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「often / small / experiences」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\noften：アクセントのある音を少し長く、ほかは軽く流します。\nsmall：l は舌先を上の歯ぐきに軽く触れます。\nexperiences：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "132": [
     {
       "label": "重点語の口の形",
-      "text": "この文は経験・内省についての発話です。まず意味の中心になる situation / reveal / matters を、日本語のカタカナ読みから切り離して練習します。situation：situation。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 reveal：reveal。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 matters：matters。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 A difficult situation can reveal what really matters. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「situation / reveal / matters」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsituation：-tion は「ション」と一拍で軽く収めます。\nreveal：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nmatters：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "133": [
     {
       "label": "重点語の口の形",
-      "text": "この文は経験・内省についての発話です。まず意味の中心になる describe / happened / evaluate を、日本語のカタカナ読みから切り離して練習します。describe：describe。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 happened：happened。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 evaluate：evaluate。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I try to describe what happened before I evaluate it. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「describe / happened / evaluate」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ndescribe：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nhappened：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nevaluate：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "134": [
     {
       "label": "重点語の口の形",
-      "text": "この文は経験・内省についての発話です。まず意味の中心になる understand / problem / background を、日本語のカタカナ読みから切り離して練習します。understand：understand /ˌʌndərˈstænd/。under- を強く二語のようにせず、最後の -stand を頂点にします。/st/ と /nd/ の間に母音を入れず、/æ/ を横に広くして語尾を止めます。 problem：problem /ˈprɑbləm/。/pr/ を一塊にし、/ɑ/ を広く。語尾 /bləm/ を「ブ・レ・ム」と刻まず、/b/ から弱い /ləm/ へつなぎます。 background：background。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。続く子音の間に「ウ」「オ」などの母音を挿入せず、子音を連続させます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 It is easier to understand a problem when I know its background. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「understand / problem / background」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。\nproblem：子音が続くところは、間に母音を足さず一息でつなぎます。\nbackground：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "135": [
     {
       "label": "重点語の口の形",
-      "text": "この文は経験・内省についての発話です。まず意味の中心になる want / explain / happened を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 explain：explain /ɪkˈspleɪn/。ex- は /ɪk/ と弱く、/spl/ を「ス・プ・ル」と分けません。/eɪn/ を一息で伸ばし、最後の /n/ の後ろに母音を足しません。 happened：happened。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to explain not only what happened but also why. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / explain / happened」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nhappened：語尾の -ed は「エッド」と一拍にせず、短く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",

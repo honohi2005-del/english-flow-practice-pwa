@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "296": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる Social / usually / than を、日本語のカタカナ読みから切り離して練習します。Social：Social。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 usually：usually /ˈjuːʒuəli/。最初の /juː/ を強くし、/ʒ/ を日本語の「ジュ」と母音付きで二度言いません。後半を弱くつないで、最後の /li/ を短くします。 than：than。th は舌先を上下の歯の間に少し出し、/θ/ は息だけ、/ð/ は声を加えます。「ス」「ザ」に置き換えません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Social problems usually have more than one cause. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Social / usually / than」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nSocial：l は舌先を上の歯ぐきに軽く触れます。\nusually：アクセントのある音を少し長く、ほかは軽く流します。\nthan：th は舌先を歯の間に少し出し、息（または声）を添えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "297": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる Individual / different / general を、日本語のカタカナ読みから切り離して練習します。Individual：Individual /ˌɪndəˈvɪdʒuəl/。アクセントは -vid- です。in-di- を弱く短くし、/dʒuəl/ を「ジュ・ア・ル」と分解せず、唇を丸めたまま一続きにします。 different：different /ˈdɪfrənt/。3拍の「ディファレント」にせず、/dɪf/ と /rənt/ の2つに圧縮します。/f/ の摩擦を保ったまま、真ん中の /ə/ を弱くし、最後の /t/ は破裂させず舌先で止めます。 general：general /ˈdʒenərəl/。最初の /dʒen/ を強く、後半の /ərəl/ を一気に弱くします。「ジェ・ネ・ラ・ル」と4つに刻まず、2〜3拍で語尾を軽く流します。 Individual experiences can be different from general trends. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Individual / different / general」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nIndividual：アクセントのある音を少し長く、ほかは軽く流します。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。\ngeneral：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "298": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる consider / short / effects を、日本語のカタカナ読みから切り離して練習します。consider：consider。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 short：short。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 effects：effects。続く子音の間に「ウ」「オ」などの母音を挿入せず、子音を連続させます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 We need to consider both short-term and long-term effects. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「consider / short / effects」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nconsider：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nshort：r は舌先を歯ぐきに付けず、口の奥で響かせます。\neffects：この語は語尾に母音を足さず、最後の子音で短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "299": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる balanced / discussion / concrete を、日本語のカタカナ読みから切り離して練習します。balanced：balanced。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 discussion：discussion /dɪˈskʌʃən/。語頭 /dɪ/ を弱く、/skʌʃ/ を強く。/sk/ を「ス・ク」と分けず、-tion を /ʃən/ で軽く終えます。 concrete：concrete /ˈkɑnkriːt/。con- を「コン」と日本語の /o/ で丸くしすぎず、/kɑn/ から /kriːt/ へ。/kr/ を「ク・リ」と分けず、語尾 /t/ を無開放で止めます。 A balanced discussion should include concrete examples. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「balanced / discussion / concrete」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nbalanced：l は舌先を上の歯ぐきに軽く触れます。\ndiscussion：-tion は「ション」と一拍で軽く収めます。\nconcrete：語尾の /t/ は強く破裂させず、舌先で止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "300": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる want / thoughtful / natural を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 thoughtful：thoughtful /ˈθɔtfəl/。/θ/ は舌先を上下の歯の間に少し出し、息だけを通します。「ソ」や「ト」から始めません。-ful は /fəl/ と弱く、最後に「フル」の母音を伸ばしません。 natural：natural /ˈnætʃərəl/。/næ/ を横に開き、/tʃ/ を「チャ」と母音で引き延ばしません。語尾 /ərəl/ は弱く、3拍程度で流します。 I want to express thoughtful ideas in clear, natural English. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / thoughtful / natural」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nthoughtful：th は舌先を歯の間に少し出し、息（または声）を添えます。\nnatural：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",

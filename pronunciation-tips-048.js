@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "236": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる want / stories / clear を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 stories：stories。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 clear：clear。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want my stories to have a clear beginning and ending. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / stories / clear」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nstories：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nclear：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "237": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる explain / happened / opinion を、日本語のカタカナ読みから切り離して練習します。explain：explain /ɪkˈspleɪn/。ex- は /ɪk/ と弱く、/spl/ を「ス・プ・ル」と分けません。/eɪn/ を一息で伸ばし、最後の /n/ の後ろに母音を足しません。 happened：happened。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 opinion：opinion /əˈpɪnjən/。最初の /ə/ は曖昧母音で弱く、/pɪn/ を強くします。/njən/ を「ニ・ヨン」と分けず一続きにします。 I try to explain what happened before I give my opinion. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「explain / happened / opinion」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nhappened：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nopinion：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "238": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる want / important / stand を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 important：important /ɪmˈpɔrtənt/。im- は弱く、-por- を強くします。語尾 /tənt/ の /t/ は二度とも破裂させず、最後に「ト」を独立させません。 stand：stand。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to make the important part stand out. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / important / stand」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nimportant：語尾の /t/ は強く破裂させず、舌先で止めます。\nstand：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "239": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる sometimes / details / necessary を、日本語のカタカナ読みから切り離して練習します。sometimes：sometimes。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 details：details /ˈdiːteɪlz/。/diː/ を強く長くし、/teɪlz/ を一続きにします。末尾 /lz/ を「ルズ」と二拍にせず、/l/ から /z/ へ直行します。 necessary：necessary /ˈnɛsəˌsɛri/。最初の /nɛ/ を強く、二つ目の /sə/ を弱くします。語尾の /ri/ は日本語の「リー」と長くせず、舌先を浮かせた英語の r で短く終えます。 I sometimes include details that are not necessary. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「sometimes / details / necessary」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\ndetails：アクセントのある音を少し長く、ほかは軽く流します。\nnecessary：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "240": [
     {
       "label": "重点語の口の形",
-      "text": "この文は説明・議論の展開についての発話です。まず意味の中心になる learning / choose / details を、日本語のカタカナ読みから切り離して練習します。learning：learning /ˈlɝːnɪŋ/。/l/ を明確にし、/ɝː/ を保ちます。末尾は /nɪŋ/ とし、/ŋ/ の後ろに「グ」を付けません。 choose：choose。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 details：details /ˈdiːteɪlz/。/diː/ を強く長くし、/teɪlz/ を一続きにします。末尾 /lz/ を「ルズ」と二拍にせず、/l/ から /z/ へ直行します。 I’m learning to choose the most relevant details. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「learning / choose / details」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlearning：ng は舌の奥で止め、最後の /g/ を強く出しません。\nchoose：アクセントのある音を少し長く、ほかは軽く流します。\ndetails：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",

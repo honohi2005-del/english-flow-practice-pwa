@@ -367,22 +367,12 @@ const PREGENERATED_AUDIO_ROOT = "./audio/tts/google-en-US";
   function mergeOpeningTips(tips) {
     if (!Array.isArray(tips) || tips.length < 2) return tips;
 
-    const [first, second, ...rest] = tips;
-    if (!first || !second) return tips;
+    const [first, , ...rest] = tips;
+    if (!first) return tips;
 
-    const mergedText = [
-      first.label ? "【" + first.label + "】" : "",
-      first.text || "",
-      second.label ? "【" + second.label + "】" : "",
-      second.text || ""
-    ]
-      .filter(Boolean)
-      .join("\n\n");
-
-    return [
-      { label: "発音ポイント", text: mergedText },
-      ...rest
-    ];
+    // Advice 1 is authored as the concise, sentence-specific opening tip.
+    // Keep it intact and omit the legacy second block to avoid duplicated guidance.
+    return [first, ...rest];
   }
 
   function buildFlow(text, index) {

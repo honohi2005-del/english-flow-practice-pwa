@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "106": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる Older / younger / different を、日本語のカタカナ読みから切り離して練習します。Older：Older。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 younger：younger。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 different：different /ˈdɪfrənt/。3拍の「ディファレント」にせず、/dɪf/ と /rənt/ の2つに圧縮します。/f/ の摩擦を保ったまま、真ん中の /ə/ を弱くし、最後の /t/ は破裂させず舌先で止めます。 Older people and younger people may value different things. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Older / younger / different」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nOlder：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nyounger：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "107": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる expectations / influence / choices を、日本語のカタカナ読みから切り離して練習します。expectations：expectations。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 influence：influence。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 choices：choices。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Social expectations can influence personal choices. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「expectations / influence / choices」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexpectations：-tion は「ション」と一拍で軽く収めます。\ninfluence：l は舌先を上の歯ぐきに軽く触れます。\nchoices：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "108": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる relationships / shaped / factors を、日本語のカタカナ読みから切り離して練習します。relationships：relationships。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 shaped：shaped。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 factors：factors。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Family relationships are shaped by many factors. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「relationships / shaped / factors」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nrelationships：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nshaped：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nfactors：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "109": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる difficult / define / successful を、日本語のカタカナ読みから切り離して練習します。difficult：difficult。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 define：define。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 successful：successful。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。続く子音の間に「ウ」「オ」などの母音を挿入せず、子音を連続させます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 It is difficult to define a successful life. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「difficult / define / successful」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ndifficult：l は舌先を上の歯ぐきに軽く触れます。\ndefine：アクセントのある音を少し長く、ほかは軽く流します。\nsuccessful：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "110": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる People / stability / freedom を、日本語のカタカナ読みから切り離して練習します。People：People。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 stability：stability。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 freedom：freedom。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 People need both stability and freedom. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「People / stability / freedom」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nPeople：l は舌先を上の歯ぐきに軽く触れます。\nstability：l は舌先を上の歯ぐきに軽く触れます。\nfreedom：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",

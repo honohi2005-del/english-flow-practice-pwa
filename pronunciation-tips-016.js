@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "76": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる communication / than / grammar を、日本語のカタカナ読みから切り離して練習します。communication：communication /kəˌmjuːnəˈkeɪʃən/。com- を「コミ」と母音で切らず /kə/。-mu- は /mjuː/ と y を含め、-ca- の /keɪ/ を強くし、最後の /ʃən/ を弱く添えます。 than：than。th は舌先を上下の歯の間に少し出し、/θ/ は息だけ、/ð/ は声を加えます。「ス」「ザ」に置き換えません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 grammar：grammar /ˈɡræmər/。/ɡræm/ を強くし、/æ/ を「ア」に寄せず横に開きます。語尾 /ər/ を「マー」と伸ばさず弱く閉じます。 I think communication requires more than correct grammar. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「communication / than / grammar」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncommunication：-tion は「ション」と一拍で軽く収めます。\nthan：th は舌先を歯の間に少し出し、息（または声）を添えます。\ngrammar：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "77": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる conversation / both / speakers を、日本語のカタカナ読みから切り離して練習します。conversation：conversation /ˌkɑnvərˈseɪʃən/。con- は弱く、-ver- は /vər/ と短く、-sa- の /seɪ/ を強くします。/v/ を /b/ にせず、-tion を「ション」と一拍で終えます。 both：both。th は舌先を上下の歯の間に少し出し、/θ/ は息だけ、/ð/ は声を加えます。「ス」「ザ」に置き換えません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 speakers：speakers /ˈspiːkərz/。/sp/ を一塊にして /iː/ を長く。語尾 /ərz/ は「カー・ズ」と切らず、r を浮かせて /z/ まで密着させます。 A good conversation depends on both speakers. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「conversation / both / speakers」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nconversation：-tion は「ション」と一拍で軽く収めます。\nboth：th は舌先を歯の間に少し出し、息（または声）を添えます。\nspeakers：語尾の /z/ は母音を足さず、声を残して短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "78": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる listen / speaker’s / intention を、日本語のカタカナ読みから切り離して練習します。listen：listen。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 speaker’s：speaker’s。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 intention：intention。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I try to listen for the speaker’s real intention. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「listen / speaker’s / intention」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlisten：l は舌先を上の歯ぐきに軽く触れます。\nspeaker’s：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nintention：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "79": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる interested / people / unsaid を、日本語のカタカナ読みから切り離して練習します。interested：interested。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 people：people。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 unsaid：unsaid。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I’m interested in what people leave unsaid. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「interested / people / unsaid」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ninterested：r は舌先を歯ぐきに付けず、口の奥で響かせます。\npeople：l は舌先を上の歯ぐきに軽く触れます。\nunsaid：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "80": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教育・技術・文化についての発話です。まず意味の中心になる changes / wording / impression を、日本語のカタカナ読みから切り離して練習します。changes：changes。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 wording：wording。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 impression：impression。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Small changes in wording can affect the whole impression. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「changes / wording / impression」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nchanges：ng は舌の奥で止め、最後の /g/ を強く出しません。\nwording：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nimpression：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",

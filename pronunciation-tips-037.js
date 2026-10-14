@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "181": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる interested / speakers / answer を、日本語のカタカナ読みから切り離して練習します。interested：interested。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 speakers：speakers /ˈspiːkərz/。/sp/ を一塊にして /iː/ を長く。語尾 /ərz/ は「カー・ズ」と切らず、r を浮かせて /z/ まで密着させます。 answer：answer /ˈænsər/。/æ/ を横に開き、/ns/ の間に母音を入れません。語尾 r は舌先を付けず、/ər/ を弱く添えます。 I’m interested in how native speakers organize an answer. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「interested / speakers / answer」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ninterested：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nspeakers：語尾の /z/ は母音を足さず、声を残して短く閉じます。\nanswer：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "182": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる change / message / understood を、日本語のカタカナ読みから切り離して練習します。change：change。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 message：message /ˈmɛsɪdʒ/。最初の /mɛ/ を強くし、語尾 /dʒ/ は「ジ」と母音で伸ばさず、声を止める直前に一度だけ閉じます。 understood：understood。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 The order of ideas can change how a message is understood. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「change / message / understood」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nchange：ng は舌の奥で止め、最後の /g/ を強く出しません。\nmessage：アクセントのある音を少し長く、ほかは軽く流します。\nunderstood：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "183": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる want / connection / sentences を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 connection：connection。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 sentences：sentences。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to make the connection between my sentences clearer. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / connection / sentences」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nconnection：-tion は「ション」と一拍で軽く収めます。\nsentences：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "184": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる Sometimes / answer / incomplete を、日本語のカタカナ読みから切り離して練習します。Sometimes：Sometimes。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 answer：answer /ˈænsər/。/æ/ を横に開き、/ns/ の間に母音を入れません。語尾 r は舌先を付けず、/ər/ を弱く添えます。 incomplete：incomplete。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Sometimes my answer is correct but feels incomplete. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Sometimes / answer / incomplete」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nSometimes：アクセントのある音を少し長く、ほかは軽く流します。\nanswer：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nincomplete：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "185": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる give / background / conclusion を、日本語のカタカナ読みから切り離して練習します。give：give。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 background：background。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。続く子音の間に「ウ」「オ」などの母音を挿入せず、子音を連続させます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 conclusion：conclusion。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I need to give more background before my conclusion. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「give / background / conclusion」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ngive：f / v は下唇を上の歯に軽く触れ、母音を足しません。\nbackground：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nconclusion：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",

@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "241": [
     {
       "label": "重点語の口の形",
-      "text": "この文は実際の会話での配慮についての発話です。まず意味の中心になる explaining / word / certain を、日本語のカタカナ読みから切り離して練習します。explaining：explaining。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 word：word。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 certain：certain。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I like explaining why a word is used in a certain context. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「explaining / word / certain」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexplaining：l は舌先を上の歯ぐきに軽く触れます。\nword：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ncertain：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "242": [
     {
       "label": "重点語の口の形",
-      "text": "この文は実際の会話での配慮についての発話です。まず意味の中心になる dictionary / definition / always を、日本語のカタカナ読みから切り離して練習します。dictionary：dictionary。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 definition：definition。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 always：always。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 A dictionary definition is not always enough. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「dictionary / definition / always」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ndictionary：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndefinition：-tion は「ション」と一拍で軽く収めます。\nalways：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "243": [
     {
       "label": "重点語の口の形",
-      "text": "この文は実際の会話での配慮についての発話です。まず意味の中心になる Learners / know / expression を、日本語のカタカナ読みから切り離して練習します。Learners：Learners。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 know：know。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 expression：expression。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Learners need to know how an expression sounds. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Learners / know / expression」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nLearners：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nknow：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nexpression：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "244": [
     {
       "label": "重点語の口の形",
-      "text": "この文は実際の会話での配慮についての発話です。まず意味の中心になる expressions / correct / common を、日本語のカタカナ読みから切り離して練習します。expressions：expressions /ɪkˈsprɛʃənz/。ex- を「エックス」と二拍にせず /ɪk/。/spr/ を一塊にし、-sion は /ʃən/、複数 /z/ は最後に短く添えます。 correct：correct。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 common：common。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Some expressions are correct but not very common. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「expressions / correct / common」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexpressions：-tion は「ション」と一拍で軽く収めます。\ncorrect：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ncommon：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "245": [
     {
       "label": "重点語の口の形",
-      "text": "この文は実際の会話での配慮についての発話です。まず意味の中心になる phrases / useful / conversations を、日本語のカタカナ読みから切り離して練習します。phrases：phrases。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 useful：useful。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 conversations：conversations。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to know which phrases are useful in real conversations. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「phrases / useful / conversations」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nphrases：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nuseful：l は舌先を上の歯ぐきに軽く触れます。\nconversations：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",

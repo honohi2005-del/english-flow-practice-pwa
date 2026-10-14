@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "161": [
     {
       "label": "重点語の口の形",
-      "text": "この文は語彙・表現の使い分けについての発話です。まず意味の中心になる sure / express / English を、日本語のカタカナ読みから切り離して練習します。sure：sure。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 express：express /ɪkˈsprɛs/。ex- は /ɪk/、/spr/ は一塊、-press を強く。末尾 /s/ の後ろに「ス」を別拍で足さず息だけで止めます。 English：English。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I’m not sure how to express this idea in English. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「sure / express / English」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsure：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexpress：アクセントのある音を少し長く、ほかは軽く流します。\nEnglish：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "162": [
     {
       "label": "重点語の口の形",
-      "text": "この文は語彙・表現の使い分けについての発話です。まず意味の中心になる know / word / sure を、日本語のカタカナ読みから切り離して練習します。know：know。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 word：word。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 sure：sure。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I know the word, but I’m not sure how to use it. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「know / word / sure」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nknow：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nword：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nsure：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "163": [
     {
       "label": "重点語の口の形",
-      "text": "この文は語彙・表現の使い分けについての発話です。まず意味の中心になる expression / little / conversation を、日本語のカタカナ読みから切り離して練習します。expression：expression。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 little：little。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 conversation：conversation /ˌkɑnvərˈseɪʃən/。con- は弱く、-ver- は /vər/ と短く、-sa- の /seɪ/ を強くします。/v/ を /b/ にせず、-tion を「ション」と一拍で終えます。 This expression sounds a little too formal for conversation. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「expression / little / conversation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexpression：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nlittle：l は舌先を上の歯ぐきに軽く触れます。\nconversation：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "164": [
     {
       "label": "重点語の口の形",
-      "text": "この文は語彙・表現の使い分けについての発話です。まず意味の中心になる natural / way / say を、日本語のカタカナ読みから切り離して練習します。natural：natural /ˈnætʃərəl/。/næ/ を横に開き、/tʃ/ を「チャ」と母音で引き延ばしません。語尾 /ərəl/ は弱く、3拍程度で流します。 way：way。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 say：say。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Is there a more natural way to say this? を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「natural / way / say」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nnatural：最後の /tʃ/ は「チ」と母音を足さず、息で短く閉じます。\nway：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nsay：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "165": [
     {
       "label": "重点語の口の形",
-      "text": "この文は語彙・表現の使い分けについての発話です。まず意味の中心になる What / difference / expressions を、日本語のカタカナ読みから切り離して練習します。What：What。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 difference：difference。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 expressions：expressions /ɪkˈsprɛʃənz/。ex- を「エックス」と二拍にせず /ɪk/。/spr/ を一塊にし、-sion は /ʃən/、複数 /z/ は最後に短く添えます。 What is the difference between these two expressions? を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「What / difference / expressions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nWhat：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\ndifference：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nexpressions：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",

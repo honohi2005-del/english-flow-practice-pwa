@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "266": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる want / know / improve を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 know：know。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 improve：improve /ɪmˈpruːv/。im- は弱く、/pr/ を一塊にして -prove を強くします。語尾 /v/ は上の歯を下唇に軽く当てて声を残し、「ブ」と閉じません。 I also want them to know how to improve it. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / know / improve」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nknow：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nimprove：f / v は下唇を上の歯に軽く触れ、母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "267": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる Correction / communication / much を、日本語のカタカナ読みから切り離して練習します。Correction：Correction。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 communication：communication /kəˌmjuːnəˈkeɪʃən/。com- を「コミ」と母音で切らず /kə/。-mu- は /mjuː/ と y を含め、-ca- の /keɪ/ を強くし、最後の /ʃən/ を弱く添えます。 much：much。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Correction should not interrupt communication too much. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Correction / communication / much」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nCorrection：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ncommunication：-tion は「ション」と一拍で軽く収めます。\nmuch：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "268": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる Students / produce / sentences を、日本語のカタカナ読みから切り離して練習します。Students：Students。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 produce：produce。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 sentences：sentences。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Students need time to produce their own sentences. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Students / produce / sentences」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nStudents：アクセントのある音を少し長く、ほかは軽く流します。\nproduce：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nsentences：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "269": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる try / accuracy / confidence を、日本語のカタカナ読みから切り離して練習します。try：try。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 accuracy：accuracy。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 confidence：confidence /ˈkɑnfədəns/。/kɑn/ を強く、中央 /fədəns/ を弱くします。/f/ を /h/ にせず、語尾 /ns/ を「ンス」と母音付きにしないで止めます。 I try to balance accuracy and confidence. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「try / accuracy / confidence」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ntry：r は舌先を歯ぐきに付けず、口の奥で響かせます。\naccuracy：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nconfidence：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "270": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる lesson / students / think を、日本語のカタカナ読みから切り離して練習します。lesson：lesson。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 students：students。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 think：think。th は舌先を上下の歯の間に少し出し、/θ/ は息だけ、/ð/ は声を加えます。「ス」「ザ」に置き換えません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 A lesson should give students chances to think. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「lesson / students / think」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlesson：l は舌先を上の歯ぐきに軽く触れます。\nstudents：アクセントのある音を少し長く、ほかは軽く流します。\nthink：th は舌先を歯の間に少し出し、息（または声）を添えます。"
     },
     {
       "label": "日本語訛りになりやすい音",

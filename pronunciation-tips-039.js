@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "191": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる want / explain / oversimplifying を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 explain：explain /ɪkˈspleɪn/。ex- は /ɪk/ と弱く、/spl/ を「ス・プ・ル」と分けません。/eɪn/ を一息で伸ばし、最後の /n/ の後ろに母音を足しません。 oversimplifying：oversimplifying。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to explain a cause without oversimplifying it. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / explain / oversimplifying」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\noversimplifying：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "192": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる answer / mention / weaknesses を、日本語のカタカナ読みから切り離して練習します。answer：answer /ˈænsər/。/æ/ を横に開き、/ns/ の間に母音を入れません。語尾 r は舌先を付けず、/ər/ を弱く添えます。 mention：mention。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 weaknesses：weaknesses。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 A balanced answer should mention both strengths and weaknesses. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「answer / mention / weaknesses」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nanswer：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nmention：-tion は「ション」と一拍で軽く収めます。\nweaknesses：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "193": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる distinguish / opinion / fact を、日本語のカタカナ読みから切り離して練習します。distinguish：distinguish。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 opinion：opinion /əˈpɪnjən/。最初の /ə/ は曖昧母音で弱く、/pɪn/ を強くします。/njən/ を「ニ・ヨン」と分けず一続きにします。 fact：fact。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I try to distinguish my personal opinion from a fact. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「distinguish / opinion / fact」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ndistinguish：ng は舌の奥で止め、最後の /g/ を強く出しません。\nopinion：アクセントのある音を少し長く、ほかは軽く流します。\nfact：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "194": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる want / show / suggestion を、日本語のカタカナ読みから切り離して練習します。want：want。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 show：show。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 suggestion：suggestion。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to show when I am making a suggestion. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「want / show / suggestion」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nwant：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nshow：w は唇を丸めてすぐ開き、「ウ」を一拍にしません。\nsuggestion：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "195": [
     {
       "label": "重点語の口の形",
-      "text": "この文は談話の組み立て・丁寧さについての発話です。まず意味の中心になる learning / disagree / politely を、日本語のカタカナ読みから切り離して練習します。learning：learning /ˈlɝːnɪŋ/。/l/ を明確にし、/ɝː/ を保ちます。末尾は /nɪŋ/ とし、/ŋ/ の後ろに「グ」を付けません。 disagree：disagree。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 politely：politely。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I’m learning how to disagree politely. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「learning / disagree / politely」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlearning：ng は舌の奥で止め、最後の /g/ を強く出しません。\ndisagree：r は舌先を歯ぐきに付けず、口の奥で響かせます。\npolitely：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",

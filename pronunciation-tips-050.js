@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "246": [
     {
       "label": "重点語の口の形",
-      "text": "この文は実際の会話での配慮についての発話です。まず意味の中心になる speakers / use / expressions を、日本語のカタカナ読みから切り離して練習します。speakers：speakers /ˈspiːkərz/。/sp/ を一塊にして /iː/ を長く。語尾 /ərz/ は「カー・ズ」と切らず、r を浮かせて /z/ まで密着させます。 use：use。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 expressions：expressions /ɪkˈsprɛʃənz/。ex- を「エックス」と二拍にせず /ɪk/。/spr/ を一塊にし、-sion は /ʃən/、複数 /z/ は最後に短く添えます。 Native speakers often use shorter expressions. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「speakers / use / expressions」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nspeakers：語尾の /z/ は母音を足さず、声を残して短く閉じます。\nuse：アクセントのある音を少し長く、ほかは軽く流します。\nexpressions：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "247": [
     {
       "label": "重点語の口の形",
-      "text": "この文は実際の会話での配慮についての発話です。まず意味の中心になる English / always / textbook を、日本語のカタカナ読みから切り離して練習します。English：English。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 always：always。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 textbook：textbook。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Spoken English does not always follow textbook patterns. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「English / always / textbook」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nEnglish：l は舌先を上の歯ぐきに軽く触れます。\nalways：l は舌先を上の歯ぐきに軽く触れます。\ntextbook：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "248": [
     {
       "label": "重点語の口の形",
-      "text": "この文は実際の会話での配慮についての発話です。まず意味の中心になる sentence / different / different を、日本語のカタカナ読みから切り離して練習します。sentence：sentence /ˈsɛntəns/。/sɛn/ を強くし、中央 /təns/ を弱く。/nt/ を「ン・ト」と分けず、語尾 /ns/ を子音のまま止めます。 different：different /ˈdɪfrənt/。3拍の「ディファレント」にせず、/dɪf/ と /rənt/ の2つに圧縮します。/f/ の摩擦を保ったまま、真ん中の /ə/ を弱くし、最後の /t/ は破裂させず舌先で止めます。 different：different /ˈdɪfrənt/。3拍の「ディファレント」にせず、/dɪf/ と /rənt/ の2つに圧縮します。/f/ の摩擦を保ったまま、真ん中の /ə/ を弱くし、最後の /t/ は破裂させず舌先で止めます。 The same sentence can sound different in different situations. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「sentence / different / different」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsentence：アクセントのある音を少し長く、ほかは軽く流します。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "249": [
     {
       "label": "重点語の口の形",
-      "text": "この文は実際の会話での配慮についての発話です。まず意味の中心になる Politeness / relationship / speakers を、日本語のカタカナ読みから切り離して練習します。Politeness：Politeness。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 relationship：relationship /rɪˈleɪʃənʃɪp/。語頭 re- を「リ・レー」と切らず /rɪ/ から /leɪ/ に移ります。/r/ は舌をどこにも付けず、最後の -ship は /ʃɪp/ と短く閉じます。 speakers：speakers /ˈspiːkərz/。/sp/ を一塊にして /iː/ を長く。語尾 /ərz/ は「カー・ズ」と切らず、r を浮かせて /z/ まで密着させます。 Politeness depends on the relationship between the speakers. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Politeness / relationship / speakers」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nPoliteness：l は舌先を上の歯ぐきに軽く触れます。\nrelationship：-tion は「ション」と一拍で軽く収めます。\nspeakers：語尾の /z/ は母音を足さず、声を残して短く閉じます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "250": [
     {
       "label": "重点語の口の形",
-      "text": "この文は実際の会話での配慮についての発話です。まず意味の中心になる change / meaning / sentence を、日本語のカタカナ読みから切り離して練習します。change：change。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 meaning：meaning /ˈmiːnɪŋ/。/miː/ を長く明確にし、語尾 /ɪŋ/ は鼻に抜きます。「ミーン・グ」と二つに分けず、/ŋ/ で止めます。 sentence：sentence /ˈsɛntəns/。/sɛn/ を強くし、中央 /təns/ を弱く。/nt/ を「ン・ト」と分けず、語尾 /ns/ を子音のまま止めます。 Tone can change the meaning of a sentence. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「change / meaning / sentence」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nchange：ng は舌の奥で止め、最後の /g/ を強く出しません。\nmeaning：ng は舌の奥で止め、最後の /g/ を強く出しません。\nsentence：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",

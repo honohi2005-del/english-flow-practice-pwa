@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "271": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる like / questions / students を、日本語のカタカナ読みから切り離して練習します。like：like。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 questions：questions。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 students：students。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I like using questions to guide students. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「like / questions / students」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nlike：l は舌先を上の歯ぐきに軽く触れます。\nquestions：-tion は「ション」と一拍で軽く収めます。\nstudents：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "272": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる Students / understand / than を、日本語のカタカナ読みから切り離して練習します。Students：Students。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 understand：understand /ˌʌndərˈstænd/。under- を強く二語のようにせず、最後の -stand を頂点にします。/st/ と /nd/ の間に母音を入れず、/æ/ を横に広くして語尾を止めます。 than：than。th は舌先を上下の歯の間に少し出し、/θ/ は息だけ、/ð/ は声を加えます。「ス」「ザ」に置き換えません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Students often understand more than they can say. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Students / understand / than」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nStudents：アクセントのある音を少し長く、ほかは軽く流します。\nunderstand：子音が続くところは、間に母音を足さず一息でつなぎます。\nthan：th は舌先を歯の間に少し出し、息（または声）を添えます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "273": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる Speaking / develops / repeated を、日本語のカタカナ読みから切り離して練習します。Speaking：Speaking /ˈspiːkɪŋ/。/sp/ を一塊にし、/iː/ を長く。語尾 /ɪŋ/ は「イング」と /g/ を出さず、鼻に抜いて終えます。 develops：develops。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 repeated：repeated。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Speaking ability develops through repeated use. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Speaking / develops / repeated」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nSpeaking：ng は舌の奥で止め、最後の /g/ を強く出しません。\ndevelops：l は舌先を上の歯ぐきに軽く触れます。\nrepeated：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "274": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる Learners / realistic / goals を、日本語のカタカナ読みから切り離して練習します。Learners：Learners。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 realistic：realistic。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 goals：goals。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Learners need realistic goals. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Learners / realistic / goals」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nLearners：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nrealistic：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ngoals：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "275": [
     {
       "label": "重点語の口の形",
-      "text": "この文は教えること・学ぶことについての発話です。まず意味の中心になる Small / improvements / confidence を、日本語のカタカナ読みから切り離して練習します。Small：Small。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 improvements：improvements。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 confidence：confidence /ˈkɑnfədəns/。/kɑn/ を強く、中央 /fədəns/ を弱くします。/f/ を /h/ にせず、語尾 /ns/ を「ンス」と母音付きにしないで止めます。 Small improvements can build confidence. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Small / improvements / confidence」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nSmall：l は舌先を上の歯ぐきに軽く触れます。\nimprovements：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nconfidence：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",

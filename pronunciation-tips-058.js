@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "286": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる Details / explanation / convincing を、日本語のカタカナ読みから切り離して練習します。Details：Details /ˈdiːteɪlz/。/diː/ を強く長くし、/teɪlz/ を一続きにします。末尾 /lz/ を「ルズ」と二拍にせず、/l/ から /z/ へ直行します。 explanation：explanation /ˌɛkspləˈneɪʃən/。/ɛkspl/ を「エ・クス・プル」と分けず一塊にし、-na- の /neɪ/ を強くします。最後 /ʃən/ を軽く添えます。 convincing：convincing。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Details can make an explanation more convincing. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Details / explanation / convincing」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nDetails：アクセントのある音を少し長く、ほかは軽く流します。\nexplanation：-tion は「ション」と一拍で軽く収めます。\nconvincing：f / v は下唇を上の歯に軽く触れ、母音を足しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "287": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる order / information / impression を、日本語のカタカナ読みから切り離して練習します。order：order。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 information：information /ˌɪnfərˈmeɪʃən/。in-for- は弱く、-ma- の /meɪ/ を強くします。/ʃən/ は一拍で、最後に「ション」と重く落としません。 impression：impression。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 The order of information affects the listener’s impression. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「order / information / impression」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\norder：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ninformation：-tion は「ション」と一拍で軽く収めます。\nimpression：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "288": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる comparison / unfamiliar / clearer を、日本語のカタカナ読みから切り離して練習します。comparison：comparison。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 unfamiliar：unfamiliar。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 clearer：clearer。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 A comparison can make an unfamiliar idea clearer. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「comparison / unfamiliar / clearer」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncomparison：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nunfamiliar：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nclearer：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "289": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる distinguish / facts / personal を、日本語のカタカナ読みから切り離して練習します。distinguish：distinguish。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 facts：facts。続く子音の間に「ウ」「オ」などの母音を挿入せず、子音を連続させます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 personal：personal。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 We should distinguish facts from personal opinions. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「distinguish / facts / personal」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ndistinguish：ng は舌の奥で止め、最後の /g/ を強く出しません。\nfacts：この語は語尾に母音を足さず、最後の子音で短く閉じます。\npersonal：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "290": [
     {
       "label": "重点語の口の形",
-      "text": "この文は文化・技術・一般的な考えについての発話です。まず意味の中心になる explain / reason / opinion を、日本語のカタカナ読みから切り離して練習します。explain：explain /ɪkˈspleɪn/。ex- は /ɪk/ と弱く、/spl/ を「ス・プ・ル」と分けません。/eɪn/ を一息で伸ばし、最後の /n/ の後ろに母音を足しません。 reason：reason /ˈriːzən/。/r/ は舌をどこにも付けず、/iː/ を伸ばします。二音節目 /zən/ を弱くし、語尾を「ゼン」と硬く閉じすぎません。 opinion：opinion /əˈpɪnjən/。最初の /ə/ は曖昧母音で弱く、/pɪn/ を強くします。/njən/ を「ニ・ヨン」と分けず一続きにします。 We should also explain the reason for an opinion. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「explain / reason / opinion」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nexplain：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nreason：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nopinion：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",

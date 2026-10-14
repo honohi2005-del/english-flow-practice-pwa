@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "166": [
     {
       "label": "重点語の口の形",
-      "text": "この文は語彙・表現の使い分けについての発話です。まず意味の中心になる phrase / polite / situation を、日本語のカタカナ読みから切り離して練習します。phrase：phrase。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 polite：polite。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 situation：situation。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Does this phrase sound polite in this situation? を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「phrase / polite / situation」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nphrase：r は舌先を歯ぐきに付けず、口の奥で響かせます。\npolite：l は舌先を上の歯ぐきに軽く触れます。\nsituation：-tion は「ション」と一拍で軽く収めます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "167": [
     {
       "label": "重点語の口の形",
-      "text": "この文は語彙・表現の使い分けについての発話です。まず意味の中心になる check / meaning / context を、日本語のカタカナ読みから切り離して練習します。check：check。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 meaning：meaning /ˈmiːnɪŋ/。/miː/ を長く明確にし、語尾 /ɪŋ/ は鼻に抜きます。「ミーン・グ」と二つに分けず、/ŋ/ で止めます。 context：context。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I want to check the meaning in context. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「check / meaning / context」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncheck：アクセントのある音を少し長く、ほかは軽く流します。\nmeaning：ng は舌の奥で止め、最後の /g/ を強く出しません。\ncontext：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "168": [
     {
       "label": "重点語の口の形",
-      "text": "この文は語彙・表現の使い分けについての発話です。まず意味の中心になる sometimes / expressions / directly を、日本語のカタカナ読みから切り離して練習します。sometimes：sometimes。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 expressions：expressions /ɪkˈsprɛʃənz/。ex- を「エックス」と二拍にせず /ɪk/。/spr/ を一塊にし、-sion は /ʃən/、複数 /z/ は最後に短く添えます。 directly：directly。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I sometimes translate Japanese expressions too directly. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「sometimes / expressions / directly」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\nexpressions：-tion は「ション」と一拍で軽く収めます。\ndirectly：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "169": [
     {
       "label": "重点語の口の形",
-      "text": "この文は語彙・表現の使い分けについての発話です。まず意味の中心になる word / different / English を、日本語のカタカナ読みから切り離して練習します。word：word。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 different：different /ˈdɪfrənt/。3拍の「ディファレント」にせず、/dɪf/ と /rənt/ の2つに圧縮します。/f/ の摩擦を保ったまま、真ん中の /ə/ を弱くし、最後の /t/ は破裂させず舌先で止めます。 English：English。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 This word has a slightly different feeling in English. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「word / different / English」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nword：r は舌先を歯ぐきに付けず、口の奥で響かせます。\ndifferent：語尾の /t/ は強く破裂させず、舌先で止めます。\nEnglish：l は舌先を上の歯ぐきに軽く触れます。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "170": [
     {
       "label": "重点語の口の形",
-      "text": "この文は語彙・表現の使い分けについての発話です。まず意味の中心になる need / expression / strong を、日本語のカタカナ読みから切り離して練習します。need：need。過去語尾 -ed を常に「エッド」とせず、前の音に合わせて短い /t/・/d/・/ɪd/ にします。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 expression：expression。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。tion/sion は /ʃən/ の一塊にし、「ション」を重く二拍にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 strong：strong。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 I need an expression that sounds less strong. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「need / expression / strong」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nneed：語尾の -ed は「エッド」と一拍にせず、短く収めます。\nexpression：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nstrong：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",

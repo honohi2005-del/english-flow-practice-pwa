@@ -2,7 +2,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "101": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる People’s / priorities / change を、日本語のカタカナ読みから切り離して練習します。People’s：People’s。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 priorities：priorities。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 change：change。語尾の ng は舌の奥で止め、/g/ を破裂させません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 People’s priorities change as their lives change. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「People’s / priorities / change」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nPeople’s：l は舌先を上の歯ぐきに軽く触れます。\npriorities：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nchange：ng は舌の奥で止め、最後の /g/ を強く出しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -24,7 +24,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "102": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる Work / source / meaning を、日本語のカタカナ読みから切り離して練習します。Work：Work。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。w は唇を丸めてからすぐ開きます。「ウ」を一拍置きません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 source：source。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 meaning：meaning /ˈmiːnɪŋ/。/miː/ を長く明確にし、語尾 /ɪŋ/ は鼻に抜きます。「ミーン・グ」と二つに分けず、/ŋ/ で止めます。 Work is not the only source of meaning. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Work / source / meaning」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nWork：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nsource：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nmeaning：ng は舌の奥で止め、最後の /g/ を強く出しません。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -46,7 +46,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "103": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる comfortable / guarantee / happiness を、日本語のカタカナ読みから切り離して練習します。comfortable：comfortable /ˈkʌmftərbəl/。「コン・フォー・タ・ブ・ル」と5拍にせず、/kʌmf/ と /tərbəl/ の2つの塊にします。真ん中の母音を削り、語尾の -ble を「ブル」と独立させず /bəl/ で弱く閉じます。 guarantee：guarantee。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 happiness：happiness。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 A comfortable life does not guarantee happiness. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「comfortable / guarantee / happiness」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\ncomfortable：この語は語尾に母音を足さず、最後の子音で短く閉じます。\nguarantee：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nhappiness：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -68,7 +68,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "104": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる Convenience / sometimes / independence を、日本語のカタカナ読みから切り離して練習します。Convenience：Convenience。v は上の歯を下唇に軽く触れさせ、声を残します。b のように完全に閉じません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 sometimes：sometimes。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 independence：independence。強勢のある母音を中心にし、語末の子音を日本語の母音で開かずに短く閉じます。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Convenience can sometimes reduce our independence. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Convenience / sometimes / independence」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nConvenience：f / v は下唇を上の歯に軽く触れ、母音を足しません。\nsometimes：アクセントのある音を少し長く、ほかは軽く流します。\nindependence：アクセントのある音を少し長く、ほかは軽く流します。"
     },
     {
       "label": "日本語訛りになりやすい音",
@@ -90,7 +90,7 @@ Object.assign(window.PRONUNCIATION_TIPS, {
   "105": [
     {
       "label": "重点語の口の形",
-      "text": "この文は社会・政策・データについての発話です。まず意味の中心になる Technology / create / problems を、日本語のカタカナ読みから切り離して練習します。Technology：Technology /tɛkˈnɑlədʒi/。tech- の /k/ と n をつなげて「テ・ク・ノ」と分けません。-nol- を強くし、最後の -gy は /dʒi/ と短く、語尾に「ィー」を伸ばしません。 create：create。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 problems：problems。r は舌先を歯ぐきに付けず、口の奥で響かせます。日本語のラ行にしません。l は舌先を上の歯ぐきに一度触れさせます。r と同じ音にしません。この文では単語を一つずつ同じ強さで読まず、前後の語へそのままつなぎます。 Technology saves time, but it can also create new problems. を読んだとき、強勢語の母音を少し長く保ち、弱い音節を同じ長さ・高さにそろえないことが第一です。"
+      "text": "「Technology / create / problems」を中心に、強い音は少し長く、弱い音は軽くつなぎます。\nTechnology：アクセントのある音を少し長く、ほかは軽く流します。\ncreate：r は舌先を歯ぐきに付けず、口の奥で響かせます。\nproblems：r は舌先を歯ぐきに付けず、口の奥で響かせます。"
     },
     {
       "label": "日本語訛りになりやすい音",
