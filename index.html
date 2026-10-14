@@ -31,12 +31,12 @@
       <section class="practice-card" aria-labelledby="sentence-heading">
         <div class="card-meta">
           <span class="badge">RANDOM PRACTICE</span>
-          <span id="sentence-count">1 / 300</span>
+          <span id="sentence-count">— / 300</span>
         </div>
-        <div class="sentence-number" id="sentence-number">No. 001</div>
-        <h2 id="sentence-heading">I teach Japanese.</h2>
+        <div class="sentence-number" id="sentence-number">読み込み中…</div>
+        <h2 id="sentence-heading">読み込み中…</h2>
         <div class="sentence-actions">
-          <button class="primary-button" id="speak-button" type="button" aria-controls="narration-audio">
+          <button class="primary-button" id="speak-button" type="button">
             <span aria-hidden="true">▶</span>
             英文を読む
           </button>
@@ -45,26 +45,14 @@
             <span aria-hidden="true">↗</span>
           </button>
         </div>
-        <div class="narration-panel" aria-labelledby="narration-heading">
-          <div class="narration-panel-heading">
-            <div>
-              <p class="narration-label" id="narration-heading">収録した英語音声</p>
-              <p class="narration-help">この例文の音声をそのまま再生します。</p>
-            </div>
-            <span class="narration-badge">埋め込み音声</span>
-          </div>
-          <audio
-            id="narration-audio"
-            class="narration-audio"
-            src="./audio/tts/google-en-US/001.mp3"
-            controls
-            preload="metadata"
-      playsinline
-            aria-label="収録した英語音声の再生"
-          >
-            お使いのブラウザは音声再生に対応していません。
-          </audio>
-        </div>
+        <audio
+          id="narration-audio"
+          class="narration-audio"
+          preload="none"
+          playsinline
+          hidden
+          aria-hidden="true"
+        ></audio>
         <div class="recording-panel" aria-labelledby="recording-heading">
           <div class="recording-heading-row">
             <div>
@@ -85,7 +73,7 @@
           <audio id="recording-audio" class="recording-audio" controls hidden></audio>
           <p class="recording-status" id="recording-status" role="status">この例文の録音はまだありません。</p>
         </div>
-          <p class="voice-status" id="voice-status" role="status">収録した高品質英語音声を使用します。</p>
+          <p class="voice-status" id="voice-status" role="status"></p>
       </section>
 
       <section class="content-grid">
@@ -122,10 +110,10 @@
 
       <footer class="footer-note">
         <span>300 SENTENCES</span>
-        <span>収録済み英語音声を使用します</span>
       </footer>
     </main>
     <script src="./sentences.js"></script>
+    <script src="./startup.js?v=27"></script>
     <script src="./speech-voice.js"></script>
     <script src="./pronunciation-tips.js"></script>
     <script src="./pronunciation-tips-001.js"></script>
@@ -190,6 +178,6 @@
     <script src="./pronunciation-tips-060.js"></script>
     <script src="./pronunciation-tips-polish.js"></script>
     <script src="./recording-store.js"></script>
-    <script src="./app.js?v=26"></script>
+    <script src="./app.js?v=27"></script>
   </body>
 </html>

@@ -1,4 +1,4 @@
-const CACHE_NAME = "english-flow-practice-v26";
+const CACHE_NAME = "english-flow-practice-v27";
   const AUDIO_CACHE_NAME = "english-flow-practice-audio-v4";
 const APP_SHELL = [
   "./",
@@ -69,7 +69,8 @@ const APP_SHELL = [
   "./pronunciation-tips-059.js",
   "./pronunciation-tips-060.js",
   "./recording-store.js",
-  "./app.js?v=26",
+  "./startup.js?v=27",
+  "./app.js?v=27",
   "./audio/tts-manifest.json",
   "./site.webmanifest?v=3",
   "./icons/icon.svg",
@@ -123,6 +124,30 @@ self.addEventListener("fetch", (event) => {
         )
       );
     }
+    return;
+  }
+
+  const isNavigationRequest = event.request.mode === "navigate"
+    || requestUrl.pathname.endsWith("/")
+    || requestUrl.pathname.endsWith("/index.html");
+  if (isNavigationRequest) {
+    event.respondWith(
+      fetch(event.request, { cache: "no-cache" })
+        .then((response) => {
+          if (response && response.ok) {
+            const copy = response.clone();
+            caches.open(CACHE_NAME)
+              .then((cache) => cache.put("./index.html", copy))
+              .catch(() => {});
+          }
+          return response;
+        })
+        .catch(() =>
+          caches.match(event.request)
+            .then((cached) => cached || caches.match("./index.html"))
+            .then((cached) => cached || Response.error())
+        )
+    );
     return;
   }
 

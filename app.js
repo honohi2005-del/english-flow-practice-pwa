@@ -5,11 +5,14 @@
   const PREGENERATED_AUDIO_ROOT = "./audio/tts/en-US-RyanPiper";
   const START_INDEX_STORAGE_KEY = "english-flow-practice-start-index-v2";
 
-  function randomSentenceIndex(excludeIndex = -1) {
+  function randomSentenceIndex(excludeIndexes = []) {
     if (sentences.length <= 1) {
       return 0;
     }
 
+    const excludedIndexes = new Set(
+      Array.isArray(excludeIndexes) ? excludeIndexes : [excludeIndexes]
+    );
     const randomUnit = () => {
       if (window.crypto && typeof window.crypto.getRandomValues === "function") {
         const values = new Uint32Array(1);
@@ -22,7 +25,7 @@
     let index;
     do {
       index = Math.min(sentences.length - 1, Math.floor(randomUnit() * sentences.length));
-    } while (index === excludeIndex);
+    } while (excludedIndexes.has(index));
     return index;
   }
 
@@ -44,7 +47,18 @@
   }
 
   function getInitialSentenceIndex() {
-    const index = randomSentenceIndex(readLastStartIndex());
+    const preselected = Number(window.__INITIAL_SENTENCE_INDEX__);
+    if (
+      Number.isInteger(preselected) &&
+      preselected > 0 &&
+      preselected < sentences.length
+    ) {
+      rememberStartIndex(preselected);
+      return preselected;
+    }
+
+    const stored = readLastStartIndex();
+    const index = randomSentenceIndex([0, stored]);
     rememberStartIndex(index);
     return index;
   }
@@ -782,11 +796,10 @@
   }
 
   function updateVoiceStatus(message) {
-    if (message) {
-      voiceStatus.textContent = message;
+    if (!voiceStatus) {
       return;
     }
-    voiceStatus.textContent = "収録した高品質英語音声を使用します。";
+    voiceStatus.textContent = message || "";
   }
 
   function getNarrationAudioUrl(sentence) {
@@ -929,7 +942,12 @@
 
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
-      navigator.serviceWorker.register("./sw.js", { scope: "./" }).catch(() => {
+      navigator.serviceWorker.register("./sw.js?v=27", {
+        scope: "./",
+        updateViaCache: "none",
+      }).then((registration) => {
+        registration.update().catch(() => {});
+      }).catch(() => {
         updateVoiceStatus("オフライン登録は利用できませんが、ページはそのまま使えます。");
       });
     });

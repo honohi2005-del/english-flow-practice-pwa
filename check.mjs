@@ -6,6 +6,7 @@ const tipsSource = await readFile(new URL("./pronunciation-tips.js", import.meta
 const tipPolishSource = await readFile(new URL("./pronunciation-tips-polish.js", import.meta.url), "utf8");
 const swSource = await readFile(new URL("./sw.js", import.meta.url), "utf8");
 const appSource = await readFile(new URL("./app.js", import.meta.url), "utf8");
+const startupSource = await readFile(new URL("./startup.js", import.meta.url), "utf8");
 const ttsManifestSource = await readFile(new URL("./audio/tts-manifest.json", import.meta.url), "utf8");
 const ttsManifest = JSON.parse(ttsManifestSource);
 const tipFragmentNames = (await readdir(new URL("./", import.meta.url)))
@@ -167,6 +168,7 @@ for (const required of [
   "./pronunciation-tips-polish.js",
   ...tipFragmentNames.map((name) => "./" + name),
   "./recording-store.js",
+      "./startup.js",
   "./app.js"
 ]) {
   if (!html.includes(required)) {
@@ -189,16 +191,32 @@ if (!swSource.includes("./audio/tts-manifest.json")) {
 }
 
 const appVersionMatch = html.match(/<script\s+src="\.\/app\.js\?v=(\d+)"><\/script>/);
-if (!appVersionMatch || appVersionMatch[1] !== "26") {
-  throw new Error("index.html must load app.js?v=26");
+if (!appVersionMatch || appVersionMatch[1] !== "27") {
+  throw new Error("index.html must load app.js?v=27");
 }
 
 if (
-  !swSource.includes("english-flow-practice-v26") ||
-  !swSource.includes("./app.js?v=26")
+    !swSource.includes("english-flow-practice-v27") ||
+    !swSource.includes("./startup.js?v=27") ||
+    !swSource.includes("./app.js?v=27")
 ) {
   throw new Error("Service Worker cache version is out of date");
 }
+
+  if (
+    !startupSource.includes("window.__INITIAL_SENTENCE_INDEX__") ||
+    !startupSource.includes("1 + Math.floor")
+  ) {
+    throw new Error("Startup random selection must exclude sentence 1");
+  }
+
+  if (
+    html.includes("1 / 300") ||
+    html.includes("No. 001") ||
+    html.includes("I teach Japanese.")
+  ) {
+    throw new Error("index.html must not contain a fixed first sentence");
+  }
 
 for (const required of [
   "function randomSentenceIndex(",
@@ -272,4 +290,19 @@ if (
   throw new Error("Missing practice controls");
 }
 
-console.log("check passed: 300 sentences, authored pronunciation tips, embedded pre-recorded narration, PWA shell, speech controls, and per-sentence recording controls are present");
+  if (
+    html.includes("収録した英語音声") ||
+    html.includes("収録済み英語音声") ||
+    html.includes('class="narration-panel"')
+  ) {
+    throw new Error("Visible embedded narration panel must be removed");
+  }
+  if (
+    !html.includes('id="narration-audio"') ||
+    !html.includes('hidden') ||
+    !html.includes('aria-hidden="true"')
+  ) {
+    throw new Error("Hidden narration compatibility audio is missing");
+  }
+
+  console.log("check passed: 300 sentences, authored pronunciation tips, hidden narration compatibility audio, PWA shell, speech controls, and per-sentence recording controls are present");
