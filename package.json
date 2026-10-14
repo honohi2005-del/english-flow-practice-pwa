@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "check": "node check.mjs",
-    "generate:tts": "node tools/generate-tts.mjs"
+    "generate:tts": "node tools/generate-tts.mjs",
+    "generate:tts:male": "node tools/generate-male-tts.mjs"
   },
   "devDependencies": {}
 }

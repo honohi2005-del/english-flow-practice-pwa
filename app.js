@@ -2,7 +2,7 @@
   "use strict";
 
   const sentences = Array.isArray(window.SENTENCES) ? window.SENTENCES : [];
-  const PREGENERATED_AUDIO_ROOT = "./audio/tts/google-en-US";
+const PREGENERATED_AUDIO_ROOT = "./audio/tts/en-US-RyanPiper";
   const initialSentenceIndex = sentences.length
     ? Math.floor(Math.random() * sentences.length)
     : 0;

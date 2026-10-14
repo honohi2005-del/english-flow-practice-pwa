@@ -180,8 +180,8 @@ for (const required of [
   }
 }
 
-if (!appSource.includes('./audio/tts/google-en-US')) {
-  throw new Error("Missing pre-generated narration path in app.js");
+  if (!appSource.includes('./audio/tts/en-US-RyanPiper')) {
+    throw new Error("Missing pre-generated male narration path in app.js");
 }
 
 if (!swSource.includes('./audio/tts-manifest.json')) {
@@ -189,7 +189,7 @@ if (!swSource.includes('./audio/tts-manifest.json')) {
 }
 
 if (
-      ttsManifest.voice !== "Google Translate English (en-US)" ||
+        ttsManifest.voice !== "Piper en_US-ryan-medium (male)" ||
   ttsManifest.language !== "en-US" ||
   !Array.isArray(ttsManifest.sentences) ||
         ttsManifest.sentences.length !== sentences.length
