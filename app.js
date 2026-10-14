@@ -851,7 +851,7 @@
     state.narrationAudio = narrationAudio;
     narrationAudio.onplay = () => {
       if (token === state.narrationToken) {
-        updateVoiceStatus("収録した高品質英語音声で再生中");
+        updateVoiceStatus("英文を再生中");
       }
     };
     narrationAudio.onended = () => {
@@ -863,14 +863,14 @@
     narrationAudio.onerror = () => {
       if (token === state.narrationToken) {
         state.narrationAudio = null;
-        updateVoiceStatus("収録音声を読み込めませんでした。通信状態を確認して、もう一度お試しください。");
+        updateVoiceStatus("英文を再生できませんでした。通信状態を確認して、もう一度お試しください。");
       }
     };
     const playPromise = narrationAudio.play();
     if (playPromise && typeof playPromise.catch === "function") {
       playPromise.catch(() => {
         if (token === state.narrationToken) {
-          updateVoiceStatus("再生できませんでした。下の音声プレーヤーの再生ボタンを押してください。");
+          updateVoiceStatus("再生できませんでした。もう一度お試しください。");
         }
       });
     }
