@@ -475,33 +475,41 @@
     return [first, ...rest];
   }
 
-  function buildFlow(text, index) {
+function buildFlow(text, index, stressWords = []) {
+  const renderFlowChunk = (chunk, strong = false) => {
+    const className = strong ? "flow-chunk strong" : "flow-chunk";
+    const content = stressWords.length
+      ? renderHighlightedSentence(chunk, stressWords)
+      : escapeHtml(chunk);
+    return '<span class="' + className + '">' + content + "</span>";
+  };
+
     if (index === 296) {
       return [
-        '<span class="flow-chunk strong">Individual experiences</span>',
+        renderFlowChunk("Individual experiences", true),
         '<span class="flow-arrow" aria-hidden="true">／</span>',
-        '<span class="flow-chunk">can be</span>',
+        renderFlowChunk("can be"),
         '<span class="flow-arrow" aria-hidden="true">／</span>',
-        '<span class="flow-chunk strong">different</span>',
+        renderFlowChunk("different", true),
         '<span class="flow-arrow" aria-hidden="true">／</span>',
-        '<span class="flow-chunk">from</span>',
+        renderFlowChunk("from"),
         '<span class="flow-arrow" aria-hidden="true">／</span>',
-        '<span class="flow-chunk strong">general trends.</span>'
+        renderFlowChunk("general trends.", true)
       ].join(" ");
     }
 
     const words = tokenize(text);
     if (words.length <= 5) {
-      return '<span class="flow-chunk strong">' + escapeHtml(text) + "</span>";
+      return renderFlowChunk(text, true);
     }
 
     const breakAt = Math.max(2, Math.ceil(words.length / 2));
     const first = words.slice(0, breakAt).join(" ");
     const second = words.slice(breakAt).join(" ");
     return [
-      '<span class="flow-chunk strong">' + escapeHtml(first) + "</span>",
+      renderFlowChunk(first, true),
       '<span class="flow-arrow" aria-hidden="true">／</span>',
-      '<span class="flow-chunk">' + escapeHtml(second) + "</span>"
+    renderFlowChunk(second)
     ].join(" ");
   }
 
@@ -823,7 +831,7 @@
       })
       .join("");
 
-    flowExample.innerHTML = buildFlow(sentence.text, state.index);
+  flowExample.innerHTML = buildFlow(sentence.text, state.index, stressWords);
     refreshRecording();
     updateRecordingControls();
   }

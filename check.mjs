@@ -210,20 +210,20 @@ if (!swSource.includes("./audio/tts-manifest.json")) {
 }
 
 const appVersionMatch = html.match(/<script\s+src="\.\/app\.js\?v=(\d+)"><\/script>/);
-if (!appVersionMatch || appVersionMatch[1] !== "28") {
-  throw new Error("index.html must load app.js?v=28");
+  if (!appVersionMatch || appVersionMatch[1] !== "29") {
+    throw new Error("index.html must load app.js?v=29");
 }
 
 if (
-    !swSource.includes("english-flow-practice-v28") ||
-    !swSource.includes("./startup.js?v=28") ||
-    !swSource.includes("./app.js?v=28")
+      !swSource.includes("english-flow-practice-v29") ||
+      !swSource.includes("./startup.js?v=29") ||
+      !swSource.includes("./app.js?v=29")
 ) {
   throw new Error("Service Worker cache version is out of date");
 }
 
 if (
-  !html.includes('./styles.css?v=20') ||
+    !html.includes('./styles.css?v=21') ||
   !appSource.includes("function extractStressWords(") ||
   !appSource.includes('class="stress-word"') ||
   !stylesSource.includes("#sentence-heading .stress-word")
