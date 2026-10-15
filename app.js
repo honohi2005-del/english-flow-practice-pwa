@@ -147,6 +147,44 @@
     return String(text).match(/[A-Za-z]+(?:['’][A-Za-z]+)?/g) || [];
   }
 
+  function normalizeStressWord(word) {
+    return String(word)
+      .trim()
+      .replace(/^[^A-Za-z0-9]+|[^A-Za-z0-9]+$/g, "")
+      .toLowerCase();
+  }
+
+  function extractStressWords(text) {
+    const match = String(text).match(
+      /(?:この文で前に出す内容語は|ここで強く読む語は|この文で強く読む語は)\s*(.+?)\s*です。/
+    );
+    if (!match) return [];
+
+    return match[1]
+      .split(/[・、，,／\/|｜]+/)
+      .map(normalizeStressWord)
+      .filter(Boolean);
+  }
+
+  function renderHighlightedSentence(sentenceText, stressWords) {
+    const stressSet = new Set(stressWords.map(normalizeStressWord));
+    const tokenPattern = /[A-Za-z]+(?:['’][A-Za-z]+|-[A-Za-z]+)*/g;
+    let output = "";
+    let cursor = 0;
+    let match;
+
+    while ((match = tokenPattern.exec(sentenceText))) {
+      output += escapeHtml(sentenceText.slice(cursor, match.index));
+      const token = match[0];
+      output += stressSet.has(normalizeStressWord(token))
+        ? '<span class="stress-word">' + escapeHtml(token) + "</span>"
+        : escapeHtml(token);
+      cursor = match.index + token.length;
+    }
+
+    return output + escapeHtml(sentenceText.slice(cursor));
+  }
+
   function buildTips(text, index) {
     if (index === 296) {
       return [
@@ -765,14 +803,21 @@
     const sentence = sentences[state.index];
     stopNarration();
     setNarrationSource(sentence);
-    sentenceHeading.textContent = sentence.text;
+    const authoredTips = window.PRONUNCIATION_TIPS && window.PRONUNCIATION_TIPS[sentence.id];
+    const tips = mergeOpeningTips(authoredTips || buildDetailedTips(sentence.text));
+    const rhythmTip = tips.find((tip) =>
+      typeof tip.label === "string" &&
+      (tip.label === "英語のリズム" || tip.label.includes("リズム"))
+    );
+    const stressWords = rhythmTip ? extractStressWords(rhythmTip.text) : [];
+
+    sentenceHeading.innerHTML = stressWords.length
+      ? renderHighlightedSentence(sentence.text, stressWords)
+      : escapeHtml(sentence.text);
     sentenceCount.textContent = state.index + 1 + " / " + sentences.length;
     sentenceNumber.textContent = "No. " + String(sentence.id).padStart(3, "0");
 
-      const authoredTips = window.PRONUNCIATION_TIPS && window.PRONUNCIATION_TIPS[sentence.id];
-      const tips = mergeOpeningTips(authoredTips || buildDetailedTips(sentence.text));
-
-      tipsList.innerHTML = tips
+    tipsList.innerHTML = tips
       .map((tip) => {
         return "<li><strong>" + escapeHtml(tip.label) + "</strong><span>" + escapeHtml(tip.text) + "</span></li>";
       })
@@ -942,7 +987,7 @@
 
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
-      navigator.serviceWorker.register("./sw.js?v=27", {
+      navigator.serviceWorker.register("./sw.js?v=28", {
         scope: "./",
         updateViaCache: "none",
       }).then((registration) => {

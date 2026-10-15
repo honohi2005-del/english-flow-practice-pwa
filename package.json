@@ -6,7 +6,8 @@
   "scripts": {
     "check": "node check.mjs",
     "generate:tts": "node tools/generate-tts.mjs",
-    "generate:tts:male": "node tools/generate-male-tts.mjs"
+    "generate:tts:male": "node tools/generate-male-tts.mjs",
+    "review:pronunciation-feedback": "node tools/review-pronunciation-feedback.mjs --write"
   },
   "devDependencies": {}
 }

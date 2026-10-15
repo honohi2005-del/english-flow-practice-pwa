@@ -6,6 +6,7 @@ const tipsSource = await readFile(new URL("./pronunciation-tips.js", import.meta
 const tipPolishSource = await readFile(new URL("./pronunciation-tips-polish.js", import.meta.url), "utf8");
 const swSource = await readFile(new URL("./sw.js", import.meta.url), "utf8");
 const appSource = await readFile(new URL("./app.js", import.meta.url), "utf8");
+const stylesSource = await readFile(new URL("./styles.css", import.meta.url), "utf8");
 const startupSource = await readFile(new URL("./startup.js", import.meta.url), "utf8");
 const ttsManifestSource = await readFile(new URL("./audio/tts-manifest.json", import.meta.url), "utf8");
 const ttsManifest = JSON.parse(ttsManifestSource);
@@ -209,16 +210,25 @@ if (!swSource.includes("./audio/tts-manifest.json")) {
 }
 
 const appVersionMatch = html.match(/<script\s+src="\.\/app\.js\?v=(\d+)"><\/script>/);
-if (!appVersionMatch || appVersionMatch[1] !== "27") {
-  throw new Error("index.html must load app.js?v=27");
+if (!appVersionMatch || appVersionMatch[1] !== "28") {
+  throw new Error("index.html must load app.js?v=28");
 }
 
 if (
-    !swSource.includes("english-flow-practice-v27") ||
-    !swSource.includes("./startup.js?v=27") ||
-    !swSource.includes("./app.js?v=27")
+    !swSource.includes("english-flow-practice-v28") ||
+    !swSource.includes("./startup.js?v=28") ||
+    !swSource.includes("./app.js?v=28")
 ) {
   throw new Error("Service Worker cache version is out of date");
+}
+
+if (
+  !html.includes('./styles.css?v=20') ||
+  !appSource.includes("function extractStressWords(") ||
+  !appSource.includes('class="stress-word"') ||
+  !stylesSource.includes("#sentence-heading .stress-word")
+) {
+  throw new Error("Stress-word highlighting is not wired up");
 }
 
   if (
