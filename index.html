@@ -12,7 +12,7 @@
     <link rel="manifest" href="./site.webmanifest?v=3" />
     <link rel="icon" href="./icons/icon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="./icons/icon-192.png" />
-    <link rel="stylesheet" href="./styles.css?v=21" />
+    <link rel="stylesheet" href="./styles.css?v=22" />
     <title>英語の発音練習</title>
   </head>
   <body>
@@ -86,6 +86,14 @@
             </div>
           </div>
           <ol class="tips-list" id="tips-list"></ol>
+          <section class="vowel-advice" aria-labelledby="vowel-advice-heading">
+            <div class="vowel-advice-heading">
+              <p class="flow-label">母音でつまずきやすい単語</p>
+              <h3 id="vowel-advice-heading">日本語母語話者向けの発音ポイント</h3>
+              <p>この例文に実際に出てくる単語から、口の形や母音の長さに注意したいものを選んでいます。</p>
+            </div>
+            <div id="vowel-advice-list"></div>
+          </section>
           <div class="flow-advice">
             <p class="flow-label">英語の流れ</p>
             <p class="flow-description">内容語を少し強く、機能語を短くつなげます。</p>
@@ -100,7 +108,8 @@
       </footer>
     </main>
     <script src="./sentences.js"></script>
-    <script src="./startup.js?v=29"></script>
+    <script src="./vowel-advice.js"></script>
+    <script src="./startup.js?v=30"></script>
     <script src="./speech-voice.js"></script>
     <script src="./pronunciation-tips.js"></script>
     <script src="./pronunciation-tips-001.js"></script>
@@ -165,6 +174,6 @@
     <script src="./pronunciation-tips-060.js"></script>
     <script src="./pronunciation-tips-polish.js"></script>
     <script src="./recording-store.js"></script>
-    <script src="./app.js?v=29"></script>
+    <script src="./app.js?v=30"></script>
   </body>
 </html>

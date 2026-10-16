@@ -458,6 +458,59 @@ button:focus-visible {
   font-weight: 800;
 }
 
+.vowel-advice {
+  margin-top: 28px;
+  padding: 22px;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: #fffdfa;
+}
+
+.vowel-advice-heading h3 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.vowel-advice-heading > p:last-child {
+  margin: 8px 0 0;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+#vowel-advice-list {
+  display: grid;
+  gap: 14px;
+  margin-top: 18px;
+}
+
+.vowel-advice-item {
+  padding: 16px 18px;
+  border-left: 3px solid var(--coral);
+  border-radius: 12px;
+  background: var(--page);
+}
+
+.vowel-advice-word {
+  font-size: 1.18rem;
+  font-weight: 800;
+  color: var(--ink);
+}
+
+.vowel-advice-meta {
+  margin-top: 4px;
+  color: var(--coral);
+  font-size: 0.84rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.vowel-advice-item p,
+.vowel-advice-empty {
+  margin: 8px 0 0;
+  color: var(--muted);
+  line-height: 1.75;
+  font-family: Meiryo, "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+}
+
 .flow-advice {
   margin-top: 28px;
   padding: 20px 22px;
@@ -638,6 +691,10 @@ button:focus-visible {
 @media (max-width: 520px) {
   .card-meta {
     margin-bottom: 24px;
+  }
+
+  .vowel-advice {
+    padding: 18px;
   }
 
   .sentence-actions {

@@ -69,6 +69,7 @@
   const sentenceNumber = document.getElementById("sentence-number");
   const tipsList = document.getElementById("tips-list");
   const flowExample = document.getElementById("flow-example");
+  const vowelAdviceList = document.getElementById("vowel-advice-list");
   const speakButton = document.getElementById("speak-button");
   const nextButton = document.getElementById("next-button");
   const recordButton = document.getElementById("record-button");
@@ -831,7 +832,26 @@ function buildFlow(text, index, stressWords = []) {
       })
       .join("");
 
-  flowExample.innerHTML = buildFlow(sentence.text, state.index, stressWords);
+    if (vowelAdviceList) {
+      const vowelAdvice = typeof buildVowelAdvice === "function"
+        ? buildVowelAdvice(sentence.text)
+        : [];
+      vowelAdviceList.innerHTML = vowelAdvice.length
+        ? vowelAdvice
+            .map((item) => (
+              '<article class="vowel-advice-item">' +
+                '<div class="vowel-advice-word">' + escapeHtml(item.word) + '</div>' +
+                '<div class="vowel-advice-meta">' +
+                  escapeHtml(item.ipa) + " · " + escapeHtml(item.vowel) +
+                '</div>' +
+                '<p>' + escapeHtml(item.text) + '</p>' +
+              '</article>'
+            ))
+            .join("")
+        : '<p class="vowel-advice-empty">この文では、特に注意したい母音はありません。</p>';
+    }
+
+    flowExample.innerHTML = buildFlow(sentence.text, state.index, stressWords);
     refreshRecording();
     updateRecordingControls();
   }
@@ -995,7 +1015,7 @@ function buildFlow(text, index, stressWords = []) {
 
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
-      navigator.serviceWorker.register("./sw.js?v=28", {
+      navigator.serviceWorker.register("./sw.js?v=30", {
         scope: "./",
         updateViaCache: "none",
       }).then((registration) => {

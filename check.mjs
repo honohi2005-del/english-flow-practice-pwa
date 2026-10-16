@@ -182,6 +182,7 @@ for (const required of [
   "./site.webmanifest",
   "./styles.css",
   "./sentences.js",
+    "./vowel-advice.js",
   "./speech-voice.js",
   "./pronunciation-tips.js",
   "./pronunciation-tips-polish.js",
@@ -194,7 +195,7 @@ for (const required of [
     throw new Error("Missing script or asset reference: " + required);
   }
     if (
-      (required.startsWith("./pronunciation-tips") || required === "./recording-store.js") &&
+        (required.startsWith("./pronunciation-tips") || required === "./recording-store.js" || required === "./vowel-advice.js") &&
       !swSource.includes(required)
     ) {
     throw new Error("Missing Service Worker cache entry: " + required);
@@ -210,26 +211,30 @@ if (!swSource.includes("./audio/tts-manifest.json")) {
 }
 
 const appVersionMatch = html.match(/<script\s+src="\.\/app\.js\?v=(\d+)"><\/script>/);
-  if (!appVersionMatch || appVersionMatch[1] !== "29") {
-    throw new Error("index.html must load app.js?v=29");
+    if (!appVersionMatch || appVersionMatch[1] !== "30") {
+      throw new Error("index.html must load app.js?v=30");
 }
 
 if (
-      !swSource.includes("english-flow-practice-v29") ||
-      !swSource.includes("./startup.js?v=29") ||
-      !swSource.includes("./app.js?v=29")
+        !swSource.includes("english-flow-practice-v30") ||
+        !swSource.includes("./startup.js?v=30") ||
+        !swSource.includes("./app.js?v=30")
 ) {
   throw new Error("Service Worker cache version is out of date");
 }
 
 if (
-    !html.includes('./styles.css?v=21') ||
+      !html.includes('./styles.css?v=22') ||
   !appSource.includes("function extractStressWords(") ||
   !appSource.includes('class="stress-word"') ||
-  !stylesSource.includes("#sentence-heading .stress-word")
+      !stylesSource.includes("#sentence-heading .stress-word")
 ) {
   throw new Error("Stress-word highlighting is not wired up");
 }
+
+  if (!html.includes('id="vowel-advice-list"') || !appSource.includes("buildVowelAdvice")) {
+    throw new Error("Vowel advice is not wired up");
+  }
 
   if (
     !startupSource.includes("window.__INITIAL_SENTENCE_INDEX__") ||
