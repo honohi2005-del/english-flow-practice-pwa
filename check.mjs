@@ -216,7 +216,7 @@ const appVersionMatch = html.match(/<script\s+src="\.\/app\.js\?v=(\d+)"><\/scri
 }
 
 if (
-        !swSource.includes("english-flow-practice-v30") ||
+        !swSource.includes("english-flow-practice-v31") ||
         !swSource.includes("./startup.js?v=30") ||
         !swSource.includes("./app.js?v=30")
 ) {
@@ -224,7 +224,7 @@ if (
 }
 
 if (
-      !html.includes('./styles.css?v=22') ||
+      !html.includes('./styles.css?v=23') ||
   !appSource.includes("function extractStressWords(") ||
   !appSource.includes('class="stress-word"') ||
       !stylesSource.includes("#sentence-heading .stress-word")

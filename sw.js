@@ -1,9 +1,9 @@
-const CACHE_NAME = "english-flow-practice-v30";
+const CACHE_NAME = "english-flow-practice-v31";
   const AUDIO_CACHE_NAME = "english-flow-practice-audio-v4";
 const APP_SHELL = [
   "./",
   "./index.html",
-    "./styles.css?v=22",
+    "./styles.css?v=23",
   "./sentences.js",
     "./vowel-advice.js",
   "./speech-voice.js",

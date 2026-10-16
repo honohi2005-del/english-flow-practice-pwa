@@ -493,7 +493,7 @@ button:focus-visible {
 .vowel-advice-word {
   font-size: 1.18rem;
   font-weight: 800;
-  color: var(--ink);
+  color: #fff;
 }
 
 .vowel-advice-meta {
