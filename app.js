@@ -91,6 +91,33 @@
     "after", "before", "while", "should", "must", "may", "might", "have", "has", "had"
   ]);
 
+  // Sentence highlighting follows English sentence stress: content words are
+  // prominent, while articles, pronouns, auxiliaries, conjunctions, and
+  // prepositions remain unhighlighted. Keep this separate from functionWords,
+  // which is also used by the advice generator's three-word focus selection.
+  const stressFunctionWords = new Set([
+    "a", "an", "the",
+    "am", "is", "are", "was", "were", "be", "been", "being",
+    "do", "does", "did", "have", "has", "had", "having",
+    "can", "could", "will", "would", "shall", "should", "may", "might", "must",
+    "to", "of", "and", "or", "but", "nor", "yet",
+    "in", "on", "at", "by", "for", "with", "from", "about", "into", "onto", "over", "under",
+    "after", "before", "between", "through", "during", "without", "within", "against",
+    "around", "among", "toward", "towards", "upon", "per", "via", "off",
+    "i", "me", "my", "mine", "you", "your", "yours", "he", "him", "his", "she", "her", "hers",
+    "it", "its", "we", "us", "our", "ours", "they", "them", "their", "theirs",
+    "this", "that", "these", "those",
+    "if", "unless", "whether", "because", "although", "though", "while", "as", "than",
+    "there", "here", "not", "when", "where", "what", "who", "whom", "which", "whose", "how", "why",
+    "i'm", "you're", "he's", "she's", "it's", "we're", "they're",
+    "i've", "you've", "we've", "they've",
+    "i'd", "you'd", "he'd", "she'd", "we'd", "they'd",
+    "i'll", "you'll", "he'll", "she'll", "we'll", "they'll",
+    "don't", "doesn't", "didn't", "isn't", "aren't", "wasn't", "weren't",
+    "haven't", "hasn't", "hadn't", "can't", "couldn't", "won't", "wouldn't",
+    "shouldn't", "mustn't", "mightn't", "let's"
+  ]);
+
   const wordTips = {
     individual: {
       label: "Individual",
@@ -155,21 +182,18 @@
       .toLowerCase();
   }
 
-  function extractStressWords(text) {
-    const match = String(text).match(
-      /(?:この文で前に出す内容語は|ここで強く読む語は|この文で強く読む語は)\s*(.+?)\s*です。/
-    );
-    if (!match) return [];
-
-    return match[1]
-      .split(/[・、，,／\/|｜]+/)
+  function extractContentWords(text) {
+    const words = tokenize(text)
       .map(normalizeStressWord)
-      .filter(Boolean);
+      .filter(Boolean)
+      .filter((word) => !stressFunctionWords.has(word));
+
+    return [...new Set(words)];
   }
 
   function renderHighlightedSentence(sentenceText, stressWords) {
     const stressSet = new Set(stressWords.map(normalizeStressWord));
-    const tokenPattern = /[A-Za-z]+(?:['’][A-Za-z]+|-[A-Za-z]+)*/g;
+    const tokenPattern = /[A-Za-z]+(?:['’][A-Za-z]+)?/g;
     let output = "";
     let cursor = 0;
     let match;
@@ -450,7 +474,7 @@
     add({
       label: "文のまとまり",
       text: analysis.chunks.map((chunk) => "“" + chunk + "”").join(" ／ ") +
-        " のように3語前後を一息で読みます。単語ごとに停止せず、チャンクの最後だけを軽く区切ってください。"
+        " のように、内容語を中心に意味のまとまりごとに一息で読みます。単語ごとに停止せず、まとまりの最後だけを軽く区切ってください。"
     });
     add({
       label: "強勢の置き方",
@@ -814,11 +838,7 @@ function buildFlow(text, index, stressWords = []) {
     setNarrationSource(sentence);
     const authoredTips = window.PRONUNCIATION_TIPS && window.PRONUNCIATION_TIPS[sentence.id];
     const tips = mergeOpeningTips(authoredTips || buildDetailedTips(sentence.text));
-    const rhythmTip = tips.find((tip) =>
-      typeof tip.label === "string" &&
-      (tip.label === "英語のリズム" || tip.label.includes("リズム"))
-    );
-    const stressWords = rhythmTip ? extractStressWords(rhythmTip.text) : [];
+    const stressWords = extractContentWords(sentence.text);
 
     sentenceHeading.innerHTML = stressWords.length
       ? renderHighlightedSentence(sentence.text, stressWords)

@@ -211,21 +211,22 @@ if (!swSource.includes("./audio/tts-manifest.json")) {
 }
 
 const appVersionMatch = html.match(/<script\s+src="\.\/app\.js\?v=(\d+)"><\/script>/);
-    if (!appVersionMatch || appVersionMatch[1] !== "30") {
-      throw new Error("index.html must load app.js?v=30");
+    if (!appVersionMatch || appVersionMatch[1] !== "31") {
+      throw new Error("index.html must load app.js?v=31");
 }
 
 if (
-        !swSource.includes("english-flow-practice-v31") ||
+        !swSource.includes("english-flow-practice-v32") ||
         !swSource.includes("./startup.js?v=30") ||
-        !swSource.includes("./app.js?v=30")
+        !swSource.includes("./app.js?v=31")
 ) {
   throw new Error("Service Worker cache version is out of date");
 }
 
 if (
       !html.includes('./styles.css?v=23') ||
-  !appSource.includes("function extractStressWords(") ||
+      !appSource.includes("function extractContentWords(") ||
+      appSource.includes("function extractStressWords(") ||
   !appSource.includes('class="stress-word"') ||
       !stylesSource.includes("#sentence-heading .stress-word")
 ) {
