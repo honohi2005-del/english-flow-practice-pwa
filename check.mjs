@@ -1,5 +1,9 @@
 import { readdir, readFile, stat } from "node:fs/promises";
 
+const TOTAL_SENTENCE_COUNT = 500;
+const AUTHORED_PRONUNCIATION_TIP_LIMIT = 300;
+const PREGENERATED_AUDIO_LIMIT = 300;
+
 const html = await readFile(new URL("./index.html", import.meta.url), "utf8");
 const source = await readFile(new URL("./sentences.js", import.meta.url), "utf8");
 const tipsSource = await readFile(new URL("./pronunciation-tips.js", import.meta.url), "utf8");
@@ -32,8 +36,32 @@ if (!match) {
 }
 
 const sentences = Function("return " + match[1])();
-if (!Array.isArray(sentences) || sentences.length !== 300) {
-  throw new Error("Expected exactly 300 sentences");
+if (!Array.isArray(sentences) || sentences.length !== TOTAL_SENTENCE_COUNT) {
+  throw new Error(`Expected exactly ${TOTAL_SENTENCE_COUNT} sentences`);
+}
+if (sentences.some((sentence, index) => sentence?.id !== index + 1)) {
+  throw new Error("Sentence IDs must be sequential from 1");
+}
+
+const additionalSentences = sentences.filter(
+  (sentence) => sentence.id > AUTHORED_PRONUNCIATION_TIP_LIMIT
+);
+if (
+  additionalSentences.length !== TOTAL_SENTENCE_COUNT - AUTHORED_PRONUNCIATION_TIP_LIMIT ||
+  additionalSentences.some((sentence) => sentence.id > TOTAL_SENTENCE_COUNT)
+) {
+  throw new Error("The 200 learner-pattern sentences are not registered correctly");
+}
+
+const learnerDiscoursePattern =
+  /\b(?:I think|In my experience|For example|That's why|I'm not sure|One thing I've noticed|What I mean is|If I have a chance|Compared with|The reason is|It's difficult to explain|At the same time|In the end|I used to think|Now I think|For me|That is why|When I|Although|Because|My experience|From my experience)\b/i;
+const patternedAdditionalSentenceCount = additionalSentences.filter((sentence) =>
+  learnerDiscoursePattern.test(sentence.text)
+).length;
+if (patternedAdditionalSentenceCount < 150) {
+  throw new Error(
+    "Additional sentences must be based on recurring learner discourse patterns"
+  );
 }
 
 if (!/window\.PRONUNCIATION_TIPS\s*=\s*window\.PRONUNCIATION_TIPS\s*\|\|\s*\{\s*\};/.test(tipsSource)) {
@@ -61,8 +89,18 @@ if (
 
 const sentenceIds = new Set(sentences.map((sentence) => sentence.id));
 const tipIds = Object.keys(pronunciationTips).map(Number);
-if (tipIds.length !== 300 || tipIds.some((id) => !sentenceIds.has(id))) {
-  throw new Error("Expected pronunciation tips for exactly the 300 sentence IDs");
+if (
+  tipIds.length !== AUTHORED_PRONUNCIATION_TIP_LIMIT ||
+  tipIds.some(
+    (id) =>
+      id < 1 ||
+      id > AUTHORED_PRONUNCIATION_TIP_LIMIT ||
+      !sentenceIds.has(id)
+  )
+) {
+  throw new Error(
+    `Expected pronunciation tips for exactly the first ${AUTHORED_PRONUNCIATION_TIP_LIMIT} sentence IDs`
+  );
 }
 
 const allTipTexts = [];
@@ -92,6 +130,10 @@ for (const [index, sentence] of sentences.entries()) {
     !/[.!?]$/.test(sentence.text.trim())
   ) {
     throw new Error("Invalid sentence at " + (index + 1));
+  }
+
+  if (sentence.id > AUTHORED_PRONUNCIATION_TIP_LIMIT) {
+    continue;
   }
 
   const tips = pronunciationTips[sentence.id];
@@ -211,14 +253,14 @@ if (!swSource.includes("./audio/tts-manifest.json")) {
 }
 
 const appVersionMatch = html.match(/<script\s+src="\.\/app\.js\?v=(\d+)"><\/script>/);
-    if (!appVersionMatch || appVersionMatch[1] !== "31") {
-      throw new Error("index.html must load app.js?v=31");
+    if (!appVersionMatch || appVersionMatch[1] !== "32") {
+      throw new Error("index.html must load app.js?v=32");
 }
 
 if (
-        !swSource.includes("english-flow-practice-v32") ||
+        !swSource.includes("english-flow-practice-v33") ||
         !swSource.includes("./startup.js?v=30") ||
-        !swSource.includes("./app.js?v=31")
+        !swSource.includes("./app.js?v=32")
 ) {
   throw new Error("Service Worker cache version is out of date");
 }
@@ -266,12 +308,12 @@ if (
         ttsManifest.voice !== "Piper en_US-ryan-medium (male)" ||
   ttsManifest.language !== "en-US" ||
   !Array.isArray(ttsManifest.sentences) ||
-        ttsManifest.sentences.length !== sentences.length
+        ttsManifest.sentences.length !== PREGENERATED_AUDIO_LIMIT
 ) {
   throw new Error("TTS manifest metadata or sentence count is invalid");
 }
 
-      for (let index = 0; index < sentences.length; index += 1) {
+      for (let index = 0; index < PREGENERATED_AUDIO_LIMIT; index += 1) {
         const sourceSentence = sentences[index];
   const audioEntry = ttsManifest.sentences[index];
   if (
@@ -339,4 +381,4 @@ if (
     throw new Error("Hidden narration compatibility audio is missing");
   }
 
-  console.log("check passed: 300 sentences, authored pronunciation tips, hidden narration compatibility audio, PWA shell, speech controls, and per-sentence recording controls are present");
+  console.log("check passed: 500 sentences (300 authored tips + 200 learner-pattern examples), 300 pre-generated narration files, hidden narration compatibility audio, PWA shell, speech controls, and per-sentence recording controls are present");

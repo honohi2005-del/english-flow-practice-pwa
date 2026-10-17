@@ -3,6 +3,7 @@
 
   const sentences = Array.isArray(window.SENTENCES) ? window.SENTENCES : [];
   const PREGENERATED_AUDIO_ROOT = "./audio/tts/en-US-RyanPiper";
+  const PREGENERATED_AUDIO_LIMIT = 300;
   const START_INDEX_STORAGE_KEY = "english-flow-practice-start-index-v2";
 
   function randomSentenceIndex(excludeIndexes = []) {
@@ -148,6 +149,7 @@
     deferredInstall: null,
     narrationAudio: null,
     narrationToken: 0,
+    speechUtterance: null,
     recording: {
       recorder: null,
       stream: null,
@@ -895,7 +897,68 @@ function buildFlow(text, index, stressWords = []) {
     voiceStatus.textContent = message || "";
   }
 
+  function getBrowserSpeechVoice() {
+    const availableVoices = state.voices.length
+      ? state.voices
+      : typeof window.speechSynthesis === "object"
+        ? window.speechSynthesis.getVoices()
+        : [];
+    if (typeof window.selectPreferredEnglishVoice === "function") {
+      return window.selectPreferredEnglishVoice(availableVoices);
+    }
+    return (
+      availableVoices.find((voice) => /^en-US/i.test(voice.lang)) ||
+      availableVoices.find((voice) => /^en/i.test(voice.lang)) ||
+      null
+    );
+  }
+
+  function speakWithBrowserTts(sentence, token) {
+    if (
+      !("speechSynthesis" in window) ||
+      typeof window.SpeechSynthesisUtterance !== "function"
+    ) {
+      updateVoiceStatus("英語音声を再生できませんでした。");
+      return;
+    }
+
+    const utterance = new window.SpeechSynthesisUtterance(sentence.text);
+    const voice = getBrowserSpeechVoice();
+    if (voice) {
+      utterance.voice = voice;
+    }
+    utterance.lang = voice && voice.lang ? voice.lang : "en-US";
+    utterance.rate = 0.88;
+    utterance.pitch = 0.9;
+    utterance.volume = 1;
+    state.speechUtterance = utterance;
+    utterance.onstart = () => {
+      if (token === state.narrationToken) {
+        updateVoiceStatus("英語音声を再生中");
+      }
+    };
+    const finish = () => {
+      if (token !== state.narrationToken) {
+        return;
+      }
+      state.speechUtterance = null;
+      updateVoiceStatus("英語音声の再生が完了しました");
+    };
+    utterance.onend = finish;
+    utterance.onerror = () => {
+      if (token !== state.narrationToken) {
+        return;
+      }
+      state.speechUtterance = null;
+      updateVoiceStatus("英語音声を再生できませんでした。");
+    };
+    window.speechSynthesis.speak(utterance);
+  }
+
   function getNarrationAudioUrl(sentence) {
+    if (!sentence || sentence.id > PREGENERATED_AUDIO_LIMIT) {
+      return "";
+    }
     return PREGENERATED_AUDIO_ROOT + "/" + String(sentence.id).padStart(3, "0") + ".mp3";
   }
 
@@ -906,6 +969,12 @@ function buildFlow(text, index, stressWords = []) {
 
     const url = getNarrationAudioUrl(sentence);
     narrationAudio.preload = "auto";
+    if (!url) {
+      narrationAudio.removeAttribute("src");
+      delete narrationAudio.dataset.audioUrl;
+      narrationAudio.load();
+      return;
+    }
     if (narrationAudio.dataset.audioUrl === url) {
       return;
     }
@@ -930,16 +999,25 @@ function buildFlow(text, index, stressWords = []) {
       audio.onerror = null;
       state.narrationAudio = null;
     }
+    if ("speechSynthesis" in window) {
+      window.speechSynthesis.cancel();
+    }
+    state.speechUtterance = null;
   }
 
   function speakCurrentSentence() {
     const sentence = sentences[state.index];
-    if (!sentence || !narrationAudio) {
+    if (!sentence) {
       return;
     }
 
     stopNarration();
     const token = state.narrationToken;
+    const audioUrl = getNarrationAudioUrl(sentence);
+    if (!audioUrl || !narrationAudio) {
+      speakWithBrowserTts(sentence, token);
+      return;
+    }
     setNarrationSource(sentence);
     state.narrationAudio = narrationAudio;
     narrationAudio.onplay = () => {
@@ -1035,7 +1113,7 @@ function buildFlow(text, index, stressWords = []) {
 
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
-      navigator.serviceWorker.register("./sw.js?v=30", {
+      navigator.serviceWorker.register("./sw.js?v=33", {
         scope: "./",
         updateViaCache: "none",
       }).then((registration) => {
