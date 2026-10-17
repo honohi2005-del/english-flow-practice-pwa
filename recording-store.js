@@ -76,6 +76,10 @@
       return requestStore("readonly", (store) => store.get(String(sentenceId)));
     },
 
+    listIds() {
+      return requestStore("readonly", (store) => store.getAllKeys());
+    },
+
     save(record) {
       if (!record || record.sentenceId == null || !(record.blob instanceof Blob)) {
         return Promise.reject(new Error("Invalid recording"));

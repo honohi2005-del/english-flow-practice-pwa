@@ -3,31 +3,46 @@
 
   const sentences = Array.isArray(window.SENTENCES) ? window.SENTENCES : [];
   const PREGENERATED_AUDIO_ROOT = "./audio/tts/en-US-RyanPiper";
-  const PREGENERATED_AUDIO_LIMIT = 500;
+  const PREGENERATED_AUDIO_LIMIT = 600;
   const START_INDEX_STORAGE_KEY = "english-flow-practice-start-index-v2";
+
+  function randomUnit() {
+    if (window.crypto && typeof window.crypto.getRandomValues === "function") {
+      const values = new Uint32Array(1);
+      window.crypto.getRandomValues(values);
+      return values[0] / 4294967296;
+    }
+    return Math.random();
+  }
+
+  function randomIndexFromPool(indexes, excludeIndexes = []) {
+    const pool = Array.isArray(indexes)
+      ? indexes.filter((index) => Number.isInteger(index))
+      : [];
+    if (!pool.length) {
+      return -1;
+    }
+    const excluded = new Set(
+      Array.isArray(excludeIndexes) ? excludeIndexes : [excludeIndexes]
+    );
+    const candidates = pool.filter((index) => !excluded.has(index));
+    const available = candidates.length ? candidates : pool;
+    return available[
+      Math.min(
+        available.length - 1,
+        Math.floor(randomUnit() * available.length)
+      )
+    ];
+  }
 
   function randomSentenceIndex(excludeIndexes = []) {
     if (sentences.length <= 1) {
       return 0;
     }
-
-    const excludedIndexes = new Set(
-      Array.isArray(excludeIndexes) ? excludeIndexes : [excludeIndexes]
+    return randomIndexFromPool(
+      sentences.map((_, index) => index),
+      excludeIndexes
     );
-    const randomUnit = () => {
-      if (window.crypto && typeof window.crypto.getRandomValues === "function") {
-        const values = new Uint32Array(1);
-        window.crypto.getRandomValues(values);
-        return values[0] / 4294967296;
-      }
-      return Math.random();
-    };
-
-    let index;
-    do {
-      index = Math.min(sentences.length - 1, Math.floor(randomUnit() * sentences.length));
-    } while (excludedIndexes.has(index));
-    return index;
   }
 
   function readLastStartIndex() {
@@ -67,6 +82,10 @@
   const initialSentenceIndex = getInitialSentenceIndex();
   const sentenceHeading = document.getElementById("sentence-heading");
   const sentenceCount = document.getElementById("sentence-count");
+  const recordedOnlyToggle = document.getElementById("recorded-only-toggle");
+  const recordedOnlyStatus = document.getElementById("recorded-only-status");
+  const recordedOnlyEmpty = document.getElementById("recorded-only-empty");
+  const showAllButton = document.getElementById("show-all-button");
   const sentenceNumber = document.getElementById("sentence-number");
   const tipsList = document.getElementById("tips-list");
   const flowExample = document.getElementById("flow-example");
@@ -144,6 +163,10 @@
 
   const state = {
     index: initialSentenceIndex,
+    recordedOnly: false,
+    recordedSentenceIds: new Set(),
+    recordedOnlyLoading: true,
+    recordedOnlyError: "",
     voices: [],
     selectedVoice: null,
     deferredInstall: null,
@@ -544,6 +567,18 @@ function buildFlow(text, index, stressWords = []) {
     return sentences[state.index] || null;
   }
 
+  function getVisibleSentenceIndexes() {
+    if (!state.recordedOnly) {
+      return sentences.map((_, index) => index);
+    }
+    return sentences.reduce((indexes, sentence, index) => {
+      if (state.recordedSentenceIds.has(String(sentence.id))) {
+        indexes.push(index);
+      }
+      return indexes;
+    }, []);
+  }
+
   function formatRecordingDuration(milliseconds) {
     const seconds = Math.max(1, Math.round(milliseconds / 1000));
     const minutes = Math.floor(seconds / 60);
@@ -572,6 +607,88 @@ function buildFlow(text, index, stressWords = []) {
     }
   }
 
+  function updateRecordedOnlyUi() {
+    const visibleCount = getVisibleSentenceIndexes().length;
+    const busy = Boolean(
+      state.recording &&
+      (state.recording.recorder || state.recording.pending || state.recording.saving)
+    );
+    if (recordedOnlyToggle) {
+      recordedOnlyToggle.checked = state.recordedOnly;
+      recordedOnlyToggle.disabled = state.recordedOnlyLoading || busy;
+      recordedOnlyToggle.setAttribute(
+        "aria-checked",
+        String(state.recordedOnly)
+      );
+    }
+    if (recordedOnlyStatus) {
+      if (state.recordedOnlyLoading) {
+        recordedOnlyStatus.textContent = "録音を確認中…";
+      } else if (state.recordedOnlyError) {
+        recordedOnlyStatus.textContent = state.recordedOnlyError;
+      } else {
+        recordedOnlyStatus.textContent = `${visibleCount}件`;
+      }
+    }
+    if (recordedOnlyEmpty) {
+      recordedOnlyEmpty.hidden = !(
+        state.recordedOnly &&
+        !state.recordedOnlyLoading &&
+        visibleCount === 0
+      );
+    }
+  }
+
+  async function loadRecordedSentenceIds() {
+    if (
+      !window.PRONUNCIATION_RECORDINGS ||
+      typeof window.PRONUNCIATION_RECORDINGS.listIds !== "function"
+    ) {
+      state.recordedOnlyLoading = false;
+      state.recordedOnlyError = "録音データを確認できません。";
+      updateRecordedOnlyUi();
+      render();
+      return;
+    }
+
+    state.recordedOnlyLoading = true;
+    state.recordedOnlyError = "";
+    updateRecordedOnlyUi();
+    try {
+      const ids = await window.PRONUNCIATION_RECORDINGS.listIds();
+      const sentenceIds = new Set(
+        sentences.map((sentence) => String(sentence.id))
+      );
+      state.recordedSentenceIds = new Set(
+        (Array.isArray(ids) ? ids : [])
+          .map((id) => String(id))
+          .filter((id) => sentenceIds.has(id))
+      );
+    } catch {
+      state.recordedSentenceIds = new Set();
+      state.recordedOnlyError = "録音データの確認に失敗しました。";
+    } finally {
+      state.recordedOnlyLoading = false;
+      updateRecordedOnlyUi();
+      render();
+    }
+  }
+
+  function setRecordedOnly(enabled) {
+    state.recordedOnly = Boolean(enabled);
+    const visibleIndexes = getVisibleSentenceIndexes();
+    if (
+      state.recordedOnly &&
+      visibleIndexes.length &&
+      !visibleIndexes.includes(state.index)
+    ) {
+      state.index = randomIndexFromPool(visibleIndexes);
+      rememberStartIndex(state.index);
+    }
+    updateRecordedOnlyUi();
+    render();
+  }
+
   function releaseRecordingUrl() {
     if (state.recording.objectUrl) {
       URL.revokeObjectURL(state.recording.objectUrl);
@@ -597,10 +714,19 @@ function buildFlow(text, index, stressWords = []) {
   }
 
   function updateRecordingControls() {
-    const active = state.recording.recorder && state.recording.recorder.state === "recording";
-    const busy = Boolean(active || state.recording.pending || state.recording.saving);
+    const active =
+      state.recording.recorder &&
+      state.recording.recorder.state === "recording";
+    const busy = Boolean(
+      active || state.recording.pending || state.recording.saving
+    );
+    const visibleIndexes = getVisibleSentenceIndexes();
+    const hasSentence =
+      Boolean(currentSentence()) &&
+      (!state.recordedOnly || visibleIndexes.includes(state.index));
     if (recordButton) {
-      recordButton.disabled = state.recording.pending || state.recording.saving;
+      recordButton.disabled =
+        !hasSentence || state.recording.pending || state.recording.saving;
       recordButton.classList.toggle("is-recording", Boolean(active));
       recordButton.innerHTML = active
         ? '<span aria-hidden="true">■</span>停止して保存'
@@ -608,12 +734,16 @@ function buildFlow(text, index, stressWords = []) {
           ? "保存しています…"
           : '<span aria-hidden="true">●</span>録音を開始';
     }
+    if (speakButton) {
+      speakButton.disabled = !hasSentence;
+    }
     if (nextButton) {
-      nextButton.disabled = busy;
+      nextButton.disabled = !hasSentence || busy || visibleIndexes.length < 2;
     }
     if (deleteRecordingButton) {
-      deleteRecordingButton.disabled = busy;
+      deleteRecordingButton.disabled = !hasSentence || busy;
     }
+    updateRecordedOnlyUi();
   }
 
   function showSavedRecording(record) {
@@ -703,9 +833,13 @@ function buildFlow(text, index, stressWords = []) {
         durationMs,
         mimeType: blob.type
       });
+      state.recordedSentenceIds.add(String(sentenceId));
       state.recording.saving = false;
+      updateRecordedOnlyUi();
       if (currentSentence() && String(currentSentence().id) === String(sentenceId)) {
         await refreshRecording();
+      } else {
+        updateRecordingControls();
       }
     } catch {
       state.recording.saving = false;
@@ -818,10 +952,16 @@ function buildFlow(text, index, stressWords = []) {
     updateRecordingControls();
     try {
       await window.PRONUNCIATION_RECORDINGS.remove(sentence.id);
+      state.recordedSentenceIds.delete(String(sentence.id));
       state.recording.saving = false;
-      clearRecordingAudio();
-      setRecordingStatus("この例文の録音はまだありません。");
-      updateRecordingControls();
+      updateRecordedOnlyUi();
+      if (state.recordedOnly) {
+        render();
+      } else {
+        clearRecordingAudio();
+        setRecordingStatus("この例文の録音はまだありません。");
+        updateRecordingControls();
+      }
     } catch {
       state.recording.saving = false;
       setRecordingStatus("録音の削除に失敗しました。");
@@ -835,6 +975,29 @@ function buildFlow(text, index, stressWords = []) {
       return;
     }
 
+    const visibleIndexes = getVisibleSentenceIndexes();
+    if (state.recordedOnly && !visibleIndexes.length) {
+      stopNarration();
+      state.recording.loadToken += 1;
+      sentenceHeading.textContent = "録音済みの例文はありません";
+      sentenceCount.textContent = "0 / 0";
+      sentenceNumber.textContent = "録音を保存すると、ここに表示されます";
+      tipsList.innerHTML = "";
+      if (vowelAdviceList) {
+        vowelAdviceList.innerHTML = "";
+      }
+      flowExample.innerHTML = "";
+      clearRecordingAudio();
+      setRecordingStatus("保存した録音のある例文はまだありません。");
+      updateRecordedOnlyUi();
+      updateRecordingControls();
+      return;
+    }
+    if (state.recordedOnly && !visibleIndexes.includes(state.index)) {
+      state.index = randomIndexFromPool(visibleIndexes);
+      rememberStartIndex(state.index);
+    }
+
     const sentence = sentences[state.index];
     stopNarration();
     setNarrationSource(sentence);
@@ -845,8 +1008,16 @@ function buildFlow(text, index, stressWords = []) {
     sentenceHeading.innerHTML = stressWords.length
       ? renderHighlightedSentence(sentence.text, stressWords)
       : escapeHtml(sentence.text);
-    sentenceCount.textContent = state.index + 1 + " / " + sentences.length;
+    const visiblePosition = visibleIndexes.indexOf(state.index);
+    const displayedPosition = state.recordedOnly
+      ? visiblePosition + 1
+      : state.index + 1;
+    const displayedTotal = state.recordedOnly
+      ? visibleIndexes.length
+      : sentences.length;
+    sentenceCount.textContent = displayedPosition + " / " + displayedTotal;
     sentenceNumber.textContent = "No. " + String(sentence.id).padStart(3, "0");
+    updateRecordedOnlyUi();
 
     tipsList.innerHTML = tips
       .map((tip) => {
@@ -879,13 +1050,23 @@ function buildFlow(text, index, stressWords = []) {
   }
 
   function nextSentence() {
-    if (sentences.length < 2 || state.recording.pending || state.recording.saving || state.recording.recorder) {
+    const visibleIndexes = getVisibleSentenceIndexes();
+    if (
+      visibleIndexes.length < 2 ||
+      state.recording.pending ||
+      state.recording.saving ||
+      state.recording.recorder
+    ) {
       return;
     }
 
     stopNarration();
-    const nextIndex = randomSentenceIndex(state.index);
+    const nextIndex = randomIndexFromPool(visibleIndexes, state.index);
+    if (nextIndex < 0) {
+      return;
+    }
     state.index = nextIndex;
+    rememberStartIndex(nextIndex);
     render();
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
@@ -1108,12 +1289,34 @@ function buildFlow(text, index, stressWords = []) {
   speakButton.addEventListener("click", speakCurrentSentence);
   recordButton.addEventListener("click", toggleRecording);
   deleteRecordingButton.addEventListener("click", deleteCurrentRecording);
+  if (recordedOnlyToggle) {
+    recordedOnlyToggle.addEventListener("change", () => {
+      if (
+        state.recording.recorder ||
+        state.recording.pending ||
+        state.recording.saving
+      ) {
+        recordedOnlyToggle.checked = state.recordedOnly;
+        return;
+      }
+      setRecordedOnly(recordedOnlyToggle.checked);
+    });
+  }
+  if (showAllButton) {
+    showAllButton.addEventListener("click", () => {
+      setRecordedOnly(false);
+      if (recordedOnlyToggle) {
+        recordedOnlyToggle.focus();
+      }
+    });
+  }
   render();
   setupInstallPrompt();
+  loadRecordedSentenceIds();
 
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
-      navigator.serviceWorker.register("./sw.js?v=33", {
+      navigator.serviceWorker.register("./sw.js?v=34", {
         scope: "./",
         updateViaCache: "none",
       }).then((registration) => {

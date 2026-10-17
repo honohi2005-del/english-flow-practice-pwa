@@ -24,8 +24,8 @@ if (!sentencesMatch) {
 }
 
   const sentences = Function(`"use strict"; return (${sentencesMatch[1]});`)();
-  if (!Array.isArray(sentences) || sentences.length !== 500) {
-    throw new Error(`Expected 500 sentences, found ${sentences.length}`);
+  if (!Array.isArray(sentences) || sentences.length !== 600) {
+    throw new Error(`Expected 600 sentences, found ${sentences.length}`);
   }
   const sentencesToGenerate = sentences.filter(({ id }) => Number(id) >= fromId);
   if (sentencesToGenerate.length === 0) {

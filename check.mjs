@@ -1,8 +1,8 @@
 import { readdir, readFile, stat } from "node:fs/promises";
 
-const TOTAL_SENTENCE_COUNT = 500;
+const TOTAL_SENTENCE_COUNT = 600;
 const AUTHORED_PRONUNCIATION_TIP_LIMIT = 300;
-const PREGENERATED_AUDIO_LIMIT = 500;
+const PREGENERATED_AUDIO_LIMIT = 600;
 
 const html = await readFile(new URL("./index.html", import.meta.url), "utf8");
 const source = await readFile(new URL("./sentences.js", import.meta.url), "utf8");
@@ -50,7 +50,7 @@ if (
   additionalSentences.length !== TOTAL_SENTENCE_COUNT - AUTHORED_PRONUNCIATION_TIP_LIMIT ||
   additionalSentences.some((sentence) => sentence.id > TOTAL_SENTENCE_COUNT)
 ) {
-  throw new Error("The 200 learner-pattern sentences are not registered correctly");
+    throw new Error("The 300 learner-pattern sentences are not registered correctly");
 }
 
 const learnerDiscoursePattern =
@@ -58,7 +58,7 @@ const learnerDiscoursePattern =
 const patternedAdditionalSentenceCount = additionalSentences.filter((sentence) =>
   learnerDiscoursePattern.test(sentence.text)
 ).length;
-if (patternedAdditionalSentenceCount < 150) {
+  if (patternedAdditionalSentenceCount < 250) {
   throw new Error(
     "Additional sentences must be based on recurring learner discourse patterns"
   );
@@ -253,20 +253,20 @@ if (!swSource.includes("./audio/tts-manifest.json")) {
 }
 
 const appVersionMatch = html.match(/<script\s+src="\.\/app\.js\?v=(\d+)"><\/script>/);
-    if (!appVersionMatch || appVersionMatch[1] !== "33") {
-    throw new Error("index.html must load app.js?v=33");
+    if (!appVersionMatch || appVersionMatch[1] !== "35") {
+    throw new Error("index.html must load app.js?v=35");
 }
 
 if (
-        !swSource.includes("english-flow-practice-v34") ||
+        !swSource.includes("english-flow-practice-v36") ||
         !swSource.includes("./startup.js?v=30") ||
-        !swSource.includes("./app.js?v=33")
+        !swSource.includes("./app.js?v=35")
 ) {
   throw new Error("Service Worker cache version is out of date");
 }
 
 if (
-      !html.includes('./styles.css?v=23') ||
+      !html.includes('./styles.css?v=24') ||
       !appSource.includes("function extractContentWords(") ||
       appSource.includes("function extractStressWords(") ||
   !appSource.includes('class="stress-word"') ||
@@ -381,4 +381,4 @@ if (
     throw new Error("Hidden narration compatibility audio is missing");
   }
 
-  console.log("check passed: 500 sentences (300 authored tips + 200 learner-pattern examples), 500 pre-generated narration files, hidden narration compatibility audio, PWA shell, speech controls, and per-sentence recording controls are present");
+  console.log("check passed: 600 sentences (300 authored tips + 300 learner-pattern examples), 600 pre-generated narration files, hidden narration compatibility audio, PWA shell, speech controls, and per-sentence recording controls are present");

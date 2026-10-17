@@ -8,11 +8,11 @@
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
     <meta name="apple-mobile-web-app-title" content="発音練習" />
-  <meta name="description" content="英会話で使いやすい500例文を、発音のコツと音声で練習するPWA。" />
+  <meta name="description" content="英会話で使いやすい600例文を、発音のコツと音声で練習するPWA。" />
     <link rel="manifest" href="./site.webmanifest?v=3" />
     <link rel="icon" href="./icons/icon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="./icons/icon-192.png" />
-    <link rel="stylesheet" href="./styles.css?v=23" />
+    <link rel="stylesheet" href="./styles.css?v=24" />
     <title>英語の発音練習</title>
   </head>
   <body>
@@ -31,8 +31,19 @@
       <section class="practice-card" aria-labelledby="sentence-heading">
         <div class="card-meta">
           <span class="badge">RANDOM PRACTICE</span>
-          <span id="sentence-count">— / 500</span>
+          <span id="sentence-count">— / 600</span>
         </div>
+        <div class="recorded-filter" aria-label="例文の表示切り替え">
+          <label class="recorded-filter-toggle">
+            <input id="recorded-only-toggle" type="checkbox" />
+            <span>録音済みだけ表示</span>
+          </label>
+          <span class="recorded-filter-status" id="recorded-only-status" role="status">録音を確認中…</span>
+        </div>
+        <p class="recorded-only-empty" id="recorded-only-empty" hidden>
+          保存した録音のある例文はまだありません。
+          <button class="text-button" id="show-all-button" type="button">すべて表示</button>
+        </p>
         <div class="sentence-number" id="sentence-number">読み込み中…</div>
         <h2 id="sentence-heading">読み込み中…</h2>
         <div class="sentence-actions">
@@ -104,7 +115,7 @@
       </section>
 
       <footer class="footer-note">
-        <span>500 SENTENCES</span>
+        <span>600 SENTENCES</span>
       </footer>
     </main>
     <script src="./sentences.js"></script>
@@ -174,6 +185,6 @@
     <script src="./pronunciation-tips-060.js"></script>
     <script src="./pronunciation-tips-polish.js"></script>
     <script src="./recording-store.js"></script>
-    <script src="./app.js?v=33"></script>
+    <script src="./app.js?v=35"></script>
   </body>
 </html>

@@ -164,6 +164,59 @@ button:focus-visible {
   margin-bottom: 30px;
 }
 
+.recorded-filter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin: -14px 0 24px;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.52);
+}
+
+.recorded-filter-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.recorded-filter-toggle input {
+  width: 1.1rem;
+  height: 1.1rem;
+  accent-color: var(--cyan-deep);
+}
+
+.recorded-filter-status {
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.recorded-only-empty {
+  margin: 18px 0 0;
+  padding: 12px 14px;
+  border-left: 3px solid var(--coral);
+  background: rgba(223, 129, 120, 0.12);
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+.text-button {
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: var(--cyan-deep);
+  font: inherit;
+  font-weight: 800;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 .badge,
 .recording-badge {
   font-size: 0.68rem;
@@ -689,6 +742,12 @@ button:focus-visible {
 }
 
 @media (max-width: 520px) {
+  .recorded-filter {
+    align-items: flex-start;
+    flex-direction: column;
+    margin-top: -8px;
+  }
+
   .card-meta {
     margin-bottom: 24px;
   }

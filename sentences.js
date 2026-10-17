@@ -499,4 +499,104 @@ window.SENTENCES = [
   { id: 498, text: "For me, the most important point is finding a balance I can maintain." },
   { id: 499, text: "When I feel uncertain, I ask a professional instead of guessing." },
   { id: 500, text: "That is why I believe small, consistent changes are more valuable than extreme plans." }
+  ,{ id: 501, text: "I think teaching Japanese is a good way to learn how people see the world." }
+  ,{ id: 502, text: "In my experience, a simple example helps a learner understand a difficult grammar point." }
+  ,{ id: 503, text: "For example, I sometimes use a gesture before I explain the word in Japanese." }
+  ,{ id: 504, text: "That's why I try to connect each lesson to something the learner already knows." }
+  ,{ id: 505, text: "I'm not sure how to explain the difference, but the nuance changes with the situation." }
+  ,{ id: 506, text: "One thing I've noticed is that learners remember a phrase better when they use it personally." }
+  ,{ id: 507, text: "What I mean is, practice should be connected to a real conversation." }
+  ,{ id: 508, text: "If I have a chance, I ask learners to describe their own experience in Japanese and English." }
+  ,{ id: 509, text: "Compared with memorizing isolated words, using a short story feels more useful." }
+  ,{ id: 510, text: "The reason is that the story gives the word a clear context." }
+  ,{ id: 511, text: "It's difficult to explain why a small pause can make a sentence easier to follow." }
+  ,{ id: 512, text: "At the same time, the learner needs enough time to finish the idea." }
+  ,{ id: 513, text: "In the end, I want the learner to feel comfortable making a reasonable mistake." }
+  ,{ id: 514, text: "I used to think accuracy had to come before communication." }
+  ,{ id: 515, text: "Now I think communication gives accuracy a meaningful purpose." }
+  ,{ id: 516, text: "For me, the most important point is whether the learner can reuse the expression." }
+  ,{ id: 517, text: "That is why I keep the example close to the learner's daily life." }
+  ,{ id: 518, text: "When I teach Japanese, I usually start with a situation rather than a grammar label." }
+  ,{ id: 519, text: "Although a rule is useful, a natural example often makes it clearer." }
+  ,{ id: 520, text: "Because the learner has a personal goal, the practice should have a personal connection." }
+  ,{ id: 521, text: "My experience is that learners ask better questions after they hear two contrasting examples." }
+  ,{ id: 522, text: "From my experience, repeating a sentence with a different feeling improves awareness." }
+  ,{ id: 523, text: "I think an Aikido class teaches patience as well as physical technique." }
+  ,{ id: 524, text: "In my experience, the most important movement is often the one that looks the smallest." }
+  ,{ id: 525, text: "For example, I notice my balance before I try to move with my partner." }
+  ,{ id: 526, text: "That's why I try to relax instead of using unnecessary force." }
+  ,{ id: 527, text: "I'm not sure whether I can explain Aikido only with words." }
+  ,{ id: 528, text: "One thing I've noticed is that breathing changes the quality of the movement." }
+  ,{ id: 529, text: "What I mean is, technique and attitude cannot be separated completely." }
+  ,{ id: 530, text: "If I have a chance, I practice the same movement slowly before I make it faster." }
+  ,{ id: 531, text: "Compared with competing against a partner, practicing Aikido feels more like learning together." }
+  ,{ id: 532, text: "The reason is that both people have to protect the relationship." }
+  ,{ id: 533, text: "It's difficult to describe the exact moment when a movement starts to flow." }
+  ,{ id: 534, text: "At the same time, I can feel when I am trying too hard." }
+  ,{ id: 535, text: "In the end, the practice teaches me to pay attention before I react." }
+  ,{ id: 536, text: "I used to think strength was the most important part of martial arts." }
+  ,{ id: 537, text: "Now I think timing and awareness are just as important." }
+  ,{ id: 538, text: "For me, the most interesting point is how a small change in posture affects the whole movement." }
+  ,{ id: 539, text: "That is why I want to keep practicing even when the progress is slow." }
+  ,{ id: 540, text: "When I practice with a beginner, I usually learn something about my own habits." }
+  ,{ id: 541, text: "I think sign language shows that communication is not limited to spoken words." }
+  ,{ id: 542, text: "In my experience, facial expression is an important part of the message." }
+  ,{ id: 543, text: "For example, the same hand movement can feel different depending on the person's expression." }
+  ,{ id: 544, text: "That's why I try to look at the whole message instead of focusing only on the hands." }
+  ,{ id: 545, text: "I'm not sure how to describe every movement, but I can understand the general intention." }
+  ,{ id: 546, text: "One thing I've noticed is that visual attention is essential in a sign-language conversation." }
+  ,{ id: 547, text: "What I mean is, looking away for a moment can make you miss an important detail." }
+  ,{ id: 548, text: "If I have a chance, I practice a short exchange instead of memorizing single signs." }
+  ,{ id: 549, text: "Compared with spoken Japanese, sign language makes the role of space more visible." }
+  ,{ id: 550, text: "The reason is that the signer can use the space in front of the body to organize people and actions." }
+  ,{ id: 551, text: "It's difficult to explain the feeling until you actually try to express an idea with your hands." }
+  ,{ id: 552, text: "At the same time, the listener has to respond with the face and body as well." }
+  ,{ id: 553, text: "In the end, I think the conversation becomes more attentive and deliberate." }
+  ,{ id: 554, text: "I used to think translation was always the main goal of language learning." }
+  ,{ id: 555, text: "Now I think understanding the other person's intention is more important." }
+  ,{ id: 556, text: "For me, the most useful practice is to explain a sign in my own words." }
+  ,{ id: 557, text: "That is why I try not to depend on a written translation every time." }
+  ,{ id: 558, text: "When I learn a new sign, I usually connect it with a real situation." }
+  ,{ id: 559, text: "Although the form is different, the need for clear turn-taking is similar." }
+  ,{ id: 560, text: "Because the visual channel is so important, a small distraction can change the conversation." }
+  ,{ id: 561, text: "I think Japanese dance requires both precision and a sense of space." }
+  ,{ id: 562, text: "In my experience, the meaning of a movement is not always obvious at first." }
+  ,{ id: 563, text: "For example, a small turn of the head can change the feeling of a whole scene." }
+  ,{ id: 564, text: "That's why I try to watch the relationship between the dancer and the audience." }
+  ,{ id: 565, text: "I'm not sure how to explain the atmosphere, but it feels quiet and very focused." }
+  ,{ id: 566, text: "One thing I've noticed is that the pauses are part of the expression." }
+  ,{ id: 567, text: "What I mean is, doing nothing for a moment can still communicate something." }
+  ,{ id: 568, text: "If I have a chance, I watch the same performance more than once." }
+  ,{ id: 569, text: "Compared with a fast movement, a slow movement makes me notice the details." }
+  ,{ id: 570, text: "The reason is that I have more time to see the posture and the direction." }
+  ,{ id: 571, text: "It's difficult to make a traditional form feel natural without understanding its background." }
+  ,{ id: 572, text: "At the same time, too much explanation can take away from the experience." }
+  ,{ id: 573, text: "In the end, I think the audience needs both context and space to imagine." }
+  ,{ id: 574, text: "I used to think a performance had to be dramatic to be memorable." }
+  ,{ id: 575, text: "Now I think a quiet moment can stay in my memory longer." }
+  ,{ id: 576, text: "For me, the most important point is how the performer controls the rhythm." }
+  ,{ id: 577, text: "That is why I pay attention to the silence between the movements." }
+  ,{ id: 578, text: "When I watch rakugo, I usually enjoy the way one performer creates several characters." }
+  ,{ id: 579, text: "Although the story is old, the timing can make it feel very immediate." }
+  ,{ id: 580, text: "Because the performer changes only small things, the audience has to participate with its imagination." }
+  ,{ id: 581, text: "I think jazz is interesting because the musicians can change the direction of the music." }
+  ,{ id: 582, text: "In my experience, a good jazz performance feels organized even when it sounds spontaneous." }
+  ,{ id: 583, text: "For example, a musician can repeat a short phrase and develop it in a new way." }
+  ,{ id: 584, text: "That's why I try to listen to the conversation between the instruments." }
+  ,{ id: 585, text: "I'm not sure which instrument I should follow, so I often move my attention from one sound to another." }
+  ,{ id: 586, text: "One thing I've noticed is that silence can create tension in jazz." }
+  ,{ id: 587, text: "What I mean is, the space between the notes can be part of the rhythm." }
+  ,{ id: 588, text: "If I have a chance, I listen to the same recording again and notice a different detail." }
+  ,{ id: 589, text: "Compared with a fixed melody, improvisation gives the performer more responsibility." }
+  ,{ id: 590, text: "The reason is that the next musical choice is not completely decided in advance." }
+  ,{ id: 591, text: "It's difficult to explain why a simple phrase can feel so powerful." }
+  ,{ id: 592, text: "At the same time, the musicians still need to listen carefully to one another." }
+  ,{ id: 593, text: "In the end, I think good improvisation depends on preparation as well as freedom." }
+  ,{ id: 594, text: "I used to think Buddhism was mainly about learning a set of ideas." }
+  ,{ id: 595, text: "Now I think meditation helps me notice thoughts without following all of them." }
+  ,{ id: 596, text: "For me, generative AI is a useful tool when I check its answers instead of accepting them automatically." }
+  ,{ id: 597, text: "When I raise a child, I usually learn that a clear routine and flexibility are both necessary." }
+  ,{ id: 598, text: "I think health is easier to maintain when small habits fit into ordinary life." }
+  ,{ id: 599, text: "The reason is that an extreme plan is difficult to continue for a long time." }
+  ,{ id: 600, text: "That is why I want to choose changes that I can actually keep." }
 ];
