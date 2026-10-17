@@ -113,11 +113,74 @@
     ui.nowButton.disabled = state.syncing || !isEnabled();
   }
 
-  function createError(message, code, status) {
+  function createError(message, code, status, detail) {
     const error = new Error(message);
     error.code = code || "";
     error.status = status || 0;
+    error.detail = detail || "";
     return error;
+  }
+
+  function sanitizeErrorText(value) {
+    return String(value || "")
+      .replace(/Bearer\s+[A-Za-z0-9._-]+/gi, "Bearer [redacted]")
+      .replace(/\s+/g, " ")
+      .trim()
+      .slice(0, 240);
+  }
+
+  function parseApiErrorBody(detail) {
+    if (!detail) {
+      return "";
+    }
+    try {
+      const payload = JSON.parse(detail);
+      const apiError = payload && payload.error;
+      if (apiError && typeof apiError === "object") {
+        return sanitizeErrorText(
+          [
+            apiError.status,
+            apiError.message,
+            apiError.errors && apiError.errors[0] && apiError.errors[0].reason,
+          ]
+            .filter(Boolean)
+            .join(" / ")
+        );
+      }
+    } catch (_error) {
+      // The response may be a plain-text or HTML error page.
+    }
+    return sanitizeErrorText(detail);
+  }
+
+  function formatSyncError(error) {
+    const code = error && error.code;
+    const status = Number(error && error.status) || 0;
+    const detail = sanitizeErrorText(error && error.detail);
+    const suffix = detail ? " (" + detail + ")" : "";
+
+    if (code === "AUTH_REQUIRED") {
+      return "Google Driveの認証が必要です。『Google Drive同期を再認証』を押してください。" + suffix;
+    }
+    if (code === "GIS_UNAVAILABLE") {
+      return "Google認証サービスを読み込めませんでした。ページを再読み込みして再試行してください。";
+    }
+    if (code === "NETWORK_ERROR") {
+      return "Google Driveへ接続できませんでした。通信状態を確認して再試行してください。" + suffix;
+    }
+    if (
+      code === "DRIVE_API_ERROR" &&
+      (status === 403 || /forbidden|permission|insufficient|drive api|api has not been used|accessnotconfigured/i.test(detail))
+    ) {
+      return "Google Drive APIまたは権限で拒否されました。Google CloudのDrive API・OAuth設定を確認してください。" + suffix;
+    }
+    if (code === "DRIVE_API_ERROR" && status === 429) {
+      return "Google Driveの利用制限に達しました。少し待って再試行してください。" + suffix;
+    }
+    if (code === "DRIVE_API_ERROR") {
+      return "Google Drive APIで同期に失敗しました。" + suffix;
+    }
+    return "Google Drive同期に失敗しました。通信状態を確認して再試行してください。" + suffix;
   }
 
   function clearAccessToken() {
@@ -182,7 +245,9 @@
                     response && response.error_description
                       ? response.error_description
                       : "Google Driveへのアクセスが許可されませんでした。",
-                    "AUTH_REQUIRED"
+                    "AUTH_REQUIRED",
+                    0,
+                    response && (response.error_description || response.error)
                   )
                 );
                 return;
@@ -192,8 +257,15 @@
                 Date.now() + (Number(response.expires_in) || 3600) * 1000;
               resolve(state.accessToken);
             },
-            error_callback: () => {
-              reject(createError("Google認証を完了できませんでした。", "AUTH_REQUIRED"));
+            error_callback: (error) => {
+              reject(
+                createError(
+                  "Google認証を完了できませんでした。",
+                  "AUTH_REQUIRED",
+                  0,
+                  error && (error.type || error.message)
+                )
+              );
             },
           });
 
@@ -218,13 +290,32 @@
     const headers = new Headers((options && options.headers) || {});
     headers.set("Authorization", "Bearer " + token);
     const requestOptions = Object.assign({}, options || {}, { headers });
-    let response = await fetch(url, requestOptions);
+    let response;
+    try {
+      response = await fetch(url, requestOptions);
+    } catch (error) {
+      throw createError(
+        "Google Driveへの接続に失敗しました。",
+        "NETWORK_ERROR",
+        0,
+        error && error.message
+      );
+    }
 
     if (response.status === 401) {
       clearAccessToken();
       const renewedToken = await requestAccessToken(Boolean(interactive));
       headers.set("Authorization", "Bearer " + renewedToken);
-      response = await fetch(url, requestOptions);
+      try {
+        response = await fetch(url, requestOptions);
+      } catch (error) {
+        throw createError(
+          "Google Driveへの接続に失敗しました。",
+          "NETWORK_ERROR",
+          0,
+          error && error.message
+        );
+      }
     }
     return response;
   }
@@ -233,20 +324,26 @@
     if (response.ok) {
       return response;
     }
-    let detail = "";
+    let rawDetail = "";
     try {
-      detail = (await response.text()).slice(0, 300);
+      rawDetail = (await response.text()).slice(0, 1000);
     } catch (_error) {
-      detail = "";
+      rawDetail = "";
     }
+    const detail = parseApiErrorBody(rawDetail);
     if (response.status === 401) {
-      throw createError("Google Driveの認証が切れました。再認証してください。", "AUTH_REQUIRED", 401);
+      throw createError(
+        "Google Driveの認証が切れました。再認証してください。",
+        "AUTH_REQUIRED",
+        401,
+        detail
+      );
     }
     throw createError(
-      "Google Drive APIがエラーを返しました。" +
-        (detail ? " " + detail : ""),
+      "Google Drive APIがエラーを返しました。",
       "DRIVE_API_ERROR",
-      response.status
+      response.status,
+      detail
     );
   }
 
@@ -618,14 +715,7 @@
       window.localStorage.setItem(LAST_SYNC_KEY, syncedAt);
       setStatus("最終同期: " + formatTime(new Date(syncedAt)), false);
     } catch (error) {
-      if (error && error.code === "AUTH_REQUIRED") {
-        setStatus("Google Drive同期には再認証が必要です。ボタンから許可してください。", true);
-      } else {
-        setStatus(
-          "Google Drive同期に失敗しました。通信状態を確認して再試行してください。",
-          true
-        );
-      }
+      setStatus(formatSyncError(error), true);
       console.warn("Google Drive sync failed", error);
     } finally {
       state.syncing = false;

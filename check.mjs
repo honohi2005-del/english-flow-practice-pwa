@@ -260,7 +260,7 @@ const appVersionMatch = html.match(/<script\s+src="\.\/app\.js\?v=(\d+)"><\/scri
 }
 
 if (
- !swSource.includes("english-flow-practice-v37") ||
+  !swSource.includes("english-flow-practice-v38") ||
         !swSource.includes("./startup.js?v=30") ||
         !swSource.includes("./app.js?v=35")
 ) {
