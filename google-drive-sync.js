@@ -156,7 +156,7 @@
   function formatSyncError(error) {
     const code = error && error.code;
     const status = Number(error && error.status) || 0;
-    const detail = sanitizeErrorText(error && error.detail);
+    const detail = sanitizeErrorText(error && (error.detail || error.message));
     const suffix = detail ? " (" + detail + ")" : "";
 
     if (code === "AUTH_REQUIRED") {
@@ -180,7 +180,9 @@
     if (code === "DRIVE_API_ERROR") {
       return "Google Drive APIで同期に失敗しました。" + suffix;
     }
-    return "Google Drive同期に失敗しました。通信状態を確認して再試行してください。" + suffix;
+    return detail
+      ? "Google Drive同期に失敗しました。詳細: " + detail
+      : "Google Drive同期に失敗しました。ページを再読み込みして再試行してください。";
   }
 
   function clearAccessToken() {

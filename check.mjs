@@ -255,14 +255,15 @@ if (!swSource.includes("./audio/tts-manifest.json")) {
 }
 
 const appVersionMatch = html.match(/<script\s+src="\.\/app\.js\?v=(\d+)"><\/script>/);
-    if (!appVersionMatch || appVersionMatch[1] !== "35") {
-    throw new Error("index.html must load app.js?v=35");
+if (!appVersionMatch || appVersionMatch[1] !== "35") {
+  throw new Error("index.html must load app.js?v=35");
 }
 
 if (
-  !swSource.includes("english-flow-practice-v38") ||
-        !swSource.includes("./startup.js?v=30") ||
-        !swSource.includes("./app.js?v=35")
+  !swSource.includes("english-flow-practice-v39") ||
+  !swSource.includes("./google-drive-sync.js?v=39") ||
+  !swSource.includes("./startup.js?v=30") ||
+  !swSource.includes("./app.js?v=35")
 ) {
   throw new Error("Service Worker cache version is out of date");
 }
