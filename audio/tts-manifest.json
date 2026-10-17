@@ -4,7 +4,7 @@
   "language": "en-US",
   "rate": "0%",
   "pitch": "0Hz",
-  "generatedAt": "2026-10-14T09:13:23.156Z",
+  "generatedAt": "2026-10-17T03:55:15.645Z",
   "sentences": [
     {
       "id": 1,
@@ -1804,6 +1804,1206 @@
       "id": 300,
       "text": "I want to express thoughtful ideas in clear, natural English.",
       "file": "./audio/tts/en-US-RyanPiper/300.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 301,
+      "text": "I think Aikido teaches me to stay calm when a situation changes suddenly.",
+      "file": "./audio/tts/en-US-RyanPiper/301.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 302,
+      "text": "In my experience, the first step is to listen to the other person's movement.",
+      "file": "./audio/tts/en-US-RyanPiper/302.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 303,
+      "text": "For example, I try to use the attacker's energy instead of fighting against it.",
+      "file": "./audio/tts/en-US-RyanPiper/303.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 304,
+      "text": "That's why I practice turning smoothly before I worry about speed.",
+      "file": "./audio/tts/en-US-RyanPiper/304.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 305,
+      "text": "I'm not sure I can explain every technique, but I can feel the basic idea.",
+      "file": "./audio/tts/en-US-RyanPiper/305.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 306,
+      "text": "One thing I've noticed is that a relaxed body can respond more quickly.",
+      "file": "./audio/tts/en-US-RyanPiper/306.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 307,
+      "text": "What I mean is that strength alone does not solve the problem.",
+      "file": "./audio/tts/en-US-RyanPiper/307.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 308,
+      "text": "If I have a chance, I want to show how balance changes the whole movement.",
+      "file": "./audio/tts/en-US-RyanPiper/308.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 309,
+      "text": "Compared with ordinary exercise, Aikido makes me pay more attention to another person.",
+      "file": "./audio/tts/en-US-RyanPiper/309.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 310,
+      "text": "The reason is that the movement depends on both people, not just on me.",
+      "file": "./audio/tts/en-US-RyanPiper/310.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 311,
+      "text": "It's difficult to explain, but a small change in distance can make a big difference.",
+      "file": "./audio/tts/en-US-RyanPiper/311.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 312,
+      "text": "I usually begin slowly because I want to understand the timing.",
+      "file": "./audio/tts/en-US-RyanPiper/312.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 313,
+      "text": "At the same time, I try not to predict the partner's movement too much.",
+      "file": "./audio/tts/en-US-RyanPiper/313.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 314,
+      "text": "In the end, the goal is not to defeat someone but to avoid unnecessary conflict.",
+      "file": "./audio/tts/en-US-RyanPiper/314.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 315,
+      "text": "I used to think Aikido was mostly about physical technique.",
+      "file": "./audio/tts/en-US-RyanPiper/315.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 316,
+      "text": "Now I think it is also a way to practice patience and awareness.",
+      "file": "./audio/tts/en-US-RyanPiper/316.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 317,
+      "text": "For me, the most interesting part is finding a safe direction for both people.",
+      "file": "./audio/tts/en-US-RyanPiper/317.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 318,
+      "text": "When I make a mistake, I try to return to a comfortable posture.",
+      "file": "./audio/tts/en-US-RyanPiper/318.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 319,
+      "text": "That is why I believe Aikido can be useful in everyday communication.",
+      "file": "./audio/tts/en-US-RyanPiper/319.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 320,
+      "text": "I think sign language is a complete language, not just a set of gestures.",
+      "file": "./audio/tts/en-US-RyanPiper/320.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 321,
+      "text": "In my experience, facial expression is an important part of the message.",
+      "file": "./audio/tts/en-US-RyanPiper/321.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 322,
+      "text": "For example, the same hand movement can feel different depending on the speaker's expression.",
+      "file": "./audio/tts/en-US-RyanPiper/322.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 323,
+      "text": "That's why I try to watch the whole person, not only the hands.",
+      "file": "./audio/tts/en-US-RyanPiper/323.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 324,
+      "text": "I'm not sure how to sign every word, but I can understand the importance of visual communication.",
+      "file": "./audio/tts/en-US-RyanPiper/324.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 325,
+      "text": "One thing I've noticed is that silence does not mean that communication has stopped.",
+      "file": "./audio/tts/en-US-RyanPiper/325.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 326,
+      "text": "What I mean is that people can share careful thoughts without using their voices.",
+      "file": "./audio/tts/en-US-RyanPiper/326.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 327,
+      "text": "If I have a chance, I would like to learn more about the culture of Deaf communities.",
+      "file": "./audio/tts/en-US-RyanPiper/327.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 328,
+      "text": "Compared with spoken English, sign language uses space in a very different way.",
+      "file": "./audio/tts/en-US-RyanPiper/328.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 329,
+      "text": "The reason is that the position and direction of a sign can add meaning.",
+      "file": "./audio/tts/en-US-RyanPiper/329.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 330,
+      "text": "It's difficult to explain, but eye contact helps keep the conversation connected.",
+      "file": "./audio/tts/en-US-RyanPiper/330.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 331,
+      "text": "I sometimes need more time because I am still learning to notice small movements.",
+      "file": "./audio/tts/en-US-RyanPiper/331.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 332,
+      "text": "At the same time, I want to communicate naturally instead of translating every sign.",
+      "file": "./audio/tts/en-US-RyanPiper/332.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 333,
+      "text": "In the end, learning sign language has made me more patient as a listener.",
+      "file": "./audio/tts/en-US-RyanPiper/333.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 334,
+      "text": "I used to focus on individual words, but now I try to understand the whole message.",
+      "file": "./audio/tts/en-US-RyanPiper/334.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 335,
+      "text": "For me, the most important lesson is to respect the other person's way of communicating.",
+      "file": "./audio/tts/en-US-RyanPiper/335.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 336,
+      "text": "When I do not understand, I try to ask clearly and continue the conversation.",
+      "file": "./audio/tts/en-US-RyanPiper/336.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 337,
+      "text": "That is why I think sign language can change the way we understand accessibility.",
+      "file": "./audio/tts/en-US-RyanPiper/337.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 338,
+      "text": "I think Japanese dance expresses meaning through very small movements.",
+      "file": "./audio/tts/en-US-RyanPiper/338.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 339,
+      "text": "In my experience, the way a dancer holds a fan can change the mood of a scene.",
+      "file": "./audio/tts/en-US-RyanPiper/339.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 340,
+      "text": "For example, a slow turn can show hesitation, dignity, or sadness.",
+      "file": "./audio/tts/en-US-RyanPiper/340.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 341,
+      "text": "That's why I practice the beginning and ending of each movement carefully.",
+      "file": "./audio/tts/en-US-RyanPiper/341.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 342,
+      "text": "I'm not sure I can explain every symbol, but the posture tells part of the story.",
+      "file": "./audio/tts/en-US-RyanPiper/342.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 343,
+      "text": "One thing I've noticed is that stillness can be as expressive as movement.",
+      "file": "./audio/tts/en-US-RyanPiper/343.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 344,
+      "text": "What I mean is that the audience also reads the space between the gestures.",
+      "file": "./audio/tts/en-US-RyanPiper/344.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 345,
+      "text": "If I have a chance, I want to explain how the costume supports the performance.",
+      "file": "./audio/tts/en-US-RyanPiper/345.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 346,
+      "text": "Compared with modern dance, Nihon buyo often values restraint and controlled timing.",
+      "file": "./audio/tts/en-US-RyanPiper/346.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 347,
+      "text": "The reason is that a small movement can invite the audience to imagine more.",
+      "file": "./audio/tts/en-US-RyanPiper/347.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 348,
+      "text": "It's difficult to explain, but the rhythm is not always shown by fast steps.",
+      "file": "./audio/tts/en-US-RyanPiper/348.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 349,
+      "text": "I usually listen to the music first because it helps me feel the character.",
+      "file": "./audio/tts/en-US-RyanPiper/349.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 350,
+      "text": "At the same time, I have to keep my movements precise and economical.",
+      "file": "./audio/tts/en-US-RyanPiper/350.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 351,
+      "text": "In the end, the performance becomes a conversation between the dancer and the audience.",
+      "file": "./audio/tts/en-US-RyanPiper/351.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 352,
+      "text": "I used to think traditional dance was difficult to understand from the outside.",
+      "file": "./audio/tts/en-US-RyanPiper/352.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 353,
+      "text": "Now I think the repeated forms give the dancer a clear foundation for expression.",
+      "file": "./audio/tts/en-US-RyanPiper/353.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 354,
+      "text": "For me, the most interesting part is making a quiet gesture feel meaningful.",
+      "file": "./audio/tts/en-US-RyanPiper/354.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 355,
+      "text": "That is why I believe Nihon buyo can communicate even without many words.",
+      "file": "./audio/tts/en-US-RyanPiper/355.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 356,
+      "text": "I think rakugo is impressive because one performer creates many different characters.",
+      "file": "./audio/tts/en-US-RyanPiper/356.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 357,
+      "text": "In my experience, the change in voice makes the dialogue easy to follow.",
+      "file": "./audio/tts/en-US-RyanPiper/357.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 358,
+      "text": "For example, a small turn of the head can show who is speaking.",
+      "file": "./audio/tts/en-US-RyanPiper/358.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 359,
+      "text": "That's why timing is just as important as the words themselves.",
+      "file": "./audio/tts/en-US-RyanPiper/359.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 360,
+      "text": "I'm not sure I can remember every punchline, but I enjoy the way the story develops.",
+      "file": "./audio/tts/en-US-RyanPiper/360.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 361,
+      "text": "One thing I've noticed is that the audience helps create the atmosphere.",
+      "file": "./audio/tts/en-US-RyanPiper/361.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 362,
+      "text": "What I mean is that laughter can give the performer energy and direction.",
+      "file": "./audio/tts/en-US-RyanPiper/362.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 363,
+      "text": "If I have a chance, I would like to listen to the same story told by different performers.",
+      "file": "./audio/tts/en-US-RyanPiper/363.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 364,
+      "text": "Compared with a written story, rakugo depends much more on rhythm and delivery.",
+      "file": "./audio/tts/en-US-RyanPiper/364.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 365,
+      "text": "The reason is that the listener has to imagine the setting from a few details.",
+      "file": "./audio/tts/en-US-RyanPiper/365.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 366,
+      "text": "It's difficult to explain, but a pause can make an ordinary sentence funny.",
+      "file": "./audio/tts/en-US-RyanPiper/366.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 367,
+      "text": "I usually notice the final twist only after the performer has carefully prepared it.",
+      "file": "./audio/tts/en-US-RyanPiper/367.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 368,
+      "text": "At the same time, the story often includes everyday problems that still feel familiar.",
+      "file": "./audio/tts/en-US-RyanPiper/368.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 369,
+      "text": "In the end, a good performer makes a simple situation feel surprisingly rich.",
+      "file": "./audio/tts/en-US-RyanPiper/369.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 370,
+      "text": "I used to think comedy had to move quickly to be effective.",
+      "file": "./audio/tts/en-US-RyanPiper/370.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 371,
+      "text": "Now I think a calm voice can make the final line even stronger.",
+      "file": "./audio/tts/en-US-RyanPiper/371.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 372,
+      "text": "For me, the most interesting part is how much the audience imagines together.",
+      "file": "./audio/tts/en-US-RyanPiper/372.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 373,
+      "text": "That is why I believe rakugo is both storytelling and acting.",
+      "file": "./audio/tts/en-US-RyanPiper/373.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 374,
+      "text": "I think teaching Japanese requires more than explaining grammar rules.",
+      "file": "./audio/tts/en-US-RyanPiper/374.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 375,
+      "text": "In my experience, learners understand a pattern better when they can use it in a real situation.",
+      "file": "./audio/tts/en-US-RyanPiper/375.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 376,
+      "text": "For example, I ask students to describe their daily routines before I introduce a new form.",
+      "file": "./audio/tts/en-US-RyanPiper/376.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 377,
+      "text": "That's why I try to connect each lesson with something they actually want to say.",
+      "file": "./audio/tts/en-US-RyanPiper/377.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 378,
+      "text": "I'm not sure every learner needs the same explanation, but everyone needs a chance to speak.",
+      "file": "./audio/tts/en-US-RyanPiper/378.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 379,
+      "text": "One thing I've noticed is that a small success can change a student's attitude.",
+      "file": "./audio/tts/en-US-RyanPiper/379.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 380,
+      "text": "What I mean is that confidence often grows from repeated, manageable practice.",
+      "file": "./audio/tts/en-US-RyanPiper/380.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 381,
+      "text": "If I have a chance, I want to show learners how much they already understand.",
+      "file": "./audio/tts/en-US-RyanPiper/381.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 382,
+      "text": "Compared with memorizing isolated words, using a short phrase in context is more useful.",
+      "file": "./audio/tts/en-US-RyanPiper/382.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 383,
+      "text": "The reason is that the phrase becomes easier to remember and reuse.",
+      "file": "./audio/tts/en-US-RyanPiper/383.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 384,
+      "text": "It's difficult to explain, but a mistake can show us what the learner is trying to express.",
+      "file": "./audio/tts/en-US-RyanPiper/384.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 385,
+      "text": "I usually ask a follow-up question because it helps the learner expand the answer.",
+      "file": "./audio/tts/en-US-RyanPiper/385.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 386,
+      "text": "At the same time, I try not to interrupt every time the grammar is imperfect.",
+      "file": "./audio/tts/en-US-RyanPiper/386.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 387,
+      "text": "In the end, the goal is to help learners communicate their own ideas.",
+      "file": "./audio/tts/en-US-RyanPiper/387.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 388,
+      "text": "I used to focus more on giving the correct answer immediately.",
+      "file": "./audio/tts/en-US-RyanPiper/388.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 389,
+      "text": "Now I think waiting a little can create more opportunities for independent speaking.",
+      "file": "./audio/tts/en-US-RyanPiper/389.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 390,
+      "text": "For me, the most important part of teaching is noticing what each learner needs.",
+      "file": "./audio/tts/en-US-RyanPiper/390.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 391,
+      "text": "That is why I believe language lessons should include both accuracy and meaningful interaction.",
+      "file": "./audio/tts/en-US-RyanPiper/391.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 392,
+      "text": "I think jazz is interesting because the music can change while it is being performed.",
+      "file": "./audio/tts/en-US-RyanPiper/392.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 393,
+      "text": "In my experience, the space between the notes is just as important as the notes.",
+      "file": "./audio/tts/en-US-RyanPiper/393.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 394,
+      "text": "For example, a musician can create tension by repeating a simple phrase.",
+      "file": "./audio/tts/en-US-RyanPiper/394.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 395,
+      "text": "That's why I try to listen to the rhythm section before I focus on the solo.",
+      "file": "./audio/tts/en-US-RyanPiper/395.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 396,
+      "text": "I'm not sure I can name every chord, but I can feel when the harmony changes.",
+      "file": "./audio/tts/en-US-RyanPiper/396.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 397,
+      "text": "One thing I've noticed is that a good solo sounds like a conversation.",
+      "file": "./audio/tts/en-US-RyanPiper/397.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 398,
+      "text": "What I mean is that the musician responds to the other players instead of playing alone.",
+      "file": "./audio/tts/en-US-RyanPiper/398.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 399,
+      "text": "If I have a chance, I would like to hear the same song performed by different groups.",
+      "file": "./audio/tts/en-US-RyanPiper/399.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 400,
+      "text": "Compared with a fixed arrangement, improvisation leaves more room for personal expression.",
+      "file": "./audio/tts/en-US-RyanPiper/400.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 401,
+      "text": "The reason is that each musician can react to the moment.",
+      "file": "./audio/tts/en-US-RyanPiper/401.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 402,
+      "text": "It's difficult to explain, but a small change in timing can completely change the feeling.",
+      "file": "./audio/tts/en-US-RyanPiper/402.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 403,
+      "text": "I usually listen several times because I notice something new each time.",
+      "file": "./audio/tts/en-US-RyanPiper/403.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 404,
+      "text": "At the same time, I enjoy the balance between freedom and structure.",
+      "file": "./audio/tts/en-US-RyanPiper/404.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 405,
+      "text": "In the end, the best performance feels spontaneous but still carefully connected.",
+      "file": "./audio/tts/en-US-RyanPiper/405.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 406,
+      "text": "I used to think jazz was difficult because I did not know what to listen for.",
+      "file": "./audio/tts/en-US-RyanPiper/406.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 407,
+      "text": "Now I think following the beat and the conversation is a good place to start.",
+      "file": "./audio/tts/en-US-RyanPiper/407.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 408,
+      "text": "For me, the most exciting part is hearing an idea develop in real time.",
+      "file": "./audio/tts/en-US-RyanPiper/408.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 409,
+      "text": "That is why I believe jazz can teach us how to listen and respond.",
+      "file": "./audio/tts/en-US-RyanPiper/409.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 410,
+      "text": "I think Buddhism offers a way to look at suffering without ignoring it.",
+      "file": "./audio/tts/en-US-RyanPiper/410.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 411,
+      "text": "In my experience, a quiet moment can help me notice my own reactions.",
+      "file": "./audio/tts/en-US-RyanPiper/411.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 412,
+      "text": "For example, I sometimes realize that my worry becomes smaller when I observe it carefully.",
+      "file": "./audio/tts/en-US-RyanPiper/412.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 413,
+      "text": "That's why I try to pause before I judge a difficult situation.",
+      "file": "./audio/tts/en-US-RyanPiper/413.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 414,
+      "text": "I'm not sure I understand every teaching, but I can apply some of the basic ideas.",
+      "file": "./audio/tts/en-US-RyanPiper/414.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 415,
+      "text": "One thing I've noticed is that my attention often moves before I notice it.",
+      "file": "./audio/tts/en-US-RyanPiper/415.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 416,
+      "text": "What I mean is that awareness begins with observing what is happening now.",
+      "file": "./audio/tts/en-US-RyanPiper/416.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 417,
+      "text": "If I have a chance, I would like to visit different temples and learn their histories.",
+      "file": "./audio/tts/en-US-RyanPiper/417.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 418,
+      "text": "Compared with collecting more information, practicing one idea can change my daily life more.",
+      "file": "./audio/tts/en-US-RyanPiper/418.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 419,
+      "text": "The reason is that understanding becomes deeper through repeated experience.",
+      "file": "./audio/tts/en-US-RyanPiper/419.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 420,
+      "text": "It's difficult to explain, but compassion also includes how we treat ourselves.",
+      "file": "./audio/tts/en-US-RyanPiper/420.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 421,
+      "text": "I usually start with a simple question when I feel confused.",
+      "file": "./audio/tts/en-US-RyanPiper/421.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 422,
+      "text": "At the same time, I try not to use Buddhist ideas as an easy answer to every problem.",
+      "file": "./audio/tts/en-US-RyanPiper/422.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 423,
+      "text": "In the end, I think the value is in how the teaching changes our actions.",
+      "file": "./audio/tts/en-US-RyanPiper/423.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 424,
+      "text": "I used to think meditation was separate from ordinary life.",
+      "file": "./audio/tts/en-US-RyanPiper/424.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 425,
+      "text": "Now I think everyday conversations can also become opportunities for awareness.",
+      "file": "./audio/tts/en-US-RyanPiper/425.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 426,
+      "text": "For me, the most important lesson is to notice attachment without blaming myself.",
+      "file": "./audio/tts/en-US-RyanPiper/426.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 427,
+      "text": "That is why Buddhism continues to influence the way I think about kindness.",
+      "file": "./audio/tts/en-US-RyanPiper/427.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 428,
+      "text": "I think meditation is less about stopping thoughts and more about noticing them.",
+      "file": "./audio/tts/en-US-RyanPiper/428.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 429,
+      "text": "In my experience, even five quiet minutes can change the pace of my morning.",
+      "file": "./audio/tts/en-US-RyanPiper/429.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 430,
+      "text": "For example, I focus on my breathing when my mind starts moving too quickly.",
+      "file": "./audio/tts/en-US-RyanPiper/430.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 431,
+      "text": "That's why I try to practice regularly instead of waiting for perfect conditions.",
+      "file": "./audio/tts/en-US-RyanPiper/431.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 432,
+      "text": "I'm not sure I can stay focused for a long time, but I can always begin again.",
+      "file": "./audio/tts/en-US-RyanPiper/432.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 433,
+      "text": "One thing I've noticed is that I become aware of tension in my body.",
+      "file": "./audio/tts/en-US-RyanPiper/433.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 434,
+      "text": "What I mean is that my shoulders often tell me that I am worried.",
+      "file": "./audio/tts/en-US-RyanPiper/434.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 435,
+      "text": "If I have a chance, I meditate before I make an important decision.",
+      "file": "./audio/tts/en-US-RyanPiper/435.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 436,
+      "text": "Compared with forcing myself to relax, observing my breath feels more realistic.",
+      "file": "./audio/tts/en-US-RyanPiper/436.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 437,
+      "text": "The reason is that I do not have to fight the feeling that is already there.",
+      "file": "./audio/tts/en-US-RyanPiper/437.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 438,
+      "text": "It's difficult to explain, but a short pause can create room between a thought and an action.",
+      "file": "./audio/tts/en-US-RyanPiper/438.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 439,
+      "text": "I usually sit quietly and let the thoughts come and go.",
+      "file": "./audio/tts/en-US-RyanPiper/439.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 440,
+      "text": "At the same time, I try not to turn meditation into another task to complete perfectly.",
+      "file": "./audio/tts/en-US-RyanPiper/440.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 441,
+      "text": "In the end, the practice helps me return to the present moment.",
+      "file": "./audio/tts/en-US-RyanPiper/441.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 442,
+      "text": "I used to think I was failing whenever my attention wandered.",
+      "file": "./audio/tts/en-US-RyanPiper/442.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 443,
+      "text": "Now I think noticing the wandering is already part of the practice.",
+      "file": "./audio/tts/en-US-RyanPiper/443.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 444,
+      "text": "For me, the most useful result is responding more calmly in daily conversations.",
+      "file": "./audio/tts/en-US-RyanPiper/444.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 445,
+      "text": "That is why I want to keep meditation simple and sustainable.",
+      "file": "./audio/tts/en-US-RyanPiper/445.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 446,
+      "text": "I think generative AI is useful when we know what we want to improve.",
+      "file": "./audio/tts/en-US-RyanPiper/446.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 447,
+      "text": "In my experience, a clear question usually produces a more useful answer.",
+      "file": "./audio/tts/en-US-RyanPiper/447.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 448,
+      "text": "For example, I ask the AI to give me several versions before I choose one.",
+      "file": "./audio/tts/en-US-RyanPiper/448.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 449,
+      "text": "That's why I try to check the output instead of accepting it immediately.",
+      "file": "./audio/tts/en-US-RyanPiper/449.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 450,
+      "text": "I'm not sure the answer is correct, but I can use it as a starting point.",
+      "file": "./audio/tts/en-US-RyanPiper/450.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 451,
+      "text": "One thing I've noticed is that the quality depends on the details I provide.",
+      "file": "./audio/tts/en-US-RyanPiper/451.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 452,
+      "text": "What I mean is that a vague request often leads to a vague result.",
+      "file": "./audio/tts/en-US-RyanPiper/452.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 453,
+      "text": "If I have a chance, I would like to use AI to support language learning.",
+      "file": "./audio/tts/en-US-RyanPiper/453.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 454,
+      "text": "Compared with searching for one fixed answer, a conversation with AI can help me explore options.",
+      "file": "./audio/tts/en-US-RyanPiper/454.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 455,
+      "text": "The reason is that I can ask follow-up questions and refine the direction.",
+      "file": "./audio/tts/en-US-RyanPiper/455.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 456,
+      "text": "It's difficult to explain, but the human decision is still important.",
+      "file": "./audio/tts/en-US-RyanPiper/456.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 457,
+      "text": "I usually compare important information with a reliable source.",
+      "file": "./audio/tts/en-US-RyanPiper/457.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 458,
+      "text": "At the same time, I want to use AI without losing my own judgment.",
+      "file": "./audio/tts/en-US-RyanPiper/458.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 459,
+      "text": "In the end, the best use of AI depends on how thoughtfully we work with it.",
+      "file": "./audio/tts/en-US-RyanPiper/459.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 460,
+      "text": "I used to think AI was mainly a tool for producing text.",
+      "file": "./audio/tts/en-US-RyanPiper/460.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 461,
+      "text": "Now I think it can also help us organize ideas and notice patterns.",
+      "file": "./audio/tts/en-US-RyanPiper/461.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 462,
+      "text": "For me, the most important skill is explaining the goal clearly.",
+      "file": "./audio/tts/en-US-RyanPiper/462.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 463,
+      "text": "That is why I believe generative AI should support people, not replace their responsibility.",
+      "file": "./audio/tts/en-US-RyanPiper/463.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 464,
+      "text": "I think parenting involves learning from small moments every day.",
+      "file": "./audio/tts/en-US-RyanPiper/464.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 465,
+      "text": "In my experience, children often show their feelings before they can explain them.",
+      "file": "./audio/tts/en-US-RyanPiper/465.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 466,
+      "text": "For example, a child may become quiet when something feels difficult.",
+      "file": "./audio/tts/en-US-RyanPiper/466.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 467,
+      "text": "That's why I try to ask what happened before I give advice.",
+      "file": "./audio/tts/en-US-RyanPiper/467.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 468,
+      "text": "I'm not sure I always choose the best response, but I can apologize and try again.",
+      "file": "./audio/tts/en-US-RyanPiper/468.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 469,
+      "text": "One thing I've noticed is that children learn from what adults do more than what they say.",
+      "file": "./audio/tts/en-US-RyanPiper/469.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 470,
+      "text": "What I mean is that our daily behavior becomes an example without any explanation.",
+      "file": "./audio/tts/en-US-RyanPiper/470.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 471,
+      "text": "If I have a chance, I want to spend unhurried time with my family.",
+      "file": "./audio/tts/en-US-RyanPiper/471.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 472,
+      "text": "Compared with giving a quick answer, listening carefully can make a child feel safer.",
+      "file": "./audio/tts/en-US-RyanPiper/472.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 473,
+      "text": "The reason is that the child knows their experience has been taken seriously.",
+      "file": "./audio/tts/en-US-RyanPiper/473.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 474,
+      "text": "It's difficult to explain, but setting a limit and showing kindness can happen together.",
+      "file": "./audio/tts/en-US-RyanPiper/474.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 475,
+      "text": "I usually explain the reason for a rule because it helps children understand it.",
+      "file": "./audio/tts/en-US-RyanPiper/475.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 476,
+      "text": "At the same time, I try to leave room for the child to make an age-appropriate choice.",
+      "file": "./audio/tts/en-US-RyanPiper/476.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 477,
+      "text": "In the end, parenting is not about controlling every result.",
+      "file": "./audio/tts/en-US-RyanPiper/477.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 478,
+      "text": "I used to think good parents always knew exactly what to do.",
+      "file": "./audio/tts/en-US-RyanPiper/478.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 479,
+      "text": "Now I think being willing to learn is more realistic and more helpful.",
+      "file": "./audio/tts/en-US-RyanPiper/479.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 480,
+      "text": "For me, the most important part is building trust through repeated everyday actions.",
+      "file": "./audio/tts/en-US-RyanPiper/480.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 481,
+      "text": "That is why I believe a calm conversation can be more powerful than a long lecture.",
+      "file": "./audio/tts/en-US-RyanPiper/481.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 482,
+      "text": "I think good health begins with habits that I can continue without stress.",
+      "file": "./audio/tts/en-US-RyanPiper/482.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 483,
+      "text": "In my experience, sleeping well affects my mood more than I expect.",
+      "file": "./audio/tts/en-US-RyanPiper/483.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 484,
+      "text": "For example, a short walk can help me reset after a long day.",
+      "file": "./audio/tts/en-US-RyanPiper/484.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 485,
+      "text": "That's why I try to look at my routine instead of searching for a quick solution.",
+      "file": "./audio/tts/en-US-RyanPiper/485.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 486,
+      "text": "I'm not sure every popular health tip is useful, so I check the source first.",
+      "file": "./audio/tts/en-US-RyanPiper/486.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 487,
+      "text": "One thing I've noticed is that my body gives me signs before I feel seriously tired.",
+      "file": "./audio/tts/en-US-RyanPiper/487.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 488,
+      "text": "What I mean is that small changes in appetite or concentration can be meaningful.",
+      "file": "./audio/tts/en-US-RyanPiper/488.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 489,
+      "text": "If I have a chance, I choose simple meals that give me steady energy.",
+      "file": "./audio/tts/en-US-RyanPiper/489.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 490,
+      "text": "Compared with exercising intensely once a week, moving a little every day feels more sustainable.",
+      "file": "./audio/tts/en-US-RyanPiper/490.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 491,
+      "text": "The reason is that regular activity becomes part of my normal schedule.",
+      "file": "./audio/tts/en-US-RyanPiper/491.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 492,
+      "text": "It's difficult to explain, but mental health and physical health affect each other.",
+      "file": "./audio/tts/en-US-RyanPiper/492.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 493,
+      "text": "I usually take a break when I notice that my shoulders are tense.",
+      "file": "./audio/tts/en-US-RyanPiper/493.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 494,
+      "text": "At the same time, I try not to blame myself when my routine is not perfect.",
+      "file": "./audio/tts/en-US-RyanPiper/494.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 495,
+      "text": "In the end, health is about making choices that support my life as a whole.",
+      "file": "./audio/tts/en-US-RyanPiper/495.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 496,
+      "text": "I used to think rest was something I could postpone.",
+      "file": "./audio/tts/en-US-RyanPiper/496.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 497,
+      "text": "Now I think rest is part of the work that helps me continue.",
+      "file": "./audio/tts/en-US-RyanPiper/497.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 498,
+      "text": "For me, the most important point is finding a balance I can maintain.",
+      "file": "./audio/tts/en-US-RyanPiper/498.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 499,
+      "text": "When I feel uncertain, I ask a professional instead of guessing.",
+      "file": "./audio/tts/en-US-RyanPiper/499.mp3",
+      "source": "Piper en_US-ryan-medium (male)"
+    },
+    {
+      "id": 500,
+      "text": "That is why I believe small, consistent changes are more valuable than extreme plans.",
+      "file": "./audio/tts/en-US-RyanPiper/500.mp3",
       "source": "Piper en_US-ryan-medium (male)"
     }
   ]

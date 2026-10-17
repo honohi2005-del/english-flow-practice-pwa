@@ -3,7 +3,7 @@
 
   const sentences = Array.isArray(window.SENTENCES) ? window.SENTENCES : [];
   const PREGENERATED_AUDIO_ROOT = "./audio/tts/en-US-RyanPiper";
-  const PREGENERATED_AUDIO_LIMIT = 300;
+  const PREGENERATED_AUDIO_LIMIT = 500;
   const START_INDEX_STORAGE_KEY = "english-flow-practice-start-index-v2";
 
   function randomSentenceIndex(excludeIndexes = []) {

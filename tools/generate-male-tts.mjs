@@ -8,9 +8,13 @@ const sentencesPath = join(repoRoot, "sentences.js");
 const outputRoot = join(repoRoot, "audio", "tts", "en-US-RyanPiper");
 const modelPath = process.env.PIPER_MODEL_PATH;
 const ffmpegPath = process.env.FFMPEG_PATH || "ffmpeg.exe";
+const fromId = Number(process.env.PIPER_FROM_ID || "1");
 
 if (!modelPath) {
   throw new Error("PIPER_MODEL_PATH is required");
+}
+if (!Number.isInteger(fromId) || fromId < 1) {
+  throw new Error("PIPER_FROM_ID must be a positive integer");
 }
 
 const sentencesSource = await readFile(sentencesPath, "utf8");
@@ -19,14 +23,19 @@ if (!sentencesMatch) {
   throw new Error("Could not parse window.SENTENCES from sentences.js");
 }
 
-const sentences = Function(`"use strict"; return (${sentencesMatch[1]});`)();
-if (!Array.isArray(sentences) || sentences.length !== 300) {
-  throw new Error(`Expected 300 sentences, found ${sentences.length}`);
-}
+  const sentences = Function(`"use strict"; return (${sentencesMatch[1]});`)();
+  if (!Array.isArray(sentences) || sentences.length !== 500) {
+    throw new Error(`Expected 500 sentences, found ${sentences.length}`);
+  }
+  const sentencesToGenerate = sentences.filter(({ id }) => Number(id) >= fromId);
+  if (sentencesToGenerate.length === 0) {
+    throw new Error(`No sentences found at or after ID ${fromId}`);
+  }
 
 const tempRoot = await mkdtemp(join(process.env.TEMP || process.cwd(), "english-flow-piper-"));
 const sentencesJsonPath = join(tempRoot, "sentences.json");
-await writeFile(sentencesJsonPath, JSON.stringify(sentences), "utf8");
+  await writeFile(sentencesJsonPath, JSON.stringify(sentencesToGenerate), "utf8");
+  console.log(`Generating ${sentencesToGenerate.length} narration files from ID ${fromId}`);
 
 const runPythonGenerator = () =>
   new Promise((resolvePromise, rejectPromise) => {

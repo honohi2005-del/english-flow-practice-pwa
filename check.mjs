@@ -2,7 +2,7 @@ import { readdir, readFile, stat } from "node:fs/promises";
 
 const TOTAL_SENTENCE_COUNT = 500;
 const AUTHORED_PRONUNCIATION_TIP_LIMIT = 300;
-const PREGENERATED_AUDIO_LIMIT = 300;
+const PREGENERATED_AUDIO_LIMIT = 500;
 
 const html = await readFile(new URL("./index.html", import.meta.url), "utf8");
 const source = await readFile(new URL("./sentences.js", import.meta.url), "utf8");
@@ -253,14 +253,14 @@ if (!swSource.includes("./audio/tts-manifest.json")) {
 }
 
 const appVersionMatch = html.match(/<script\s+src="\.\/app\.js\?v=(\d+)"><\/script>/);
-    if (!appVersionMatch || appVersionMatch[1] !== "32") {
-      throw new Error("index.html must load app.js?v=32");
+    if (!appVersionMatch || appVersionMatch[1] !== "33") {
+    throw new Error("index.html must load app.js?v=33");
 }
 
 if (
-        !swSource.includes("english-flow-practice-v33") ||
+        !swSource.includes("english-flow-practice-v34") ||
         !swSource.includes("./startup.js?v=30") ||
-        !swSource.includes("./app.js?v=32")
+        !swSource.includes("./app.js?v=33")
 ) {
   throw new Error("Service Worker cache version is out of date");
 }
@@ -308,7 +308,7 @@ if (
         ttsManifest.voice !== "Piper en_US-ryan-medium (male)" ||
   ttsManifest.language !== "en-US" ||
   !Array.isArray(ttsManifest.sentences) ||
-        ttsManifest.sentences.length !== PREGENERATED_AUDIO_LIMIT
+    ttsManifest.sentences.length !== PREGENERATED_AUDIO_LIMIT
 ) {
   throw new Error("TTS manifest metadata or sentence count is invalid");
 }
@@ -381,4 +381,4 @@ if (
     throw new Error("Hidden narration compatibility audio is missing");
   }
 
-  console.log("check passed: 500 sentences (300 authored tips + 200 learner-pattern examples), 300 pre-generated narration files, hidden narration compatibility audio, PWA shell, speech controls, and per-sentence recording controls are present");
+  console.log("check passed: 500 sentences (300 authored tips + 200 learner-pattern examples), 500 pre-generated narration files, hidden narration compatibility audio, PWA shell, speech controls, and per-sentence recording controls are present");
