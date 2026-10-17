@@ -228,6 +228,8 @@ for (const required of [
   "./speech-voice.js",
   "./pronunciation-tips.js",
   "./pronunciation-tips-polish.js",
+  "./google-drive-config.js",
+  "./google-drive-sync.js",
   ...tipFragmentNames.map((name) => "./" + name),
   "./recording-store.js",
   "./startup.js",
@@ -237,7 +239,7 @@ for (const required of [
     throw new Error("Missing script or asset reference: " + required);
   }
     if (
-        (required.startsWith("./pronunciation-tips") || required === "./recording-store.js" || required === "./vowel-advice.js") &&
+    (required.startsWith("./pronunciation-tips") || required.startsWith("./google-drive-") || required === "./recording-store.js" || required === "./vowel-advice.js") &&
       !swSource.includes(required)
     ) {
     throw new Error("Missing Service Worker cache entry: " + required);
@@ -258,7 +260,7 @@ const appVersionMatch = html.match(/<script\s+src="\.\/app\.js\?v=(\d+)"><\/scri
 }
 
 if (
-        !swSource.includes("english-flow-practice-v36") ||
+ !swSource.includes("english-flow-practice-v37") ||
         !swSource.includes("./startup.js?v=30") ||
         !swSource.includes("./app.js?v=35")
 ) {

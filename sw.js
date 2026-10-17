@@ -1,4 +1,4 @@
-const CACHE_NAME = "english-flow-practice-v36";
+const CACHE_NAME = "english-flow-practice-v37";
   const AUDIO_CACHE_NAME = "english-flow-practice-audio-v4";
 const APP_SHELL = [
   "./",
@@ -70,6 +70,8 @@ const APP_SHELL = [
   "./pronunciation-tips-059.js",
   "./pronunciation-tips-060.js",
   "./recording-store.js",
+  "./google-drive-config.js",
+  "./google-drive-sync.js",
     "./startup.js?v=30",
     "./app.js?v=35",
   "./audio/tts-manifest.json",

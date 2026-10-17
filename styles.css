@@ -414,6 +414,73 @@ button:focus-visible {
   margin-top: 8px;
 }
 
+.drive-sync-panel {
+  grid-column: 1 / -1;
+  margin-top: 4px;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.55);
+}
+
+.drive-sync-heading-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 18px;
+}
+
+.drive-sync-label {
+  margin: 0;
+  font-weight: 800;
+}
+
+.drive-sync-help {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 0.84rem;
+  line-height: 1.6;
+}
+
+.drive-sync-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.drive-sync-actions button {
+  border: 1px solid var(--ink);
+  border-radius: 5px;
+  padding: 9px 13px;
+  background: transparent;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.drive-sync-actions button:first-child {
+  background: var(--cyan-deep);
+  color: #fff;
+  font-weight: 700;
+}
+
+.drive-sync-actions button:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.drive-sync-status {
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-size: 0.84rem;
+  line-height: 1.5;
+}
+
+.drive-sync-status[data-state="error"] {
+  color: var(--coral);
+}
+
 .content-grid {
   display: grid;
   grid-template-columns: minmax(0, 1fr);

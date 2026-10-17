@@ -5,6 +5,15 @@
   const STORE_NAME = "pronunciation-recordings";
   const DB_VERSION = 1;
 
+  function notifyChange(action, sentenceId) {
+    window.dispatchEvent(new CustomEvent("recording-store-changed", {
+      detail: {
+        action,
+        sentenceId: String(sentenceId)
+      }
+    }));
+  }
+
   function openDatabase() {
     return new Promise((resolve, reject) => {
       if (!("indexedDB" in window)) {
@@ -80,22 +89,38 @@
       return requestStore("readonly", (store) => store.getAllKeys());
     },
 
+    getAll() {
+      return requestStore("readonly", (store) => store.getAll());
+    },
+
     save(record) {
       if (!record || record.sentenceId == null || !(record.blob instanceof Blob)) {
         return Promise.reject(new Error("Invalid recording"));
       }
 
-      return requestStore("readwrite", (store) => store.put({
+      const storedRecord = {
         sentenceId: String(record.sentenceId),
         blob: record.blob,
         durationMs: Number(record.durationMs) || 0,
         createdAt: record.createdAt || new Date().toISOString(),
+        updatedAt: record.updatedAt || new Date().toISOString(),
         mimeType: record.mimeType || record.blob.type || "audio/webm"
-      }));
+      };
+
+      return requestStore("readwrite", (store) => store.put(storedRecord))
+        .then((result) => {
+          notifyChange("save", storedRecord.sentenceId);
+          return result;
+        });
     },
 
     remove(sentenceId) {
-      return requestStore("readwrite", (store) => store.delete(String(sentenceId)));
+      const normalizedId = String(sentenceId);
+      return requestStore("readwrite", (store) => store.delete(normalizedId))
+        .then((result) => {
+          notifyChange("remove", normalizedId);
+          return result;
+        });
     }
   };
 })();

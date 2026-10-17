@@ -68,7 +68,7 @@
           <div class="recording-heading-row">
             <div>
               <p class="recording-label" id="recording-heading">自分の発音を残す</p>
-              <p class="recording-help">この例文ごとに、この端末のブラウザへ保存します。</p>
+              <p class="recording-help">この例文ごとに、この端末へ保存し、同期を有効にするとGoogle Driveにも保存します。</p>
             </div>
             <span class="recording-badge" id="recording-badge" hidden>保存済み</span>
           </div>
@@ -83,6 +83,19 @@
           </div>
           <audio id="recording-audio" class="recording-audio" controls hidden></audio>
           <p class="recording-status" id="recording-status" role="status">この例文の録音はまだありません。</p>
+        </div>
+        <div class="drive-sync-panel" aria-labelledby="drive-sync-heading">
+          <div class="drive-sync-heading-row">
+            <div>
+              <p class="drive-sync-label" id="drive-sync-heading">端末間で録音を同期</p>
+              <p class="drive-sync-help">この端末の録音をGoogle Driveのアプリ専用領域へ保存します。同じGoogleアカウントの端末で利用できます。</p>
+            </div>
+          </div>
+          <div class="drive-sync-actions">
+            <button id="drive-sync-enable" type="button">Google Drive同期を有効化</button>
+            <button id="drive-sync-now" type="button">今すぐ同期</button>
+          </div>
+          <p id="drive-sync-status" class="drive-sync-status" role="status"></p>
         </div>
           <p class="voice-status" id="voice-status" role="status"></p>
       </section>
@@ -185,6 +198,9 @@
     <script src="./pronunciation-tips-060.js"></script>
     <script src="./pronunciation-tips-polish.js"></script>
     <script src="./recording-store.js"></script>
+    <script src="./google-drive-config.js"></script>
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    <script src="./google-drive-sync.js"></script>
     <script src="./app.js?v=35"></script>
   </body>
 </html>
