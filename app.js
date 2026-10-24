@@ -85,6 +85,8 @@
   const recordedOnlyToggle = document.getElementById("recorded-only-toggle");
   const recordedOnlyStatus = document.getElementById("recorded-only-status");
   const recordedOnlyEmpty = document.getElementById("recorded-only-empty");
+  const recordedPlayAllButton = document.getElementById("recorded-play-all-button");
+  const recordedPlayAllStatus = document.getElementById("recorded-play-all-status");
   const showAllButton = document.getElementById("show-all-button");
   const sentenceNumber = document.getElementById("sentence-number");
   const tipsList = document.getElementById("tips-list");
@@ -177,6 +179,7 @@
     speechCancel: null,
     sequenceToken: 0,
     sequencePlaying: false,
+    sequenceMode: "",
     sequenceCancel: null,
     recording: {
       recorder: null,
@@ -643,6 +646,46 @@ function buildFlow(text, index, stressWords = []) {
         visibleCount === 0
       );
     }
+    updateRecordedPlayAllUi();
+  }
+
+  function getRecordedSentenceIndexes() {
+    const recordedIds = state.recordedSentenceIds;
+    return sentences
+      .map((sentence, index) => ({ sentence, index }))
+      .filter(({ sentence }) => recordedIds.has(String(sentence.id)))
+      .map(({ index }) => index)
+      .sort((a, b) => a - b);
+  }
+
+  function updateRecordedPlayAllUi() {
+    if (!recordedPlayAllButton) {
+      return;
+    }
+    const indexes = getRecordedSentenceIndexes();
+    const playingAll = state.sequencePlaying && state.sequenceMode === "all";
+    const busy = Boolean(
+      state.recording &&
+      (state.recording.recorder || state.recording.pending || state.recording.saving)
+    );
+    recordedPlayAllButton.disabled =
+      state.recordedOnlyLoading ||
+      (!playingAll && (indexes.length === 0 || busy || state.sequencePlaying));
+    recordedPlayAllButton.textContent = playingAll
+      ? "再生を停止"
+      : "録音済みの例文をすべて連続再生";
+    if (recordedPlayAllStatus) {
+      if (state.recordedOnlyLoading) {
+        recordedPlayAllStatus.textContent = "録音済みの例文を確認中…";
+      } else if (state.recordedOnlyError) {
+        recordedPlayAllStatus.textContent = state.recordedOnlyError;
+      } else if (!indexes.length) {
+        recordedPlayAllStatus.textContent = "録音済みの例文がありません。";
+      } else if (!playingAll) {
+        recordedPlayAllStatus.textContent =
+          `録音済みの例文を${indexes.length}件、番号順に再生します。`;
+      }
+    }
   }
 
   async function loadRecordedSentenceIds() {
@@ -759,11 +802,14 @@ function buildFlow(text, index, stressWords = []) {
     }
     if (playSequenceButton) {
       playSequenceButton.hidden = !hasSavedRecording();
+      const currentSequence =
+        state.sequencePlaying && state.sequenceMode === "current";
       playSequenceButton.disabled =
         !hasSentence ||
+        (state.sequencePlaying && !currentSequence) ||
         (!state.sequencePlaying &&
           (active || state.recording.pending || state.recording.saving));
-      playSequenceButton.textContent = state.sequencePlaying
+      playSequenceButton.textContent = currentSequence
         ? "再生を停止"
         : "録音→モデル音声";
     }
@@ -1297,13 +1343,18 @@ function buildFlow(text, index, stressWords = []) {
     );
   }
 
-  function playSavedRecordingForSequence() {
-    if (!hasSavedRecording() || !recordingAudio) {
+  function playSavedRecordingForSequence(record = null) {
+    const isStoredRecord = Boolean(record && record.blob);
+    const temporaryUrl = isStoredRecord ? URL.createObjectURL(record.blob) : "";
+    const audio = isStoredRecord ? new Audio(temporaryUrl) : recordingAudio;
+    if (!audio || (!isStoredRecord && !hasSavedRecording())) {
+      if (temporaryUrl) {
+        URL.revokeObjectURL(temporaryUrl);
+      }
       const unavailable = Promise.reject(new Error("saved recording unavailable"));
       unavailable.catch(() => {});
       return unavailable;
     }
-    const audio = recordingAudio;
     let resolvePromise;
     let rejectPromise;
     let settled = false;
@@ -1314,6 +1365,12 @@ function buildFlow(text, index, stressWords = []) {
     const cleanup = () => {
       audio.onended = null;
       audio.onerror = null;
+      if (temporaryUrl) {
+        audio.pause();
+        audio.removeAttribute("src");
+        audio.load();
+        URL.revokeObjectURL(temporaryUrl);
+      }
     };
     const finish = (error) => {
       if (settled) {
@@ -1442,6 +1499,7 @@ function buildFlow(text, index, stressWords = []) {
       recordingAudio.onerror = null;
     }
     state.sequencePlaying = false;
+    state.sequenceMode = "";
     stopNarration();
     updateRecordingControls();
   }
@@ -1457,6 +1515,7 @@ function buildFlow(text, index, stressWords = []) {
     }
     const token = ++state.sequenceToken;
     state.sequencePlaying = true;
+    state.sequenceMode = "current";
     state.sequenceCancel = null;
     stopNarration();
     updateRecordingControls();
@@ -1486,6 +1545,121 @@ function buildFlow(text, index, stressWords = []) {
       if (token === state.sequenceToken) {
         state.sequenceCancel = null;
         state.sequencePlaying = false;
+        state.sequenceMode = "";
+        updateRecordingControls();
+      }
+    }
+  }
+
+  async function getRecordedSequenceRecords() {
+    if (
+      !window.PRONUNCIATION_RECORDINGS ||
+      typeof window.PRONUNCIATION_RECORDINGS.getAll !== "function"
+    ) {
+      return [];
+    }
+    const records = await window.PRONUNCIATION_RECORDINGS.getAll();
+    const sentenceById = new Map(
+      sentences.map((sentence, index) => [String(sentence.id), { sentence, index }])
+    );
+    return (Array.isArray(records) ? records : [])
+      .map((record) => ({
+        record,
+        meta: sentenceById.get(String(record?.sentenceId)),
+      }))
+      .filter(({ record, meta }) => meta?.sentence && record?.blob)
+      .sort((a, b) => a.meta.index - b.meta.index)
+      .map(({ record }) => record);
+  }
+
+  async function toggleRecordedPlayAll() {
+    if (state.sequencePlaying) {
+      if (state.sequenceMode === "all") {
+        cancelRecordingModelSequence();
+      }
+      return;
+    }
+    if (state.recordedOnlyLoading) {
+      return;
+    }
+    let records;
+    try {
+      records = await getRecordedSequenceRecords();
+    } catch {
+      if (recordedPlayAllStatus) {
+        recordedPlayAllStatus.textContent =
+          "録音データの読み込みに失敗しました。";
+      }
+      return;
+    }
+    if (!records.length) {
+      updateRecordedPlayAllUi();
+      return;
+    }
+    const sentenceById = new Map(
+      sentences.map((sentence) => [String(sentence.id), sentence])
+    );
+    const token = ++state.sequenceToken;
+    state.sequencePlaying = true;
+    state.sequenceMode = "all";
+    state.sequenceCancel = null;
+    stopNarration();
+    updateRecordingControls();
+    let completed = false;
+    try {
+      for (let index = 0; index < records.length; index += 1) {
+        if (token !== state.sequenceToken || !state.sequencePlaying) {
+          return;
+        }
+        const record = records[index];
+        const sentence = sentenceById.get(String(record.sentenceId));
+        if (!sentence) {
+          continue;
+        }
+        if (recordedPlayAllStatus) {
+          recordedPlayAllStatus.textContent =
+            `${index + 1}/${records.length}件目：録音を再生中…`;
+        }
+        const recordingPromise = playSavedRecordingForSequence(record);
+        state.sequenceCancel = () => recordingPromise.cancel?.();
+        await recordingPromise;
+        if (token !== state.sequenceToken || !state.sequencePlaying) {
+          return;
+        }
+        stopNarration();
+        if (recordedPlayAllStatus) {
+          recordedPlayAllStatus.textContent =
+            `${index + 1}/${records.length}件目：モデル音声を再生中…`;
+        }
+        const modelPromise = playModelAudioForSequence(sentence);
+        state.sequenceCancel = () => modelPromise.cancel?.();
+        await modelPromise;
+      }
+      completed = true;
+    } catch (error) {
+      if (
+        token === state.sequenceToken &&
+        ![
+          "saved recording playback cancelled",
+          "model playback cancelled",
+          "speech playback cancelled",
+        ].includes(error?.message)
+      ) {
+        if (recordedPlayAllStatus) {
+          recordedPlayAllStatus.textContent =
+            "連続再生を完了できませんでした。";
+        }
+        updateVoiceStatus("連続再生を完了できませんでした。");
+      }
+    } finally {
+      if (token === state.sequenceToken) {
+        state.sequenceCancel = null;
+        state.sequencePlaying = false;
+        state.sequenceMode = "";
+        if (completed && recordedPlayAllStatus) {
+          recordedPlayAllStatus.textContent =
+            `${records.length}件の録音済み例文を再生しました。`;
+        }
         updateRecordingControls();
       }
     }

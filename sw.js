@@ -1,9 +1,9 @@
-const CACHE_NAME = "english-flow-practice-v40";
+const CACHE_NAME = "english-flow-practice-v41";
   const AUDIO_CACHE_NAME = "english-flow-practice-audio-v4";
 const APP_SHELL = [
   "./",
   "./index.html",
-  "./styles.css?v=25",
+  "./styles.css?v=26",
   "./sentences.js",
     "./vowel-advice.js",
   "./speech-voice.js",
@@ -73,7 +73,7 @@ const APP_SHELL = [
   "./google-drive-config.js",
   "./google-drive-sync.js?v=39",
     "./startup.js?v=30",
-  "./app.js?v=36",
+  "./app.js?v=37",
   "./audio/tts-manifest.json",
   "./site.webmanifest?v=3",
   "./icons/icon.svg",

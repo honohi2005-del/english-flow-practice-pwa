@@ -340,7 +340,8 @@ button:focus-visible {
 .icon-button:hover,
 .record-button:hover,
 .delete-recording-button:hover,
-.play-sequence-button:hover {
+.play-sequence-button:hover,
+.recorded-play-all-button:hover {
   transform: translateY(-2px);
 }
 
@@ -369,7 +370,8 @@ button:focus-visible {
 
 .recording-help,
 .voice-status,
-.recording-status {
+.recording-status,
+.recorded-play-all-status {
   margin: 0;
   color: var(--muted);
   font-size: 0.9rem;
@@ -426,12 +428,29 @@ button:focus-visible {
   opacity: 0.55;
 }
 
+.recorded-play-all-button {
+  margin-top: 12px;
+  border: 1px solid var(--ink);
+  border-radius: 5px;
+  padding: 10px 13px;
+  background: var(--yellow);
+  color: var(--ink);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.recorded-play-all-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
 .recording-audio {
   max-width: 100%;
 }
 
 .recording-status,
-.voice-status {
+.voice-status,
+.recorded-play-all-status {
   margin-top: 8px;
 }
 
