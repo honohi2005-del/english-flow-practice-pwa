@@ -339,7 +339,8 @@ button:focus-visible {
 .secondary-button:hover,
 .icon-button:hover,
 .record-button:hover,
-.delete-recording-button:hover {
+.delete-recording-button:hover,
+.play-sequence-button:hover {
   transform: translateY(-2px);
 }
 
@@ -403,6 +404,26 @@ button:focus-visible {
 
 .delete-recording-button {
   background: transparent;
+}
+
+.play-sequence-button {
+  margin-top: 8px;
+  border: 1px solid var(--ink);
+  border-radius: 5px;
+  padding: 9px 13px;
+  background: var(--cyan);
+  color: var(--ink);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.play-sequence-button[hidden] {
+  display: none;
+}
+
+.play-sequence-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
 }
 
 .recording-audio {

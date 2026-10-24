@@ -12,7 +12,7 @@
     <link rel="manifest" href="./site.webmanifest?v=3" />
     <link rel="icon" href="./icons/icon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="./icons/icon-192.png" />
-    <link rel="stylesheet" href="./styles.css?v=24" />
+    <link rel="stylesheet" href="./styles.css?v=25" />
     <title>英語の発音練習</title>
   </head>
   <body>
@@ -81,6 +81,14 @@
               この録音を削除
             </button>
           </div>
+          <button
+            class="play-sequence-button"
+            id="play-sequence-button"
+            type="button"
+            hidden
+          >
+            録音→モデル音声
+          </button>
           <audio id="recording-audio" class="recording-audio" controls hidden></audio>
           <p class="recording-status" id="recording-status" role="status">この例文の録音はまだありません。</p>
         </div>
@@ -201,6 +209,6 @@
     <script src="./google-drive-config.js"></script>
     <script src="https://accounts.google.com/gsi/client" async defer></script>
     <script src="./google-drive-sync.js?v=39"></script>
-    <script src="./app.js?v=35"></script>
+    <script src="./app.js?v=36"></script>
   </body>
 </html>

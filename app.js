@@ -93,6 +93,7 @@
   const speakButton = document.getElementById("speak-button");
   const nextButton = document.getElementById("next-button");
   const recordButton = document.getElementById("record-button");
+  const playSequenceButton = document.getElementById("play-sequence-button");
   const deleteRecordingButton = document.getElementById("delete-recording-button");
   const recordingAudio = document.getElementById("recording-audio");
   const recordingStatus = document.getElementById("recording-status");
@@ -173,6 +174,10 @@
     narrationAudio: null,
     narrationToken: 0,
     speechUtterance: null,
+    speechCancel: null,
+    sequenceToken: 0,
+    sequencePlaying: false,
+    sequenceCancel: null,
     recording: {
       recorder: null,
       stream: null,
@@ -183,6 +188,7 @@
       pending: false,
       saving: false,
       objectUrl: null,
+      blob: null,
       loadToken: 0
     }
   };
@@ -697,8 +703,11 @@ function buildFlow(text, index, stressWords = []) {
   }
 
   function clearRecordingAudio() {
+    cancelRecordingModelSequence();
+    state.recording.blob = null;
     releaseRecordingUrl();
     if (!recordingAudio) {
+      updateRecordingControls();
       return;
     }
     recordingAudio.pause();
@@ -711,14 +720,16 @@ function buildFlow(text, index, stressWords = []) {
     if (deleteRecordingButton) {
       deleteRecordingButton.hidden = true;
     }
+    updateRecordingControls();
   }
 
   function updateRecordingControls() {
     const active =
       state.recording.recorder &&
       state.recording.recorder.state === "recording";
+    const sequenceBusy = state.sequencePlaying;
     const busy = Boolean(
-      active || state.recording.pending || state.recording.saving
+      active || state.recording.pending || state.recording.saving || sequenceBusy
     );
     const visibleIndexes = getVisibleSentenceIndexes();
     const hasSentence =
@@ -726,7 +737,10 @@ function buildFlow(text, index, stressWords = []) {
       (!state.recordedOnly || visibleIndexes.includes(state.index));
     if (recordButton) {
       recordButton.disabled =
-        !hasSentence || state.recording.pending || state.recording.saving;
+        !hasSentence ||
+        state.recording.pending ||
+        state.recording.saving ||
+        sequenceBusy;
       recordButton.classList.toggle("is-recording", Boolean(active));
       recordButton.innerHTML = active
         ? '<span aria-hidden="true">■</span>停止して保存'
@@ -735,13 +749,23 @@ function buildFlow(text, index, stressWords = []) {
           : '<span aria-hidden="true">●</span>録音を開始';
     }
     if (speakButton) {
-      speakButton.disabled = !hasSentence;
+      speakButton.disabled = !hasSentence || sequenceBusy;
     }
     if (nextButton) {
       nextButton.disabled = !hasSentence || busy || visibleIndexes.length < 2;
     }
     if (deleteRecordingButton) {
       deleteRecordingButton.disabled = !hasSentence || busy;
+    }
+    if (playSequenceButton) {
+      playSequenceButton.hidden = !hasSavedRecording();
+      playSequenceButton.disabled =
+        !hasSentence ||
+        (!state.sequencePlaying &&
+          (active || state.recording.pending || state.recording.saving));
+      playSequenceButton.textContent = state.sequencePlaying
+        ? "再生を停止"
+        : "録音→モデル音声";
     }
     updateRecordedOnlyUi();
   }
@@ -750,6 +774,7 @@ function buildFlow(text, index, stressWords = []) {
     if (!record || !record.blob || !recordingAudio) {
       return;
     }
+    state.recording.blob = record.blob;
     releaseRecordingUrl();
     state.recording.objectUrl = URL.createObjectURL(record.blob);
     recordingAudio.src = state.recording.objectUrl;
@@ -970,6 +995,7 @@ function buildFlow(text, index, stressWords = []) {
   }
 
   function render() {
+    cancelRecordingModelSequence();
     if (!sentences.length) {
       sentenceHeading.textContent = "例文を読み込めませんでした";
       return;
@@ -1055,11 +1081,13 @@ function buildFlow(text, index, stressWords = []) {
       visibleIndexes.length < 2 ||
       state.recording.pending ||
       state.recording.saving ||
-      state.recording.recorder
+      state.recording.recorder ||
+      state.sequencePlaying
     ) {
       return;
     }
 
+    cancelRecordingModelSequence();
     stopNarration();
     const nextIndex = randomIndexFromPool(visibleIndexes, state.index);
     if (nextIndex < 0) {
@@ -1100,9 +1128,18 @@ function buildFlow(text, index, stressWords = []) {
       typeof window.SpeechSynthesisUtterance !== "function"
     ) {
       updateVoiceStatus("英語音声を再生できませんでした。");
-      return;
+      const unavailable = Promise.reject(new Error("speech synthesis unavailable"));
+      unavailable.catch(() => {});
+      return unavailable;
     }
 
+    let resolvePromise;
+    let rejectPromise;
+    let settled = false;
+    const promise = new Promise((resolve, reject) => {
+      resolvePromise = resolve;
+      rejectPromise = reject;
+    });
     const utterance = new window.SpeechSynthesisUtterance(sentence.text);
     const voice = getBrowserSpeechVoice();
     if (voice) {
@@ -1113,27 +1150,41 @@ function buildFlow(text, index, stressWords = []) {
     utterance.pitch = 0.9;
     utterance.volume = 1;
     state.speechUtterance = utterance;
+    const finish = (error) => {
+      if (settled) {
+        return;
+      }
+      settled = true;
+      if (state.speechUtterance === utterance) {
+        state.speechUtterance = null;
+      }
+      if (state.speechCancel === promise.cancel) {
+        state.speechCancel = null;
+      }
+      if (token === state.narrationToken) {
+        updateVoiceStatus(
+          error
+            ? "英語音声を再生できませんでした。"
+            : "英語音声の再生が完了しました"
+        );
+      }
+      if (error) {
+        rejectPromise(error);
+      } else {
+        resolvePromise();
+      }
+    };
     utterance.onstart = () => {
       if (token === state.narrationToken) {
         updateVoiceStatus("英語音声を再生中");
       }
     };
-    const finish = () => {
-      if (token !== state.narrationToken) {
-        return;
-      }
-      state.speechUtterance = null;
-      updateVoiceStatus("英語音声の再生が完了しました");
-    };
-    utterance.onend = finish;
-    utterance.onerror = () => {
-      if (token !== state.narrationToken) {
-        return;
-      }
-      state.speechUtterance = null;
-      updateVoiceStatus("英語音声を再生できませんでした。");
-    };
+    utterance.onend = () => finish();
+    utterance.onerror = () => finish(new Error("speech playback failed"));
+    promise.cancel = () => finish(new Error("speech playback cancelled"));
+    state.speechCancel = promise.cancel;
     window.speechSynthesis.speak(utterance);
+    return promise;
   }
 
   function getNarrationAudioUrl(sentence) {
@@ -1180,6 +1231,11 @@ function buildFlow(text, index, stressWords = []) {
       audio.onerror = null;
       state.narrationAudio = null;
     }
+    const cancelSpeech = state.speechCancel;
+    state.speechCancel = null;
+    if (cancelSpeech) {
+      cancelSpeech();
+    }
     if ("speechSynthesis" in window) {
       window.speechSynthesis.cancel();
     }
@@ -1192,11 +1248,15 @@ function buildFlow(text, index, stressWords = []) {
       return;
     }
 
+    cancelRecordingModelSequence();
     stopNarration();
     const token = state.narrationToken;
     const audioUrl = getNarrationAudioUrl(sentence);
     if (!audioUrl || !narrationAudio) {
-      speakWithBrowserTts(sentence, token);
+      const speech = speakWithBrowserTts(sentence, token);
+      if (speech && typeof speech.catch === "function") {
+        speech.catch(() => {});
+      }
       return;
     }
     setNarrationSource(sentence);
@@ -1225,6 +1285,209 @@ function buildFlow(text, index, stressWords = []) {
           updateVoiceStatus("再生できませんでした。もう一度お試しください。");
         }
       });
+    }
+  }
+
+  function hasSavedRecording() {
+    return Boolean(
+      state.recording.blob &&
+      recordingAudio &&
+      !recordingAudio.hidden &&
+      recordingAudio.src
+    );
+  }
+
+  function playSavedRecordingForSequence() {
+    if (!hasSavedRecording() || !recordingAudio) {
+      const unavailable = Promise.reject(new Error("saved recording unavailable"));
+      unavailable.catch(() => {});
+      return unavailable;
+    }
+    const audio = recordingAudio;
+    let resolvePromise;
+    let rejectPromise;
+    let settled = false;
+    const promise = new Promise((resolve, reject) => {
+      resolvePromise = resolve;
+      rejectPromise = reject;
+    });
+    const cleanup = () => {
+      audio.onended = null;
+      audio.onerror = null;
+    };
+    const finish = (error) => {
+      if (settled) {
+        return;
+      }
+      settled = true;
+      cleanup();
+      if (error) {
+        rejectPromise(error);
+      } else {
+        resolvePromise();
+      }
+    };
+    audio.pause();
+    try {
+      audio.currentTime = 0;
+    } catch {
+      // The audio may not have loaded metadata yet.
+    }
+    audio.onended = () => finish();
+    audio.onerror = () => finish(new Error("saved recording playback failed"));
+    updateVoiceStatus("自分の録音を再生中");
+    try {
+      const playPromise = audio.play();
+      if (playPromise && typeof playPromise.catch === "function") {
+        playPromise.catch(() => finish(new Error("saved recording playback failed")));
+      }
+    } catch {
+      finish(new Error("saved recording playback failed"));
+    }
+    promise.cancel = () => {
+      audio.pause();
+      try {
+        audio.currentTime = 0;
+      } catch {
+        // The audio may not have loaded metadata yet.
+      }
+      finish(new Error("saved recording playback cancelled"));
+    };
+    return promise;
+  }
+
+  function playModelAudioForSequence(sentence) {
+    const audioUrl = getNarrationAudioUrl(sentence);
+    if (!audioUrl || !narrationAudio) {
+      return speakWithBrowserTts(sentence, state.narrationToken);
+    }
+    setNarrationSource(sentence);
+    const audio = narrationAudio;
+    const token = state.narrationToken;
+    state.narrationAudio = audio;
+    let resolvePromise;
+    let rejectPromise;
+    let settled = false;
+    const promise = new Promise((resolve, reject) => {
+      resolvePromise = resolve;
+      rejectPromise = reject;
+    });
+    const cleanup = () => {
+      audio.onplay = null;
+      audio.onended = null;
+      audio.onerror = null;
+    };
+    const finish = (error) => {
+      if (settled) {
+        return;
+      }
+      settled = true;
+      cleanup();
+      if (state.narrationAudio === audio) {
+        state.narrationAudio = null;
+      }
+      if (error) {
+        rejectPromise(error);
+      } else {
+        resolvePromise();
+      }
+    };
+    audio.onplay = () => {
+      if (token === state.narrationToken) {
+        updateVoiceStatus("英文を再生中");
+      }
+    };
+    audio.onended = () => finish();
+    audio.onerror = () => finish(new Error("model playback failed"));
+    try {
+      audio.currentTime = 0;
+    } catch {
+      // The audio may not have loaded metadata yet.
+    }
+    try {
+      const playPromise = audio.play();
+      if (playPromise && typeof playPromise.catch === "function") {
+        playPromise.catch(() => finish(new Error("model playback failed")));
+      }
+    } catch {
+      finish(new Error("model playback failed"));
+    }
+    promise.cancel = () => {
+      audio.pause();
+      try {
+        audio.currentTime = 0;
+      } catch {
+        // The audio may not have loaded metadata yet.
+      }
+      finish(new Error("model playback cancelled"));
+    };
+    return promise;
+  }
+
+  function cancelRecordingModelSequence() {
+    state.sequenceToken += 1;
+    const cancel = state.sequenceCancel;
+    state.sequenceCancel = null;
+    if (cancel) {
+      cancel();
+    }
+    if (recordingAudio) {
+      recordingAudio.pause();
+      try {
+        recordingAudio.currentTime = 0;
+      } catch {
+        // The audio may not have loaded metadata yet.
+      }
+      recordingAudio.onended = null;
+      recordingAudio.onerror = null;
+    }
+    state.sequencePlaying = false;
+    stopNarration();
+    updateRecordingControls();
+  }
+
+  async function toggleRecordingModelSequence() {
+    if (state.sequencePlaying) {
+      cancelRecordingModelSequence();
+      return;
+    }
+    const sentence = currentSentence();
+    if (!sentence || !hasSavedRecording()) {
+      return;
+    }
+    const token = ++state.sequenceToken;
+    state.sequencePlaying = true;
+    state.sequenceCancel = null;
+    stopNarration();
+    updateRecordingControls();
+    try {
+      const recordingPromise = playSavedRecordingForSequence();
+      state.sequenceCancel = () => recordingPromise.cancel?.();
+      await recordingPromise;
+      if (token !== state.sequenceToken || !state.sequencePlaying) {
+        return;
+      }
+      stopNarration();
+      const modelPromise = playModelAudioForSequence(sentence);
+      state.sequenceCancel = () => modelPromise.cancel?.();
+      await modelPromise;
+    } catch (error) {
+      if (
+        token === state.sequenceToken &&
+        ![
+          "saved recording playback cancelled",
+          "model playback cancelled",
+          "speech playback cancelled"
+        ].includes(error?.message)
+      ) {
+        updateVoiceStatus("連続再生を完了できませんでした。");
+      }
+    } finally {
+      if (token === state.sequenceToken) {
+        state.sequenceCancel = null;
+        state.sequencePlaying = false;
+        updateRecordingControls();
+      }
     }
   }
 
@@ -1289,6 +1552,9 @@ function buildFlow(text, index, stressWords = []) {
   speakButton.addEventListener("click", speakCurrentSentence);
   recordButton.addEventListener("click", toggleRecording);
   deleteRecordingButton.addEventListener("click", deleteCurrentRecording);
+  if (playSequenceButton) {
+    playSequenceButton.addEventListener("click", toggleRecordingModelSequence);
+  }
   if (recordedOnlyToggle) {
     recordedOnlyToggle.addEventListener("change", () => {
       if (
@@ -1316,7 +1582,7 @@ function buildFlow(text, index, stressWords = []) {
 
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
-      navigator.serviceWorker.register("./sw.js?v=34", {
+    navigator.serviceWorker.register("./sw.js?v=35", {
         scope: "./",
         updateViaCache: "none",
       }).then((registration) => {
