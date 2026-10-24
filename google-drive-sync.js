@@ -741,7 +741,8 @@
       updateButtons();
       syncNow(true);
     });
-    ui.nowButton.addEventListener("click", () => syncNow(true));
+    // 通常の手動同期は、既存のGoogle許可をサイレントに再利用する。
+    ui.nowButton.addEventListener("click", () => syncNow(false));
 
     window.addEventListener("recording-store-changed", (event) => {
       const detail = event && event.detail;
