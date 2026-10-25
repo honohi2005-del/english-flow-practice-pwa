@@ -170,6 +170,7 @@
     recordedSentenceIds: new Set(),
     recordedOnlyLoading: true,
     recordedOnlyError: "",
+    recordedSequenceRecords: null,
     voices: [],
     selectedVoice: null,
     deferredInstall: null,
@@ -694,6 +695,7 @@ function buildFlow(text, index, stressWords = []) {
       typeof window.PRONUNCIATION_RECORDINGS.listIds !== "function"
     ) {
       state.recordedOnlyLoading = false;
+      state.recordedSequenceRecords = [];
       state.recordedOnlyError = "録音データを確認できません。";
       updateRecordedOnlyUi();
       render();
@@ -702,9 +704,13 @@ function buildFlow(text, index, stressWords = []) {
 
     state.recordedOnlyLoading = true;
     state.recordedOnlyError = "";
+    state.recordedSequenceRecords = null;
     updateRecordedOnlyUi();
     try {
-      const ids = await window.PRONUNCIATION_RECORDINGS.listIds();
+      const [ids, records] = await Promise.all([
+        window.PRONUNCIATION_RECORDINGS.listIds(),
+        getRecordedSequenceRecords(),
+      ]);
       const sentenceIds = new Set(
         sentences.map((sentence) => String(sentence.id))
       );
@@ -713,8 +719,10 @@ function buildFlow(text, index, stressWords = []) {
           .map((id) => String(id))
           .filter((id) => sentenceIds.has(id))
       );
+      state.recordedSequenceRecords = Array.isArray(records) ? records : [];
     } catch {
       state.recordedSentenceIds = new Set();
+      state.recordedSequenceRecords = [];
       state.recordedOnlyError = "録音データの確認に失敗しました。";
     } finally {
       state.recordedOnlyLoading = false;
@@ -1582,15 +1590,18 @@ function buildFlow(text, index, stressWords = []) {
     if (state.recordedOnlyLoading) {
       return;
     }
-    let records;
-    try {
-      records = await getRecordedSequenceRecords();
-    } catch {
-      if (recordedPlayAllStatus) {
-        recordedPlayAllStatus.textContent =
-          "録音データの読み込みに失敗しました。";
+    let records = state.recordedSequenceRecords;
+    if (!Array.isArray(records)) {
+      try {
+        records = await getRecordedSequenceRecords();
+        state.recordedSequenceRecords = records;
+      } catch {
+        if (recordedPlayAllStatus) {
+          recordedPlayAllStatus.textContent =
+            "録音データの読み込みに失敗しました。";
+        }
+        return;
       }
-      return;
     }
     if (!records.length) {
       updateRecordedPlayAllUi();
@@ -1729,6 +1740,11 @@ function buildFlow(text, index, stressWords = []) {
   if (playSequenceButton) {
     playSequenceButton.addEventListener("click", toggleRecordingModelSequence);
   }
+  if (recordedPlayAllButton) {
+    recordedPlayAllButton.addEventListener("click", () => {
+      void toggleRecordedPlayAll();
+    });
+  }
   if (recordedOnlyToggle) {
     recordedOnlyToggle.addEventListener("change", () => {
       if (
@@ -1750,13 +1766,16 @@ function buildFlow(text, index, stressWords = []) {
       }
     });
   }
+  window.addEventListener("recording-store-changed", () => {
+    void loadRecordedSentenceIds();
+  });
   render();
   setupInstallPrompt();
   loadRecordedSentenceIds();
 
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
-    navigator.serviceWorker.register("./sw.js?v=35", {
+    navigator.serviceWorker.register("./sw.js?v=36", {
         scope: "./",
         updateViaCache: "none",
       }).then((registration) => {
