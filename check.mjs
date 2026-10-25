@@ -255,25 +255,25 @@ if (!swSource.includes("./audio/tts-manifest.json")) {
 }
 
 const appVersionMatch = html.match(/<script\s+src="\.\/app\.js\?v=(\d+)"><\/script>/);
-if (!appVersionMatch || appVersionMatch[1] !== "36") {
-  throw new Error("index.html must load app.js?v=36");
+if (!appVersionMatch || appVersionMatch[1] !== "38") {
+  throw new Error("index.html must load app.js?v=38");
 }
 
 if (
-      !swSource.includes("english-flow-practice-v40") ||
-  !swSource.includes("./google-drive-sync.js?v=39") ||
+  !swSource.includes("english-flow-practice-v44") ||
+  !swSource.includes("./google-drive-sync.js?v=40") ||
   !swSource.includes("./startup.js?v=30") ||
-      !swSource.includes("./app.js?v=36")
+  !swSource.includes("./app.js?v=38")
 ) {
   throw new Error("Service Worker cache version is out of date");
 }
 
 if (
-      !html.includes('./styles.css?v=25') ||
+  !html.includes('./styles.css?v=26') ||
       !appSource.includes("function extractContentWords(") ||
       appSource.includes("function extractStressWords(") ||
   !appSource.includes('class="stress-word"') ||
-      !stylesSource.includes("#sentence-heading .stress-word")
+  !stylesSource.includes("#sentence-heading .stress-word")
 ) {
   throw new Error("Stress-word highlighting is not wired up");
 }

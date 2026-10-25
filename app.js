@@ -1048,8 +1048,11 @@ function buildFlow(text, index, stressWords = []) {
     }
   }
 
-  function render() {
-    cancelRecordingModelSequence();
+  function render(options = {}) {
+    const preserveSequence = Boolean(options.preserveSequence);
+    if (!preserveSequence) {
+      cancelRecordingModelSequence();
+    }
     if (!sentences.length) {
       sentenceHeading.textContent = "例文を読み込めませんでした";
       return;
@@ -1125,7 +1128,9 @@ function buildFlow(text, index, stressWords = []) {
     }
 
     flowExample.innerHTML = buildFlow(sentence.text, state.index, stressWords);
-    refreshRecording();
+    if (!preserveSequence) {
+      refreshRecording();
+    }
     updateRecordingControls();
   }
 
@@ -1608,7 +1613,10 @@ function buildFlow(text, index, stressWords = []) {
       return;
     }
     const sentenceById = new Map(
-      sentences.map((sentence) => [String(sentence.id), sentence])
+      sentences.map((sentence, index) => [
+        String(sentence.id),
+        { sentence, index },
+      ])
     );
     const token = ++state.sequenceToken;
     state.sequencePlaying = true;
@@ -1623,10 +1631,14 @@ function buildFlow(text, index, stressWords = []) {
           return;
         }
         const record = records[index];
-        const sentence = sentenceById.get(String(record.sentenceId));
-        if (!sentence) {
+        const meta = sentenceById.get(String(record.sentenceId));
+        if (!meta) {
           continue;
         }
+        const { sentence } = meta;
+        state.index = meta.index;
+        render({ preserveSequence: true });
+        showSavedRecording(record);
         if (recordedPlayAllStatus) {
           recordedPlayAllStatus.textContent =
             `${index + 1}/${records.length}件目：録音を再生中…`;
@@ -1775,7 +1787,7 @@ function buildFlow(text, index, stressWords = []) {
 
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
-    navigator.serviceWorker.register("./sw.js?v=36", {
+    navigator.serviceWorker.register("./sw.js?v=37", {
         scope: "./",
         updateViaCache: "none",
       }).then((registration) => {
