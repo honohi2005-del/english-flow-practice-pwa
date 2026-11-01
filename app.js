@@ -87,6 +87,8 @@
   const recordedOnlyEmpty = document.getElementById("recorded-only-empty");
   const recordedPlayAllButton = document.getElementById("recorded-play-all-button");
   const recordedPlayAllStatus = document.getElementById("recorded-play-all-status");
+  const modelPlayAllButton = document.getElementById("model-play-all-button");
+  const modelPlayAllStatus = document.getElementById("model-play-all-status");
   const showAllButton = document.getElementById("show-all-button");
   const sentenceNumber = document.getElementById("sentence-number");
   const tipsList = document.getElementById("tips-list");
@@ -648,6 +650,7 @@ function buildFlow(text, index, stressWords = []) {
       );
     }
     updateRecordedPlayAllUi();
+    updateModelPlayAllUi();
   }
 
   function getRecordedSentenceIndexes() {
@@ -685,6 +688,38 @@ function buildFlow(text, index, stressWords = []) {
       } else if (!playingAll) {
         recordedPlayAllStatus.textContent =
           `録音済みの例文を${indexes.length}件、番号順に再生します。`;
+      }
+    }
+  }
+
+  function updateModelPlayAllUi() {
+    if (!modelPlayAllButton) {
+      return;
+    }
+    const indexes = getVisibleSentenceIndexes();
+    const playingAll =
+      state.sequencePlaying && state.sequenceMode === "model-all";
+    const busy = Boolean(
+      state.recording &&
+      (state.recording.recorder || state.recording.pending || state.recording.saving)
+    );
+    modelPlayAllButton.disabled =
+      state.recordedOnlyLoading ||
+      (!playingAll && (indexes.length === 0 || busy || state.sequencePlaying));
+    modelPlayAllButton.textContent = playingAll
+      ? "再生を停止"
+      : "モデル音声だけを例文順に各2回再生";
+    if (modelPlayAllStatus) {
+      if (state.recordedOnlyLoading) {
+        modelPlayAllStatus.textContent = "再生できる例文を確認中…";
+      } else if (!indexes.length) {
+        modelPlayAllStatus.textContent = state.recordedOnly
+          ? "録音済みの例文がありません。"
+          : "再生できる例文がありません。";
+      } else if (!playingAll) {
+        modelPlayAllStatus.textContent =
+          indexes.length +
+          "文を番号順に、モデル音声だけで各2回再生します。";
       }
     }
   }
@@ -1585,6 +1620,98 @@ function buildFlow(text, index, stressWords = []) {
       .map(({ record }) => record);
   }
 
+  async function toggleModelPlayAll() {
+    if (state.sequencePlaying) {
+      if (state.sequenceMode === "model-all") {
+        cancelRecordingModelSequence();
+      }
+      return;
+    }
+    if (state.recordedOnlyLoading) {
+      return;
+    }
+    const indexes = getVisibleSentenceIndexes();
+    if (!indexes.length) {
+      updateModelPlayAllUi();
+      return;
+    }
+    const token = ++state.sequenceToken;
+    state.sequencePlaying = true;
+    state.sequenceMode = "model-all";
+    state.sequenceCancel = null;
+    if (recordingAudio) {
+      recordingAudio.pause();
+      recordingAudio.currentTime = 0;
+      recordingAudio.onended = null;
+      recordingAudio.onerror = null;
+    }
+    stopNarration();
+    updateRecordingControls();
+    let completed = false;
+    try {
+      for (let position = 0; position < indexes.length; position += 1) {
+        if (token !== state.sequenceToken || !state.sequencePlaying) {
+          return;
+        }
+        const sentenceIndex = indexes[position];
+        const sentence = sentences[sentenceIndex];
+        if (!sentence) {
+          continue;
+        }
+        state.index = sentenceIndex;
+        render({ preserveSequence: true });
+        if (modelPlayAllStatus) {
+          modelPlayAllStatus.textContent =
+            (position + 1) +
+            "/" +
+            indexes.length +
+            "文目：モデル音声を再生中…（1回目）";
+        }
+        let modelPromise = playModelAudioForSequence(sentence);
+        state.sequenceCancel = () => modelPromise.cancel?.();
+        await modelPromise;
+        if (token !== state.sequenceToken || !state.sequencePlaying) {
+          return;
+        }
+        if (modelPlayAllStatus) {
+          modelPlayAllStatus.textContent =
+            (position + 1) +
+            "/" +
+            indexes.length +
+            "文目：モデル音声を再生中…（2回目）";
+        }
+        modelPromise = playModelAudioForSequence(sentence);
+        state.sequenceCancel = () => modelPromise.cancel?.();
+        await modelPromise;
+      }
+      completed = true;
+    } catch (error) {
+      if (
+        token === state.sequenceToken &&
+        !["model playback cancelled", "speech playback cancelled"].includes(
+          error?.message
+        )
+      ) {
+        if (modelPlayAllStatus) {
+          modelPlayAllStatus.textContent =
+            "モデル音声の連続再生を完了できませんでした。";
+        }
+        updateVoiceStatus("モデル音声の連続再生を完了できませんでした。");
+      }
+    } finally {
+      if (token === state.sequenceToken) {
+        state.sequenceCancel = null;
+        state.sequencePlaying = false;
+        state.sequenceMode = "";
+        if (completed && modelPlayAllStatus) {
+          modelPlayAllStatus.textContent =
+            indexes.length + "文のモデル音声を各2回ずつ再生しました。";
+        }
+        updateRecordingControls();
+      }
+    }
+  }
+
   async function toggleRecordedPlayAll() {
     if (state.sequencePlaying) {
       if (state.sequenceMode === "all") {
@@ -1755,6 +1882,11 @@ function buildFlow(text, index, stressWords = []) {
   if (recordedPlayAllButton) {
     recordedPlayAllButton.addEventListener("click", () => {
       void toggleRecordedPlayAll();
+    });
+  }
+  if (modelPlayAllButton) {
+    modelPlayAllButton.addEventListener("click", () => {
+      void toggleModelPlayAll();
     });
   }
   if (recordedOnlyToggle) {

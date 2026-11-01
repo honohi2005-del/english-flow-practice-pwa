@@ -255,21 +255,21 @@ if (!swSource.includes("./audio/tts-manifest.json")) {
 }
 
 const appVersionMatch = html.match(/<script\s+src="\.\/app\.js\?v=(\d+)"><\/script>/);
-if (!appVersionMatch || appVersionMatch[1] !== "38") {
-  throw new Error("index.html must load app.js?v=38");
+  if (!appVersionMatch || appVersionMatch[1] !== "39") {
+    throw new Error("index.html must load app.js?v=39");
 }
 
 if (
-  !swSource.includes("english-flow-practice-v44") ||
+    !swSource.includes("english-flow-practice-v45") ||
   !swSource.includes("./google-drive-sync.js?v=40") ||
   !swSource.includes("./startup.js?v=30") ||
-  !swSource.includes("./app.js?v=38")
+    !swSource.includes("./app.js?v=39")
 ) {
   throw new Error("Service Worker cache version is out of date");
 }
 
 if (
-  !html.includes('./styles.css?v=26') ||
+    !html.includes('./styles.css?v=27') ||
       !appSource.includes("function extractContentWords(") ||
       appSource.includes("function extractStressWords(") ||
   !appSource.includes('class="stress-word"') ||
@@ -277,6 +277,17 @@ if (
 ) {
   throw new Error("Stress-word highlighting is not wired up");
 }
+
+  if (
+    !html.includes('id="model-play-all-button"') ||
+    !html.includes('id="model-play-all-status"') ||
+    !appSource.includes("function updateModelPlayAllUi()") ||
+    !appSource.includes('state.sequenceMode === "model-all"') ||
+    !appSource.includes("各2回") ||
+    !stylesSource.includes(".model-play-all-button")
+  ) {
+    throw new Error("Model-only sentence sequence is not wired up");
+  }
 
   if (!html.includes('id="vowel-advice-list"') || !appSource.includes("buildVowelAdvice")) {
     throw new Error("Vowel advice is not wired up");
