@@ -708,7 +708,7 @@ function buildFlow(text, index, stressWords = []) {
       (!playingAll && (indexes.length === 0 || busy || state.sequencePlaying));
     modelPlayAllButton.textContent = playingAll
       ? "再生を停止"
-      : "モデル音声だけを例文順に各2回再生";
+      : "モデル音声だけをランダム順に各2回再生";
     if (modelPlayAllStatus) {
       if (state.recordedOnlyLoading) {
         modelPlayAllStatus.textContent = "再生できる例文を確認中…";
@@ -719,7 +719,7 @@ function buildFlow(text, index, stressWords = []) {
       } else if (!playingAll) {
         modelPlayAllStatus.textContent =
           indexes.length +
-          "文を番号順に、モデル音声だけで各2回再生します。";
+          "文をランダム順に、モデル音声だけで各2回再生します。";
       }
     }
   }
@@ -1635,6 +1635,14 @@ function buildFlow(text, index, stressWords = []) {
       updateModelPlayAllUi();
       return;
     }
+    const playbackIndexes = [...indexes];
+    for (let position = playbackIndexes.length - 1; position > 0; position -= 1) {
+      const swapIndex = Math.floor(Math.random() * (position + 1));
+      [playbackIndexes[position], playbackIndexes[swapIndex]] = [
+        playbackIndexes[swapIndex],
+        playbackIndexes[position],
+      ];
+    }
     const token = ++state.sequenceToken;
     state.sequencePlaying = true;
     state.sequenceMode = "model-all";
@@ -1649,11 +1657,11 @@ function buildFlow(text, index, stressWords = []) {
     updateRecordingControls();
     let completed = false;
     try {
-      for (let position = 0; position < indexes.length; position += 1) {
+      for (let position = 0; position < playbackIndexes.length; position += 1) {
         if (token !== state.sequenceToken || !state.sequencePlaying) {
           return;
         }
-        const sentenceIndex = indexes[position];
+        const sentenceIndex = playbackIndexes[position];
         const sentence = sentences[sentenceIndex];
         if (!sentence) {
           continue;
@@ -1664,7 +1672,7 @@ function buildFlow(text, index, stressWords = []) {
           modelPlayAllStatus.textContent =
             (position + 1) +
             "/" +
-            indexes.length +
+            playbackIndexes.length +
             "文目：モデル音声を再生中…（1回目）";
         }
         let modelPromise = playModelAudioForSequence(sentence);
@@ -1677,7 +1685,7 @@ function buildFlow(text, index, stressWords = []) {
           modelPlayAllStatus.textContent =
             (position + 1) +
             "/" +
-            indexes.length +
+            playbackIndexes.length +
             "文目：モデル音声を再生中…（2回目）";
         }
         modelPromise = playModelAudioForSequence(sentence);
@@ -1705,7 +1713,7 @@ function buildFlow(text, index, stressWords = []) {
         state.sequenceMode = "";
         if (completed && modelPlayAllStatus) {
           modelPlayAllStatus.textContent =
-            indexes.length + "文のモデル音声を各2回ずつ再生しました。";
+            indexes.length + "文のモデル音声をランダム順に各2回ずつ再生しました。";
         }
         updateRecordingControls();
       }

@@ -255,15 +255,15 @@ if (!swSource.includes("./audio/tts-manifest.json")) {
 }
 
 const appVersionMatch = html.match(/<script\s+src="\.\/app\.js\?v=(\d+)"><\/script>/);
-  if (!appVersionMatch || appVersionMatch[1] !== "39") {
-    throw new Error("index.html must load app.js?v=39");
+  if (!appVersionMatch || appVersionMatch[1] !== "40") {
+    throw new Error("index.html must load app.js?v=40");
 }
 
 if (
-    !swSource.includes("english-flow-practice-v45") ||
+    !swSource.includes("english-flow-practice-v46") ||
   !swSource.includes("./google-drive-sync.js?v=40") ||
   !swSource.includes("./startup.js?v=30") ||
-    !swSource.includes("./app.js?v=39")
+    !swSource.includes("./app.js?v=40")
 ) {
   throw new Error("Service Worker cache version is out of date");
 }
@@ -284,6 +284,10 @@ if (
     !appSource.includes("function updateModelPlayAllUi()") ||
     !appSource.includes('state.sequenceMode === "model-all"') ||
     !appSource.includes("各2回") ||
+    !appSource.includes("playbackIndexes") ||
+    !appSource.includes("Math.random()") ||
+    !appSource.includes("ランダム順") ||
+    !html.includes("ランダム順") ||
     !stylesSource.includes(".model-play-all-button")
   ) {
     throw new Error("Model-only sentence sequence is not wired up");
